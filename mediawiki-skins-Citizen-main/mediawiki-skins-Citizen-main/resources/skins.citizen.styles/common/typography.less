@@ -1,0 +1,50 @@
+html {
+	font-size: @html-font-size;
+}
+
+html,
+body {
+	font-family: var( --font-family-base );
+	font-weight: var( --font-weight-normal );
+	// font-smoothing: antialiased;
+	// -webkit-font-smoothing: antialiased; /* Chrome, Safari */
+	// -moz-osx-font-smoothing: grayscale; /* Firefox */
+}
+
+input {
+	font-family: var( --font-family-base ); // Override browser's default
+}
+
+b,
+strong {
+	font-weight: var( --font-weight-semibold );
+}
+
+cite {
+	font-style: inherit;
+}
+
+blockquote {
+	font-family: var( --font-family-serif );
+	font-style: italic;
+
+	cite {
+		font-family: var( --font-family-base );
+		font-size: 0.8125rem;
+		font-style: normal;
+	}
+}
+
+sub,
+sup {
+	font-size: 80%;
+}
+
+.mw-logo-wordmark {
+	font-weight: var( --font-weight-semibold );
+}
+
+.citizen-body,
+.mw-body-content {
+	line-height: var( --line-height );
+}
