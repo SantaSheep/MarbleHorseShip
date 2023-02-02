@@ -1,0 +1,12 @@
+===Introduction to Plowback Ratio === 
+Plowback ratio is a financial metric used to measure the amount of net income a company retains after paying out dividends to its shareholders. It is a measure of how much of a company’s profits are reinvested back into the business. The plowback ratio is also known as the retention ratio or the internal growth rate.
+===Definition of Plowback Ratio === 
+The plowback ratio is calculated by dividing the amount of net income retained by the company after paying out dividends by the total net income earned. It is expressed as a percentage and is used to measure the amount of money a company is reinvesting in itself.
+===Calculation of Plowback Ratio === 
+The plowback ratio is calculated by dividing the amount of net income retained by the company after paying out dividends by the total net income earned. The formula for calculating the plowback ratio is:
+===Benefits of Plowback Ratio === 
+
+===Limitations of Plowback Ratio === 
+
+===Example of Plowback Ratio=== 
+

@@ -1,0 +1,12 @@
+===Introduction to Operating Leverage === 
+Operating leverage is a financial metric that measures the degree to which a company’s operations are dependent on fixed costs. It is a measure of how much a company’s profits are affected by changes in sales volume. Operating leverage is an important concept for investors and business owners to understand, as it can have a significant impact on a company’s profitability.
+===Definition of Operating Leverage === 
+Operating leverage is a measure of how much a company’s profits are affected by changes in sales volume. It is calculated by dividing a company’s fixed costs by its total costs. The higher the operating leverage, the more sensitive a company’s profits are to changes in sales volume.
+===Examples of Operating Leverage === 
+A company with high operating leverage will have a greater proportion of fixed costs relative to total costs. For example, a company that has a large amount of debt will have a higher operating leverage than a company that has no debt. Similarly, a company that has a large amount of fixed assets, such as buildings and equipment, will have a higher operating leverage than a company that has no fixed assets.
+===Benefits of Operating Leverage === 
+The primary benefit of operating leverage is that it can increase a company’s profits when sales volume increases. This is because the fixed costs remain the same, while the variable costs increase with sales volume. This means that the company’s profits will increase at a faster rate than its sales.
+===Risks of Operating Leverage === 
+The primary risk of operating leverage is that it can lead to large losses when sales volume decreases. This is because the fixed costs remain the same, while the variable costs decrease with sales volume. This means that the company’s losses will increase at a faster rate than its sales.
+===Conclusion=== 
+Operating leverage is an important concept for investors and business owners to understand, as it can have a significant impact on a company’s profitability. It is a measure of how much a company’s profits are affected by changes in sales volume. The higher the operating leverage, the more sensitive a company’s profits are to changes in sales volume. While operating leverage can lead to increased profits when sales volume increases, it can also lead to large losses when sales volume decreases.

@@ -1,0 +1,16 @@
+===Introduction to Key Rate Duration === 
+
+===What is Key Rate Duration? === 
+Key rate duration is a measure of the sensitivity of a bond’s price to changes in interest rates. It is a useful tool for investors to understand the risk associated with a bond and to make informed decisions about their investments. In this article, we will discuss what key rate duration is, how it is calculated, the benefits of using it, and some examples of how it is used in practice.
+===How is Key Rate Duration Calculated? === 
+
+===Benefits of Key Rate Duration === 
+Key rate duration is a useful tool for investors to understand the risk associated with a bond and to make informed decisions about their investments. It is important to note that key rate duration is not the same as duration, which is a measure of the bond’s sensitivity to changes in the yield curve.
+===Examples of Key Rate Duration === 
+
+===Conclusion === 
+For example, if a bond’s price changes by $1 for a 1% change in interest rates, then the key rate duration is 1 year. If the bond’s price changes by $2 for a 1% change in interest rates, then the key rate duration is 2 years.
+===What is Key Rate Duration?: Definition and explanation of the concept=== 
+
+===How is=== 
+Key rate duration is a useful tool for investors to understand the risk associated with a bond and to make informed decisions about their investments. It can be used to compare the sensitivity of different bonds to changes in interest rates and to changes in the yield curve.

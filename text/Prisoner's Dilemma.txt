@@ -1,0 +1,12 @@
+===Introduction to Prisoner's Dilemma === 
+The Prisoner's Dilemma is a classic game theory problem that has been used to explain a wide range of economic, political, and social phenomena. It is a situation in which two individuals or groups are faced with a choice between cooperation and defection. The dilemma is that if both parties cooperate, they will both benefit, but if one party defects, the other party will suffer. The dilemma is further complicated by the fact that the outcome of the game depends on the decisions of both parties.
+===Historical Context of Prisoner's Dilemma === 
+The Prisoner's Dilemma was first introduced by mathematician Merrill Flood and mathematician Melvin Dresher in 1950. It was originally used to explain the behavior of two prisoners who are being interrogated by the police. The prisoners are given the choice to either confess or remain silent. If both prisoners remain silent, they will both receive a light sentence. However, if one prisoner confesses and the other remains silent, the confessor will receive a reduced sentence while the other prisoner will receive a harsher sentence.
+===Government Implications of Prisoner's Dilemma === 
+The Prisoner's Dilemma has been used to explain a wide range of government policies and decisions. It can be used to explain why governments may choose to cooperate or defect in international negotiations, why governments may choose to cooperate or defect in trade agreements, and why governments may choose to cooperate or defect in environmental agreements. It can also be used to explain why governments may choose to cooperate or defect in military conflicts.
+===Examples of Prisoner's Dilemma in Government === 
+One example of the Prisoner's Dilemma in government is the Cuban Missile Crisis. During the Cuban Missile Crisis, the United States and the Soviet Union were faced with a choice between cooperation and defection. If both countries cooperated, they would both benefit, but if one country defected, the other country would suffer. In the end, the two countries chose to cooperate and the crisis was resolved peacefully.
+===Strategies for Resolving Prisoner's Dilemma === 
+
+===Conclusion === 
+

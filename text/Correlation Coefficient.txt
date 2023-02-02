@@ -1,0 +1,16 @@
+===Introduction to Correlation Coefficient === 
+
+===Types of Correlation Coefficients === 
+Calculating Correlation Coefficient - The correlation coefficient is calculated by taking the covariance of the two variables and dividing it by the product of their standard deviations. The formula for calculating the correlation coefficient is:
+===Calculating Correlation Coefficient === 
+
+===Interpreting Correlation Coefficient === 
+Interpreting Correlation Coefficient - The correlation coefficient can be interpreted in the following ways:
+===Examples of Correlation Coefficient === 
+• A correlation coefficient of 1 indicates a perfect positive correlation between the two variables.
+===Conclusion === 
+• A correlation coefficient between 0 and -1 indicates a negative correlation between the two variables.
+===Introduction to Correlation Coefficient - Correlation coefficient is a statistical measure that is used to measure the strength of the relationship between two variables=== 
+
+====== 
+• The correlation coefficient between the price of wheat and the price of corn is 0.25, indicating a weak positive correlation between the two commodities.

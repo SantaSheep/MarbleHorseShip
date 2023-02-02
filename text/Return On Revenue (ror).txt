@@ -1,0 +1,12 @@
+===Introduction to Return on Revenue (ROR) === 
+Return on Revenue (ROR) is a financial metric used to measure the profitability of a business. It is calculated by dividing the net income of a company by its total revenue. ROR is a useful tool for investors and business owners to assess the financial performance of a company and compare it to other companies in the same industry.
+===Calculating ROR === 
+To calculate ROR, you need to divide the net income of a company by its total revenue. The formula for ROR is:
+===Benefits of ROR === 
+
+===Challenges of ROR === 
+Benefits of ROR
+===Examples of ROR === 
+Challenges of ROR
+===Conclusion === 
+Examples of ROR

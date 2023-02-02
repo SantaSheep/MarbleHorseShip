@@ -1,0 +1,8 @@
+===Introduction to Isoquant Curve === 
+
+===Definition of Isoquant Curve === 
+Examples of Isoquant Curve - An example of an isoquant curve is a graph that shows the different combinations of labor and capital that can be used to produce a given level of output. Another example is a graph that shows the different combinations of land and capital that can be used to produce a given level of output.
+===Examples of Isoquant Curve === 
+
+===Benefits of Isoquant Curve === 
+Conclusion - The isoquant curve is a useful tool for understanding the concept of diminishing returns. It helps to illustrate the trade-offs between different inputs and the resulting output. It also helps to identify the most efficient combination of inputs for a given level of output. However, it is limited in that it does not take into account the quality of the inputs or the cost of the inputs.

@@ -1,0 +1,14 @@
+===Introduction to Indifference Curve === 
+Indifference curves are a graphical representation of a consumer’s preferences for two goods. They are used to illustrate the concept of consumer equilibrium, which is the point at which a consumer is indifferent between two goods. The indifference curve is a tool used in economics to analyze consumer behavior and to determine the optimal combination of two goods that will maximize a consumer’s satisfaction.
+===Definition of Indifference Curve === 
+An indifference curve is a graph that shows the combinations of two goods that yield the same level of satisfaction for a consumer. It is a curve that shows all the combinations of two goods that yield the same level of satisfaction for a consumer. The curve is downward sloping, indicating that as the quantity of one good increases, the quantity of the other good must decrease in order to maintain the same level of satisfaction.
+===Properties of Indifference Curve === 
+The properties of an indifference curve are as follows:
+===Examples of Indifference Curve === 
+3. The curve is continuous, indicating that the consumer is willing to accept any combination of the two goods that yields the same level of satisfaction.
+===Applications of Indifference Curve === 
+Examples of Indifference Curve:
+===Conclusion === 
+Applications of Indifference Curve:
+===Definition of Indifference Curve: === 
+Conclusion:

@@ -1,0 +1,8 @@
+===Introduction to Convexity === 
+
+===What is Convexity? === 
+How Does Convexity Affect Bond Prices? - Convexity affects bond prices in two ways. First, it affects the price of the bond when interest rates change. When interest rates rise, the price of a bond with high convexity will fall more than the price of a bond with low convexity. Conversely, when interest rates fall, the price of a bond with high convexity will rise more than the price of a bond with low convexity. Second, it affects the duration of the bond. The higher the convexity, the longer the duration of the bond.
+===How Does Convexity Affect Bond Prices? === 
+
+===Examples of Convexity in Bond Prices === 
+Conclusion - Convexity is an important concept for investors to understand, as it can help them make more informed decisions when investing in bonds. By understanding how convexity affects bond prices, investors can better predict how their investments will perform in different interest rate environments.

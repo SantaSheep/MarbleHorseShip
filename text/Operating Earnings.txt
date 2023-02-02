@@ -1,0 +1,12 @@
+===Introduction to Operating Earnings === 
+Operating earnings are a measure of a company’s financial performance that focuses on the core operations of the business. Operating earnings are a key metric used by investors and analysts to evaluate a company’s performance and potential. Operating earnings are also known as operating income, operating profit, or earnings before interest and taxes (EBIT).
+===Definition of Operating Earnings === 
+Operating earnings are a measure of a company’s financial performance that focuses on the core operations of the business. Operating earnings are calculated by subtracting operating expenses from operating revenues. Operating expenses include the costs of goods sold, selling, general, and administrative expenses, and depreciation and amortization. Operating revenues are the revenues generated from the company’s core operations.
+===Components of Operating Earnings === 
+Operating earnings are composed of two components: operating revenues and operating expenses. Operating revenues are the revenues generated from the company’s core operations. Operating expenses include the costs of goods sold, selling, general, and administrative expenses, and depreciation and amortization.
+===Calculating Operating Earnings === 
+Operating earnings are calculated by subtracting operating expenses from operating revenues. Operating earnings can be calculated on a quarterly or annual basis.
+===Benefits of Operating Earnings === 
+Operating earnings are a key metric used by investors and analysts to evaluate a company’s performance and potential. Operating earnings provide a more accurate picture of a company’s financial performance than other measures such as net income or earnings per share. Operating earnings are also useful for comparing the performance of different companies in the same industry.
+===Example of Operating Earnings=== 
+For example, Company A has operating revenues of $100 million and operating expenses of $80 million. Company A’s operating earnings would be $20 million. This means that Company A has generated $20 million in profits from its core operations.

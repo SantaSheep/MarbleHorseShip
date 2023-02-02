@@ -1,0 +1,8 @@
+===Introduction to Poisson Distribution === 
+
+===Applications of Poisson Distribution in Finance === 
+Calculating Poisson Distribution - The Poisson Distribution is calculated using the following formula: P(x) = (e^-λ) * (λ^x) / x! Where e is the base of the natural logarithm, λ is the average number of events per time period, and x is the number of events in the time period.
+===Calculating Poisson Distribution === 
+
+===Examples of Poisson Distribution in Finance === 
+Conclusion - Poisson Distribution is a probability distribution used to model the number of events that occur in a given time period. It is used to model the number of trades, the number of orders, the number of transactions, and the number of bankruptcies. It is also used to model the number of defaults, the number of bankruptcies, and the number of bankruptcies in a given time period. The main advantage of Poisson Distribution is that it is easy to calculate and understand. The main disadvantage of Poisson Distribution is that it assumes that the events are independent of each other, which may not always be the case.

@@ -1,0 +1,8 @@
+===Introduction to Correlation in Finance === 
+
+===Types of Correlation === 
+Examples of Correlation in Finance - Correlation can be used to identify trends in the market, and to predict future movements in the prices of financial instruments. For example, if the price of a stock is positively correlated with the price of another stock, then it is likely that the two stocks will move in the same direction. Similarly, if the price of a stock is negatively correlated with the price of another stock, then it is likely that the two stocks will move in opposite directions.
+===Examples of Correlation in Finance === 
+
+===Benefits of Correlation Analysis === 
+Conclusion - Correlation is a statistical measure of the relationship between two variables, and is used in finance to measure the relationship between two financial instruments. Correlation can be used to identify trends in the market, and to predict future movements in the prices of financial instruments. However, correlation analysis can be difficult to interpret, and can be affected by factors such as market volatility.

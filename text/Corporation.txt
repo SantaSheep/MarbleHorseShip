@@ -1,0 +1,12 @@
+===Introduction to Corporation Tax === 
+Corporation tax is a tax imposed on the profits of companies and other legal entities. It is a form of income tax that is paid by companies on their profits. Corporation tax is a tax on the profits of a company or other legal entity, such as a limited liability partnership or a trust. It is paid by the company or entity itself, not by its owners or shareholders.
+===Overview of Corporation Tax Rates === 
+The rate of corporation tax varies depending on the size of the company. For companies with profits of up to £300,000, the rate of corporation tax is 19%. For companies with profits of more than £300,000, the rate of corporation tax is 20%.
+===Calculating Corporation Tax === 
+Corporation tax is calculated by subtracting allowable expenses from the company’s profits. These expenses include wages, rent, interest payments, and other costs associated with running the business. The amount of corporation tax due is then calculated by multiplying the taxable profits by the applicable rate of corporation tax.
+===Corporation Tax Reliefs === 
+There are a number of reliefs available to companies to reduce their corporation tax liability. These include capital allowances, research and development relief, and the small profits rate.
+===Corporation Tax Returns === 
+Companies must submit a corporation tax return to HMRC each year. This return must include details of the company’s profits, allowable expenses, and any reliefs claimed. The return must be submitted by the company’s accounting period end date.
+===Example of Corporation Tax Calculation=== 
+For example, a company with profits of £500,000 and allowable expenses of £200,000 would have taxable profits of £300,000. The corporation tax due would be calculated as follows: £300,000 x 20% = £60,000.

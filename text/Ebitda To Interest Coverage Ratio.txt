@@ -1,0 +1,12 @@
+===Introduction to EBITDA-to-Interest Coverage Ratio === 
+EBITDA-to-Interest Coverage Ratio is a financial metric used to measure a company’s ability to pay its interest expenses. It is a measure of a company’s financial health and is used to assess the risk of defaulting on its debt obligations. The ratio is calculated by dividing a company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its interest expenses. A higher ratio indicates that a company is in a better financial position and is more likely to be able to meet its debt obligations.
+===What is EBITDA-to-Interest Coverage Ratio? === 
+EBITDA-to-Interest Coverage Ratio is a financial metric used to measure a company’s ability to pay its interest expenses. It is calculated by dividing a company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its interest expenses. A higher ratio indicates that a company is in a better financial position and is more likely to be able to meet its debt obligations.
+===How to Calculate EBITDA-to-Interest Coverage Ratio === 
+The EBITDA-to-Interest Coverage Ratio is calculated by dividing a company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its interest expenses. The formula is as follows:
+===Example of EBITDA-to-Interest Coverage Ratio === 
+
+===Advantages and Disadvantages of EBITDA-to-Interest Coverage Ratio === 
+
+===Conclusion === 
+

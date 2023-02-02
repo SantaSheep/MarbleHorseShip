@@ -1,0 +1,12 @@
+===Introduction to Double Top Pattern === 
+The double top pattern is a technical analysis charting pattern that is used to identify potential reversals in the price of a security. It is a bearish reversal pattern that is formed when the price of a security reaches a high point twice and then declines. The double top pattern is considered to be one of the most reliable reversal patterns and is used by traders to identify potential sell opportunities.
+===How to Identify a Double Top Pattern === 
+The double top pattern is identified by two consecutive peaks in the price of a security. The peaks should be of approximately the same height and should be separated by a trough. The trough should be lower than the peaks and should be followed by a decline in the price of the security.
+===Benefits of Trading a Double Top Pattern === 
+The double top pattern is a reliable reversal pattern that can be used to identify potential sell opportunities. It is also a relatively easy pattern to identify and can be used to identify potential reversals in the price of a security.
+===Risks of Trading a Double Top Pattern === 
+The double top pattern is not a guarantee of a reversal in the price of a security. It is possible for the price of a security to continue to rise after the formation of a double top pattern. Additionally, the double top pattern is not a guarantee of a profitable trade.
+===Examples of Double Top Pattern === 
+The double top pattern can be seen in the chart of Apple Inc. (AAPL) below. The chart shows two consecutive peaks in the price of AAPL followed by a trough and a decline in the price of the security.
+===Conclusion=== 
+The double top pattern is a reliable reversal pattern that can be used to identify potential sell opportunities. It is important to remember that the double top pattern is not a guarantee of a reversal in the price of a security and that it is possible for the price of a security to continue to rise after the formation of a double top pattern. Additionally, the double top pattern is not a guarantee of a profitable trade.

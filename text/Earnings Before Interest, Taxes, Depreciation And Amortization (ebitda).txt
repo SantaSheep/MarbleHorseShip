@@ -1,0 +1,8 @@
+===Introduction to EBITDA === 
+
+===Definition of EBITDA === 
+Calculation of EBITDA: EBITDA is calculated by subtracting operating expenses from operating income. Operating expenses include cost of goods sold, selling, general and administrative expenses, and other operating expenses. Operating income is calculated by subtracting cost of goods sold from total revenue.
+===Calculation of EBITDA === 
+
+===Advantages of EBITDA === 
+Conclusion: EBITDA is a useful measure of a company’s operating performance and is often used to compare the profitability of different companies in the same industry. However, it does not include non-operating items such as interest, taxes, depreciation and amortization, and does not take into account the capital structure of a company. Therefore, it should not be used as the sole measure of a company’s financial performance.

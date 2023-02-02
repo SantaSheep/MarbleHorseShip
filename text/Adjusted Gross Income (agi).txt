@@ -1,0 +1,12 @@
+===Introduction to Adjusted Gross Income (AGI) === 
+Adjusted Gross Income (AGI) is a key financial concept that is used to calculate an individual’s taxable income. AGI is the total of all income sources, minus certain deductions, that are reported on a taxpayer’s federal income tax return. AGI is used to determine the amount of taxes an individual owes and the amount of certain tax credits and deductions they are eligible for. It is important to understand AGI and how it is calculated in order to accurately file taxes and maximize deductions and credits.
+===Calculating AGI === 
+AGI is calculated by adding up all of an individual’s income sources, such as wages, salaries, tips, interest, dividends, capital gains, and other income sources. Then, certain deductions are subtracted from the total income to arrive at the AGI. These deductions include alimony payments, student loan interest, self-employment taxes, and certain business expenses.
+===AGI and Taxable Income === 
+Once the AGI is calculated, it is used to determine the amount of taxable income. Taxable income is the amount of income that is subject to taxation. It is calculated by subtracting certain deductions and credits from the AGI. These deductions and credits include the standard deduction, itemized deductions, and tax credits.
+===AGI and Tax Deductions === 
+Tax deductions are expenses that can be subtracted from an individual’s taxable income. These deductions reduce the amount of taxes an individual owes. Common deductions include the standard deduction, itemized deductions, and certain business expenses.
+===AGI and Tax Credits === 
+Tax credits are amounts of money that can be subtracted from an individual’s tax liability. These credits reduce the amount of taxes an individual owes. Common tax credits include the Earned Income Tax Credit, the Child Tax Credit, and the American Opportunity Tax Credit.
+===Conclusion=== 
+Adjusted Gross Income (AGI) is an important financial concept that is used to calculate an individual’s taxable income. AGI is calculated by adding up all of an individual’s income sources and subtracting certain deductions. AGI is then used to determine the amount of taxable income, which is the amount of income that is subject to taxation. Tax deductions and credits can be used to reduce the amount of taxes an individual owes. It is important to understand AGI and how it is calculated in order to accurately file taxes and maximize deductions and credits.

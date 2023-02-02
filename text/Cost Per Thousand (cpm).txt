@@ -1,0 +1,12 @@
+===Introduction to Cost Per Thousand (CPM) === 
+Cost per thousand (CPM) is a metric used to measure the cost of advertising campaigns. It is a way to measure the cost of reaching 1,000 people with an advertisement. CPM is used to compare the cost of different advertising campaigns and to determine the most cost-effective way to reach a target audience.
+===What is CPM? === 
+CPM stands for cost per thousand impressions. It is a metric used to measure the cost of an advertising campaign. It is calculated by dividing the total cost of the campaign by the number of impressions (or views) it received. For example, if an ad campaign cost $1,000 and received 10,000 impressions, the CPM would be $1.00.
+===Benefits of CPM === 
+CPM is a useful metric for advertisers because it allows them to compare the cost of different campaigns and determine which one is the most cost-effective. It also allows them to track the performance of their campaigns and make adjustments as needed. Additionally, CPM can be used to measure the effectiveness of different ad formats and determine which ones are the most successful.
+===How to Calculate CPM === 
+CPM is calculated by dividing the total cost of the campaign by the number of impressions (or views) it received. For example, if an ad campaign cost $1,000 and received 10,000 impressions, the CPM would be $1.00.
+===Examples of CPM === 
+CPM can be used to measure the cost of different types of advertising campaigns. For example, a television commercial may have a CPM of $10, while a radio ad may have a CPM of $5. Additionally, CPM can be used to measure the cost of different ad formats, such as banner ads, video ads, and native ads.
+===Conclusion=== 
+Cost per thousand (CPM) is a metric used to measure the cost of advertising campaigns. It is calculated by dividing the total cost of the campaign by the number of impressions (or views) it received. CPM is a useful metric for advertisers because it allows them to compare the cost of different campaigns and determine which one is the most cost-effective. Additionally, CPM can be used to measure the effectiveness of different ad formats and determine which ones are the most successful.

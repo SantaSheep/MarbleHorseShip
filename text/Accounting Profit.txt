@@ -1,0 +1,12 @@
+===Introduction to Accounting Profit === 
+Accounting profit is a measure of the financial performance of a business. It is the difference between the total revenue earned by a business and the total expenses incurred in the process of earning that revenue. Accounting profit is also known as net income or net profit. It is an important measure of a business’s financial health and is used to assess the profitability of a business.
+===Definition of Accounting Profit === 
+Accounting profit is the difference between the total revenue earned by a business and the total expenses incurred in the process of earning that revenue. It is calculated by subtracting all expenses from total revenue. It is a measure of the financial performance of a business and is used to assess the profitability of a business.
+===Calculation of Accounting Profit === 
+Accounting profit is calculated by subtracting all expenses from total revenue. This includes all costs associated with running the business, such as labor, materials, rent, utilities, taxes, and other expenses. The resulting figure is the net income or net profit of the business.
+===Advantages of Accounting Profit === 
+Accounting profit is an important measure of a business’s financial health and is used to assess the profitability of a business. It is a useful tool for making decisions about investments, expansion, and other financial matters. It also provides a measure of the efficiency of a business’s operations.
+===Disadvantages of Accounting Profit === 
+Accounting profit does not take into account the value of non-monetary assets, such as goodwill, intellectual property, and other intangible assets. It also does not take into account the cost of capital, which is the cost of borrowing money to finance a business’s operations.
+===Example of Accounting Profit Calculation=== 
+Let’s assume a business has total revenue of $100,000 and total expenses of $80,000. The accounting profit of the business would be calculated as follows:

@@ -1,0 +1,12 @@
+===Introduction to Seasonally Adjusted Annual Rate (SAAR) === 
+Seasonally Adjusted Annual Rate (SAAR) is a statistical method used to measure the rate of change in economic activity over a period of time. It is used to compare the current rate of economic activity to the same period in the previous year. SAAR is used to measure the rate of change in economic activity in a variety of areas, including consumer spending, housing starts, and employment.
+===How SAAR is Calculated === 
+SAAR is calculated by taking the current rate of economic activity and adjusting it for seasonal variations. This is done by taking the average of the current rate of economic activity over a period of time and subtracting the average of the same period in the previous year. The result is the seasonally adjusted annual rate.
+===Benefits of SAAR === 
+The primary benefit of SAAR is that it allows for a more accurate comparison of economic activity over time. By adjusting for seasonal variations, SAAR provides a more accurate picture of the rate of economic activity. This can be useful for making decisions about investments, budgeting, and other economic activities.
+===Examples of SAAR in Action === 
+One example of SAAR in action is in the housing market. By using SAAR, economists can compare the current rate of housing starts to the same period in the previous year. This can help to identify trends in the housing market and inform decisions about investments and other economic activities.
+===Challenges of SAAR === 
+
+===Conclusion=== 
+

@@ -1,0 +1,12 @@
+===Introduction to the Gordon Growth Model === 
+The Gordon Growth Model is a financial model developed by Myron Gordon in the 1950s. It is used to calculate the intrinsic value of a stock by taking into account the dividend payments and the expected growth rate of the dividend payments. The model is based on the assumption that the dividend payments will grow at a constant rate in the future. The Gordon Growth Model is also known as the dividend discount model (DDM).
+===Overview of the Model === 
+The Gordon Growth Model is based on the assumption that the dividend payments will grow at a constant rate in the future. The model takes into account the current dividend payment, the expected growth rate of the dividend payments, and the required rate of return of the investor. The model is used to calculate the intrinsic value of a stock by taking into account the dividend payments and the expected growth rate of the dividend payments.
+===Calculating the Model === 
+The Gordon Growth Model is calculated using the following formula:
+===Advantages of the Model === 
+
+===Disadvantages of the Model === 
+Advantages of the Model
+===Example of the Gordon Growth Model in Action=== 
+Disadvantages of the Model

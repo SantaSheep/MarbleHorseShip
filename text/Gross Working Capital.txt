@@ -1,0 +1,12 @@
+===Introduction to Gross Working Capital === 
+Gross Working Capital is a financial metric used to measure a company’s liquidity and short-term financial health. It is calculated by subtracting a company’s current liabilities from its current assets. It is an important measure of a company’s ability to pay its short-term obligations and is used to assess the company’s financial health.
+===Definition of Gross Working Capital === 
+Gross Working Capital is defined as the difference between a company’s current assets and current liabilities. It is a measure of a company’s liquidity and short-term financial health. It is calculated by subtracting a company’s current liabilities from its current assets.
+===Components of Gross Working Capital === 
+Gross Working Capital consists of two components: current assets and current liabilities. Current assets are assets that can be converted into cash within one year, such as cash, accounts receivable, inventory, and marketable securities. Current liabilities are obligations that must be paid within one year, such as accounts payable, taxes payable, and short-term debt.
+===Calculating Gross Working Capital === 
+Gross Working Capital is calculated by subtracting a company’s current liabilities from its current assets. For example, if a company has $100,000 in current assets and $50,000 in current liabilities, its Gross Working Capital would be $50,000.
+===Benefits of Gross Working Capital === 
+Gross Working Capital is an important measure of a company’s liquidity and short-term financial health. It is used to assess the company’s ability to pay its short-term obligations and to determine whether the company has sufficient liquidity to meet its short-term needs. It is also used to compare a company’s financial performance to that of its competitors.
+===Conclusion=== 
+Gross Working Capital is an important measure of a company’s liquidity and short-term financial health. It is calculated by subtracting a company’s current liabilities from its current assets and is used to assess the company’s ability to pay its short-term obligations and to compare its financial performance to that of its competitors. By understanding Gross Working Capital, companies can better manage their short-term financial health and ensure their long-term success.

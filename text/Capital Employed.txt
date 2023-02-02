@@ -1,0 +1,12 @@
+===Introduction to Capital Employed === 
+Capital employed is a financial metric used to measure a company’s total assets minus its current liabilities. It is also known as net assets or shareholders’ equity. Capital employed is a key indicator of a company’s financial health and is used to measure the amount of capital that is being used to generate profits.
+===Definition of Capital Employed === 
+Capital employed is defined as the total amount of capital that is used to finance a company’s operations. It is calculated by subtracting a company’s current liabilities from its total assets. Capital employed is a measure of a company’s financial strength and is used to assess the amount of capital that is being used to generate profits.
+===Components of Capital Employed === 
+The components of capital employed include a company’s total assets, such as cash, accounts receivable, inventory, property, plant, and equipment, as well as its current liabilities, such as accounts payable, short-term debt, and accrued expenses.
+===Calculating Capital Employed === 
+Capital employed is calculated by subtracting a company’s current liabilities from its total assets. The formula for calculating capital employed is:
+===Benefits of Capital Employed === 
+
+===Example of Capital Employed=== 
+

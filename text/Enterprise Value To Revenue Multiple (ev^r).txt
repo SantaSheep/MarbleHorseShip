@@ -1,0 +1,12 @@
+===Introduction to Enterprise-Value-to-Revenue Multiple (EV/R) === 
+The enterprise-value-to-revenue multiple (EV/R) is a financial ratio used to measure the value of a company relative to its revenue. It is a useful tool for investors to compare companies in the same industry and to assess the potential of a company’s future growth.
+===What is EV/R? === 
+EV/R is a financial ratio that measures the value of a company relative to its revenue. It is calculated by dividing the enterprise value of a company by its total revenue. The enterprise value of a company is the sum of its market capitalization, debt, and minority interest, minus its cash and cash equivalents.
+===How to Calculate EV/R === 
+To calculate EV/R, divide the enterprise value of a company by its total revenue. The enterprise value of a company is the sum of its market capitalization, debt, and minority interest, minus its cash and cash equivalents.
+===Advantages of Using EV/R === 
+The main advantage of using EV/R is that it allows investors to compare companies in the same industry and to assess the potential of a company’s future growth. It also provides a more accurate measure of a company’s value than other financial ratios, such as price-to-earnings (P/E) ratio.
+===Disadvantages of Using EV/R === 
+The main disadvantage of using EV/R is that it does not take into account the company’s profitability. It also does not take into account the company’s debt or cash flow.
+===Example of EV/R Calculation=== 
+For example, if a company has an enterprise value of $1 billion and total revenue of $500 million, its EV/R would be 2.0. This means that the company’s value is twice its revenue.

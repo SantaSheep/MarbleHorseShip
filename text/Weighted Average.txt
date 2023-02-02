@@ -1,0 +1,12 @@
+===Introduction to Weighted Average Cost of Capital (WACC) === 
+Weighted Average Cost of Capital (WACC) is a financial metric used to measure the cost of capital for a company. It is the average of the costs of the different sources of capital, such as debt and equity, weighted by their respective proportions. WACC is used to evaluate the profitability of a company’s investments and to determine the cost of capital for a company.
+===Components of WACC === 
+The components of WACC include the cost of debt, the cost of equity, and the tax rate. The cost of debt is the interest rate that a company pays on its debt. The cost of equity is the return that investors expect to receive from investing in the company’s stock. The tax rate is the rate at which the company pays taxes on its income.
+===Calculating WACC === 
+WACC is calculated by taking the weighted average of the cost of debt and the cost of equity. The weighting is determined by the proportion of each source of capital in the company’s capital structure. The formula for calculating WACC is:
+===Advantages of WACC === 
+
+===Disadvantages of WACC === 
+
+===Example of WACC Calculation=== 
+

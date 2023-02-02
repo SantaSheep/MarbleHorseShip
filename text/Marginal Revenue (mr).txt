@@ -1,0 +1,12 @@
+===Introduction to Marginal Revenue (MR) === 
+Marginal Revenue (MR) is an important concept in economics and finance that helps businesses understand how much additional revenue they can generate by increasing the production and sale of their goods and services. It is a measure of the change in total revenue that results from a one-unit increase in the quantity of a good or service sold. By understanding marginal revenue, businesses can make better decisions about how much to produce and how much to charge for their products.
+===Definition of Marginal Revenue === 
+Marginal Revenue is the additional revenue that a business earns from selling one additional unit of a good or service. It is calculated by dividing the change in total revenue by the change in the quantity of the good or service sold. In other words, it is the revenue generated from the sale of one additional unit of a good or service.
+===Examples of Marginal Revenue === 
+One example of marginal revenue is the sale of a car. If a car dealership sells one additional car, the marginal revenue is the additional revenue generated from the sale of that car. Another example is the sale of a ticket to a movie theater. If the theater sells one additional ticket, the marginal revenue is the additional revenue generated from the sale of that ticket.
+===Calculating Marginal Revenue === 
+Marginal Revenue can be calculated by dividing the change in total revenue by the change in the quantity of the good or service sold. For example, if a car dealership sells one additional car and the total revenue increases by $2,000, the marginal revenue is $2,000 divided by 1, or $2,000.
+===Benefits of Understanding Marginal Revenue === 
+Understanding marginal revenue can help businesses make better decisions about how much to produce and how much to charge for their products. By understanding the marginal revenue generated from the sale of one additional unit of a good or service, businesses can determine the optimal quantity to produce and the optimal price to charge. This can help businesses maximize their profits and minimize their losses.
+===Conclusion=== 
+Marginal Revenue is an important concept in economics and finance that helps businesses understand how much additional revenue they can generate by increasing the production and sale of their goods and services. By understanding marginal revenue, businesses can make better decisions about how much to produce and how much to charge for their products. This can help businesses maximize their profits and minimize their losses.

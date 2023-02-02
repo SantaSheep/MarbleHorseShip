@@ -1,0 +1,16 @@
+===Introduction to Z-Score === 
+
+===Overview of Z-Score Calculation === 
+Overview of Z-Score Calculation
+===Benefits of Z-Score Analysis === 
+
+===Limitations of Z-Score Analysis === 
+The Z-Score is a useful tool for investors and creditors to assess the financial health of a company. It can help investors and creditors identify companies that are at risk of bankruptcy and make informed decisions. The Z-Score can also be used to compare companies in the same industry and assess their relative financial health.
+===Examples of Z-Score Analysis === 
+
+===Conclusion === 
+Examples of Z-Score Analysis
+===Introduction to Z-Score: Z-Score is a financial metric used to measure the financial health of a company=== 
+
+===2=== 
+The Z-Score is a useful tool for investors and creditors to assess the financial health of a company. It is a quantitative measure that helps investors and creditors assess the probability of a company’s bankruptcy. The Z-Score can be used to compare companies in the same industry and assess their relative financial health. However, the Z-Score does not take into account qualitative factors such as management quality and competitive advantage.

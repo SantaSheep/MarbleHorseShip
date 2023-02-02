@@ -1,0 +1,12 @@
+===Introduction to Financial Modeling === 
+Financial modeling is the process of creating a mathematical representation of a financial situation or system. It is used to analyze and forecast the performance of a business, project, or financial product. Financial models are used to evaluate the potential of investments, assess the risk of a particular investment, and make decisions about how to allocate resources. Financial models are also used to assess the impact of changes in the market or economic environment on a company’s performance.
+===Types of Financial Models === 
+Financial models can be divided into two main categories: static and dynamic. Static models are used to analyze the current financial situation of a company or project. They are typically used to assess the current performance of a company or project and to make decisions about how to allocate resources. Dynamic models are used to analyze the future performance of a company or project. They are typically used to forecast the future performance of a company or project and to assess the impact of changes in the market or economic environment on a company’s performance.
+===Building a Financial Model === 
+Building a financial model requires a thorough understanding of the company or project being modeled. The model should be based on the company’s financial statements, such as the income statement, balance sheet, and cash flow statement. The model should also include assumptions about the future performance of the company or project. These assumptions should be based on the company’s historical performance, industry trends, and economic conditions.
+===Common Uses of Financial Models === 
+Financial models are used for a variety of purposes, including:
+===Best Practices for Financial Modeling === 
+• Assessing the risk of a particular investment
+===Example of Financial Modeling in Practice=== 
+• Assessing the impact of changes in the market or economic environment on a company’s performance

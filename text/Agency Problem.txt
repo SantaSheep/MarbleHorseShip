@@ -1,0 +1,16 @@
+===Introduction to Agency Problem === 
+
+===Definition of Agency Problem === 
+The agency problem is a common issue in the world of finance and economics. It occurs when the interests of the agent (the person or entity acting on behalf of another) are not aligned with the interests of the principal (the person or entity for whom the agent is acting). This can lead to a conflict of interest, which can have serious implications for the principal. In this article, we will discuss the definition of agency problem, its causes, examples, and solutions.
+===Causes of Agency Problem === 
+
+===Examples of Agency Problem === 
+The agency problem is composed of three components: the principal, the agent, and the task. The principal is the person or entity for whom the agent is acting. The agent is the person or entity acting on behalf of the principal. The task is the job or task that the agent is performing for the principal.
+===Solutions to Agency Problem === 
+
+===Conclusion === 
+• Incentive misalignment: The agent may have incentives that are not aligned with the interests of the principal. This can lead to the agent acting in their own best interests instead of the principal’s.
+===Definition of Agency Problem: Explanation of the definition of agency problem and its components=== 
+
+===Causes of Agency Problem=== 
+Examples of Agency Problem

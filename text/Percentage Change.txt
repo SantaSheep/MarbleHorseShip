@@ -1,0 +1,18 @@
+===Introduction to Percentage Change === 
+Percentage change is a measure of the relative change in a given value over a period of time. It is expressed as a percentage and is calculated by taking the difference between the initial value and the final value, and dividing it by the initial value. This calculation is then multiplied by 100 to get the percentage change. Percentage change is a useful tool for understanding how a value has changed over time, and can be used to compare different values.
+===Calculating Percentage Change === 
+The formula for calculating percentage change is as follows:
+===Examples of Percentage Change === 
+
+===Stock Price Change === 
+Percentage Change = ($15 - $10) / $10 x 100 = 50%
+===GDP Growth === 
+Percentage change can be used to compare different values over time. For example, if the stock price of a company increases from $10 to $15, the percentage change would be 50%. This means that the stock price has increased by 50% over the period of time. Similarly, if the GDP of a country increases from $100 billion to $150 billion, the percentage change would be 50%.
+===Inflation === 
+Stock price change is a measure of how the price of a stock has changed over a period of time. It is calculated by taking the difference between the initial stock price and the final stock price, and dividing it by the initial stock price. This calculation is then multiplied by 100 to get the percentage change.
+===Benefits of Understanding Percentage Change === 
+GDP growth is a measure of how the Gross Domestic Product (GDP) of a country has changed over a period of time. It is calculated by taking the difference between the initial GDP and the final GDP, and dividing it by the initial GDP. This calculation is then multiplied by 100 to get the percentage change.
+===Challenges of Understanding Percentage Change === 
+Inflation is a measure of how the prices of goods and services have changed over a period of time. It is calculated by taking the difference between the initial price and the final price, and dividing it by the initial price. This calculation is then multiplied by 100 to get the percentage change.
+===Conclusion=== 
+Understanding percentage change can be beneficial in a variety of ways. It can help investors make informed decisions about their investments, as well as help economists and policy makers understand the economic trends of a country. It can also help businesses understand how their products and services are performing in the market.

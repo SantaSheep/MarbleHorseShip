@@ -1,0 +1,8 @@
+===Introduction to Line of Best Fit === 
+
+===Calculating the Line of Best Fit === 
+Examples of Line of Best Fit - A line of best fit can be used to represent the relationship between two variables. For example, a line of best fit can be used to represent the relationship between the price of a stock and its volume.
+===Examples of Line of Best Fit === 
+
+===Uses of Line of Best Fit in Finance === 
+Conclusion - The line of best fit is a useful tool for predicting the future value of a stock based on its past performance. However, it is important to remember that it is only an approximation and does not take into account any other factors that may affect the relationship between the two variables.

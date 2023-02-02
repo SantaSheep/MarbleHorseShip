@@ -1,0 +1,12 @@
+===Introduction to Shareholder Value Added (SVA) === 
+Shareholder Value Added (SVA) is a financial metric that measures the value created for shareholders by a company. It is calculated by subtracting the cost of capital from the company’s net operating profit after tax (NOPAT). SVA is a useful tool for investors and managers to assess the performance of a company and make decisions about how to allocate resources.
+===Overview of SVA Calculation === 
+The calculation of SVA is relatively straightforward. It begins with the company’s net operating profit after tax (NOPAT). This is the amount of money the company has earned after taxes. The cost of capital is then subtracted from the NOPAT to arrive at the SVA. The cost of capital is the amount of money the company must pay to borrow money or issue equity.
+===Benefits of SVA === 
+The primary benefit of SVA is that it provides a clear measure of the value created for shareholders. It is a useful tool for investors and managers to assess the performance of a company and make decisions about how to allocate resources. Additionally, SVA can be used to compare the performance of different companies in the same industry.
+===Challenges of SVA === 
+One of the main challenges of SVA is that it is a backward-looking metric. It does not take into account future growth potential or other factors that may affect the company’s performance. Additionally, the cost of capital used in the calculation can be difficult to estimate accurately.
+===Examples of SVA === 
+One example of SVA is the calculation of the return on equity (ROE). ROE is calculated by dividing the company’s net income by its total equity. This calculation provides a measure of how efficiently the company is using its equity to generate profits.
+===Conclusion=== 
+Shareholder Value Added (SVA) is a financial metric that measures the value created for shareholders by a company. It is calculated by subtracting the cost of capital from the company’s net operating profit after tax (NOPAT). SVA is a useful tool for investors and managers to assess the performance of a company and make decisions about how to allocate resources. It is a backward-looking metric, so it does not take into account future growth potential or other factors that may affect the company’s performance. Additionally, the cost of capital used in the calculation can be difficult to estimate accurately.

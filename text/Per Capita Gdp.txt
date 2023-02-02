@@ -1,0 +1,12 @@
+===Introduction to Per Capita GDP === 
+Per capita GDP is a measure of a country’s economic output per person. It is calculated by dividing the country’s gross domestic product (GDP) by its population. Per capita GDP is a useful tool for comparing the economic output of different countries, as it takes into account the differences in population size. It is also a useful indicator of a country’s standard of living, as it reflects the average income of its citizens.
+===Definition of Per Capita GDP === 
+Per capita GDP is a measure of a country’s economic output per person. It is calculated by dividing the country’s gross domestic product (GDP) by its population. GDP is the total value of all goods and services produced within a country’s borders in a given year. The population is the total number of people living in the country.
+===Factors Affecting Per Capita GDP === 
+There are several factors that can affect a country’s per capita GDP. These include the size of the population, the level of economic development, the level of investment in infrastructure and technology, the level of education and training, and the level of government spending.
+===Examples of Per Capita GDP === 
+The United States has the highest per capita GDP in the world, at $62,794. This is followed by Switzerland ($61,360), Norway ($60,588), and Luxembourg ($59,717). On the other end of the spectrum, the Democratic Republic of the Congo has the lowest per capita GDP in the world, at $400.
+===Benefits of Per Capita GDP === 
+Per capita GDP is a useful tool for comparing the economic output of different countries, as it takes into account the differences in population size. It is also a useful indicator of a country’s standard of living, as it reflects the average income of its citizens. Additionally, it can be used to measure the progress of a country over time, as it can be compared to previous years to see if the economy is growing or shrinking.
+===Conclusion === 
+Per capita GDP is a useful measure of a country’s economic output per person. It is calculated by dividing the country’s gross domestic product (GDP) by its population. It is a useful tool for comparing the economic output of different countries, as it takes into account the differences in population size. Additionally, it can be used to measure the progress of a country over time, as it can be compared to previous years to see if the economy is growing or shrinking.

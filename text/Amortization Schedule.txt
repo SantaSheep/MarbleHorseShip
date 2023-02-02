@@ -1,0 +1,12 @@
+===Introduction to Amortization Schedule === 
+An amortization schedule is a table that outlines the payments made on a loan over a period of time. It is used to track the progress of the loan and to determine the amount of interest and principal paid at each payment. It is also used to calculate the total amount of interest paid over the life of the loan.
+===What is an Amortization Schedule? === 
+An amortization schedule is a table that outlines the payments made on a loan over a period of time. It is used to track the progress of the loan and to determine the amount of interest and principal paid at each payment. It is also used to calculate the total amount of interest paid over the life of the loan.
+===How to Calculate an Amortization Schedule === 
+An amortization schedule is calculated by taking the total loan amount, subtracting the down payment, and dividing the remaining balance by the number of payments. The interest rate is then used to calculate the amount of interest due for each payment. The principal portion of the payment is then calculated by subtracting the interest from the total payment.
+===Benefits of an Amortization Schedule === 
+An amortization schedule can be used to track the progress of a loan and to determine the amount of interest and principal paid at each payment. It can also be used to calculate the total amount of interest paid over the life of the loan. Additionally, an amortization schedule can be used to determine the amount of money that can be saved by making additional payments or by refinancing the loan.
+===Example of an Amortization Schedule === 
+The following is an example of an amortization schedule for a loan of $10,000 with an interest rate of 5% and a term of 5 years.
+===Conclusion=== 
+1	$167.00	$41.67	$208.67

@@ -1,0 +1,12 @@
+===Introduction to Goodwill === 
+Goodwill is an intangible asset that is often associated with the purchase of a business. It is the difference between the purchase price of a business and the fair market value of its assets. Goodwill is an important concept in the world of finance and accounting, and it is important to understand how it works and how it is valued.
+===What is Goodwill? === 
+Goodwill is an intangible asset that is created when a business is purchased for more than the fair market value of its assets. It is the difference between the purchase price and the fair market value of the assets. Goodwill is not a physical asset, but it is still considered an asset on the balance sheet. Goodwill is often associated with the purchase of a business, but it can also be created when a company acquires another company's assets.
+===Accounting for Goodwill === 
+Goodwill is recorded on the balance sheet as an asset. It is not amortized, but it is tested for impairment on an annual basis. If the value of the goodwill has decreased, the company must write down the value of the goodwill to its fair market value.
+===Valuing Goodwill === 
+Goodwill is typically valued using a discounted cash flow analysis. This analysis takes into account the expected future cash flows of the business and discounts them to present value. The value of the goodwill is then determined by subtracting the present value of the expected future cash flows from the purchase price of the business.
+===Tax Treatment of Goodwill === 
+Goodwill is not subject to taxation in most countries. However, some countries may tax the gain on the sale of goodwill.
+===Conclusion=== 
+Goodwill is an important concept in the world of finance and accounting. It is an intangible asset that is created when a business is purchased for more than the fair market value of its assets. Goodwill is recorded on the balance sheet as an asset and is typically valued using a discounted cash flow analysis. Goodwill is not subject to taxation in most countries, but some countries may tax the gain on the sale of goodwill.

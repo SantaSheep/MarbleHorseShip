@@ -1,0 +1,6 @@
+===Introduction to Factor Investing === 
+
+===What is Factor Investing? === 
+Types of Factors - There are several types of factors that can be used in factor investing. These include size, value, momentum, quality, and volatility. Size refers to the market capitalization of a company, which is the total value of its outstanding shares. Value refers to the price-to-earnings ratio of a company, which is the ratio of its stock price to its earnings per share. Momentum refers to the rate of change in a company’s stock price over a certain period of time. Quality refers to the financial strength of a company, which is measured by its return on equity and return on assets. Volatility refers to the amount of risk associated with a company’s stock price.
+===Benefits of Factor Investing === 
+

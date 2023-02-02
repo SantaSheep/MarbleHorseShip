@@ -1,0 +1,12 @@
+===Introduction to Modigliani-Miller Theorem (M&M) === 
+The Modigliani-Miller theorem (M&M) is a fundamental theorem of corporate finance that states that the value of a firm is independent of its capital structure. The theorem was developed by Franco Modigliani and Merton Miller in 1958 and has since become a cornerstone of modern finance theory. The theorem is based on the idea that the value of a firm is determined by its expected future cash flows and not by its capital structure.
+===Overview of M&M Theory === 
+The Modigliani-Miller theorem states that the value of a firm is independent of its capital structure. This means that the value of a firm is not affected by the way it finances itself, whether through debt or equity. The theorem is based on the idea that the value of a firm is determined by its expected future cash flows and not by its capital structure. The theorem also states that the cost of capital is the same regardless of the firm’s capital structure.
+===Assumptions of M&M Theory === 
+The Modigliani-Miller theorem is based on a number of assumptions, including:
+===Implications of M&M Theory === 
+
+===Criticisms of M&M Theory === 
+3. No transaction costs: This means that there are no costs associated with buying and selling securities.
+===Conclusion=== 
+

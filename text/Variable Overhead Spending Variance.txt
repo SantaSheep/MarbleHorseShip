@@ -1,0 +1,12 @@
+===Introduction to Variable Overhead Spending Variance === 
+Variable overhead spending variance is a measure of the difference between the actual and budgeted costs of variable overhead expenses. It is an important tool for businesses to understand and manage their overhead costs. By understanding the variance, businesses can identify areas of potential cost savings and make adjustments to their budgeting and spending practices.
+===Definition of Variable Overhead Spending Variance === 
+Variable overhead spending variance is the difference between the actual and budgeted costs of variable overhead expenses. It is calculated by subtracting the budgeted amount from the actual amount spent on variable overhead expenses. The resulting number is the variance. A positive variance indicates that the actual costs were higher than the budgeted amount, while a negative variance indicates that the actual costs were lower than the budgeted amount.
+===Causes of Variable Overhead Spending Variance === 
+There are several potential causes of variable overhead spending variance. These include changes in the price of materials, changes in the quantity of materials used, changes in the number of employees, changes in the number of hours worked, changes in the cost of labor, and changes in the cost of overhead expenses.
+===Analyzing Variable Overhead Spending Variance === 
+Analyzing variable overhead spending variance is an important step in understanding and managing overhead costs. By analyzing the variance, businesses can identify areas of potential cost savings and make adjustments to their budgeting and spending practices.
+===Strategies for Managing Variable Overhead Spending Variance === 
+There are several strategies businesses can use to manage variable overhead spending variance. These include setting realistic budgets, monitoring actual costs, and making adjustments to spending practices. Additionally, businesses can use cost-benefit analysis to determine the most cost-effective way to manage their overhead costs.
+===Conclusion === 
+Variable overhead spending variance is an important measure of the difference between the actual and budgeted costs of variable overhead expenses. By understanding and analyzing the variance, businesses can identify areas of potential cost savings and make adjustments to their budgeting and spending practices. Additionally, businesses can use cost-benefit analysis to determine the most cost-effective way to manage their overhead costs.

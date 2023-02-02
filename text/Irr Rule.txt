@@ -1,0 +1,12 @@
+===Introduction to Internal Rate of Return (IRR) Rule === 
+Internal Rate of Return (IRR) is a financial metric used to measure the profitability of an investment. It is the rate of return that makes the net present value (NPV) of all cash flows from a project or investment equal to zero. It is used to compare the profitability of different investments and to determine the optimal capital budgeting decisions.
+===Overview of IRR Calculation === 
+The IRR calculation is based on the concept of time value of money. It takes into account the present value of future cash flows and the cost of the investment. The IRR is calculated by finding the discount rate that makes the present value of the future cash flows equal to the cost of the investment. This discount rate is the IRR.
+===Advantages of IRR Rule === 
+The main advantage of the IRR rule is that it takes into account the time value of money. This means that it takes into account the fact that money today is worth more than money in the future. This makes it a better measure of profitability than other methods such as payback period or net present value.
+===Disadvantages of IRR Rule === 
+
+===Examples of IRR Rule in Practice === 
+
+===Conclusion=== 
+Examples of IRR Rule in Practice

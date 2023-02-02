@@ -1,0 +1,12 @@
+===Introduction to Straight Line Basis === 
+Straight line basis is a method of calculating depreciation for an asset over its useful life. It is the most commonly used method of depreciation and is based on the assumption that the asset will be used evenly over its useful life. This method is used to spread the cost of an asset over its useful life, allowing businesses to deduct a portion of the cost of the asset from their taxes each year.
+===Advantages of Straight Line Basis === 
+The main advantage of straight line basis is that it is simple to calculate and understand. It is also the most commonly used method of depreciation, so it is familiar to most accountants and tax professionals. Additionally, it is the most conservative method of depreciation, meaning that it will result in the lowest amount of depreciation expense for a given asset.
+===Disadvantages of Straight Line Basis === 
+The main disadvantage of straight line basis is that it does not take into account the actual usage of the asset. This means that the depreciation expense may not accurately reflect the actual wear and tear of the asset over its useful life. Additionally, it does not take into account any changes in the value of the asset over time, which can result in an inaccurate depreciation expense.
+===Examples of Straight Line Basis === 
+One example of straight line basis is the depreciation of a company vehicle. The company can calculate the depreciation expense of the vehicle by taking the cost of the vehicle and dividing it by the estimated useful life of the vehicle. This will result in a depreciation expense that is spread evenly over the useful life of the vehicle.
+===Calculating Straight Line Basis === 
+Straight line basis is calculated by taking the cost of the asset and dividing it by the estimated useful life of the asset. This will result in a depreciation expense that is spread evenly over the useful life of the asset.
+===Conclusion === 
+Straight line basis is the most commonly used method of calculating depreciation for an asset. It is simple to calculate and understand, and is the most conservative method of depreciation. However, it does not take into account the actual usage of the asset or any changes in the value of the asset over time, which can result in an inaccurate depreciation expense.

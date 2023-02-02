@@ -1,0 +1,12 @@
+===Introduction to Annual Percentage Yield (APY) === 
+Annual Percentage Yield (APY) is a measure of the return on an investment over a period of one year. It is expressed as a percentage and is calculated by taking into account the interest rate, the frequency of compounding, and the amount of time the money is invested. APY is a useful tool for comparing different investments and can help investors make informed decisions about where to put their money.
+===How APY is Calculated === 
+APY is calculated by taking the interest rate and multiplying it by the number of times the interest is compounded in a year. The result is then divided by the number of days in the year. This calculation is then multiplied by the amount of time the money is invested. The result is the APY.
+===Factors that Affect APY === 
+The factors that affect APY include the interest rate, the frequency of compounding, and the amount of time the money is invested. The higher the interest rate, the higher the APY. The more frequent the compounding, the higher the APY. The longer the money is invested, the higher the APY.
+===Advantages of APY === 
+The main advantage of APY is that it allows investors to compare different investments and make informed decisions about where to put their money. It also allows investors to compare the return on their investments over different periods of time.
+===Disadvantages of APY === 
+The main disadvantage of APY is that it does not take into account the effects of inflation. Inflation can reduce the value of an investment over time, which can reduce the return on the investment.
+===Examples of APY Calculations=== 
+For example, if an investor invests $10,000 at an interest rate of 5% compounded monthly for one year, the APY would be 5.14%. If the same investor invests the same amount at the same interest rate but compounded quarterly, the APY would be 5.17%.

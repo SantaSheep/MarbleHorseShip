@@ -1,0 +1,12 @@
+===Introduction to Forward Price-To-Earnings (Forward P/E)=== 
+Forward Price-To-Earnings (Forward P/E) is a financial ratio used to measure the value of a company’s stock. It is calculated by dividing the current stock price by the estimated earnings per share (EPS) for the next 12 months. This ratio is used to compare the current stock price to the expected future earnings of the company. It is a useful tool for investors to determine whether a stock is undervalued or overvalued.
+===How Forward P/E is Calculated=== 
+The Forward P/E ratio is calculated by dividing the current stock price by the estimated earnings per share (EPS) for the next 12 months. For example, if a company’s current stock price is $50 and the estimated EPS for the next 12 months is $2, the Forward P/E ratio would be 25 ($50/$2).
+===Advantages of Using Forward P/E=== 
+The Forward P/E ratio is a useful tool for investors to determine whether a stock is undervalued or overvalued. It can also be used to compare the current stock price to the expected future earnings of the company. This can help investors make informed decisions about whether to buy or sell a stock.
+===Disadvantages of Using Forward P/E=== 
+The Forward P/E ratio is not a perfect measure of a company’s stock value. It does not take into account factors such as the company’s debt, cash flow, or other financial metrics. Additionally, the estimated EPS for the next 12 months may not be accurate, which could lead to inaccurate results.
+===Examples of Forward P/E=== 
+An example of a company with a high Forward P/E ratio is Apple Inc. (AAPL). As of April 2021, the company’s stock price is $128.50 and the estimated EPS for the next 12 months is $4.50. This gives Apple a Forward P/E ratio of 28.44 ($128.50/$4.50).
+===Conclusion=== 
+

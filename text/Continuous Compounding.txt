@@ -1,0 +1,12 @@
+===Introduction to Continuous Compounding === 
+Continuous compounding is a method of calculating interest on an investment or loan. It is a process of calculating interest on a regular basis, such as daily, monthly, or annually. This method of compounding is different from traditional compounding, which only compounds interest at the end of a period. Continuous compounding is a more efficient way of calculating interest, as it allows for more frequent compounding of interest.
+===Understanding the Basics of Continuous Compounding === 
+Continuous compounding is a process of calculating interest on a regular basis. This means that the interest is compounded more frequently than traditional compounding. The frequency of compounding can be determined by the investor or lender. For example, if the investor or lender chooses to compound interest daily, then the interest will be compounded every day. The frequency of compounding can also be determined by the type of investment or loan. For example, a savings account may compound interest monthly, while a loan may compound interest daily.
+===Calculating Interest with Continuous Compounding === 
+The formula for calculating interest with continuous compounding is:
+===Advantages of Continuous Compounding === 
+
+===Disadvantages of Continuous Compounding === 
+Principal = the initial amount of money invested or loaned
+===Conclusion=== 
+

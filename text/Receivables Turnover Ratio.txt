@@ -1,0 +1,12 @@
+===Introduction to Receivables Turnover Ratio === 
+The receivables turnover ratio is a financial metric used to measure the liquidity of a company’s accounts receivable. It is calculated by dividing the total net credit sales of a company by its average accounts receivable. This ratio is used to measure the efficiency of a company’s credit and collection policies.
+===What is the Receivables Turnover Ratio? === 
+The receivables turnover ratio is a financial metric used to measure the liquidity of a company’s accounts receivable. It is calculated by dividing the total net credit sales of a company by its average accounts receivable. This ratio is used to measure the efficiency of a company’s credit and collection policies.
+===How to Calculate the Receivables Turnover Ratio === 
+The receivables turnover ratio is calculated by dividing the total net credit sales of a company by its average accounts receivable. To calculate the average accounts receivable, you must add the beginning and ending accounts receivable balances and divide by two.
+===What is a Good Receivables Turnover Ratio? === 
+A good receivables turnover ratio is one that is higher than the industry average. Generally, a ratio of 4 or higher is considered good. However, this can vary depending on the industry.
+===Benefits of Monitoring the Receivables Turnover Ratio === 
+Monitoring the receivables turnover ratio can help a company identify potential problems with its credit and collection policies. It can also help a company identify areas where it can improve its efficiency and reduce its costs.
+===Example of Receivables Turnover Ratio Calculation=== 
+For example, if a company has total net credit sales of $100,000 and an average accounts receivable balance of $20,000, its receivables turnover ratio would be 5. This means that the company is collecting its accounts receivable five times per year.

@@ -1,0 +1,12 @@
+===Introduction to Excess Return === 
+Excess return is a measure of the performance of an investment relative to a benchmark. It is calculated by subtracting the benchmark return from the investment return. Excess return is also known as alpha, which is a measure of the performance of an investment relative to a benchmark. It is used to measure the performance of a portfolio manager or a fund manager.
+===Calculating Excess Return === 
+Excess return is calculated by subtracting the benchmark return from the investment return. For example, if an investment has a return of 10% and the benchmark has a return of 8%, then the excess return is 2%. The excess return is the difference between the investment return and the benchmark return.
+===Examples of Excess Return === 
+Excess return can be used to measure the performance of a portfolio manager or a fund manager. For example, if a portfolio manager has a return of 10% and the benchmark has a return of 8%, then the excess return is 2%. This means that the portfolio manager has outperformed the benchmark by 2%.
+===Benefits of Excess Return === 
+Excess return is a measure of the performance of an investment relative to a benchmark. It is used to measure the performance of a portfolio manager or a fund manager. It can also be used to compare the performance of different investments.
+===Risks of Excess Return === 
+Excess return is a measure of the performance of an investment relative to a benchmark. It is important to note that excess return is not a guarantee of future performance. There is always the risk that the investment may underperform the benchmark in the future.
+===Conclusion === 
+Excess return is a measure of the performance of an investment relative to a benchmark. It is used to measure the performance of a portfolio manager or a fund manager. It can also be used to compare the performance of different investments. However, it is important to note that excess return is not a guarantee of future performance and there is always the risk that the investment may underperform the benchmark in the future.

@@ -1,0 +1,12 @@
+===Introduction to On-Balance Volume (OBV) === 
+On-Balance Volume (OBV) is a technical analysis indicator that measures the cumulative flow of money into and out of a security. It is used to measure the strength of a trend and to identify potential trend reversals. OBV is calculated by adding the volume on up days and subtracting the volume on down days. The resulting total is then compared to the previous day’s total to determine the direction of the trend.
+===How OBV is Calculated === 
+OBV is calculated by adding the volume on up days and subtracting the volume on down days. The resulting total is then compared to the previous day’s total to determine the direction of the trend. If the current day’s total is higher than the previous day’s total, then the trend is considered to be up. If the current day’s total is lower than the previous day’s total, then the trend is considered to be down.
+===Benefits of Using OBV === 
+One of the main benefits of using OBV is that it can help traders identify potential trend reversals. By comparing the current day’s total to the previous day’s total, traders can get an idea of whether the trend is up or down. This can be especially useful for traders who are looking to enter or exit a position.
+===Examples of OBV in Action === 
+One example of OBV in action is when a stock is trending up and the OBV is increasing. This indicates that there is strong buying pressure and that the trend is likely to continue. On the other hand, if the OBV is decreasing while the stock is trending up, this could be an indication that the trend is about to reverse.
+===Limitations of OBV === 
+One of the main limitations of OBV is that it does not take into account the price of the security. This means that it can be difficult to determine the strength of a trend based solely on the OBV. Additionally, OBV can be affected by large trades, which can distort the results.
+===Conclusion=== 
+On-Balance Volume (OBV) is a technical analysis indicator that measures the cumulative flow of money into and out of a security. It is used to measure the strength of a trend and to identify potential trend reversals. OBV can be a useful tool for traders, but it is important to remember that it does not take into account the price of the security and can be affected by large trades.

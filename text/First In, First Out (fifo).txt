@@ -1,0 +1,8 @@
+===Introduction to First In, First Out (FIFO) === 
+
+===Benefits of FIFO === 
+Examples of FIFO in Practice: FIFO is commonly used in retail stores, where it is used to ensure that the oldest items in stock are sold first. Additionally, FIFO is used in manufacturing and distribution, where it is used to ensure that the oldest items in stock are used first.
+===Examples of FIFO in Practice === 
+
+===Challenges of FIFO === 
+Conclusion: FIFO is a simple and effective way to manage inventory. It helps to ensure that the oldest items in stock are sold first, which helps to reduce the risk of spoilage or obsolescence. Additionally, FIFO helps to ensure that the most recent items in stock are sold last, which helps to maximize profits. However, FIFO can be difficult to track and implement in certain industries. There are several alternatives to FIFO, including Last In, First Out (LIFO) and Average Cost.

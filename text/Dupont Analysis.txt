@@ -1,0 +1,12 @@
+===Introduction to DuPont Analysis === 
+DuPont Analysis is a financial analysis technique used to assess the profitability and performance of a company. It is a tool used to break down a company’s return on equity (ROE) into three components: asset turnover, financial leverage, and profitability. The DuPont Analysis is named after the DuPont Corporation, which developed the technique in the 1920s. The DuPont Analysis is a useful tool for investors, analysts, and managers to assess the performance of a company and identify areas for improvement.
+===Overview of DuPont Analysis Components === 
+The DuPont Analysis is based on the following three components:
+===Calculating Return on Equity (ROE) === 
+
+===Calculating Asset Turnover === 
+Profitability: This measures how much profit a company is generating from its operations. It is calculated by dividing net income by total sales.
+===Calculating Financial Leverage === 
+Return on Equity (ROE) is a measure of a company’s profitability. It is calculated by dividing net income by total equity.
+===Example of DuPont Analysis=== 
+Asset turnover is a measure of how efficiently a company is using its assets to generate sales. It is calculated by dividing total sales by total assets.

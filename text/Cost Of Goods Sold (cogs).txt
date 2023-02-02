@@ -1,0 +1,12 @@
+===Introduction to Cost of Goods Sold (COGS) === 
+Cost of Goods Sold (COGS) is an important financial metric that measures the cost of goods and services that a business has sold during a given period of time. It is a key component of a company’s income statement and is used to calculate the gross profit of a business. COGS is also used to measure the efficiency of a business’s operations and to compare the cost of goods sold to the revenue generated from those goods.
+===What is Included in COGS? === 
+COGS includes the direct costs associated with producing and selling a product or service. This includes the cost of materials, labor, and overhead costs such as rent, utilities, and insurance. It also includes the cost of shipping and handling, as well as any discounts given to customers.
+===How to Calculate COGS === 
+COGS is calculated by subtracting the cost of goods sold from the total revenue generated from the sale of those goods. The formula for calculating COGS is:
+===Benefits of Tracking COGS === 
+
+===Examples of COGS === 
+
+===Conclusion=== 
+

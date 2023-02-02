@@ -1,0 +1,12 @@
+===Introduction to Income Elasticity of Demand === 
+Income elasticity of demand is an economic concept that measures the responsiveness of the quantity demanded of a good or service to a change in the income of the people buying it. It is a measure of how much the quantity demanded of a good or service changes when the income of the people buying it changes. This concept is important for businesses to understand, as it can help them to better understand how their products and services will be affected by changes in the income of their customers.
+===Definition of Income Elasticity of Demand === 
+Income elasticity of demand is defined as the percentage change in the quantity demanded of a good or service in response to a one percent change in the income of the people buying it. It is calculated by dividing the percentage change in the quantity demanded by the percentage change in income.
+===Factors Affecting Income Elasticity of Demand === 
+There are several factors that can affect the income elasticity of demand for a good or service. These include the availability of substitutes, the necessity of the good or service, the price of the good or service, and the income level of the people buying it.
+===Examples of Income Elasticity of Demand === 
+One example of income elasticity of demand is luxury goods. Luxury goods tend to have a high income elasticity of demand, meaning that when the income of the people buying them increases, the quantity demanded of them also increases. On the other hand, necessities such as food and clothing tend to have a low income elasticity of demand, meaning that when the income of the people buying them increases, the quantity demanded of them does not increase as much.
+===Calculating Income Elasticity of Demand === 
+Income elasticity of demand can be calculated using the following formula:
+===Conclusion=== 
+

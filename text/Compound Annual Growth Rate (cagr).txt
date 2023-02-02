@@ -1,0 +1,12 @@
+===Introduction to Compound Annual Growth Rate (CAGR) === 
+Compound Annual Growth Rate (CAGR) is a financial metric used to measure the rate of return of an investment over a period of time. It is calculated by taking the nth root of the total return rate, where n is the number of years in the period. CAGR is a useful tool for investors to compare the performance of different investments over the same period of time.
+===Calculating CAGR === 
+CAGR is calculated by taking the nth root of the total return rate, where n is the number of years in the period. The formula for calculating CAGR is:
+===Advantages of CAGR === 
+
+===Disadvantages of CAGR === 
+Advantages of CAGR
+===Examples of CAGR === 
+Disadvantages of CAGR
+===Conclusion === 
+Examples of CAGR

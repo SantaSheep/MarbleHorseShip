@@ -1,0 +1,12 @@
+===Introduction to Information Ratio === 
+Information ratio is a measure of the performance of an investment portfolio relative to a benchmark index. It is used to assess the active management of a portfolio and is calculated by dividing the portfolio’s excess return over the benchmark by the portfolio’s tracking error. The higher the information ratio, the better the portfolio’s performance relative to the benchmark.
+===Calculating Information Ratio === 
+The information ratio is calculated by dividing the portfolio’s excess return over the benchmark by the portfolio’s tracking error. The excess return is the difference between the portfolio’s return and the benchmark’s return. The tracking error is the standard deviation of the portfolio’s return relative to the benchmark’s return.
+===Benefits of Information Ratio === 
+The information ratio is a useful tool for investors to assess the performance of a portfolio relative to a benchmark. It is a measure of the active management of a portfolio and can be used to compare the performance of different portfolios.
+===Limitations of Information Ratio === 
+The information ratio is a useful tool, but it has some limitations. It does not take into account the risk associated with the portfolio, and it does not take into account the costs associated with managing the portfolio.
+===Example of Information Ratio === 
+For example, if a portfolio has an excess return of 10% over the benchmark and a tracking error of 5%, the information ratio would be 2.0. This means that the portfolio has outperformed the benchmark by 2 times the tracking error.
+===Conclusion=== 
+The information ratio is a useful tool for investors to assess the performance of a portfolio relative to a benchmark. It is a measure of the active management of a portfolio and can be used to compare the performance of different portfolios. However, it has some limitations, such as not taking into account the risk associated with the portfolio or the costs associated with managing the portfolio.

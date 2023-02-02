@@ -1,0 +1,12 @@
+===Introduction to Q Ratio (Tobin's Q) === 
+Q Ratio, also known as Tobin's Q, is a financial metric used to measure the market value of a company relative to its book value. It is a measure of the company's financial health and can be used to compare the performance of different companies. The Q Ratio is an important tool for investors and analysts to assess the value of a company and its stock.
+===What is Q Ratio (Tobin's Q)? === 
+The Q Ratio, also known as Tobin's Q, is a financial metric used to measure the market value of a company relative to its book value. It is calculated by dividing the market value of a company's assets by the book value of its assets. The Q Ratio is an important tool for investors and analysts to assess the value of a company and its stock.
+===How to Calculate Q Ratio (Tobin's Q) === 
+The Q Ratio is calculated by dividing the market value of a company's assets by the book value of its assets. The market value of a company's assets is calculated by taking the current market price of the company's stock and multiplying it by the number of outstanding shares. The book value of a company's assets is calculated by taking the total assets of the company and subtracting any liabilities.
+===Benefits of Q Ratio (Tobin's Q) === 
+The Q Ratio is a useful tool for investors and analysts to assess the value of a company and its stock. It can be used to compare the performance of different companies and to identify potential investment opportunities. The Q Ratio can also be used to identify companies that may be overvalued or undervalued.
+===Examples of Q Ratio (Tobin's Q) === 
+For example, if a company has a market value of $100 million and a book value of $50 million, its Q Ratio would be 2.0. This means that the company's market value is twice its book value. If the company's Q Ratio is higher than 1.0, it indicates that the company is overvalued. If the Q Ratio is lower than 1.0, it indicates that the company is undervalued.
+===Conclusion=== 
+The Q Ratio, also known as Tobin's Q, is a financial metric used to measure the market value of a company relative to its book value. It is an important tool for investors and analysts to assess the value of a company and its stock. The Q Ratio can be used to compare the performance of different companies and to identify potential investment opportunities.

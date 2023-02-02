@@ -1,0 +1,12 @@
+===Introduction to Simple Interest === 
+Simple interest is a type of interest calculation that is based on the principal amount of a loan or deposit. It is calculated as a percentage of the principal amount and is paid periodically over the life of the loan or deposit. Simple interest is different from compound interest, which is calculated on the principal amount plus any accrued interest.
+===Calculating Simple Interest === 
+Simple interest is calculated by multiplying the principal amount by the interest rate and the number of periods. For example, if you have a loan of $1000 with an interest rate of 5% and a term of 5 years, the simple interest would be calculated as follows:
+===Advantages of Simple Interest === 
+
+===Disadvantages of Simple Interest === 
+Simple Interest = $250
+===Examples of Simple Interest === 
+One of the main advantages of simple interest is that it is easy to calculate and understand. It is also easier to budget for since the interest rate and payment amount remain the same throughout the life of the loan or deposit.
+===Conclusion === 
+The main disadvantage of simple interest is that it does not take into account the time value of money. This means that the interest rate does not increase over time, which can result in a lower return on investment than other types of interest calculations.

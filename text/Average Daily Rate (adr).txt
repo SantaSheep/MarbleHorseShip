@@ -1,0 +1,12 @@
+===Introduction to Average Daily Rate (ADR) === 
+Average Daily Rate (ADR) is a key metric used in the hospitality industry to measure the performance of a hotel. It is a measure of the average rate paid for a room per night, and is used to compare the performance of different hotels and to track the performance of a single hotel over time. ADR is an important metric for hotel owners and operators, as it provides insight into the pricing and occupancy of a hotel.
+===What is Average Daily Rate (ADR)? === 
+Average Daily Rate (ADR) is a measure of the average rate paid for a room per night. It is calculated by dividing the total room revenue for a given period of time by the total number of rooms sold during that period. ADR is used to compare the performance of different hotels and to track the performance of a single hotel over time.
+===Factors that Influence ADR === 
+There are several factors that can influence a hotel’s ADR. These include the location of the hotel, the quality of the hotel, the amenities offered, the seasonality of the area, and the competition in the area. Additionally, the pricing strategy of the hotel can also have an impact on ADR.
+===Calculating ADR === 
+ADR is calculated by dividing the total room revenue for a given period of time by the total number of rooms sold during that period. For example, if a hotel had total room revenue of $10,000 and sold 100 rooms during the period, the ADR would be $100.
+===Benefits of Knowing ADR === 
+Knowing the ADR of a hotel can be beneficial for both hotel owners and operators. It can provide insight into the pricing and occupancy of a hotel, and can be used to compare the performance of different hotels. Additionally, it can be used to track the performance of a single hotel over time.
+===Conclusion=== 
+Average Daily Rate (ADR) is an important metric used in the hospitality industry to measure the performance of a hotel. It is a measure of the average rate paid for a room per night, and is used to compare the performance of different hotels and to track the performance of a single hotel over time. Knowing the ADR of a hotel can be beneficial for both hotel owners and operators, as it provides insight into the pricing and occupancy of a hotel.

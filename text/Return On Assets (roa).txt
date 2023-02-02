@@ -1,0 +1,12 @@
+===Introduction to Return on Assets (ROA) === 
+Return on Assets (ROA) is a financial ratio that measures the profitability of a company by comparing its net income to its total assets. It is a key indicator of a company’s financial health and performance, and is used to compare the profitability of different companies. ROA is expressed as a percentage and is calculated by dividing a company’s net income by its total assets.
+===Calculating Return on Assets (ROA) === 
+To calculate ROA, you need to know a company’s net income and total assets. Net income is the amount of money a company earns after subtracting all expenses, including taxes, from its total revenue. Total assets are the sum of all the company’s assets, including cash, accounts receivable, inventory, and property, plant, and equipment.
+===Benefits of Return on Assets (ROA) === 
+
+===Limitations of Return on Assets (ROA) === 
+
+===Examples of Return on Assets (ROA) === 
+
+===Conclusion=== 
+

@@ -1,0 +1,12 @@
+===What is an Accrued Expense? === 
+An accrued expense is an expense that has been incurred but not yet paid. It is a liability that must be recorded in the accounting records of a company. Accrued expenses are typically recorded at the end of an accounting period, such as the end of a month or a quarter. Accrued expenses are also known as accrued liabilities.
+===Examples of Accrued Expenses === 
+Examples of accrued expenses include salaries and wages, interest, taxes, and utilities. Salaries and wages are accrued when an employee has worked but not yet been paid. Interest is accrued when a company has borrowed money but not yet paid the interest. Taxes are accrued when a company has incurred a tax liability but not yet paid the taxes. Utilities are accrued when a company has used utilities but not yet paid the bill.
+===How to Record Accrued Expenses === 
+Accrued expenses are recorded in the accounting records of a company by debiting the expense account and crediting the accrued liabilities account. The amount of the expense is recorded in the accounting records as a liability until it is paid.
+===Benefits of Accrual Accounting === 
+Accrual accounting is beneficial because it allows a company to record expenses when they are incurred, rather than when they are paid. This allows a company to have a more accurate picture of its financial position. Accrual accounting also allows a company to better manage its cash flow by recognizing expenses when they are incurred, rather than when they are paid.
+===Challenges of Accrual Accounting === 
+One of the challenges of accrual accounting is that it can be difficult to estimate the amount of an expense that has been incurred but not yet paid. This can lead to inaccurate financial statements. Another challenge of accrual accounting is that it can be difficult to keep track of all of the accrued expenses that a company has.
+===Conclusion=== 
+Accrued expenses are an important part of accrual accounting. Accrued expenses are expenses that have been incurred but not yet paid. Examples of accrued expenses include salaries and wages, interest, taxes, and utilities. Accrual accounting is beneficial because it allows a company to record expenses when they are incurred, rather than when they are paid. However, there are some challenges associated with accrual accounting, such as estimating the amount of an expense that has been incurred but not yet paid and keeping track of all of the accrued expenses.

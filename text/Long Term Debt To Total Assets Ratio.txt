@@ -1,0 +1,12 @@
+===Introduction to Long-Term Debt to Total Assets Ratio === 
+Long-term debt to total assets ratio is a financial ratio that measures the amount of long-term debt a company has relative to its total assets. It is used to assess a company’s financial health and ability to meet its long-term debt obligations. This ratio is also known as the debt-to-assets ratio or the debt-to-equity ratio.
+===Understanding the Components of the Ratio === 
+The long-term debt to total assets ratio is calculated by dividing a company’s long-term debt by its total assets. Long-term debt includes any debt that is due in more than one year, such as bonds, mortgages, and other long-term loans. Total assets include all of a company’s assets, such as cash, inventory, property, and equipment.
+===Calculating the Ratio === 
+To calculate the long-term debt to total assets ratio, divide a company’s long-term debt by its total assets. For example, if a company has $100,000 in long-term debt and $500,000 in total assets, its long-term debt to total assets ratio would be 0.2, or 20%.
+===Interpreting the Ratio === 
+The long-term debt to total assets ratio is used to assess a company’s financial health and ability to meet its long-term debt obligations. Generally, a higher ratio indicates that a company is more heavily leveraged and may be at risk of defaulting on its debt. A lower ratio indicates that a company is less leveraged and may be better able to meet its debt obligations.
+===Example of Long-Term Debt to Total Assets Ratio === 
+For example, if a company has $100,000 in long-term debt and $500,000 in total assets, its long-term debt to total assets ratio would be 0.2, or 20%. This indicates that the company has a relatively low level of debt relative to its total assets and may be better able to meet its debt obligations.
+===Conclusion=== 
+The long-term debt to total assets ratio is a financial ratio that measures the amount of long-term debt a company has relative to its total assets. It is used to assess a company’s financial health and ability to meet its long-term debt obligations. Generally, a higher ratio indicates that a company is more heavily leveraged and may be at risk of defaulting on its debt. A lower ratio indicates that a company is less leveraged and may be better able to meet its debt obligations.

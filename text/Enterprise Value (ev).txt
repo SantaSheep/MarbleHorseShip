@@ -1,0 +1,12 @@
+===Introduction to Enterprise Value (EV) === 
+Enterprise value (EV) is a measure of a company’s total value, including both its equity and debt. It is a measure of the value of a company as a whole, and is often used as an alternative to equity market capitalization. EV is a more comprehensive measure of a company’s worth than market capitalization, as it takes into account both the company’s debt and equity.
+===Components of EV === 
+The components of EV include the market capitalization of the company, the value of its debt, and the value of its minority interests. Market capitalization is the total value of the company’s outstanding shares. The value of the company’s debt is the total amount of debt the company has outstanding. The value of minority interests is the value of any non-controlling interests in the company, such as those held by venture capitalists or other investors.
+===Calculating EV === 
+EV is calculated by adding the market capitalization of the company to the value of its debt and subtracting the value of its minority interests. The formula for calculating EV is:
+===Advantages of EV === 
+
+===Disadvantages of EV === 
+
+===Conclusion=== 
+

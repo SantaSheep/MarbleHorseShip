@@ -1,0 +1,12 @@
+===Introduction to Units Per Transaction (UPT) === 
+Units Per Transaction (UPT) is a metric used to measure the average number of items purchased in a single transaction. It is a key indicator of customer loyalty and can be used to measure the success of a business’s marketing and promotional efforts. UPT is a useful tool for businesses to understand their customers’ buying habits and to identify areas for improvement.
+===Benefits of UPT === 
+Units Per Transaction (UPT) is a valuable metric for businesses to measure the success of their marketing and promotional efforts. UPT can be used to identify customer loyalty and to track the effectiveness of promotional campaigns. UPT can also be used to identify areas for improvement, such as increasing the average number of items purchased in a single transaction.
+===Calculating UPT === 
+Units Per Transaction (UPT) is calculated by dividing the total number of items purchased in a single transaction by the total number of transactions. For example, if a business sold 10 items in 5 transactions, the UPT would be 2.
+===UPT in Retail === 
+Units Per Transaction (UPT) is an important metric for retailers to measure the success of their marketing and promotional efforts. UPT can be used to identify customer loyalty and to track the effectiveness of promotional campaigns. UPT can also be used to identify areas for improvement, such as increasing the average number of items purchased in a single transaction.
+===UPT in eCommerce === 
+Units Per Transaction (UPT) is an important metric for eCommerce businesses to measure the success of their marketing and promotional efforts. UPT can be used to identify customer loyalty and to track the effectiveness of promotional campaigns. UPT can also be used to identify areas for improvement, such as increasing the average number of items purchased in a single transaction.
+===Conclusion=== 
+Units Per Transaction (UPT) is a valuable metric for businesses to measure the success of their marketing and promotional efforts. UPT can be used to identify customer loyalty and to track the effectiveness of promotional campaigns. UPT can also be used to identify areas for improvement, such as increasing the average number of items purchased in a single transaction. UPT is an important metric for both retail and eCommerce businesses to measure the success of their marketing and promotional efforts.

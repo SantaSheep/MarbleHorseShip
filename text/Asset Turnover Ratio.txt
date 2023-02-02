@@ -1,0 +1,12 @@
+===Introduction to Asset Turnover Ratio === 
+Asset turnover ratio is a financial metric used to measure the efficiency of a company’s use of its assets. It is calculated by dividing the total sales or revenue of a company by its total assets. This ratio is used to measure how efficiently a company is using its assets to generate sales or revenue. It is an important metric for investors and analysts to consider when evaluating a company’s performance.
+===What is Asset Turnover Ratio? === 
+Asset turnover ratio is a financial metric used to measure the efficiency of a company’s use of its assets. It is calculated by dividing the total sales or revenue of a company by its total assets. This ratio is used to measure how efficiently a company is using its assets to generate sales or revenue. It is an important metric for investors and analysts to consider when evaluating a company’s performance.
+===How to Calculate Asset Turnover Ratio === 
+The asset turnover ratio is calculated by dividing the total sales or revenue of a company by its total assets. For example, if a company has total sales of $100 million and total assets of $50 million, the asset turnover ratio would be 2.0 ($100 million/$50 million).
+===Benefits of Asset Turnover Ratio === 
+The asset turnover ratio is a useful metric for investors and analysts to consider when evaluating a company’s performance. It can provide insight into how efficiently a company is using its assets to generate sales or revenue. It can also be used to compare the performance of different companies in the same industry.
+===Limitations of Asset Turnover Ratio === 
+The asset turnover ratio is a useful metric, but it has some limitations. It does not take into account the quality of the assets or the cost of acquiring them. It also does not take into account the company’s debt or other liabilities.
+===Example of Asset Turnover Ratio=== 
+For example, if a company has total sales of $100 million and total assets of $50 million, the asset turnover ratio would be 2.0 ($100 million/$50 million). This means that the company is generating $2 in sales for every $1 in assets.

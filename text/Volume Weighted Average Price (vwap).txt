@@ -1,0 +1,12 @@
+===Introduction to Volume Weighted Average Price (VWAP) === 
+Volume Weighted Average Price (VWAP) is a trading indicator used to measure the average price of a security over a specific period of time. It is calculated by taking the total dollar value of all trades in a given period and dividing it by the total number of shares traded. VWAP is a popular tool among traders and investors as it provides a reliable measure of the average price of a security.
+===How VWAP is Calculated === 
+VWAP is calculated by taking the total dollar value of all trades in a given period and dividing it by the total number of shares traded. The formula for calculating VWAP is as follows:
+===Benefits of Using VWAP === 
+
+===VWAP Strategies === 
+VWAP = ($10 x 100) + ($20 x 200) + ($30 x 300) / (100 + 200 + 300)
+===VWAP in Practice === 
+
+===Conclusion=== 
+Benefits of Using VWAP

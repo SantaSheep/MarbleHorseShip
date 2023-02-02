@@ -1,0 +1,8 @@
+===Introduction to Yield to Maturity (YTM) === 
+
+===Calculating YTM === 
+YTM vs. Other Investment Metrics: YTM is different from other investment metrics such as Internal Rate of Return (IRR) and Net Present Value (NPV). YTM is a measure of the expected return of a bond, while IRR and NPV are measures of the profitability of an investment.
+===YTM vs=== 
+
+===Other Investment Metrics === 
+Conclusion: YTM is a useful tool for investors to compare different bonds and determine which one is the best investment. It is also related to bond prices and interest rate risk. By understanding YTM, investors can make more informed decisions about their investments.

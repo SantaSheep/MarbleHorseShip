@@ -1,0 +1,12 @@
+===Introduction to Working Capital Turnover === 
+Working capital turnover is a measure of a company’s ability to efficiently manage its short-term assets and liabilities. It is a key indicator of a company’s financial health and is used to assess the liquidity of a business. Working capital turnover is calculated by dividing the total sales of a company by its working capital.
+===Definition of Working Capital Turnover === 
+Working capital turnover is a measure of a company’s ability to efficiently manage its short-term assets and liabilities. It is calculated by dividing the total sales of a company by its working capital. Working capital turnover is a key indicator of a company’s financial health and is used to assess the liquidity of a business.
+===Factors Affecting Working Capital Turnover === 
+There are several factors that can affect a company’s working capital turnover. These include the company’s inventory management, accounts receivable management, accounts payable management, and cash management. Additionally, the company’s sales cycle, production cycle, and credit terms can also affect working capital turnover.
+===Calculating Working Capital Turnover === 
+Working capital turnover is calculated by dividing the total sales of a company by its working capital. Working capital is calculated by subtracting the company’s current liabilities from its current assets.
+===Benefits of Working Capital Turnover === 
+Working capital turnover is a key indicator of a company’s financial health and is used to assess the liquidity of a business. It is also used to measure a company’s efficiency in managing its short-term assets and liabilities. Additionally, it can be used to identify areas of improvement in a company’s operations.
+===Example of Working Capital Turnover=== 
+For example, if a company has total sales of $1,000,000 and working capital of $200,000, its working capital turnover would be 5. This means that the company is able to generate $5 in sales for every $1 of working capital.

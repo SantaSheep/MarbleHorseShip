@@ -1,0 +1,12 @@
+===Introduction to Average Collection Period === 
+The average collection period is a financial metric used to measure the average amount of time it takes a company to collect payments from its customers. It is an important indicator of a company’s liquidity and cash flow, and can be used to assess the effectiveness of a company’s credit and collection policies.
+===Calculating Average Collection Period === 
+The average collection period is calculated by dividing the total accounts receivable by the average daily sales. The formula is:
+===Factors Affecting Average Collection Period === 
+
+===Benefits of Monitoring Average Collection Period === 
+Factors Affecting Average Collection Period
+===Example of Average Collection Period === 
+Benefits of Monitoring Average Collection Period
+===Conclusion=== 
+Example of Average Collection Period

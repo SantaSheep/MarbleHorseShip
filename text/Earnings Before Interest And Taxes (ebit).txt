@@ -1,0 +1,12 @@
+===Introduction to EBIT === 
+EBIT, or Earnings Before Interest and Taxes, is a financial metric used to measure a company’s profitability. It is a key indicator of a company’s financial health and is used to assess the company’s ability to generate profits from its operations. EBIT is an important metric for investors, creditors, and other stakeholders to evaluate a company’s performance.
+===What is EBIT? === 
+EBIT is a measure of a company’s operating performance. It is calculated by subtracting a company’s operating expenses from its total revenue. Operating expenses include costs such as wages, rent, and other costs associated with running the business. EBIT does not include interest payments or taxes, which are accounted for separately.
+===How to Calculate EBIT === 
+EBIT is calculated by subtracting a company’s operating expenses from its total revenue. The formula for calculating EBIT is:
+===Benefits of EBIT === 
+
+===Limitations of EBIT === 
+
+===Conclusion === 
+

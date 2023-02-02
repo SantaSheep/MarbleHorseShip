@@ -1,0 +1,12 @@
+===Introduction to Degree of Combined Leverage === 
+Degree of Combined Leverage (DCL) is a financial concept that measures the degree of financial leverage of a company. It is used to assess the risk associated with a company’s capital structure and to determine the company’s ability to meet its financial obligations. DCL is an important tool for investors and creditors to evaluate the financial health of a company.
+===Definition of Degree of Combined Leverage === 
+DCL is a measure of the total amount of debt a company has relative to its total assets. It is calculated by dividing the total debt of a company by its total assets. The higher the DCL, the more debt a company has relative to its assets and the greater the risk associated with the company’s capital structure.
+===Calculation of Degree of Combined Leverage === 
+The formula for calculating DCL is as follows:
+===Example of Degree of Combined Leverage === 
+
+===Advantages of Degree of Combined Leverage === 
+Total Debt = The total amount of debt a company has
+===Conclusion === 
+Example of Degree of Combined Leverage

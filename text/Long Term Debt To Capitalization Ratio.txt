@@ -1,0 +1,12 @@
+===Introduction to Long-Term Debt to Capitalization Ratio === 
+Long-term debt to capitalization ratio is a financial ratio that measures the amount of long-term debt a company has relative to its total capitalization. It is used to assess the financial health of a company and its ability to meet its long-term debt obligations. The ratio is calculated by dividing the total long-term debt of a company by its total capitalization.
+===Understanding the Components of the Ratio === 
+The components of the long-term debt to capitalization ratio are the total long-term debt and the total capitalization. Total long-term debt includes all debt that is due in more than one year, such as bonds, loans, and other long-term liabilities. Total capitalization includes all sources of capital, such as equity, debt, and retained earnings.
+===Calculating the Ratio === 
+The long-term debt to capitalization ratio is calculated by dividing the total long-term debt of a company by its total capitalization. The formula is as follows:
+===Interpreting the Ratio === 
+
+===Example of Long-Term Debt to Capitalization Ratio === 
+
+===Conclusion=== 
+

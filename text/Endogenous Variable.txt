@@ -1,0 +1,12 @@
+===Introduction to Endogenous Variables === 
+Endogenous variables are those variables that are determined within the system being studied. They are the variables that are determined by the relationships between the other variables in the system. Endogenous variables are often used in economic models to explain the behavior of the economy. Endogenous variables are also used in finance to explain the behavior of financial markets.
+===Types of Endogenous Variables === 
+Endogenous variables can be divided into two main categories: endogenous variables that are determined by the system itself, and exogenous variables that are determined by external factors. Endogenous variables are those that are determined by the relationships between the other variables in the system. Examples of endogenous variables include economic growth, inflation, and interest rates. Exogenous variables are those that are determined by external factors, such as government policies, international trade, and technological advances.
+===Examples of Endogenous Variables === 
+In economics, some examples of endogenous variables include economic growth, inflation, and interest rates. In finance, some examples of endogenous variables include stock prices, exchange rates, and bond yields.
+===Endogenous Variables in Finance === 
+Endogenous variables are used in finance to explain the behavior of financial markets. For example, stock prices are determined by the supply and demand of the stock, which is determined by the expectations of investors. Exchange rates are determined by the relative demand for different currencies, which is determined by the relative strength of the economies of the countries involved. Bond yields are determined by the demand for bonds, which is determined by the expectations of investors.
+===Benefits of Endogenous Variables === 
+Endogenous variables are useful in finance because they can help explain the behavior of financial markets. By understanding the relationships between the endogenous variables, investors can make better decisions about their investments. Endogenous variables can also help investors identify potential opportunities in the market.
+===Conclusion === 
+Endogenous variables are important in finance because they can help explain the behavior of financial markets. By understanding the relationships between the endogenous variables, investors can make better decisions about their investments. Endogenous variables can also help investors identify potential opportunities in the market.

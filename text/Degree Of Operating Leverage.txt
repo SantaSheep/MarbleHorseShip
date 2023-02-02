@@ -1,0 +1,12 @@
+===Introduction to Degree of Operating Leverage === 
+Degree of operating leverage (DOL) is a financial metric used to measure the sensitivity of a company’s operating income to changes in its sales revenue. It is a measure of how much a company’s operating income is affected by changes in its sales revenue. It is calculated by dividing the percentage change in operating income by the percentage change in sales revenue.
+===Definition of Degree of Operating Leverage === 
+Degree of operating leverage is a measure of how sensitive a company’s operating income is to changes in its sales revenue. It is calculated by dividing the percentage change in operating income by the percentage change in sales revenue. A higher degree of operating leverage indicates that a company’s operating income is more sensitive to changes in sales revenue.
+===Calculation of Degree of Operating Leverage === 
+The degree of operating leverage is calculated by dividing the percentage change in operating income by the percentage change in sales revenue. For example, if a company’s operating income increases by 10% when its sales revenue increases by 5%, then the degree of operating leverage is 2 (10/5).
+===Benefits of Degree of Operating Leverage === 
+The degree of operating leverage is a useful metric for investors and analysts to assess the sensitivity of a company’s operating income to changes in its sales revenue. It can be used to compare companies in the same industry and to assess the potential risks associated with investing in a particular company.
+===Limitations of Degree of Operating Leverage === 
+The degree of operating leverage is a useful metric, but it has some limitations. It does not take into account other factors that can affect a company’s operating income, such as changes in costs or expenses. It also does not take into account the effect of changes in sales revenue on other financial metrics, such as return on equity or return on assets.
+===Example of Degree of Operating Leverage === 
+For example, if a company’s operating income increases by 10% when its sales revenue increases by 5%, then the degree of operating leverage is 2 (10/5). This indicates that the company’s operating income is twice as sensitive to changes in sales revenue as it would be if the operating income had increased by the same percentage as the sales revenue.

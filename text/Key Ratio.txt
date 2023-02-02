@@ -1,0 +1,12 @@
+===Introduction to Key Ratio Analysis === 
+Key ratio analysis is a method of financial analysis used to evaluate a company’s financial performance. It involves the calculation and comparison of various financial ratios to assess the company’s liquidity, profitability, efficiency, and solvency. Key ratio analysis is a useful tool for investors, creditors, and other stakeholders to assess the financial health of a company.
+===Types of Key Ratios === 
+There are several types of key ratios used in key ratio analysis. These include liquidity ratios, profitability ratios, efficiency ratios, and solvency ratios. Liquidity ratios measure a company’s ability to meet its short-term obligations. Profitability ratios measure a company’s ability to generate profits. Efficiency ratios measure a company’s ability to use its resources efficiently. Solvency ratios measure a company’s ability to meet its long-term obligations.
+===Benefits of Key Ratio Analysis === 
+Key ratio analysis provides a comprehensive view of a company’s financial performance. It can help investors, creditors, and other stakeholders to assess the financial health of a company. It can also help to identify potential problems and opportunities.
+===How to Calculate Key Ratios === 
+Key ratios are calculated by dividing one financial metric by another. For example, the current ratio is calculated by dividing current assets by current liabilities. Other key ratios are calculated in a similar manner.
+===Example of Key Ratio Analysis === 
+Let’s take a look at an example of key ratio analysis. Suppose we want to analyze the financial performance of ABC Company. We can calculate the current ratio by dividing ABC Company’s current assets by its current liabilities. We can also calculate the debt-to-equity ratio by dividing ABC Company’s total debt by its total equity.
+===Conclusion=== 
+Key ratio analysis is a useful tool for investors, creditors, and other stakeholders to assess the financial health of a company. It involves the calculation and comparison of various financial ratios to assess the company’s liquidity, profitability, efficiency, and solvency. Key ratio analysis provides a comprehensive view of a company’s financial performance and can help to identify potential problems and opportunities.

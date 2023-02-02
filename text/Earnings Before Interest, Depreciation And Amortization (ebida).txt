@@ -1,0 +1,14 @@
+===Introduction to EBIDA === 
+EBIDA stands for Earnings Before Interest, Depreciation, and Amortization. It is a financial measure used to assess the profitability of a company before taking into account the costs associated with financing and capital investments. EBIDA is a useful metric for investors and analysts to evaluate a company’s performance and compare it to other companies in the same industry.
+===Benefits of EBIDA === 
+EBIDA is a useful metric for investors and analysts because it provides a more accurate picture of a company’s profitability. By excluding the costs associated with financing and capital investments, EBIDA provides a more accurate measure of a company’s underlying profitability. Additionally, EBIDA can be used to compare companies in the same industry, as it eliminates the effects of different financing and capital investment strategies.
+===Calculating EBIDA === 
+EBIDA is calculated by subtracting the costs associated with financing and capital investments from a company’s operating income. Specifically, EBIDA is calculated by subtracting interest expense, depreciation, and amortization from a company’s operating income.
+===EBIDA vs=== 
+EBIDA and EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) are similar metrics, but there are some key differences. EBIDA excludes the costs associated with financing and capital investments, while EBITDA also excludes taxes. Additionally, EBIDA is a more accurate measure of a company’s underlying profitability, as it eliminates the effects of different financing and capital investment strategies.
+===EBITDA === 
+EBIDA is a useful metric for investors and analysts to evaluate a company’s performance and compare it to other companies in the same industry. By excluding the costs associated with financing and capital investments, EBIDA provides a more accurate measure of a company’s underlying profitability. Additionally, EBIDA can be used to compare companies in the same industry, as it eliminates the effects of different financing and capital investment strategies.
+===EBIDA in Financial Analysis === 
+To illustrate how EBIDA is calculated, let’s assume a company has an operating income of $100,000 and the following costs associated with financing and capital investments:
+===Example of EBIDA Calculation=== 
+Depreciation: $20,000

@@ -1,0 +1,18 @@
+===Introduction to Incoterms === 
+Incoterms, or International Commercial Terms, are a set of rules developed by the International Chamber of Commerce (ICC) to help traders understand the costs, risks, and responsibilities associated with international trade. Incoterms are used to define the responsibilities of buyers and sellers in international transactions, including the delivery of goods, payment of duties, and other related costs. Incoterms are used by traders, lawyers, and other professionals involved in international trade to ensure that all parties understand their rights and obligations.
+===Types of Incoterms === 
+There are 11 Incoterms, divided into two categories: E (for Ex Works) and F (for Free Carrier). The E terms are used for any mode of transport, while the F terms are used for sea and inland waterway transport only. The 11 Incoterms are: EXW (Ex Works), FCA (Free Carrier), FAS (Free Alongside Ship), FOB (Free on Board), CFR (Cost and Freight), CIF (Cost, Insurance, and Freight), CPT (Carriage Paid To), CIP (Carriage and Insurance Paid To), DAT (Delivered at Terminal), DAP (Delivered at Place), and DDP (Delivered Duty Paid).
+===EXW (Ex Works) === 
+EXW is the most basic of the Incoterms. Under EXW, the seller is responsible for making the goods available at their premises, and the buyer is responsible for all costs and risks associated with transporting the goods from the seller’s premises to their destination.
+===FCA (Free Carrier) === 
+Under FCA, the seller is responsible for delivering the goods to a carrier or another party nominated by the buyer. The seller is also responsible for loading the goods onto the transport vehicle. The buyer is responsible for all costs and risks associated with transporting the goods from the seller’s premises to their destination.
+===FOB (Free on Board) === 
+Under FOB, the seller is responsible for delivering the goods to the port of shipment, loading the goods onto the vessel, and paying for the cost of loading the goods. The buyer is responsible for all costs and risks associated with transporting the goods from the port of shipment to their destination.
+===Benefits of Incoterms === 
+The use of Incoterms helps to reduce the risk of misunderstandings between buyers and sellers, as well as the risk of disputes. Incoterms also help to ensure that all parties understand their rights and obligations, and that all costs and risks associated with the transaction are clearly defined.
+===Incoterms and Risk === 
+Incoterms help to reduce the risk of misunderstandings between buyers and sellers, as well as the risk of disputes. Incoterms also help to ensure that all parties understand their rights and obligations, and that all costs and risks associated with the transaction are clearly defined.
+===Incoterms and Cost === 
+Incoterms help to reduce the cost of international trade by clearly defining the responsibilities of buyers and sellers. By understanding the costs and risks associated with each Incoterm, buyers and sellers can make informed decisions about which Incoterm is best suited to their needs.
+===Conclusion=== 
+Incoterms are an essential tool for international traders, as they help to reduce the risk of misunderstandings and disputes, and ensure that all parties understand their rights and obligations. Incoterms also help to reduce the cost of international trade by clearly defining the responsibilities of buyers and sellers.

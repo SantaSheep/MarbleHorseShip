@@ -1,0 +1,12 @@
+===What is Escrow? === 
+Escrow is a financial arrangement in which a third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are met as overseen by the escrow company.
+===How Does Escrow Work? === 
+When a buyer and seller enter into an agreement, the buyer deposits the funds into an escrow account. The escrow company then holds the funds until all of the terms of the agreement are met. Once the terms are met, the escrow company releases the funds to the seller. The escrow company also ensures that the buyer and seller both fulfill their obligations.
+===Benefits of Using Escrow === 
+Using escrow provides a number of benefits for both buyers and sellers. It helps protect both parties from fraud and ensures that the terms of the agreement are met. It also provides a secure way to transfer funds and helps to reduce the risk of non-payment.
+===Types of Escrow === 
+There are several different types of escrow services available. These include real estate escrow, which is used for the purchase and sale of real estate; mortgage escrow, which is used to pay taxes and insurance on a mortgage; and commercial escrow, which is used for business transactions.
+===Examples of Escrow === 
+One of the most common examples of escrow is the purchase of a home. When a buyer and seller enter into an agreement, the buyer deposits the funds into an escrow account. The escrow company then holds the funds until all of the terms of the agreement are met. Once the terms are met, the escrow company releases the funds to the seller.
+===Conclusion === 
+Escrow is a secure and reliable way to transfer funds between two parties. It helps protect both parties from fraud and ensures that the terms of the agreement are met. It also provides a secure way to transfer funds and helps to reduce the risk of non-payment. There are several different types of escrow services available, and they can be used for a variety of transactions.

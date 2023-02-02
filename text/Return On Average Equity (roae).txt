@@ -1,0 +1,12 @@
+===Introduction to Return on Average Equity (ROAE) === 
+Return on Average Equity (ROAE) is a financial ratio that measures the profitability of a company relative to its shareholders’ equity. It is calculated by dividing the company’s net income by its average shareholders’ equity over a certain period of time. ROAE is a useful tool for investors to assess the performance of a company and compare it to other companies in the same industry.
+===Calculating ROAE === 
+ROAE is calculated by dividing the company’s net income by its average shareholders’ equity over a certain period of time. The formula for calculating ROAE is:
+===Benefits of ROAE === 
+
+===Limitations of ROAE === 
+Benefits of ROAE
+===Examples of ROAE === 
+Limitations of ROAE
+===Conclusion === 
+Examples of ROAE

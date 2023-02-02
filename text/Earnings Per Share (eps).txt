@@ -1,0 +1,12 @@
+===Introduction to Earnings Per Share (EPS) === 
+Earnings per share (EPS) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s net income by the number of outstanding shares of its common stock. EPS is an important metric for investors, as it provides insight into the company’s profitability and helps them make informed decisions when investing.
+===How EPS is Calculated === 
+EPS is calculated by dividing the company’s net income by the number of outstanding shares of its common stock. Net income is calculated by subtracting the company’s expenses from its total revenue. The number of outstanding shares is determined by the number of shares that have been issued and are currently held by investors.
+===Factors that Impact EPS === 
+There are several factors that can impact a company’s EPS. These include the company’s revenue, expenses, and the number of outstanding shares. Additionally, changes in the company’s capital structure, such as issuing new shares or repurchasing existing shares, can also affect EPS.
+===Benefits of EPS === 
+EPS is a useful metric for investors, as it provides insight into the company’s profitability. It can also be used to compare the performance of different companies in the same industry. Additionally, EPS can be used to determine the company’s dividend payout, as it is typically calculated as a percentage of the company’s net income.
+===Challenges of EPS === 
+EPS can be a misleading metric, as it does not take into account the company’s debt or other non-cash expenses. Additionally, EPS can be affected by changes in the company’s capital structure, such as issuing new shares or repurchasing existing shares.
+===Conclusion=== 
+EPS is an important financial metric used to measure the profitability of a company. It is calculated by dividing the company’s net income by the number of outstanding shares of its common stock. EPS is a useful metric for investors, as it provides insight into the company’s profitability and can be used to compare the performance of different companies in the same industry. However, it can be a misleading metric, as it does not take into account the company’s debt or other non-cash expenses.

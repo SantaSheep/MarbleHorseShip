@@ -1,0 +1,8 @@
+===Introduction to Confidence Interval === 
+
+===Calculating Confidence Interval === 
+Examples of Confidence Interval - A confidence interval can be used to estimate the population mean, population proportion, population variance, and population standard deviation. For example, if you have a sample of 100 people and you want to estimate the population mean, you can calculate a 95% confidence interval. This would give you a range of values that is likely to contain the population mean with 95% confidence.
+===Examples of Confidence Interval === 
+
+===Benefits of Confidence Interval === 
+Conclusion - Confidence intervals are a useful tool for estimating population parameters from sample statistics. They provide a range of values that is likely to contain the population parameter with a certain level of confidence. However, they are only as accurate as the sample that is used to calculate them and the confidence level that is chosen.

@@ -1,0 +1,8 @@
+===Introduction to One-Tailed Test === 
+
+===Types of One-Tailed Tests === 
+Advantages of One-Tailed Tests: One-tailed tests are advantageous because they are more powerful than two-tailed tests. This means that they can detect smaller differences between the observed data and the hypothesized value. Additionally, one-tailed tests are more efficient than two-tailed tests, as they require fewer observations to reach a conclusion.
+===Advantages of One-Tailed Tests === 
+
+===Disadvantages of One-Tailed Tests === 
+Conclusion: One-tailed tests are powerful statistical tests used to determine whether a given set of data is significantly different from a hypothesized value. They are advantageous because they are more powerful and efficient than two-tailed tests. However, they are more prone to Type I errors and more difficult to interpret. Examples of one-tailed tests include testing the hypothesis that a given stock is significantly different from its expected value and testing the hypothesis that a given portfolio is significantly different from its expected return.

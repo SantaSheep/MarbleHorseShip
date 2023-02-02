@@ -1,0 +1,12 @@
+===Introduction to Shareholder Equity (SE) === 
+Shareholder equity (SE) is a financial term used to describe the amount of money that would be returned to shareholders if all of a company’s assets were liquidated and all of its debts were paid off. It is also known as “net assets” or “net worth” and is one of the most important financial metrics used to measure a company’s financial health.
+===Components of SE === 
+Shareholder equity is composed of two main components: contributed capital and retained earnings. Contributed capital is the amount of money that shareholders have invested in the company, either through the purchase of stock or through other investments. Retained earnings are the profits that the company has earned and kept in the business, rather than distributing them to shareholders as dividends.
+===How SE is Calculated === 
+Shareholder equity is calculated by subtracting total liabilities from total assets. This calculation is known as the “balance sheet equation” and is expressed as follows:
+===Benefits of SE === 
+
+===Risks of SE === 
+
+===Conclusion=== 
+

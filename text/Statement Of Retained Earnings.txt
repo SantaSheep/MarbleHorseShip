@@ -1,0 +1,12 @@
+===Introduction to Statement of Retained Earnings === 
+The statement of retained earnings is a financial statement that shows the changes in a company’s retained earnings over a period of time. It is used to track the amount of money that a company has earned and retained after paying out dividends to its shareholders. The statement of retained earnings is an important tool for investors and analysts to understand the financial health of a company.
+===Components of Statement of Retained Earnings === 
+The statement of retained earnings consists of several components. These include the beginning balance of retained earnings, net income or loss, dividends paid, and the ending balance of retained earnings. The beginning balance of retained earnings is the amount of money that the company had at the beginning of the period. Net income or loss is the amount of money that the company earned or lost during the period. Dividends paid is the amount of money that the company paid out to its shareholders during the period. The ending balance of retained earnings is the amount of money that the company has at the end of the period.
+===How to Calculate Retained Earnings === 
+Retained earnings can be calculated by taking the beginning balance of retained earnings and adding the net income or loss and subtracting the dividends paid. This will give you the ending balance of retained earnings. For example, if the beginning balance of retained earnings is $100,000, the net income is $50,000, and the dividends paid are $20,000, then the ending balance of retained earnings would be $130,000.
+===Benefits of Statement of Retained Earnings === 
+The statement of retained earnings is an important tool for investors and analysts to understand the financial health of a company. It provides information about the company’s ability to generate and retain earnings. It also provides information about the company’s dividend policy and its ability to pay out dividends to its shareholders.
+===Example of Statement of Retained Earnings === 
+The following is an example of a statement of retained earnings:
+===Conclusion=== 
+Net Income: $50,000

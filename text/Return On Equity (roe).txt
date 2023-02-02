@@ -1,0 +1,12 @@
+===Introduction to Return on Equity (ROE) === 
+Return on Equity (ROE) is a financial metric used to measure the profitability of a company in relation to the equity of its shareholders. It is calculated by dividing the company’s net income by its total equity. ROE is a key indicator of a company’s financial health and performance, and is used by investors to assess the potential return on their investment.
+===Calculating ROE === 
+ROE is calculated by dividing a company’s net income by its total equity. Net income is the total amount of money a company earns after subtracting all expenses, including taxes, from its total revenue. Total equity is the total amount of money that shareholders have invested in the company.
+===Benefits of ROE === 
+
+===Limitations of ROE === 
+Benefits of ROE
+===Examples of ROE === 
+Limitations of ROE
+===Conclusion === 
+Examples of ROE

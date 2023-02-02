@@ -1,0 +1,12 @@
+===Introduction to Fixed-Charge Coverage Ratio === 
+The fixed-charge coverage ratio is a financial metric used to measure a company’s ability to meet its fixed financial obligations. It is a measure of a company’s liquidity and solvency and is used to assess the risk of default. The fixed-charge coverage ratio is an important tool for investors and creditors to evaluate a company’s financial health.
+===What is the Fixed-Charge Coverage Ratio? === 
+The fixed-charge coverage ratio is a financial metric used to measure a company’s ability to meet its fixed financial obligations. It is calculated by dividing a company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its fixed charges. Fixed charges include interest payments, lease payments, and other contractual payments. The higher the ratio, the better the company’s ability to meet its fixed financial obligations.
+===How to Calculate the Fixed-Charge Coverage Ratio === 
+The fixed-charge coverage ratio is calculated by dividing a company’s EBITDA by its fixed charges. The formula is as follows:
+===Benefits of the Fixed-Charge Coverage Ratio === 
+
+===Limitations of the Fixed-Charge Coverage Ratio === 
+Benefits of the Fixed-Charge Coverage Ratio
+===Example of Fixed-Charge Coverage Ratio Calculation=== 
+Limitations of the Fixed-Charge Coverage Ratio

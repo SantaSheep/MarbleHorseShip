@@ -1,0 +1,12 @@
+===Introduction to Altman Z-Score === 
+The Altman Z-Score is a financial metric developed by Edward I. Altman in 1968 to measure the financial health of a company. It is a combination of five financial ratios that measure a company’s liquidity, profitability, leverage, and activity. The Altman Z-Score is used to predict the probability of a company going bankrupt within two years. It is a useful tool for investors, creditors, and other stakeholders to assess the financial health of a company.
+===Overview of Altman Z-Score Calculation === 
+The Altman Z-Score is calculated using five financial ratios: working capital to total assets, retained earnings to total assets, earnings before interest and taxes to total assets, market value of equity to total liabilities, and sales to total assets. These ratios are then weighted and combined to calculate the Altman Z-Score. The score is then compared to a predetermined threshold to determine the financial health of the company.
+===Benefits of Using Altman Z-Score === 
+The Altman Z-Score is a simple and effective way to measure the financial health of a company. It is easy to calculate and can be used to quickly assess the financial health of a company. It is also useful for investors, creditors, and other stakeholders to assess the risk of investing in a company.
+===Limitations of Altman Z-Score === 
+The Altman Z-Score is not a perfect measure of a company’s financial health. It does not take into account qualitative factors such as management quality or industry trends. It also does not take into account the company’s cash flow or debt structure.
+===Examples of Altman Z-Score Calculations === 
+The Altman Z-Score can be calculated using the following formula:
+===Conclusion === 
+

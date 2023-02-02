@@ -1,0 +1,12 @@
+===Introduction to Acid-Test Ratio === 
+The acid-test ratio is a financial metric used to measure a company’s liquidity and ability to pay its short-term debts. It is also known as the quick ratio or the liquid ratio. The acid-test ratio is an important tool for investors and creditors to assess the financial health of a company.
+===What is the Acid-Test Ratio? === 
+The acid-test ratio is a measure of a company’s liquidity and ability to pay its short-term debts. It is calculated by dividing a company’s total current assets by its total current liabilities. The higher the ratio, the more liquid the company is and the better its ability to pay its short-term debts.
+===How to Calculate the Acid-Test Ratio === 
+The acid-test ratio is calculated by dividing a company’s total current assets by its total current liabilities. Current assets include cash, accounts receivable, and inventory. Current liabilities include accounts payable, short-term debt, and other current liabilities.
+===Benefits of the Acid-Test Ratio === 
+The acid-test ratio is a useful tool for investors and creditors to assess the financial health of a company. It provides an indication of a company’s liquidity and ability to pay its short-term debts. A high acid-test ratio indicates that a company is in good financial health and is able to pay its short-term debts.
+===Limitations of the Acid-Test Ratio === 
+The acid-test ratio is a useful tool, but it has some limitations. It does not take into account long-term debt or other liabilities, such as taxes or deferred revenue. It also does not take into account the quality of the assets or the company’s ability to generate cash flow.
+===Conclusion=== 
+The acid-test ratio is a useful tool for investors and creditors to assess the financial health of a company. It provides an indication of a company’s liquidity and ability to pay its short-term debts. However, it has some limitations and should not be used as the sole measure of a company’s financial health.

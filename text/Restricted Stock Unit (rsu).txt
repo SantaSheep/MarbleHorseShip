@@ -1,0 +1,12 @@
+===Introduction to Restricted Stock Units (RSU) === 
+Restricted Stock Units (RSUs) are a form of equity compensation offered by employers to their employees. RSUs are a type of stock option that gives employees the right to receive shares of the company’s stock at a predetermined price and date. Unlike stock options, RSUs are not tradable and cannot be sold on the open market. Instead, they are subject to vesting requirements, which means that the employee must meet certain conditions before they can receive the shares.
+===Tax Implications of RSUs === 
+The tax implications of RSUs depend on the type of RSU and the country in which the employee resides. Generally, RSUs are taxed as ordinary income when they vest, meaning that the employee must pay taxes on the value of the shares at the time of vesting. In some countries, such as the United States, the employee may also be subject to capital gains taxes when they sell the shares.
+===Benefits of RSUs === 
+RSUs offer a number of benefits to employers and employees alike. For employers, RSUs can be used to attract and retain top talent, as they provide employees with an incentive to stay with the company. For employees, RSUs can be a great way to build wealth, as they provide the opportunity to own a piece of the company they work for.
+===How RSUs are Valued === 
+The value of RSUs is determined by the company’s stock price at the time of vesting. The value of the shares is calculated by multiplying the number of RSUs by the stock price at the time of vesting.
+===How RSUs are Distributed === 
+RSUs are typically distributed to employees on a predetermined schedule. The schedule is usually based on the employee’s length of service with the company, with more senior employees receiving more RSUs.
+===Conclusion=== 
+RSUs are a great way for employers to reward and retain employees, and for employees to build wealth. They are subject to vesting requirements and taxes, and their value is determined by the company’s stock price at the time of vesting. Understanding how RSUs work is essential for both employers and employees, as it can help them make the most of this form of equity compensation.

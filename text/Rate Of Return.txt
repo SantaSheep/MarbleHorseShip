@@ -1,0 +1,12 @@
+===Introduction to Rate of Return === 
+Rate of return is a measure of the profitability of an investment. It is the amount of money earned or lost on an investment over a period of time, expressed as a percentage of the original investment. It is used to compare the performance of different investments and to measure the performance of an investment portfolio.
+===Calculating Rate of Return === 
+The rate of return is calculated by dividing the total return of an investment by the original investment amount. The total return includes any income earned from the investment, such as dividends or interest, as well as any capital gains or losses. The rate of return is expressed as a percentage.
+===Types of Rate of Return === 
+There are two types of rate of return: nominal and real. Nominal rate of return is the rate of return before adjusting for inflation. Real rate of return is the rate of return after adjusting for inflation.
+===Factors Affecting Rate of Return === 
+The rate of return of an investment is affected by a number of factors, including the type of investment, the amount of risk involved, the length of time the investment is held, and the performance of the market.
+===Examples of Rate of Return === 
+An example of a nominal rate of return is a stock that has a return of 10% over a one-year period. An example of a real rate of return is a bond that has a return of 5% over a one-year period, after adjusting for inflation.
+===Conclusion === 
+The rate of return is an important measure of the profitability of an investment. It is used to compare the performance of different investments and to measure the performance of an investment portfolio. The rate of return is affected by a number of factors, including the type of investment, the amount of risk involved, the length of time the investment is held, and the performance of the market.

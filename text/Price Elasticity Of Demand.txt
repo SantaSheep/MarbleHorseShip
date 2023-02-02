@@ -1,0 +1,12 @@
+===Introduction to Price Elasticity of Demand === 
+Price elasticity of demand is an important concept in economics that measures the responsiveness of the quantity demanded of a good or service to a change in its price. It is a measure of how much the quantity demanded of a good or service changes when its price changes. It is used to determine how sensitive consumers are to changes in price and how much they are willing to pay for a good or service.
+===Factors Affecting Price Elasticity of Demand === 
+There are several factors that can affect the price elasticity of demand. These include the availability of substitutes, the proportion of income spent on the good or service, the time period, and the necessity of the good or service. The availability of substitutes affects the price elasticity of demand because if there are many substitutes for a good or service, then consumers are more likely to switch to a substitute when the price of the good or service increases. The proportion of income spent on the good or service affects the price elasticity of demand because if a large proportion of a consumer’s income is spent on the good or service, then they are less likely to reduce their consumption when the price increases. The time period affects the price elasticity of demand because if the time period is short, then consumers are more likely to reduce their consumption when the price increases. The necessity of the good or service affects the price elasticity of demand because if the good or service is necessary, then consumers are less likely to reduce their consumption when the price increases.
+===Examples of Price Elasticity of Demand === 
+An example of a good or service with a high price elasticity of demand is luxury items such as jewelry or designer clothing. These items are not necessary and there are many substitutes available, so consumers are more likely to reduce their consumption when the price increases. An example of a good or service with a low price elasticity of demand is necessities such as food or housing. These items are necessary and there are few substitutes available, so consumers are less likely to reduce their consumption when the price increases.
+===Calculating Price Elasticity of Demand === 
+The price elasticity of demand can be calculated using the following formula:
+===Implications of Price Elasticity of Demand === 
+
+===Conclusion === 
+

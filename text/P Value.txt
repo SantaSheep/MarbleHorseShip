@@ -1,0 +1,14 @@
+===Introduction to P-Value === 
+P-value is a statistical measure used to assess the strength of evidence in a hypothesis test. It is the probability of obtaining a result at least as extreme as the observed result, given that the null hypothesis is true. The lower the p-value, the stronger the evidence against the null hypothesis. In other words, the lower the p-value, the more likely it is that the observed result is due to something other than chance.
+===What is a P-Value? === 
+A p-value is a measure of the strength of evidence in a hypothesis test. It is the probability of obtaining a result at least as extreme as the observed result, given that the null hypothesis is true. The lower the p-value, the stronger the evidence against the null hypothesis.
+===How to Calculate a P-Value === 
+The p-value is calculated using the observed data and the assumed distribution of the data under the null hypothesis. The calculation involves finding the probability of obtaining a result at least as extreme as the observed result, given that the null hypothesis is true. This probability is the p-value.
+===Interpreting a P-Value === 
+The p-value is used to assess the strength of evidence in a hypothesis test. A low p-value indicates strong evidence against the null hypothesis, while a high p-value indicates weak evidence against the null hypothesis. Generally, a p-value of 0.05 or less is considered to be statistically significant, meaning that there is a less than 5% chance that the observed result is due to chance.
+===Examples of P-Value Calculations === 
+The following are examples of p-value calculations:
+===Conclusion === 
+
+====== 
+Conclusion

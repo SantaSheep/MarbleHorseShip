@@ -1,0 +1,8 @@
+===Introduction to Return on Average Capital Employed (ROACE) === 
+
+===Calculating ROACE === 
+Benefits of ROACE: ROACE is a useful metric for investors and analysts to assess the profitability of a company. It is a good indicator of how efficiently a company is using its capital to generate profits. It also helps to compare the performance of different companies in the same industry.
+===Benefits of ROACE === 
+
+===Limitations of ROACE === 
+Conclusion: ROACE is a useful financial metric for investors and analysts to assess the profitability of a company. It is a good indicator of how efficiently a company is using its capital to generate profits. However, it does not take into account the risk associated with the capital employed or the cost of capital, which can have a significant impact on the profitability of a company.

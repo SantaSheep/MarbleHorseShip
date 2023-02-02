@@ -1,0 +1,12 @@
+===Introduction to Common Size Income Statements === 
+Common size income statements are financial statements that present the relative size of each item on the income statement as a percentage of total sales. This type of financial statement is used to compare the performance of a company over time or to compare the performance of different companies in the same industry. Common size income statements are also known as vertical analysis statements.
+===Benefits of Common Size Income Statements === 
+Common size income statements provide a more comprehensive view of a company’s financial performance. By presenting the relative size of each item on the income statement as a percentage of total sales, common size income statements allow investors and analysts to quickly identify trends in a company’s performance. Common size income statements also make it easier to compare the performance of different companies in the same industry.
+===How to Calculate Common Size Income Statements === 
+To calculate a common size income statement, the total sales figure is used as the base figure. Each item on the income statement is then divided by the total sales figure and expressed as a percentage. For example, if a company’s total sales are $100,000 and its cost of goods sold is $50,000, the cost of goods sold would be expressed as 50% of total sales.
+===Example of a Common Size Income Statement === 
+Below is an example of a common size income statement for a company with total sales of $100,000:
+===Limitations of Common Size Income Statements === 
+Cost of Goods Sold: 50%
+===Conclusion=== 
+Net Income: 25%

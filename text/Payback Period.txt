@@ -1,0 +1,14 @@
+===Introduction to Payback Period === 
+
+===Calculating Payback Period === 
+Payback period is a financial metric used to measure the amount of time it takes for an investment to generate enough cash flow to cover its initial cost. It is a simple and straightforward way to evaluate the profitability of a project or investment. The payback period is calculated by dividing the initial cost of the investment by the expected cash flow generated from the investment.
+===Advantages of Payback Period === 
+
+===Disadvantages of Payback Period === 
+Advantages of Payback Period
+===Example of Payback Period === 
+
+===Conclusion === 
+The payback period does not take into account the time value of money, which means that it does not consider the fact that money is worth more today than it will be in the future. Additionally, it does not consider the cash flows generated after the payback period has been reached, which means that it does not provide a complete picture of the profitability of an investment.
+===Calculating Payback Period: Step-by-step guide on how to calculate=== 
+

@@ -1,0 +1,16 @@
+===Introduction to Simple Moving Average (SMA) === 
+
+===How to Calculate SMA === 
+Simple Moving Average (SMA) is a technical analysis tool used to identify trends in financial markets. It is a type of moving average that is calculated by taking the average of a certain number of past prices. The SMA is a lagging indicator, meaning that it follows the trend of the market rather than predicting it. It is used to smooth out short-term fluctuations and identify longer-term trends.
+===Benefits of Using SMA === 
+
+===Common Uses of SMA === 
+Benefits of Using SMA:
+===Limitations of SMA === 
+
+===Conclusion === 
+The SMA is commonly used by traders and investors to identify trends in the market. It is also used to identify support and resistance levels, as well as to identify potential entry and exit points.
+===Introduction to Simple Moving Average (SMA): Learn what SMA is and how it is used in finance=== 
+
+===2=== 
+Conclusion:

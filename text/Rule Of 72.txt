@@ -1,0 +1,12 @@
+===Introduction to the Rule of 72 === 
+The Rule of 72 is a simple mathematical formula used to calculate the approximate amount of time it will take for an investment to double in value. It is a useful tool for investors to estimate the rate of return on their investments and to plan for their financial future. The Rule of 72 is based on the concept of compound interest, which is the interest earned on the principal amount plus any interest earned on the interest already earned.
+===How the Rule of 72 Works === 
+The Rule of 72 is a simple formula that can be used to calculate the approximate amount of time it will take for an investment to double in value. The formula is: 72 divided by the rate of return equals the approximate number of years it will take for the investment to double. For example, if an investor has an investment that earns 8% interest, it will take approximately 9 years for the investment to double (72 divided by 8 = 9).
+===Advantages of the Rule of 72 === 
+The Rule of 72 is a simple and easy to use tool for investors to estimate the rate of return on their investments. It is also a useful tool for investors to plan for their financial future. The Rule of 72 can help investors determine how long it will take for their investments to double in value and can help them plan for retirement.
+===Disadvantages of the Rule of 72 === 
+The Rule of 72 is a simple formula and does not take into account other factors such as inflation, taxes, and fees. It also does not take into account the effects of compounding, which can significantly increase the rate of return on an investment. Additionally, the Rule of 72 is only an estimate and does not guarantee that an investment will double in value in the specified amount of time.
+===Examples of the Rule of 72 === 
+To illustrate how the Rule of 72 works, let’s look at a few examples.
+===Conclusion=== 
+

@@ -1,0 +1,12 @@
+===Introduction to StochRSI === 
+StochRSI is a technical indicator used by traders to measure the momentum of a security’s price. It is a combination of the Stochastic Oscillator and the Relative Strength Index (RSI). The StochRSI is a powerful tool that can be used to identify overbought and oversold conditions, as well as potential entry and exit points for trades.
+===What is StochRSI? === 
+StochRSI is a technical indicator that combines the Stochastic Oscillator and the Relative Strength Index (RSI). The StochRSI is calculated by taking the RSI and applying the Stochastic Oscillator formula to it. The StochRSI is a momentum indicator that measures the rate of change in the RSI over a given period of time.
+===How to Calculate StochRSI === 
+The StochRSI is calculated by taking the RSI and applying the Stochastic Oscillator formula to it. The formula for the StochRSI is as follows:
+===Benefits of Using StochRSI === 
+
+===Examples of StochRSI in Action === 
+Benefits of Using StochRSI
+===Conclusion=== 
+Examples of StochRSI in Action

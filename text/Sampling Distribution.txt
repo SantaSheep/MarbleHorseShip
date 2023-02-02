@@ -1,0 +1,8 @@
+===Introduction to Sampling Distribution === 
+
+===Types of Sampling Distribution === 
+Examples of Sampling Distribution - Examples of sampling distributions include the binomial distribution, the normal distribution, the Poisson distribution, and the chi-squared distribution. Each of these distributions has its own characteristics and is used to measure different types of data.
+===Examples of Sampling Distribution === 
+
+===Advantages of Sampling Distribution === 
+Conclusion - Sampling distribution is an important concept in statistics that is used to make inferences about a population based on a sample. It has both advantages and disadvantages, but it is a useful tool for making accurate predictions about a population.

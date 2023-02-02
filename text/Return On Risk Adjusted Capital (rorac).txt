@@ -1,0 +1,12 @@
+===Introduction to Return on Risk-Adjusted Capital (RORAC) === 
+Return on Risk-Adjusted Capital (RORAC) is a financial metric used to measure the profitability of a company relative to the amount of risk taken on by the company. It is a measure of the return on capital that has been adjusted for the risk associated with the capital. RORAC is used to compare the profitability of different investments and to assess the risk-adjusted performance of a company.
+===Definition of RORAC === 
+RORAC is defined as the return on capital adjusted for the risk associated with the capital. It is calculated by dividing the return on capital by the risk-adjusted capital. The risk-adjusted capital is the amount of capital that has been adjusted for the risk associated with the capital.
+===Calculation of RORAC === 
+RORAC is calculated by dividing the return on capital by the risk-adjusted capital. The return on capital is calculated by subtracting the cost of capital from the return on capital. The risk-adjusted capital is calculated by subtracting the risk associated with the capital from the total capital.
+===Advantages of RORAC === 
+RORAC is a useful metric for assessing the risk-adjusted performance of a company. It allows investors to compare the profitability of different investments and to assess the risk-adjusted performance of a company. It also helps investors to identify investments that are more profitable and less risky.
+===Disadvantages of RORAC === 
+RORAC is not a perfect measure of risk-adjusted performance. It does not take into account the volatility of the market or the potential for losses. It also does not take into account the time value of money.
+===Example of RORAC Calculation=== 
+To calculate the RORAC of a company, we first need to calculate the return on capital. The return on capital is calculated by subtracting the cost of capital from the return on capital. For example, if the return on capital is 10% and the cost of capital is 5%, then the return on capital is 5%.

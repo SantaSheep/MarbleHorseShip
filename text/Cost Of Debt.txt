@@ -1,0 +1,12 @@
+===Introduction to Cost of Debt === 
+Cost of debt is the rate of return that a company must pay to its creditors for borrowing money. It is the cost of borrowing money and is usually expressed as a percentage of the amount borrowed. The cost of debt is an important factor in a company’s financial decision-making process, as it affects the company’s overall cost of capital.
+===Calculating Cost of Debt === 
+The cost of debt is calculated by taking the total amount of interest paid on the debt over a given period of time and dividing it by the total amount of debt outstanding. The resulting figure is the cost of debt.
+===Factors Affecting Cost of Debt === 
+The cost of debt is affected by a number of factors, including the company’s credit rating, the type of debt instrument used, the terms of the loan, the interest rate, and the length of the loan.
+===Advantages of Cost of Debt === 
+The cost of debt is a relatively low-cost form of financing, as interest payments are tax-deductible. This means that the cost of debt is lower than the cost of equity financing. Additionally, debt financing can provide a company with a steady source of capital, allowing it to expand and grow.
+===Disadvantages of Cost of Debt === 
+The cost of debt can be high if the company has a poor credit rating or if the terms of the loan are unfavorable. Additionally, debt financing can be risky, as the company is obligated to make payments regardless of its financial performance.
+===Example of Cost of Debt Calculation=== 
+For example, if a company has $1,000,000 in debt outstanding and pays $50,000 in interest over the course of a year, the cost of debt would be 5%. ($50,000 / $1,000,000 = 0.05, or 5%).

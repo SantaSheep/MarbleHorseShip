@@ -1,0 +1,12 @@
+===Introduction to Geometric Mean === 
+Geometric mean is a type of average used to measure the central tendency of a set of numbers. It is calculated by taking the product of all the numbers in the set and then taking the nth root of the product, where n is the number of numbers in the set. Geometric mean is often used to measure the rate of return of an investment over a period of time.
+===Calculating Geometric Mean === 
+The formula for calculating geometric mean is as follows:
+===Advantages of Geometric Mean === 
+
+===Disadvantages of Geometric Mean === 
+Advantages of Geometric Mean
+===Examples of Geometric Mean === 
+Disadvantages of Geometric Mean
+===Conclusion === 
+Examples of Geometric Mean

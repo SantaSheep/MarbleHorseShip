@@ -1,0 +1,18 @@
+===Introduction to Liquidity Ratios === 
+Liquidity ratios are a type of financial ratio used to measure a company’s ability to pay its short-term debts and obligations. These ratios are used to assess a company’s short-term financial health and are calculated by dividing a company’s current assets by its current liabilities. Liquidity ratios are important for investors and creditors to assess a company’s ability to meet its short-term obligations.
+===Examples of Liquidity Ratios === 
+The most common liquidity ratios are the current ratio, quick ratio, and cash ratio. The current ratio is calculated by dividing a company’s current assets by its current liabilities. The quick ratio is calculated by subtracting a company’s inventory from its current assets and then dividing the result by its current liabilities. The cash ratio is calculated by dividing a company’s cash and cash equivalents by its current liabilities.
+===Current Ratio === 
+The current ratio is the most commonly used liquidity ratio and is calculated by dividing a company’s current assets by its current liabilities. This ratio is used to measure a company’s ability to pay its short-term debts and obligations. A current ratio of 1.5 or higher is generally considered to be a good indication of a company’s financial health.
+===Quick Ratio === 
+The quick ratio is calculated by subtracting a company’s inventory from its current assets and then dividing the result by its current liabilities. This ratio is used to measure a company’s ability to pay its short-term debts and obligations without relying on the sale of inventory. A quick ratio of 1.0 or higher is generally considered to be a good indication of a company’s financial health.
+===Cash Ratio === 
+The cash ratio is calculated by dividing a company’s cash and cash equivalents by its current liabilities. This ratio is used to measure a company’s ability to pay its short-term debts and obligations without relying on the sale of inventory or the collection of accounts receivable. A cash ratio of 0.5 or higher is generally considered to be a good indication of a company’s financial health.
+===Benefits of Liquidity Ratios === 
+Liquidity ratios are important for investors and creditors to assess a company’s ability to meet its short-term obligations. These ratios provide a quick and easy way to measure a company’s financial health and can be used to compare a company’s performance to that of its peers.
+===Challenges of Liquidity Ratios === 
+The main challenge with liquidity ratios is that they do not take into account a company’s long-term financial health. These ratios only measure a company’s ability to pay its short-term debts and obligations and do not provide any insight into a company’s long-term financial health.
+===Conclusion === 
+Liquidity ratios are a type of financial ratio used to measure a company’s ability to pay its short-term debts and obligations. These ratios are important for investors and creditors to assess a company’s ability to meet its short-term obligations. The most common liquidity ratios are the current ratio, quick ratio, and cash ratio. These ratios provide a quick and easy way to measure a company’s financial health and can be used to compare a company’s performance to that of its peers.
+===References=== 
+1. Investopedia. (2020). Liquidity Ratios. Retrieved from https://www.investopedia.com/terms/l/liquidityratios.asp

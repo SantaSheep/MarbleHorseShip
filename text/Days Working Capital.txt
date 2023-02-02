@@ -1,0 +1,12 @@
+===Introduction to Days Working Capital === 
+Days Working Capital (DWC) is a financial metric used to measure a company’s liquidity and ability to pay its short-term obligations. It is calculated by dividing the total current assets of a company by its total current liabilities. The result is expressed in days, which indicates how many days a company can cover its current liabilities with its current assets. This metric is important for investors and creditors to assess the financial health of a company.
+===Calculating Days Working Capital === 
+Days Working Capital is calculated by dividing the total current assets of a company by its total current liabilities. The formula is as follows:
+===Factors Affecting Days Working Capital === 
+
+===Benefits of Monitoring Days Working Capital === 
+Factors Affecting Days Working Capital
+===Examples of Days Working Capital === 
+Inventory management is important because it affects the amount of current assets a company has. If a company has too much inventory, it can tie up cash and reduce the amount of current assets available to cover current liabilities.
+===Conclusion === 
+

@@ -1,0 +1,12 @@
+===Introduction to Probability Density Function (PDF) === 
+Probability density functions (PDFs) are mathematical functions that describe the probability of a random variable taking on a given value. PDFs are used to describe the probability of a random variable taking on any value within a given range. PDFs are used in many areas of finance, including portfolio management, risk management, and financial forecasting.
+===Definition of PDF === 
+A probability density function (PDF) is a mathematical function that describes the probability of a random variable taking on a given value. The PDF is a continuous function, meaning that it can take on any value within a given range. The PDF is used to describe the probability of a random variable taking on any value within a given range.
+===Examples of PDF === 
+One example of a PDF is the normal distribution. The normal distribution is a continuous probability distribution that is used to describe the probability of a random variable taking on any value within a given range. The normal distribution is often used to describe the probability of a stock price taking on any value within a given range.
+===Uses of PDF === 
+
+===Calculating PDF === 
+
+===Conclusion=== 
+

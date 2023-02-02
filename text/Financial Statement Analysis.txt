@@ -1,0 +1,12 @@
+===Introduction to Financial Statement Analysis === 
+Financial statement analysis is the process of analyzing a company’s financial statements to gain insight into its financial health. Financial statements provide a snapshot of a company’s financial position at a given point in time. By analyzing these statements, investors and analysts can gain insight into a company’s performance, liquidity, and solvency.
+===Types of Financial Statements === 
+Financial statements are divided into three main categories: balance sheets, income statements, and cash flow statements. The balance sheet provides a snapshot of a company’s assets, liabilities, and equity at a given point in time. The income statement provides information on a company’s revenues, expenses, and profits over a given period of time. The cash flow statement provides information on a company’s cash inflows and outflows over a given period of time.
+===Analyzing the Balance Sheet === 
+When analyzing a balance sheet, investors and analysts look at a company’s assets, liabilities, and equity. Assets are items of value that a company owns, such as cash, inventory, and property. Liabilities are debts and other obligations that a company owes, such as loans and accounts payable. Equity is the difference between a company’s assets and liabilities.
+===Analyzing the Income Statement === 
+When analyzing an income statement, investors and analysts look at a company’s revenues, expenses, and profits. Revenues are the money a company earns from selling goods and services. Expenses are the costs associated with running a business, such as salaries, rent, and utilities. Profits are the difference between a company’s revenues and expenses.
+===Analyzing the Cash Flow Statement === 
+When analyzing a cash flow statement, investors and analysts look at a company’s cash inflows and outflows. Cash inflows are the money a company receives, such as from sales and investments. Cash outflows are the money a company spends, such as on salaries and expenses.
+===Conclusion=== 
+Financial statement analysis is an important tool for investors and analysts to gain insight into a company’s financial health. By analyzing a company’s balance sheet, income statement, and cash flow statement, investors and analysts can gain insight into a company’s performance, liquidity, and solvency.

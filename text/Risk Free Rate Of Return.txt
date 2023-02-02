@@ -1,0 +1,8 @@
+===Introduction to Risk-Free Rate of Return === 
+
+===What is the Risk-Free Rate of Return? === 
+Factors that Affect the Risk-Free Rate of Return - The risk-free rate of return is affected by a number of factors, including the economic environment, the level of inflation, the level of interest rates, and the availability of safe investments. The risk-free rate of return is also affected by the level of risk associated with the investment. For example, if an investor is investing in a high-risk asset, the risk-free rate of return will be lower than if the investor is investing in a low-risk asset.
+===Factors that Affect the Risk-Free Rate of Return === 
+
+===Calculating the Risk-Free Rate of Return === 
+Conclusion - The risk-free rate of return is an important concept in finance, as it is used as a benchmark for other investments. It is the rate of return that an investor can expect to receive on an investment that is considered to be completely free of risk. The risk-free rate of return is affected by a number of factors, including the economic environment, the level of inflation, the level of interest rates, and the availability of safe investments. The risk-free rate of return can be calculated by subtracting the expected return on a risk-free asset from the expected return on a risky asset. Examples of risk-free rate of return include government bonds, treasury bills, and certificates of deposit.

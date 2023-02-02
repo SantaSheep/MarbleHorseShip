@@ -1,0 +1,12 @@
+===Introduction to Fama and French Three Factor Model === 
+The Fama and French Three Factor Model is a financial model developed by Eugene Fama and Kenneth French in 1992. It is a widely accepted model used to explain the behavior of stock returns. The model is based on the idea that stock returns are determined by three factors: market risk, size risk, and value risk. The model has been used to explain the performance of stocks in different markets and to develop investment strategies.
+===Overview of the Three Factors === 
+The Fama and French Three Factor Model is based on three factors: market risk, size risk, and value risk. Market risk is the risk associated with the overall stock market. Size risk is the risk associated with the size of a company. Value risk is the risk associated with the value of a company.
+===Market Risk Factor === 
+The market risk factor is the risk associated with the overall stock market. It is based on the idea that stock prices are affected by the overall performance of the stock market. The market risk factor is measured by the market beta, which is a measure of the volatility of a stock relative to the overall stock market.
+===Size Risk Factor === 
+The size risk factor is the risk associated with the size of a company. It is based on the idea that smaller companies are more volatile than larger companies. The size risk factor is measured by the size beta, which is a measure of the volatility of a stock relative to the size of the company.
+===Value Risk Factor === 
+The value risk factor is the risk associated with the value of a company. It is based on the idea that stocks with higher valuations are more volatile than stocks with lower valuations. The value risk factor is measured by the value beta, which is a measure of the volatility of a stock relative to its valuation.
+===Conclusion=== 
+The Fama and French Three Factor Model is a widely accepted model used to explain the behavior of stock returns. The model is based on the idea that stock returns are determined by three factors: market risk, size risk, and value risk. The model has been used to explain the performance of stocks in different markets and to develop investment strategies.
