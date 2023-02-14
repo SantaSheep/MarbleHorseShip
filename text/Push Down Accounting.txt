@@ -1,11 +1,16 @@
 <seo title="Push Down Accounting" metakeywords="accounting push accounting,acquisition push accounting,push accounting method,company push accounting" metadescription="Push Down Accounting is used when a parent company acquires a subsidiary company."/>
 ===Introduction to Push Down Accounting===
+
 Push Down Accounting is a method of accounting that is used to record the financial results of a subsidiary company that has been acquired by a [[Parent Company|parent company]]. This method of accounting is used to ensure that the [[Financial Statements|financial statements]] of the parent company accurately reflect the financial results of the subsidiary company. Push Down Accounting is also known as Purchase Accounting or [[Acquisiti[[On Account|on Account]]ing|Acquisition Accounting]].
 ===Overview of Push Down Accounting===
+
 Push Down Accounting is used when a parent company acquires a subsidiary company. Under this method of accounting, the parent company records the assets and liabilities of the subsidiary company at their [[Fair Market Value|fair market value]]. This is done to ensure that the financial statements of the parent company accurately reflect the financial results of the subsidiary company. The parent company also records any goodwill or other [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s that may have been acquired in the acquisition.
 ===Benefits of Push Down Accounting===
+
 Push Down Accounting provides several benefits to the parent company. First, it ensures that the financial statements of the parent company accurately reflect the financial results of the subsidiary company. This allows the parent company to make more informed decisions about the subsidiary company. Second, it allows the parent company to record any goodwill or other intangible assets that may have been acquired in the acquisition. This allows the parent company to properly account for the value of the acquisition.
 ===Challenges of Push Down Accounting===
+
 Push Down Accounting can be challenging for the parent company. First, it can be difficult to accurately value the assets and liabilities of the subsidiary company. This can lead to inaccurate financial statements. Second, it can be difficult to accurately record any goodwill or other intangible assets that may have been acquired in the acquisition. This can lead to inaccurate financial statements.
 ===Conclusion===
+
 Push Down Accounting is a method of accounting that is used to record the financial results of a subsidiary company that has been acquired by a parent company. This method of accounting is used to ensure that the financial statements of the parent company accurately reflect the financial results of the subsidiary company. Push Down Accounting provides several benefits to the parent company, such as ensuring that the financial statements of the parent company accurately reflect the financial results of the subsidiary company and allowing the parent company to record any goodwill or other intangible assets that may have been acquired in the acquisition. However, Push Down Accounting can be challenging for the parent company, as it can be difficult to accurately value the assets and liabilities of the subsidiary company and accurately record any goodwill or other intangible assets that may have been acquired in the acquisition

@@ -1,0 +1,23 @@
+<seo title="Law Of Large Numbers" metakeywords="law large numbers,large numbers law,numbers law large,applications law large" metadescription="The Law of Large Numbers (LLN) is a fundamental concept in probability theory and statistics."/>
+===Introduction to the Law of Large Numbers===
+
+The Law of Large Numbers (LLN) is a fundamental concept in probability theory and statistics. It states that as the number of trials or observations increases, the average of the results will approach the [[Expected Value|expected value]]. This law is also known as the law of averages or Bernoulli's theorem. The LLN is an important tool for understanding the behavior of [[Random Variable|random variable]]s and for making predictions about the future.
+===History of the Law of Large Numbers===
+
+The Law of Large Numbers was first proposed by Swiss mathematician Jacob Bernoulli in 1713. He used the law to explain why gambling outcomes tend to even out over time. Bernoulli's theorem was later refined by French mathematician Pierre-Simon Laplace in 1774. Laplace's version of the law was more general and could be applied to any random variable.
+===Mathematical Definition of the Law of Large Numbers===
+
+The Law of Large Numbers states that the average of a set of random variables will approach the expected value as the number of trials or observations increases. Mathematically, this can be expressed as:
+
+lim n→∞ (1/n) ∑i=1nX_i = E[]
+
+where X_i is the ith random variable, n is the number of trials or observations, and E[] is the expected value of 
+===Applications of the Law of Large Numbers===
+
+The Law of Large Numbers has a wide range of applications in finance, economics, and other fields. In finance, the LLN is used to calculate the [[Expected Return|expected return]] on an investment. It is also used to calculate the probability of a certain event occurring. In economics, the LLN is used to calculate the expected value of a given economic variable.
+===Limitations of the Law of Large Numbers===
+
+The Law of Large Numbers is only applicable to random variables that are independent and identically distributed. This means that the random variables must have the same [[Probability Distribution|probability distribution]] and must be independent of each other. If the random variables are not independent or identically distributed, then the law does not apply.
+===Conclusion===
+
+The Law of Large Numbers is an important concept in probability theory and statistics. It states that as the number of trials or observations increases, the average of the results will approach the expected value. The LLN has a wide range of applications in finance, economics, and other fields. However, it is important to note that the law only applies to random variables that are independent and identically distributed

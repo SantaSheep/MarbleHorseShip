@@ -1,11 +1,16 @@
 <seo title="Variance" metakeywords="population variance measure,variance variance used,variance used,variance important concept" metadescription="variance is a measure of how much a set of numbers is spread out from its average.It is used in many fields, including finance, economics, and statistics."/>
 ===Introduction to Variance===
+
 Variance is a measure of how much a set of numbers is spread out from its average. It is a measure of the dispersion of a set of data points from their mean. Variance is an important concept in statistics and is used to measure the spread of a data set. Variance is also used to measure the risk associated with investments.
 ===Types of Variance===
+
 There are two types of variance: population variance and sample variance. Population variance is the measure of the spread of all the values in a population. Sample variance is the measure of the spread of a sample of values from a population.
 ===Calculating Variance===
+
 Variance is calculated by taking the sum of the squared differences between each data point and the mean, and then dividing by the number of data points. This calculation is known as the variance formula.
 ===Uses of Variance===
+
 Variance is used in many different fields, including finance, economics, and statistics. In finance, variance is used to measure the risk associated with investments. Variance is also used to measure the spread of a data set in economics and statistics.
 ===Conclusion===
+
 Variance is an important concept in statistics and is used to measure the spread of a data set. There are two types of variance: population variance and sample variance. Variance is calculated by taking the sum of the squared differences between each data point and the mean, and then dividing by the number of data points. Variance is used in many different fields, including finance, economics, and statistics. In finance, variance is used to measure the risk associated with investments

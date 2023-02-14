@@ -1,0 +1,27 @@
+<seo title="Agency Costs" metakeywords="agency costs strategies,agency costs arise,introduction agency costs,minimize agency costs" metadescription="Agency costs are the costs associated with the conflict of interest between the principal and the agent in a principal-agent relationship."/>
+===Introduction to Agency Costs===
+
+Agency costs are the costs associated with the [[Conflict Of Interest|conflict of interest]] between the principal and the agent in a principal-agent relationship. This conflict of interest arises when the principal delegates decision-making authority to the agent, who may not always act in the best interests of the principal. Agency costs are the costs incurred by the principal in order to ensure that the agent acts in the best interests of the principal.
+===Types of Agency Costs===
+
+Agency costs can be divided into two main categories: monitoring costs and residual costs. Monitoring costs are the costs associated with monitoring the agent’s activities to ensure that they are acting in the best interests of the principal. Residual costs are the costs associated with the agent’s decisions that are not in the best interests of the principal.
+===Causes of Agency Costs===
+
+Agency costs arise from the conflict of interest between the principal and the agent. This conflict of interest arises when the principal delegates decision-making authority to the agent, who may not always act in the best interests of the principal. The principal must then incur costs in order to ensure that the agent is acting in the best interests of the principal.
+===Impact of Agency Costs===
+
+The impact of agency costs can be significant. Agency costs can reduce the [[Return On Investment|return on investment]] for the principal, as the principal must incur costs in order to ensure that the agent is acting in the best interests of the principal. Agency costs can also reduce the efficiency of the principal-agent relationship, as the principal must spend time and resources monitoring the agent’s activities.
+===Strategies to Minimize Agency Costs===
+
+There are several strategies that can be used to minimize agency costs. These include:
+
+• Establishing clear objectives and performance standards for the agent.
+
+• Establishing a system of incentives and rewards for the agent.
+
+• Establishing a system of monitoring and oversight for the agent.
+
+• Establishing a system of communication between the principal and the agent.
+===Conclusion===
+
+Agency costs are the costs associated with the conflict of interest between the principal and the agent in a principal-agent relationship. These costs can be significant and can reduce the return on investment for the principal. There are several strategies that can be used to minimize agency costs, such as establishing clear objectives and performance standards for the agent, establishing a system of incentives and rewards for the agent, establishing a system of monitoring and oversight for the agent, and establishing a system of communication between the principal and the agent

@@ -1,0 +1,18 @@
+<seo title="Non Parametric Statistics" metakeywords="studies nonparametric statistics,nonparametric statistics require,nonparametric statistics used,nonparametric statistics nonparametric" metadescription="Nonparametric statistics is a branch of statistics that does not rely on the assumptions of a normal distribution of data."/>
+===Introduction to Nonparametric Statistics===
+
+Nonparametric statistics is a branch of statistics that does not rely on the assumptions of a [[Normal Distribution|normal distribution]] of data. It is used to analyze data that is not normally distributed, such as data from surveys, experiments, or observational studies. Nonparametric statistics are also known as distribution-free statistics, as they do not require the data to follow a specific distribution. Nonparametric statistics are used to analyze data that is not normally distributed, such as data from surveys, experiments, or observational studies.
+===Types of Nonparametric Statistics===
+
+Nonparametric statistics can be divided into two main categories: parametric and nonparametric. Parametric statistics are based on the assumption that the data follows a normal distribution. Nonparametric statistics, on the other hand, do not rely on this assumption. Examples of nonparametric statistics include the Wilcoxon rank-sum test, the Kruskal-Wallis test, the Mann-Whitney U test, the Spearman’s rank [[Correlation Coefficient|correlation coefficient]], and the Kendall’s tau correlation coefficient.
+===Applications of Nonparametric Statistics===
+
+Nonparametric statistics are used in a variety of fields, including psychology, sociology, economics, and medicine. In psychology, nonparametric statistics are used to analyze data from surveys and experiments. In sociology, nonparametric statistics are used to analyze data from observational studies. In economics, nonparametric statistics are used to analyze data from [[Market Research|market research]] and [[Financial Analysis|financial analysis]]. In medicine, nonparametric statistics are used to analyze data from clinical trials and epidemiological studies.
+===Advantages and Disadvantages of Nonparametric Statistics===
+
+Nonparametric statistics have several advantages over parametric statistics. First, nonparametric statistics do not require the data to follow a normal distribution, which makes them more flexible and easier to use. Second, nonparametric statistics are less sensitive to outliers, which makes them more reliable. Third, nonparametric statistics are less affected by sample size, which makes them more accurate.
+
+However, nonparametric statistics also have some disadvantages. First, nonparametric statistics are less powerful than parametric statistics, which means that they may not be able to detect subtle differences between groups. Second, nonparametric statistics are more computationally intensive, which can make them more time-consuming to use. Third, nonparametric statistics are less intuitive than parametric statistics, which can make them more difficult to interpret.
+===Conclusion===
+
+Nonparametric statistics are a powerful tool for analyzing data that is not normally distributed. They are less sensitive to outliers, less affected by sample size, and more flexible than parametric statistics. However, they are also less powerful, more computationally intensive, and less intuitive than parametric statistics. Nonparametric stati

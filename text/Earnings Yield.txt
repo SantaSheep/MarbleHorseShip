@@ -1,0 +1,24 @@
+<seo title="Earnings Yield" metakeywords="earnings yield useful,earnings yield used,earnings yield eps,earnings yield financial" metadescription="Earnings yield is a financial metric used to measure the profitability of a company."/>
+===Introduction to Earnings Yield===
+
+Earnings yield is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s earnings per share (EPS) by its current market price per share. The earnings yield is expressed as a percentage and is used to compare the profitability of different companies or to compare the profitability of a company over time.
+===Calculation of Earnings Yield===
+
+The earnings yield is calculated by dividing the company’s earnings per share (EPS) by its current market price per share. The formula for calculating the earnings yield is:
+
+Earnings Yield = EPS / Market Price per Share
+
+For example, if a company has an EPS of $2 and a market price per share of $50, the earnings yield would be 4%.
+
+Earnings Yield = $2 / $50 = 4%
+===Uses of Earnings Yield===
+
+The earnings yield is used to compare the profitability of different companies or to compare the profitability of a company over time. It is also used to compare the profitability of a company to the average return of the [[Stock Market|stock market]]. For example, if the earnings yield of a company is higher than the average return of the stock market, then the company is considered to be more profitable than the average company.
+
+The earnings yield can also be used to identify undervalued stocks. If a company’s earnings yield is higher than the average return of the stock market, then the stock may be undervalued and could be a good investment.
+===Limitations of Earnings Yield===
+
+The earnings yield is a useful metric for comparing the profitability of different companies or for identifying undervalued stocks, but it has some limitations. The earnings yield does not take into account the company’s debt or other liabilities, which can affect the company’s profitability. Additionally, the earnings yield does not take into account the company’s future prospects, which can also affect the company’s profitability.
+===Conclusion===
+
+Earnings yield is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s earnings per share (EPS) by its current market price per share. The earnings yield is used to compare the profitability of different companies or to compare the profitability of a company over time. It can also be used to identify undervalued stocks. However, the earnings yield does not take into account the company’s debt or other liabilities, or its future prospects, which can affect the company’s profitability

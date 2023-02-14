@@ -1,11 +1,16 @@
 <seo title="Return On Average Capital Employed Ro Ace" metakeywords="roace financial metric,capital employed roace,roace return average,roace advantages" metadescription="Return on Average Capital Employed (ROACE) is a financial metric used to measure the profitability of a company."/>
 ===Introduction to Return on Average Capital Employed (ROACE)===
+
 Return on Average [[Capital Employed|Capital Employed]] (ROACE) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s net [[Operating Profit|operating profit]] after taxes (NOPAT) by its average capital employed (ACE). ROACE is a useful metric for investors and analysts to assess the efficiency of a company’s management in generating profits from its capital investments.
 ===Calculation of ROACE===
+
 ROACE is calculated by dividing the company’s NOPAT by its ACE. NOPAT is calculated by subtracting the company’s operating expenses from its [[Operating Income|operating income]]. ACE is calculated by adding the company’s total assets and [[Total Liabilities|total liabilities]] and then dividing by two. The resulting number is the company’s average capital employed.
 ===Advantages of ROACE===
+
 ROACE is a useful metric for investors and analysts to assess the efficiency of a company’s management in generating profits from its capital investments. It is also a good indicator of a company’s ability to generate returns on its investments. ROACE can be used to compare the performance of different companies in the same industry.
 ===Disadvantages of ROACE===
+
 ROACE does not take into account the company’s debt levels, which can have a significant impact on the company’s profitability. Additionally, ROACE does not take into account the company’s [[Cash Flow|cash flow]], which can also have an impact on the company’s profitability.
 ===Conclusion===
+
 Return on Average Capital Employed (ROACE) is a useful financial metric for investors and analysts to assess the efficiency of a company’s management in generating profits from its capital investments. It is calculated by dividing the company’s net operating profit after taxes (NOPAT) by its average capital employed (ACE). ROACE has several advantages, such as being able to compare the performance of different companies in the same industry. However, it also has some disadvantages, such as not taking into account the company’s debt levels or cash flow

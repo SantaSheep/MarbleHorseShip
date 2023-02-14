@@ -1,13 +1,19 @@
 <seo title="Bank" metakeywords="bank regulations banks,banks risks associated,risks banks provide,bank regulations" metadescription="A bank is a financial institution that provides a variety of services to its customers."/>
 ===Introduction to Bank===
+
 A bank is a [[Financial Institution|financial institution]] that provides a variety of services to its customers, including the acceptance of deposits, the granting of loans, and the provision of other financial services. Banks are regulated by both federal and state governments, and are subject to a variety of laws and regulations. Banks are also subject to a variety of risks, including [[Credit Risk|credit risk]], [[Liquidity Risk|liquidity risk]], and market risk.
 ===Types of Banks===
+
 Banks can be divided into two main categories: [[Commercial Bank|commercial bank]]s and investment banks. Commercial banks are the most common type of bank, and they provide services such as checking and savings accounts, loans, and other financial services. Investment banks, on the other hand, are typically involved in the underwriting of securities and the provision of other financial services to corporations and governments.
 ===Bank Regulations===
+
 Banks are subject to a variety of regulations, both at the federal and state level. Federal regulations include the Bank Secrecy Act, which requires banks to maintain records of certain transactions, and the Community Reinvestment Act, which requires banks to provide services to low-income communities. State regulations vary, but typically include requirements for capital adequacy, consumer protection, and anti-[[Money Laundering|money laundering]].
 ===Bank Services===
+
 Banks provide a variety of services to their customers, including the acceptance of deposits, the granting of loans, and the provision of other financial services. Banks also provide services such as foreign exchange, [[Wealth Management|wealth management]], and investment advice. Banks may also offer online banking services, which allow customers to access their accounts and manage their finances from any location.
 ===Bank Risks===
+
 Banks are subject to a variety of risks, including credit risk, liquidity risk, and market risk. Credit risk is the risk that a borrower will default on a loan, while liquidity risk is the risk that a bank will not be able to meet its obligations due to a lack of available funds. Market risk is the risk that a bankâ€™s investments will lose value due to changes in the market.
 ===Conclusion===
+
 Banks are an important part of the [[Financial System|financial system]], providing a variety of services to their customers. Banks are subject to a variety of regulations, and are also subject to a variety of risks. Banks provide services such as the acceptance of deposits, the granting of loans, and the provision of other financial services. Understanding the role of banks and the risks associated with banking is essential for anyone involved in the financial system

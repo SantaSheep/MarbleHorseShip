@@ -1,13 +1,19 @@
 <seo title="Consumer Price Index" metakeywords="consumer cpi useful,cpi used measure,cpi useful measure,cpi important economic" metadescription="Consumer Price Index (CPI) is a measure of the average change in prices over time for a basket of goods and services purchased by consumers."/>
 ===Introduction to Consumer Price Index===
+
 The Consumer Price Index (CPI) is a measure of the average change in prices over time for a basket of goods and services purchased by consumers. It is used to measure inflation and is one of the most widely used economic indicators. The CPI is calculated by the Bureau of Labor Statistics (BLS) and is released monthly. The CPI is used to adjust wages, pensions, and other benefits for inflation, and is also used to adjust the cost of living allowances for government employees.
 ===History of Consumer Price Index===
+
 The CPI was first developed in the United States in 1919 by the Bureau of Labor Statistics. The CPI was initially used to measure the cost of living for workers and to adjust wages for inflation. Over time, the CPI has become an important economic indicator and is used to measure inflation and to adjust wages, pensions, and other benefits for inflation.
 ===Components of Consumer Price Index===
+
 The CPI is based on a basket of goods and services that are representative of the average consumer. The basket includes items such as food, housing, transportation, medical care, and other goods and services. The CPI is calculated by comparing the prices of the items in the basket over time.
 ===Uses of Consumer Price Index===
+
 The CPI is used to measure inflation and to adjust wages, pensions, and other benefits for inflation. The CPI is also used to adjust the cost of living allowances for government employees. The CPI is also used to adjust the [[Tax Bracket|tax bracket]]s for [[Income Tax|income tax]]es.
 ===Limitations of Consumer Price Index===
+
 The CPI is not a perfect measure of inflation. It does not take into account changes in the quality of goods and services, and it does not take into account changes in the cost of living in different areas. Additionally, the CPI does not take into account changes in the [[Purchasing Power|purchasing power]] of money due to changes in [[Interest Rate|interest rate]]s.
 ===Conclusion===
+
 The Consumer Price Index is an important economic indicator that is used to measure inflation and to adjust wages, pensions, and other benefits for inflation. The CPI is based on a basket of goods and services that are representative of the average consumer. While the CPI is a useful measure of inflation, it has some limitations, such as not taking into account changes in the quality of goods and services or changes in the cost of living in different areas

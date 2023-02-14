@@ -1,13 +1,19 @@
 <seo title="Macroeconomics" metakeywords="macroeconomics,macroeconomic models used,macroeconomic variables,macroeconomic variables macroeconomic" metadescription="Macroeconomics is concerned with the overall performance of the economy, and how it affects the lives of individuals and businesses."/>
 ===Introduction to Macroeconomics===
+
 Macroeconomics is the branch of economics that studies the behavior and performance of an economy as a whole. It focuses on the aggregate changes in the economy, including inflation, unemployment, [[Economic Growth|economic growth]], and the balance of payments. Macroeconomics is concerned with the overall performance of the economy, and how it affects the lives of individuals and businesses. It is a broad field of study, and includes topics such as fiscal and [[Monetary Policy|monetary policy]], international trade, and economic development.
 ===Macroeconomic Variables===
+
 Macroeconomic variables are the key economic indicators that measure the performance of an economy. These include gross domestic product (GDP), inflation, unemployment, and the balance of payments. GDP is the total value of all goods and services produced in an economy in a given period of time. Inflation is the rate at which the prices of goods and services rise over time. Unemployment is the percentage of people in the labor force who are not employed. The balance of payments is the difference between the value of a country’s exports and imports.
 ===Macroeconomic Models===
+
 Macroeconomic models are used to analyze the behavior of an economy. These models are used to predict the effects of changes in economic policy, such as changes in taxes or [[Interest Rate|interest rate]]s. The most common macroeconomic models are the Keynesian model, the monetarist model, and the new classical model. The Keynesian model is based on the idea that government spending can stimulate economic growth. The monetarist model is based on the idea that the [[Money Supply|money supply]] is the primary determinant of economic activity. The new classical model is based on the idea that the economy is self-regulating and that government intervention is not necessary.
 ===Macroeconomic Policies===
+
 Macroeconomic policies are the policies used by governments to influence the performance of an economy. These policies include [[Fiscal Policy|fiscal policy]], which involves the use of taxes and government spending to influence economic activity, and monetary policy, which involves the use of interest rates and the money supply to influence economic activity. Fiscal and monetary policies are used to achieve a variety of goals, such as reducing inflation, increasing economic growth, and reducing unemployment.
 ===Macroeconomic Indicators===
+
 Macroeconomic indicators are the key economic indicators that measure the performance of an economy. These indicators include GDP, inflation, unemployment, and the balance of payments. GDP is the total value of all goods and services produced in an economy in a given period of time. Inflation is the rate at which the prices of goods and services rise over time. Unemployment is the percentage of people in the labor force who are not employed. The balance of payments is the difference between the value of a country’s exports and imports.
 ===Conclusion===
+
 Macroeconomics is the branch of economics that studies the behavi

@@ -1,0 +1,21 @@
+<seo title="Discounted Pay Back Period" metakeywords="calculation discounted payback,calculating discounted payback,discounted payback period,payback period formula" metadescription="Discounted Payback Period (DPP) is a financial metric used to evaluate the profitability of an investment."/>
+===Introduction to Discounted Payback Period===
+
+Discounted Payback Period (DPP) is a financial metric used to evaluate the profitability of an investment. It is a measure of the time it takes for an investment to pay back its initial cost, taking into account the [[Time Value Of Money|time value of money]]. The discounted payback period is calculated by discounting the [[Cash Flow|cash flow]]s of the investment to their [[Present Value|present value]] and then calculating the payback period. This metric is used to compare investments with different cash flows and different lengths of time.
+===Calculation of Discounted Payback Period===
+
+The discounted payback period is calculated by discounting the cash flows of the investment to their present value and then calculating the payback period. The formula for calculating the discounted payback period is as follows:
+
+DPP = (Initial Investment + PV of Cash Flows) / PV of Cash Flows
+
+Where PV stands for present value.
+
+The present value of the cash flows is calculated by discounting the cash flows at the required [[Rate Of Return|rate of return]]. The required rate of return is the rate of return that the investor requires in order to make the investment.
+===Advantages and Disadvantages of Discounted Payback Period===
+
+The main advantage of the discounted payback period is that it takes into account the time value of money. This means that the investor can compare investments with different cash flows and different lengths of time.
+
+The main disadvantage of the discounted payback period is that it does not take into account the cash flows after the payback period. This means that the investor may be missing out on potential profits from the investment.
+===Conclusion===
+
+Discounted Payback Period is a financial metric used to evaluate the profitability of an investment. It is a measure of the time it takes for an investment to pay back its initial cost, taking into account the time value of money. The discounted payback period is calculated by discounting the cash flows of the investment to their present value and then calculating the payback period. This metric is used to compare investments with different cash flows and different lengths of time. The main advantage of the discounted payback period is that it takes into account the time value of money. The main disadvantage of the discounted payback period is that it does not take into account the cash flows after the payback period

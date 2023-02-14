@@ -1,11 +1,16 @@
 <seo title="Diluted Eps" metakeywords="eps diluted earnings,diluted eps financial,shares diluted eps,diluted earnings" metadescription="Diluted EPS is a financial metric used to measure the profitability of a company."/>
 ===Introduction to Diluted EPS===
+
 Diluted EPS, or diluted earnings per share, is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s [[Net Income|net income]] by the number of shares outstanding, including both common and preferred shares. Diluted EPS is a more accurate measure of a company’s profitability than basic EPS, as it takes into account the potential dilution of earnings that could occur if certain securities, such as options and convertible bonds, are exercised.
 ===Calculation of Diluted EPS===
+
 Diluted EPS is calculated by dividing the company’s net income by the number of shares outstanding, including both common and preferred shares. The calculation of diluted EPS takes into account the potential dilution of earnings that could occur if certain securities, such as options and convertible bonds, are exercised. To calculate diluted EPS, the company must first calculate the number of additional shares that would be issued if all outstanding securities were exercised. This number is then added to the number of shares outstanding to calculate the total number of shares used in the diluted EPS calculation.
 ===Advantages of Diluted EPS===
+
 Diluted EPS is a more accurate measure of a company’s profitability than basic EPS, as it takes into account the potential dilution of earnings that could occur if certain securities, such as options and convertible bonds, are exercised. This allows investors to get a better understanding of the company’s true profitability and helps them make more informed decisions when investing. Additionally, diluted EPS is a more accurate measure of a company’s performance over time, as it takes into account any changes in the number of shares outstanding.
 ===Disadvantages of Diluted EPS===
+
 The main disadvantage of diluted EPS is that it can be difficult to calculate, as it requires the company to calculate the number of additional shares that would be issued if all outstanding securities were exercised. Additionally, diluted EPS does not take into account the potential dilution of earnings that could occur if certain securities, such as warrants, are exercised. This can lead to an inaccurate measure of a company’s profitability.
 ===Conclusion===
+
 In conclusion, diluted EPS is a financial metric used to measure the profitability of a company. It is a more accurate measure of a company’s profitability than basic EPS, as it takes into account the potential dilution of earnings that could occur if certain securities, such as options and convertible bonds, are exercised. However, it can be difficult to calculate and does not take into account the potential dilution of earnings that could occur if certain securities, such as warrants, are exercised

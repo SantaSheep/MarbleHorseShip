@@ -1,13 +1,19 @@
 <seo title="Accrued Expense" metakeywords="examples accrued expense,examples accrued expenses,accrued expenses typically,expense accrued expenses" metadescription="Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid."/>
 ===Introduction to Accrued Expense===
+
 Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid. It is a liability that is recorded on the [[Balance Sheet|balance sheet]] of a company and is usually recorded as an expense in the [[Income Statement|income statement]]. Accrued expenses are also known as accrued liabilities and are typically recorded when goods or services have been received but not yet paid for.
 ===Definition of Accrued Expense===
+
 Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid. It is a liability that is recorded on the balance sheet of a company and is usually recorded as an expense in the income statement. Accrued expenses are also known as accrued liabilities and are typically recorded when goods or services have been received but not yet paid for.
 ===Examples of Accrued Expense===
+
 Examples of accrued expenses include wages and salaries, [[Interest Expense|interest expense]], taxes, and rent. Wages and salaries are typically accrued when an employee has worked but not yet been paid. Interest expense is accrued when interest has been earned but not yet paid. Taxes are accrued when taxes have been incurred but not yet paid. Rent is accrued when rent has been incurred but not yet paid.
 ===Accounting Treatment of Accrued Expense===
+
 Accrued expenses are recorded as a liability on the balance sheet and as an expense on the income statement. The liability is recorded at the amount of the expense that has been incurred but not yet paid. The expense is recorded at the same amount as the liability.
 ===Advantages and Disadvantages of Accrued Expense===
+
 The main advantage of recording accrued expenses is that it allows a company to accurately reflect its financial position. By recording the expense when it is incurred, the company can accurately report its financial position at any given time. The main disadvantage of recording accrued expenses is that it can lead to overstating the company’s financial position. If the expense is not paid, the company will be overstating its financial position.
 ===Conclusion===
+
 Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid. It is a liability that is recorded on the balance sheet of a company and is usually recorded as an expense in the income statement. Accrued expenses are typically recorded when goods or services have been received but not yet paid for. The main advantage of recording accrued expenses is that it allows a company to accurately reflect its financial position. The main disadvantage of recording accrued expenses is that it can lead to overstating the company’s financial position

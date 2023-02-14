@@ -1,11 +1,16 @@
 <seo title="Inferior Good" metakeywords="economy inferior goods,inferior goods characteristics,inferior goods typically,inferior goods examples" metadescription="Inferior good is an economic term used to describe a type of good whose demand decreases when the consumer’s income increases."/>
 ===Introduction to Inferior Good===
+
 Inferior good is an economic term used to describe a type of good whose demand decreases when the consumer’s income increases. This is in contrast to normal goods, which are goods whose demand increases when the consumer’s income increases. Inferior goods are typically lower-quality, lower-priced goods that are consumed by lower-income households. Inferior goods are important to consider when analyzing the impact of changes in income on consumer spending.
 ===Characteristics of Inferior Good===
+
 Inferior goods have several characteristics that distinguish them from normal goods. First, the demand for inferior goods decreases when the consumer’s income increases. This is because as income increases, consumers are able to purchase higher-quality, higher-priced goods, and thus the demand for inferior goods decreases. Second, inferior goods are typically lower-quality, lower-priced goods that are consumed by lower-income households. Third, the demand for inferior goods is typically more elastic than the demand for normal goods. This means that a small change in price can have a large effect on the demand for inferior goods.
 ===Examples of Inferior Good===
+
 There are many examples of inferior goods. Common examples include generic brands of food, lower-priced clothing, and lower-priced cars. Other examples include lower-priced electronics, lower-priced furniture, and lower-priced appliances. Inferior goods are typically lower-quality, lower-priced goods that are consumed by lower-income households.
 ===Impact of Inferior Good on the Economy===
+
 Inferior goods have an important impact on the economy. When the demand for inferior goods decreases, it can lead to a decrease in production and employment in the industries that produce these goods. This can have a negative effect on the overall economy. On the other hand, when the demand for inferior goods increases, it can lead to an increase in production and employment in the industries that produce these goods. This can have a positive effect on the overall economy.
 ===Conclusion===
+
 In conclusion, inferior goods are an important economic concept to consider when analyzing the impact of changes in income on consumer spending. Inferior goods are typically lower-quality, lower-priced goods that are consumed by lower-income households. The demand for inferior goods decreases when the consumer’s income increases, and the demand for inferior goods is typically more elastic than the demand for normal goods. Inferior goods have an important impact on the economy, as changes in the demand for these goods can lead to changes in production and employment in the industries that produce them

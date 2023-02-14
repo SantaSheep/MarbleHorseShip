@@ -1,13 +1,19 @@
 <seo title="Accounts Payable" metakeywords="accounts payable typically,payable accounts payable,payable accounts,accounts payable accounts" metadescription="Accounts payable is a key component of a company's financial statements.It is used to track the amount of money that a company owes to its suppliers and creditors."/>
 ===Introduction to Accounts Payable===
+
 Accounts payable is a term used to describe the money that a company owes to its suppliers and creditors. It is a liability account that is used to record the amount of money that a company owes to its suppliers and creditors. Accounts payable is a key component of a company's [[Financial Statements|financial statements]] and is used to track the amount of money that a company owes to its suppliers and creditors.
 ===Definition of Accounts Payable===
+
 Accounts payable is a liability account that is used to record the amount of money that a company owes to its suppliers and creditors. It is a current liability, meaning that the amount owed is expected to be paid within one year. Accounts payable is typically recorded in the [[Balance Sheet|balance sheet]] as a current liability.
 ===Accounting Treatment of Accounts Payable===
+
 Accounts payable is typically recorded in the balance sheet as a current liability. When a company purchases goods or services on credit, the amount owed is recorded as an accounts payable. When the company pays the amount owed, the accounts payable is reduced and the cash account is increased.
 ===Types of Accounts Payable===
+
 There are several types of accounts payable, including trade payables, [[Accrued Expense|accrued expense]]s, and deferred payments. Trade payables are amounts owed to suppliers for goods or services purchased on credit. Accrued expenses are amounts owed for services that have been performed but not yet paid for. Deferred payments are amounts owed for goods or services that have been purchased but not yet received.
 ===Advantages and Disadvantages of Accounts Payable===
+
 The main advantage of accounts payable is that it allows a company to purchase goods and services on credit, which can help to improve [[Cash Flow|cash flow]]. This can be especially beneficial for small businesses that may not have access to large amounts of cash. However, accounts payable can also be a disadvantage if a company is not able to pay its suppliers and creditors on time. Late payments can lead to higher [[Interest Rate|interest rate]]s and penalties, which can have a negative impact on a company's financial health.
 ===Conclusion===
+
 Accounts payable is a key component of a company's financial statements and is used to track the amount of money that a company owes to its suppliers and creditors. It is a current liability, meaning that the amount owed is expected to be paid within one year. Accounts payable can be beneficial for small businesses that may not have access to large amounts of cash, but it can also be a disadvantage if a company is not able to pay its suppliers and creditors on time

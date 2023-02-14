@@ -1,11 +1,16 @@
 <seo title="Incremental Cost" metakeywords="incremental cost concept,incremental cost defined,definition incremental cost,examples incremental cost" metadescription="Incremental cost is a concept used in financial analysis to determine the cost of a particular action or decision."/>
 ===Introduction to Incremental Cost===
+
 Incremental cost is a concept used in [[Financial Analysis|financial analysis]] to determine the cost of a particular action or decision. It is the difference between the cost of a project or decision and the cost of not taking the action or decision. Incremental cost is used to compare the cost of different options and to determine the most cost-effective option.
 ===Definition of Incremental Cost===
+
 Incremental cost is defined as the difference in cost between two alternatives. It is the cost of taking a particular action or decision minus the cost of not taking the action or decision. This cost difference is used to compare the cost of different options and to determine the most cost-effective option.
 ===Examples of Incremental Cost===
+
 One example of incremental cost is the cost of purchasing a new piece of equipment. The incremental cost of purchasing the equipment is the difference between the cost of purchasing the equipment and the cost of not purchasing the equipment. Another example of incremental cost is the cost of hiring a new employee. The incremental cost of hiring the employee is the difference between the cost of hiring the employee and the cost of not hiring the employee.
 ===Advantages and Disadvantages of Incremental Cost===
+
 The main advantage of incremental cost is that it allows for a comparison of the cost of different options. By comparing the cost of different options, it is possible to determine the most cost-effective option. The main disadvantage of incremental cost is that it does not take into account the long-term costs of a decision. For example, the cost of purchasing a new piece of equipment may be lower than the cost of not purchasing the equipment, but the long-term cost of maintaining the equipment may be higher than the cost of not purchasing the equipment.
 ===Conclusion===
+
 Incremental cost is a concept used in financial analysis to determine the cost of a particular action or decision. It is the difference between the cost of a project or decision and the cost of not taking the action or decision. Incremental cost is used to compare the cost of different options and to determine the most cost-effective option. The main advantage of incremental cost is that it allows for a comparison of the cost of different options. The main disadvantage of incremental cost is that it does not take into account the long-term costs of a decision

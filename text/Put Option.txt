@@ -1,11 +1,16 @@
 <seo title="Put Option" metakeywords="advantages putoptions options,disadvantages putoptions options,putoptions options disadvantages,advantages putoptions" metadescription="A put option is a financial instrument that gives the holder the right, but not the obligation, to sell a specified amount of an underlying asset."/>
 ===Introduction to Putoption===
+
 A put option is a [[Financial Instrument|financial instrument]] that gives the holder the right, but not the obligation, to sell a specified amount of an underlying asset at a predetermined price within a specified period of time. Put options are typically used as a hedge against a decline in the price of the underlying asset. Put options are traded on exchanges and over-the-counter (OTC) markets.
 ===Types of Putoptions===
+
 There are two main types of put options: American-style and European-style. American-style put options can be exercised at any time before the expiration date, while European-style put options can only be exercised on the expiration date. Put options can also be classified according to the underlying asset, such as stock, index, currency, or commodity.
 ===Advantages of Putoptions===
+
 Put options offer investors a number of advantages. First, they provide investors with the ability to hedge against a decline in the price of the underlying asset. Second, they provide investors with the ability to speculate on the direction of the underlying asset without having to own the asset. Third, they provide investors with the ability to limit their losses if the underlying asset declines in value.
 ===Disadvantages of Putoptions===
+
 Put options also have some disadvantages. First, they are subject to time decay, meaning that the value of the option decreases as the expiration date approaches. Second, they are subject to volatility risk, meaning that the value of the option can fluctuate significantly depending on the volatility of the underlying asset. Third, they are subject to [[Liquidity Risk|liquidity risk]], meaning that it may be difficult to find a buyer or seller for the option.
 ===Conclusion===
+
 Put options are a useful financial instrument for investors looking to hedge against a decline in the price of an underlying asset or to speculate on the direction of the underlying asset. However, they are subject to time decay, volatility risk, and liquidity risk, which can make them a risky investment. As with any investment, it is important to understand the risks associated with put options before investing

@@ -1,0 +1,18 @@
+<seo title="Gearing Ratio" metakeywords="gearing ratio financial,gearing ratio debt,equity gearing ratio,gearing ratios account" metadescription="Gearing ratio is a financial metric used to measure the degree of leverage used by a company.It is calculated by dividing the total debt of a company by its total equity."/>
+===Introduction to Gearing Ratio===
+
+Gearing ratio is a financial metric used to measure the degree of leverage used by a company. It is calculated by dividing the total debt of a company by its total equity. The higher the gearing ratio, the more debt a company has relative to its equity. Gearing ratio is an important measure of a company’s financial health and can be used to assess the risk associated with investing in a company.
+===Calculation of Gearing Ratio===
+
+Gearing ratio is calculated by dividing the total debt of a company by its total equity. Total debt includes both short-term and long-term debt, such as loans, bonds, and other forms of debt. Total equity includes the company’s shareholders’ equity, which is the difference between the company’s assets and liabilities.
+===Types of Gearing Ratios===
+
+There are several types of gearing ratios that can be used to measure a company’s financial health. These include the debt-to-equity ratio, the debt-to-assets ratio, and the debt-to-capital ratio. Each of these ratios measures the degree of leverage used by a company and can be used to assess the risk associated with investing in a company.
+===Advantages and Disadvantages of Gearing Ratios===
+
+Gearing ratios can be used to assess the risk associated with investing in a company. A high gearing ratio indicates that a company is highly leveraged and may be at risk of defaulting on its debt. On the other hand, a low gearing ratio indicates that a company is less leveraged and may be a safer investment.
+
+However, it is important to note that gearing ratios do not take into account the quality of a company’s assets or the ability of a company to generate [[Cash Flow|cash flow]]. Therefore, it is important to consider other factors when assessing the risk associated with investing in a company.
+===Conclusion===
+
+Gearing ratio is an important financial metric used to measure the degree of leverage used by a company. It is calculated by dividing the total debt of a company by its total equity. Gearing ratio can be used to assess the risk associated with investing in a company, but it is important to consider other factors when assessing the risk associated with investing in a company

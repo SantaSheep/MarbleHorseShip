@@ -1,0 +1,20 @@
+<seo title="Normal Distribution" metakeywords="normal distribution characterized,applications normal distribution,normal distribution type,normal distribution used" metadescription="Normal distribution is a symmetric, unimodal probability distribution that is defined by its mean, median, and mode."/>
+===Introduction to Normal Distribution===
+
+Normal distribution is a type of [[Probability Distribution|probability distribution]] that is commonly used in finance and economics. It is also known as the Gaussian distribution or the [[Bell Curve|bell curve]]. The normal distribution is a symmetric, unimodal probability distribution that is defined by its mean, median, and mode. It is used to describe the probability of a given event occurring within a certain range of values.
+===Properties of Normal Distribution===
+
+The normal distribution is characterized by its mean, median, and mode. The mean is the average of all the values in the distribution, the median is the middle value, and the mode is the most frequently occurring value. The normal distribution is also characterized by its [[Standard Deviation|standard deviation]], which is a measure of the spread of the data. The standard deviation is calculated by taking the square root of the variance.
+
+The normal distribution is also characterized by its skewness and kurtosis. Skewness is a measure of the asymmetry of the distribution, while kurtosis is a measure of the peakedness of the distribution. The normal distribution is also characterized by its probability density function, which is a mathematical function that describes the probability of a given event occurring within a certain range of values.
+===Applications of Normal Distribution===
+
+The normal distribution is widely used in finance and economics. It is used to model the probability of a given event occurring within a certain range of values. For example, it can be used to model the probability of a stock price moving within a certain range over a given period of time. It can also be used to model the probability of a given [[Interest Rate|interest rate]] or inflation rate occurring within a certain range over a given period of time.
+
+The normal distribution is also used to model the probability of a given asset or portfolio of assets performing within a certain range over a given period of time. It can also be used to model the probability of a given currency [[Exchange Rate|exchange rate]] occurring within a certain range over a given period of time.
+===Limitations of Normal Distribution===
+
+The normal distribution is not always an accurate model of real-world data. In some cases, the data may be skewed or have outliers that are not accurately represented by the normal distribution. In addition, the normal distribution assumes that the data is normally distributed, which may not always be the case.
+===Conclusion===
+
+Normal distribution is a type of probability distribution that is commonly used in finance and economics. It is characterized by its mean, median, mode, standard deviation, skewness, and kurtosis. It is used to model the probability of a given event occurring within a certain range of values. However, it is not always an accurate model of real-world data and may not accurately represent skewed or outlier data

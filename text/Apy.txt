@@ -1,13 +1,19 @@
 <seo title="Apy" metakeywords="apy annual rate,return investment apy,calculated apy,apy calculated apy" metadescription="APY is a measure of the return on an investment over a period of one year.It is used to compare different investments and to determine the rate of return."/>
 ===Introduction to APY===
+
 APY stands for Annual Percentage Yield and is a measure of the return on an investment over a period of one year. It is used to compare different investments and to determine the [[Rate Of Return|rate of return]] on an investment. It is important to understand APY when making financial decisions, as it can help you make the most of your money.
 ===Definition of APY===
+
 APY is the annual rate of return on an investment, expressed as a percentage. It is calculated by taking the total amount of interest earned over a year and dividing it by the principal amount invested. The result is then expressed as a percentage. For example, if you invest $1000 and earn $50 in interest over the course of a year, your APY would be 5%.
 ===How APY is Calculated===
+
 APY is calculated by taking the total amount of interest earned over a year and dividing it by the principal amount invested. The result is then expressed as a percentage. For example, if you invest $1000 and earn $50 in interest over the course of a year, your APY would be 5%.
 ===Advantages of APY===
+
 APY is a useful tool for comparing different investments and determining the rate of return on an investment. It is also helpful in determining the amount of interest earned on an investment over a period of time. Additionally, APY can be used to compare different types of investments, such as stocks, bonds, and [[Mutual Fund|mutual fund]]s.
 ===Disadvantages of APY===
+
 One of the main disadvantages of APY is that it does not take into account the effects of inflation. Inflation can have a significant impact on the rate of return on an investment, and APY does not take this into account. Additionally, APY does not take into account any fees or taxes that may be associated with an investment.
 ===Conclusion===
+
 APY is a useful tool for comparing different investments and determining the rate of return on an investment. It is important to understand APY when making financial decisions, as it can help you make the most of your money. However, it is important to remember that APY does not take into account the effects of inflation or any fees or taxes associated with an investment

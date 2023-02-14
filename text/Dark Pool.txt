@@ -1,13 +1,19 @@
 <seo title="Dark Pool" metakeywords="investors dark pools,dark pools regulated,risks dark pools,dark pools operating" metadescription="Dark pools are used by institutional investors to trade large blocks of securities without affecting the market price."/>
 ===Introduction to Dark Pool===
+
 Dark pool is a term used to describe a private financial trading platform that allows investors to buy and sell securities without revealing their orders to the public. Dark pools are used by institutional investors, such as [[Hedge Fund|hedge fund]]s, [[Mutual Fund|mutual fund]]s, and pension funds, to trade large blocks of securities without affecting the market price. Dark pools are also used by high-frequency traders to execute large orders quickly and anonymously.
 ===History of Dark Pool===
+
 Dark pools have been around since the early 2000s, when they were first used by institutional investors to trade large blocks of securities without affecting the market price. Since then, dark pools have become increasingly popular, with more than 40 dark pools now operating in the United States. Dark pools are regulated by the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA).
 ===Types of Dark Pool===
+
 There are two main types of dark pools: internal dark pools and external dark pools. Internal dark pools are operated by a single institution, such as a hedge fund or mutual fund, and are used to trade large blocks of securities without affecting the market price. External dark pools are operated by third-party brokers and are used by high-frequency traders to execute large orders quickly and anonymously.
 ===Benefits of Dark Pool===
+
 Dark pools offer several benefits to investors. First, dark pools allow institutional investors to trade large blocks of securities without affecting the market price. This allows institutional investors to buy and sell large blocks of securities without having to worry about the market price being affected by their trades. Second, dark pools allow high-frequency traders to execute large orders quickly and anonymously. This allows high-frequency traders to take advantage of market opportunities without having to worry about their orders being seen by other traders. Finally, dark pools provide a level of anonymity to investors, which can be beneficial for those who wish to remain anonymous.
 ===Risks of Dark Pool===
+
 Dark pools also come with several risks. First, dark pools can be used to manipulate the market by allowing traders to buy and sell large blocks of securities without having to worry about the market price being affected by their trades. Second, dark pools can be used to hide illegal activities, such as [[Insider Trading|insider trading]]. Finally, dark pools can be used to facilitate front-running, which is when a trader takes advantage of information that is not yet available to the public.
 ===Conclusion===
+
 Dark pools are a type of private financial trading platform that allow institutional investors and high-frequency traders to buy and sell large blocks of securities without affecting the market price. Dark pools offer several benefits to investors, such as allowing them to trade large blocks of securities without affecting the market price and providing a level of anonymity. 

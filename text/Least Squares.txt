@@ -1,11 +1,16 @@
 <seo title="Least Squares" metakeywords="developed squares method,squares method developed,method regression,method regression analysis" metadescription=""/>
 ===Introduction to Least Squares===
+
 Least squares is a mathematical technique used to find the best fit line or curve for a given set of data points. It is a method of regression analysis that is used to estimate the parameters of a linear model by minimizing the sum of the squares of the differences between the observed values and the predicted values. The technique is widely used in the fields of statistics, economics, and engineering.
 ===History of Least Squares===
+
 The [[Least Squares Method|least squares method]] was first developed by the French mathematician Adrien-Marie Legendre in the early 19th century. Legendre was attempting to find the best fit line for a set of data points and developed the least squares method as a way to do this. The method was later refined by Carl Friedrich Gauss and became known as the Gauss-Legendre method. The method was further refined by the German mathematician Carl Friedrich Gauss and became known as the Gauss-Legendre-Markov method.
 ===Applications of Least Squares===
+
 The least squares method is used in a variety of fields, including economics, engineering, and statistics. In economics, the method is used to estimate the parameters of a linear model, such as the demand for a good or service. In engineering, the method is used to find the best fit line or curve for a given set of data points. In statistics, the method is used to estimate the parameters of a linear model, such as the mean and variance of a population.
 ===Limitations of Least Squares===
+
 The least squares method is not without its limitations. The method assumes that the data points are distributed normally, which may not always be the case. Additionally, the method assumes that the data points are independent, which may not always be the case. Finally, the method assumes that the data points are homoscedastic, which may not always be the case.
 ===Conclusion===
+
 Least squares is a mathematical technique used to find the best fit line or curve for a given set of data points. The method is widely used in the fields of economics, engineering, and statistics. The method has its limitations, however, and should be used with caution

@@ -1,0 +1,18 @@
+<seo title="Restricted Stock Unit" metakeywords="restricted stock units,tax implications rsus,rsus generally taxed,shareholders employees rsus" metadescription="Restricted Stock Units (RSUs) are a type of equity compensation used by companies to reward employees."/>
+===Introduction to Restricted Stock Units===
+
+Restricted Stock Units (RSUs) are a type of equity compensation used by companies to reward employees. RSUs are a form of stock-based compensation that is granted to employees in exchange for their services. Unlike [[Stock Option|stock option]]s, which give employees the right to purchase shares of the company’s stock at a predetermined price, RSUs are actual shares of the company’s stock that are granted to employees. The shares are “restricted” in the sense that they cannot be sold or transferred until certain conditions are met.
+===Tax Implications of Restricted Stock Units===
+
+The tax implications of RSUs depend on the type of RSU and the timing of the grant. Generally, when an RSU is granted, the employee does not have to pay any taxes. However, when the RSU vests, the employee must pay taxes on the value of the shares. The amount of tax owed depends on the type of RSU and the timing of the grant. For example, if the RSU is a non-qualified stock option, the employee must pay ordinary [[Income Tax|income tax]] on the value of the shares at the time of vesting. If the RSU is a qualified stock option, the employee must pay [[Capital Gain|capital gain]]s tax on the difference between the value of the shares at the time of vesting and the purchase price.
+===Accounting Treatment of Restricted Stock Units===
+
+The accounting treatment of RSUs depends on the type of RSU and the timing of the grant. Generally, when an RSU is granted, the company must recognize the [[Fair Value|fair value]] of the shares as an expense on its [[Income Statement|income statement]]. The amount of the expense is equal to the fair value of the shares at the time of the grant. When the RSU vests, the company must recognize the difference between the fair value of the shares at the time of the grant and the fair value of the shares at the time of vesting as an additional expense on its income statement.
+===Advantages and Disadvantages of Restricted Stock Units===
+
+RSUs offer several advantages to both employers and employees. For employers, RSUs provide a way to reward employees without having to issue additional shares of stock. This can help to conserve cash and reduce dilution of existing shareholders. For employees, RSUs provide a way to participate in the company’s success without having to purchase shares of stock. Additionally, RSUs are generally taxed at a lower rate than stock options.
+
+However, there are also some disadvantages to RSUs. For employers, RSUs can be expensive to issue and can result in dilution of existing shareholders. For employees, RSUs can be difficult to value and can be subject to vesting restrictions. Additionally, RSUs are generally taxed at a higher rate than stock options.
+===Conclusion===
+
+Restricted Stock Units (RSUs) are a type of equity compensation used by companies to reward employees. RSUs are a form of stock-based compensation that is granted to employees in exchange for their services. The tax implications of RSUs depend on the type of RSU and the timing of the g

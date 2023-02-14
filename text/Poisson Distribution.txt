@@ -1,0 +1,20 @@
+<seo title="Poisson Distribution" metakeywords="biology poisson distribution,applications poisson distribution,introduction poisson distribution,poisson distribution poisson" metadescription="The Poisson Distribution is a probability distribution used to model the probability of a given number of events occurring in a fixed interval of time or space."/>
+===Introduction to Poisson Distribution===
+
+Poisson Distribution is a [[Probability Distribution|probability distribution]] used to model the probability of a given number of events occurring in a fixed interval of time or space. It is named after French mathematician Siméon Denis Poisson and is used in a variety of fields, including finance, engineering, and biology. The Poisson Distribution is a discrete probability distribution, meaning that it is used to model the probability of a discrete number of events occurring in a given interval.
+===Applications of Poisson Distribution===
+
+The Poisson Distribution is used in a variety of fields, including finance, engineering, and biology. In finance, the Poisson Distribution is used to model the probability of a given number of trades occurring in a given time interval. In engineering, the Poisson Distribution is used to model the probability of a given number of defects occurring in a given time interval. In biology, the Poisson Distribution is used to model the probability of a given number of organisms occurring in a given area.
+===Calculating Poisson Distribution===
+
+The Poisson Distribution is calculated using the following formula:
+
+P(x) = (e^-λ) * (λ^x) / x!
+
+Where P(x) is the probability of x events occurring in a given interval, e is the base of the natural logarithm (2.71828...), λ is the average number of events occurring in the given interval, and x! is the factorial of x (x * (x-1) * (x-2) * ... * 1).
+===Limitations of Poisson Distribution===
+
+The Poisson Distribution is limited in its ability to accurately model the probability of events occurring in a given interval. This is because the Poisson Distribution assumes that the probability of an event occurring is independent of the number of events that have already occurred. This assumption is not always valid, as the probability of an event occurring may be affected by the number of events that have already occurred.
+===Conclusion===
+
+The Poisson Distribution is a probability distribution used to model the probability of a given number of events occurring in a given interval of time or space. It is used in a variety of fields, including finance, engineering, and biology. The Poisson Distribution is calculated using a formula that takes into account the average number of events occurring in the given interval. However, the Poisson Distribution is limited in its ability to accurately model the probability of events occurring in a given interval, as it assumes that the probability of an event occurring is independent of the number of events that have already occurred

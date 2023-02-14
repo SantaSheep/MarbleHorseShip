@@ -1,11 +1,16 @@
 <seo title="Fdi" metakeywords="introduction fdi,fdi bring challenges,fdi investment,fdi bring benefits" metadescription="Foreign Direct Investment (FDI) is an investment made by a company or individual in one country into a business or company in another country."/>
 ===Introduction to FDI===
+
 Foreign Direct Investment (FDI) is an investment made by a company or individual in one country into a business or company in another country. It is a form of international investment that involves the transfer of capital, technology, and managerial expertise from one country to another. FDI is a major source of capital for many countries, and it can have a significant impact on the economic development of a country.
 ===Types of FDI===
+
 There are two main types of FDI: horizontal FDI and vertical FDI. Horizontal FDI is when a company invests in a business in another country that is in the same industry as the company’s home country. Vertical FDI is when a company invests in a business in another country that is in a different industry than the company’s home country.
 ===Benefits of FDI===
+
 FDI can bring many benefits to a country. It can create jobs, increase [[Economic Growth|economic growth]], and improve the country’s balance of payments. FDI can also help to transfer technology and managerial expertise from one country to another, which can help to improve the productivity and efficiency of businesses in the host country.
 ===Challenges of FDI===
+
 FDI can also bring challenges to a country. It can lead to a loss of control over the economy, as foreign companies may be able to influence the economic policies of the host country. It can also lead to a loss of jobs in the host country, as foreign companies may be able to take advantage of lower labor costs in the host country.
 ===Conclusion===
+
 Foreign Direct Investment can be a major source of capital for many countries, and it can have a significant impact on the economic development of a country. However, it can also bring challenges, such as a loss of control over the economy and a loss of jobs in the host country. It is important for countries to carefully consider the potential benefits and challenges of FDI before making any decisions

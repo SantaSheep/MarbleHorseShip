@@ -1,13 +1,19 @@
 <seo title="Cost Accounting" metakeywords="cost accounting processes,costs cost accounting,cost accounting,accounting cost accounting" metadescription="Cost accounting is a form of managerial accounting that is used to analyze the costs associated with producing a product or providing a service."/>
 ===Introduction to Cost Accounting===
+
 Cos[[T Account|t account]]ing is a form of [[Managerial Accounting|managerial accounting]] that is used to analyze the costs associated with producing a product or providing a service. It is a tool used by businesses to help them make decisions about pricing, production, and other aspects of their operations. Cost accounting is used to determine the cost of producing a product or providing a service, and to analyze the cost of different activities within the business. Cost accounting is also used to analyze the profitability of a business and to identify areas where costs can be reduced.
 ===Cost Accounting Principles===
+
 Cost accounting is based on a set of principles that guide the process of analyzing costs. These principles include the following: cost-benefit analysis, cost-effectiveness analysis, cost-minimization analysis, and cost-allocation analysis. Cost-benefit analysis is used to determine the cost of a particular activity and the benefit that it provides to the business. Cost-effectiveness analysis is used to compare the cost of different activities and determine which one is the most cost-effective. Cost-minimization analysis is used to identify areas where costs can be reduced. Cost-allocation analysis is used to allocate costs among different activities.
 ===Cost Accounting Processes===
+
 Cost accounting involves a number of processes that are used to analyze costs. These processes include cost estimation, cost allocation, cost analysis, and cost control. Cost estimation is used to estimate the cost of producing a product or providing a service. Cost allocation is used to allocate costs among different activities. Cost analysis is used to analyze the cost of different activities and identify areas where costs can be reduced. Cost control is used to monitor and control costs.
 ===Cost Accounting Systems===
+
 Cost accounting systems are used to track and analyze costs. These systems are typically computer-based and include software programs that are used to track and analyze costs. Cost accounting systems are used to track the costs associated with producing a product or providing a service, and to analyze the cost of different activities within the business.
 ===Cost Accounting Applications===
+
 Cost accounting is used in a variety of industries and applications. It is used in manufacturing to analyze the cost of producing a product, in retail to analyze the cost of providing a service, and in healthcare to analyze the cost of providing medical care. Cost accounting is also used in government to analyze the cost of providing public services.
 ===Cost Accounting Benefits===
+
 Cost accounting provides a number of benefits to businesses. It helps businesses make informed decisions about pricing, production, and other aspects of their operations. It also helps businesses identify areas where costs can be reduced and improve their profitability. Cost accounting also helps businesses understand the cost of different activities and make b

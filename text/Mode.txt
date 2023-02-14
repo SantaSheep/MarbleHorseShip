@@ -1,13 +1,19 @@
 <seo title="Mode" metakeywords="mode statistical measure,mode useful measure,mode mode statistical,mode statistical" metadescription=" mode is a statistical measure that is used to describe the most frequently occurring value in a set of data."/>
 ===Introduction to Mode===
+
 Mode is a statistical measure that is used to describe the most frequently occurring value in a set of data. It is a measure of central tendency, which is a measure of the center of a data set. Mode is often used to describe the most common value in a set of data, such as the most common age in a population or the most common score on a test. Mode is a useful measure of central tendency because it is easy to calculate and interpret.
 ===Definition of Mode===
+
 Mode is defined as the most frequently occurring value in a set of data. It is the value that appears most often in a data set. For example, if a data set contains the numbers 1, 2, 3, 3, 4, 5, 6, the mode is 3, because it appears most often in the data set.
 ===Examples of Mode===
+
 Mode can be used to describe the most common value in a variety of data sets. For example, if a survey asked people their age, the mode would be the age that appears most often in the survey results. If a test was given to a group of students and the scores were recorded, the mode would be the score that appears most often in the results.
 ===Advantages of Mode===
+
 Mode is a useful measure of central tendency because it is easy to calculate and interpret. It is also useful because it is not affected by extreme values, which can skew the results of other measures of central tendency, such as the mean and median.
 ===Disadvantages of Mode===
+
 One of the main disadvantages of mode is that it is not always a reliable measure of central tendency. This is because it is only useful when there is a single most common value in the data set. If there are multiple values that appear with the same frequency, then the mode is not a reliable measure of central tendency.
 ===Conclusion===
+
 Mode is a useful measure of central tendency because it is easy to calculate and interpret. However, it is not always a reliable measure of central tendency because it is only useful when there is a single most common value in the data set. Mode is a useful tool for describing the most common value in a set of data, but it should be used with caution

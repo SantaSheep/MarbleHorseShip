@@ -1,11 +1,16 @@
 <seo title="Valuation" metakeywords="valuation methods methods,valuation typically used,valuation methods,valuation process determining" metadescription="Valuation is the process of determining the current worth of an asset or company.It is used to estimate the potential value of a business, security, or other asset."/>
 ===Introduction to Valuation===
+
 Valuation is the process of determining the current worth of an asset or company. It is used to estimate the potential value of a business, security, or other asset. Valuation is a key component of [[Financial Analysis|financial analysis]] and is used to make decisions about investments, mergers and acquisitions, and other financial transactions. Valuation is also used to assess the value of a company's assets and liabilities, and to determine the [[Fair Market Value|fair market value]] of a company's stock.
 ===Types of Valuation===
+
 Valuation can be divided into two main categories: intrinsic and relative. Intrinsic valuation is based on the fundamental value of an asset or company, while relative valuation is based on the comparison of similar assets or companies. Intrinsic valuation is typically used to value stocks, while relative valuation is used to value businesses and other assets.
 ===Factors Influencing Valuation===
+
 The value of an asset or company is determined by a variety of factors, including the company's [[Financial Performance|financial performance]], the industry in which it operates, the economic environment, and the company's competitive position. Other factors that can influence valuation include the company's management team, its growth prospects, and its risk profile.
 ===Valuation Methods===
+
 There are several methods used to value an asset or company. These include the discounted [[Cash Flow|cash flow]] (DCF) method, the comparable company analysis (CCA) method, the asset-based valuation (ABV) method, and the market-based valuation (MBV) method. The DCF method is the most commonly used method and is based on the [[Present Value|present value]] of future cash flows. The CCA method is based on the comparison of similar companies, while the ABV method is based on the value of the company's assets. The MBV method is based on the market price of the company's stock.
 ===Conclusion===
+
 Valuation is an important part of financial analysis and is used to make decisions about investments, mergers and acquisitions, and other financial transactions. Valuation is based on a variety of factors, including the company's financial performance, the industry in which it operates, the economic environment, and the company's competitive position. There are several methods used to value an asset or company, including the discounted cash flow (DCF) method, the comparable company analysis (CCA) method, the asset-based valuation (ABV) method, and the market-based valuation (MBV) method

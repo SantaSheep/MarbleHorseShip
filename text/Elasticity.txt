@@ -1,13 +1,19 @@
 <seo title="Elasticity" metakeywords="elasticity concept economics,elasticity price elasticity,price elasticity,economy types elasticity" metadescription="Elasticity is a concept in economics that measures the responsiveness of one economic variable to changes in another."/>
 ===Introduction to Elasticity===
+
 Elasticity is a concept in economics that measures the responsiveness of one economic variable to changes in another. It is used to measure the degree to which a change in one variable will cause a change in another. Elasticity is an important concept in economics because it helps to explain how changes in one variable will affect other variables in the economy.
 ===Types of Elasticity===
+
 There are several different types of elasticity that are used to measure the responsiveness of one variable to changes in another. The most common types of elasticity are [[Price Elasticity|price elasticity]] of demand, [[Income Elasticity Of Demand|income elasticity of demand]], and cross elasticity of demand.
 ===Price Elasticity of Demand===
+
 Price elasticity of demand measures the responsiveness of the quantity demanded of a good or service to a change in its price. It is calculated by dividing the [[Percentage Change|percentage change]] in the quantity demanded by the percentage change in the price. If the quantity demanded is more responsive to a change in price than the price is to a change in quantity demanded, then the price elasticity of demand is said to be elastic. If the quantity demanded is less responsive to a change in price than the price is to a change in quantity demanded, then the price elasticity of demand is said to be inelastic.
 ===Income Elasticity of Demand===
+
 Income elasticity of demand measures the responsiveness of the quantity demanded of a good or service to a change in income. It is calculated by dividing the percentage change in the quantity demanded by the percentage change in income. If the quantity demanded is more responsive to a change in income than the income is to a change in quantity demanded, then the income elasticity of demand is said to be elastic. If the quantity demanded is less responsive to a change in income than the income is to a change in quantity demanded, then the income elasticity of demand is said to be inelastic.
 ===Cross Elasticity of Demand===
+
 Cross elasticity of demand measures the responsiveness of the quantity demanded of one good or service to a change in the price of another good or service. It is calculated by dividing the percentage change in the quantity demanded of one good or service by the percentage change in the price of another good or service. If the quantity demanded of one good or service is more responsive to a change in the price of another good or service than the price of the other good or service is to a change in the quantity demanded of the first good or service, then the cross elasticity of demand is said to be elastic. If the quantity demanded of one good or service is less responsive to a change in the price of another good or service than the price of the other good or service is to a change in the quantity demanded of the first good or service, then the cross elasticity of demand is said to be inelastic.
 ===Conclusion===
+
 In conclusion, elasticity is an important concept in economics that measures the r

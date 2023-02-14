@@ -1,11 +1,16 @@
 <seo title="Demand Schedule" metakeywords="demand schedule factors,demand schedules demand,demand schedules,demand schedules used" metadescription="Demand Schedule is a graphical representation of the relationship between price and quantity demanded."/>
 ===Introduction to Demand Schedule===
+
 Demand Schedule is a tool used by economists to analyze the relationship between the price of a good or service and the quantity of that good or service that consumers are willing and able to purchase. It is a graphical representation of the relationship between price and quantity demanded, and is used to predict how changes in price will affect the quantity of a good or service that consumers are willing to purchase. Demand Schedules are used to analyze the demand for a good or service, and to determine the optimal price for a good or service.
 ===Factors Influencing Demand Schedule===
+
 There are several factors that can influence the demand schedule for a good or service. These include the price of related goods or services, the availability of substitutes, the income of potential consumers, the tastes and preferences of potential consumers, and the expectations of potential consumers. All of these factors can affect the demand for a good or service, and thus the demand schedule.
 ===Types of Demand Schedules===
+
 There are two main types of demand schedules: linear and non-linear. Linear demand schedules are those in which the quantity demanded is directly proportional to the price. Non-linear demand schedules are those in which the quantity demanded is not directly proportional to the price.
 ===Applications of Demand Schedules===
+
 Demand Schedules are used by economists to analyze the demand for a good or service, and to determine the optimal price for a good or service. They are also used to analyze the effects of changes in price on the quantity of a good or service that consumers are willing to purchase. Demand Schedules can also be used to analyze the effects of changes in other factors, such as income, on the demand for a good or service.
 ===Conclusion===
+
 Demand Schedules are a useful tool for economists to analyze the demand for a good or service, and to determine the optimal price for a good or service. They are used to analyze the effects of changes in price and other factors on the quantity of a good or service that consumers are willing to purchase. Demand Schedules can be linear or non-linear, and are used to analyze the demand for a good or service

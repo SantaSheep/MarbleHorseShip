@@ -1,11 +1,16 @@
 <seo title="Mbs" metakeywords="securities mbs mortgage,mortgage backed securities,mbs mortgage backed,mortgages mbs" metadescription="Mortgage-backed securities (MBS) are a type of asset-backed security that is secured by a mortgage or collection of mortgages."/>
 ===Introduction to Mortgage-Backed Securities (MBS)===
+
 Mortgage-backed securities (MBS) are a type of asset-backed security that is secured by a mortgage or collection of mortgages. MBS are created when a number of mortgages are pooled together and sold to investors as a single security. The mortgages are typically issued by a government-sponsored enterprise (GSE) such as Fannie Mae or Freddie Mac, or by a bank or other [[Financial Institution|financial institution]]. MBS are typically traded on the secondary market, where investors can buy and sell them.
 ===Types of Mortgage-Backed Securities===
+
 MBS can be divided into two main categories: pass-through securities and collateralized mortgage obligations (CMOs). Pass-through securities are the most common type of MBS and are backed by a pool of mortgages. The payments from the underlying mortgages are passed through to the investors in the form of interest and principal payments. CMOs are a type of MBS that are backed by a pool of mortgages and are divided into different classes, or tranches, based on the risk associated with each tranche.
 ===Benefits of Investing in Mortgage-Backed Securities===
+
 MBS offer investors a number of benefits, including the potential for higher returns than other types of investments, the ability to diversify their portfolios, and the potential for capital appreciation. MBS also offer investors the potential for higher yields than other types of investments, as well as the potential for capital appreciation.
 ===Risks of Investing in Mortgage-Backed Securities===
+
 Investing in MBS carries a number of risks, including the risk of default on the underlying mortgages, the risk of prepayment, and the risk of [[Interest Rate|interest rate]] fluctuations. Default risk is the risk that the borrower will not make the payments on the underlying mortgages. Prepayment risk is the risk that the borrower will pay off the loan before the maturity date, resulting in a loss of interest income for the investor. Interest rate risk is the risk that interest rates will change, resulting in a decrease in the value of the MBS.
 ===Conclusion===
+
 Mortgage-backed securities are a type of asset-backed security that can offer investors the potential for higher returns than other types of investments, the ability to diversify their portfolios, and the potential for capital appreciation. However, investing in MBS carries a number of risks, including the risk of default on the underlying mortgages, the risk of prepayment, and the risk of interest rate fluctuations. Investors should carefully consider the risks and rewards of investing in MBS before making any investment decisions

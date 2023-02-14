@@ -1,0 +1,21 @@
+<seo title="Amd" metakeywords="amd microprocessors,amd business model,amd business,industry amd business" metadescription="Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that designs and manufactures computer processors and related technologies."/>
+===Introduction to AMD===
+
+Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that designs and manufactures computer processors and related technologies for the consumer, commercial, and enterprise markets. Founded in 1969, AMD is headquartered in Santa Clara, California and has operations in more than 50 countries. AMD is a publicly traded company on the New York Stock Exchange (NYSE: AMD).
+===History of AMD===
+
+AMD was founded in 1969 by Jerry Sanders and seven other engineers. The company was initially focused on producing memory chips, but soon expanded into the microprocessor market. In 1982, AMD released its first microprocessor, the Am286, which was based on Intel’s 8086 processor. In the following years, AMD released several other microprocessors, including the Am386 and Am486.
+
+In the late 1990s, AMD began to focus on the x86 processor market and released the Athlon processor in 1999. This processor was a major success and helped AMD gain [[Market Share|market share]] from Intel. In 2003, AMD released the first 64-bit processor, the Athlon 64, which was a major breakthrough in the industry.
+===AMD’s Business Model===
+
+AMD’s business model is based on the design, development, and manufacture of semiconductor products, including microprocessors, graphics processors, and chipsets. AMD also provides related technologies, such as software and services. AMD’s products are used in a variety of applications, including personal computers, servers, gaming consoles, and embedded systems.
+===AMD’s Financial Performance===
+
+AMD’s [[Financial Performance|financial performance]] has been strong in recent years. In 2020, AMD reported revenue of $9.7 billion, up from $6.5 billion in 2019. The company’s [[Net Income|net income]] was $1.2 billion in 2020, up from $817 million in 2019. AMD’s [[Gross Margin|gross margin]] was 44.2% in 2020, up from 41.2% in 2019.
+===AMD’s Products and Services===
+
+AMD’s products and services include microprocessors, graphics processors, chipsets, software, and services. AMD’s microprocessors are used in a variety of applications, including personal computers, servers, gaming consoles, and embedded systems. AMD’s graphics processors are used in gaming, professional visualization, and machine learning applications. AMD’s chipsets are used in personal computers, servers, and embedded systems. AMD’s software includes drivers, development tools, and software solutions. AMD’s services include technical support, training, and consulting.
+===AMD’s Competitive Advantage===
+
+AMD has several competitive advantages that have helped the company gain market share from Intel. AMD’s products are generally more affordable than Intel’s, which has helped the company gain market share in the consumer market. AMD’s products are also more power efficient than Intel’s, which has helped the company gain market share in the server and embedded markets. AMD’s products are also more advanced than Intel’s, which has helped the company gain market share in the gaming and professional visualization 

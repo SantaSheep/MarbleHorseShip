@@ -1,11 +1,16 @@
 <seo title="Financial Instrument" metakeywords="financial instruments used,introduction financial instruments,instruments important financial,financial instruments important" metadescription="Financial instruments are used by individuals, businesses, and governments to manage their finances and to facilitate transactions."/>
 ===Introduction to Financial Instruments===
+
 Financial instruments are financial products that are used to facilitate the transfer of money between two parties. They are used to facilitate the exchange of money, goods, services, and other assets. Financial instruments can be divided into two main categories: [[Debt Instrument|debt instrument]]s and equity instruments. Debt instruments are those that involve the borrowing of money, while equity instruments involve the ownership of a company or other asset. Financial instruments are used by individuals, businesses, and governments to manage their finances and to facilitate transactions.
 ===Types of Financial Instruments===
+
 There are many different types of financial instruments, each with its own unique characteristics and uses. Common types of financial instruments include stocks, bonds, derivatives, [[Mutual Fund|mutual fund]]s, and exchange-traded funds (ETFs). Stocks are shares of ownership in a company, while bonds are debt instruments that represent a loan from an investor to a company. Derivatives are financial instruments that derive their value from the performance of an underlying asset, such as a stock or bond. Mutual funds are investment vehicles that pool the money of many investors and invest it in a variety of different assets. ETFs are similar to mutual funds, but they are traded on exchanges like stocks.
 ===Benefits of Financial Instruments===
+
 Financial instruments provide many benefits to investors and businesses. They allow investors to diversify their portfolios and reduce their risk. They also provide businesses with access to capital that can be used to expand and grow. Financial instruments can also be used to hedge against market volatility and to manage risk.
 ===Risks of Financial Instruments===
+
 Financial instruments also carry risks. The most common risk is that of default, which occurs when a borrower fails to repay a loan or when an investor fails to receive the [[Expected Return|expected return]] on an investment. Other risks include market risk, [[Liquidity Risk|liquidity risk]], and counterparty risk. Market risk is the risk that the value of an investment will decline due to changes in the market. Liquidity risk is the risk that an investor will not be able to sell an investment quickly enough to avoid losses. Counterparty risk is the risk that the other party in a transaction will not fulfill their obligations.
 ===Conclusion===
+
 Financial instruments are an important part of the [[Financial System|financial system]]. They provide investors and businesses with access to capital and allow them to diversify their portfolios and manage risk. However, they also carry risks, such as default, market risk, liquidity risk, and counterparty risk. It is important for investors and businesses to understand these risks and to take steps to mitigate them

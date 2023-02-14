@@ -1,0 +1,23 @@
+<seo title="Bollinger Bands" metakeywords="bollinger bands used,bollinger bands technical,advantage bollinger bands,developed bollinger bands" metadescription="Bollinger Bands consist of three lines: an upper band, a lower band, and a middle line."/>
+===Introduction to Bollinger Bands===
+
+Bollinger Bands are a [[Technical Analysis|technical analysis]] tool developed by John Bollinger in the 1980s. They are used to measure the volatility of a security and to identify potential trading opportunities. Bollinger Bands consist of three lines: an upper band, a lower band, and a middle line. The middle line is a simple [[Moving Average|moving average]] (SMA) of the security's price, while the upper and lower bands are two [[Standard Deviation|standard deviation]]s away from the SMA. The bands expand and contract as the security's volatility increases and decreases.
+===History of Bollinger Bands===
+
+John Bollinger developed Bollinger Bands in the early 1980s. He was looking for a way to measure the volatility of a security and to identify potential trading opportunities. He found that by plotting the price of a security along with two standard deviations away from a simple moving average (SMA) of the security's price, he could create a band that would expand and contract as the security's volatility increased and decreased.
+===How Bollinger Bands Work===
+
+Bollinger Bands consist of three lines: an upper band, a lower band, and a middle line. The middle line is a simple moving average (SMA) of the security's price, while the upper and lower bands are two standard deviations away from the SMA. The bands expand and contract as the security's volatility increases and decreases.
+
+When the security's price is close to the upper band, it is considered overbought, and when it is close to the lower band, it is considered oversold. This can be used to identify potential trading opportunities.
+===Uses of Bollinger Bands===
+
+Bollinger Bands are used to measure the volatility of a security and to identify potential trading opportunities. They can also be used to identify support and resistance levels, as well as to identify trends.
+===Advantages and Disadvantages of Bollinger Bands===
+
+The main advantage of Bollinger Bands is that they can be used to measure the volatility of a security and to identify potential trading opportunities. They can also be used to identify support and resistance levels, as well as to identify trends.
+
+The main disadvantage of Bollinger Bands is that they are based on past data, so they may not be accurate in predicting future price movements.
+===Conclusion===
+
+Bollinger Bands are a technical analysis tool developed by John Bollinger in the 1980s. They are used to measure the volatility of a security and to identify potential trading opportunities. They consist of three lines: an upper band, a lower band, and a middle line. The main advantage of Bollinger Bands is that they can be used to measure the volatility of a security and to identify potential trading opportunities. The main disadvantage of Bollinger Bands is that they are based on past data, so they may not be accurate in predicting future price movements

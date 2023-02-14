@@ -1,13 +1,19 @@
 <seo title="Trailing Stop" metakeywords="trailingstop allows investors,benefit trailingstop allows,price benefits trailingstop,trailingstop main benefit" metadescription="Trailingstop is a type of stop-loss order that is used by investors to protect their profits and limit their losses."/>
 ===Introduction to Trailingstop===
+
 Trailingstop is a type of stop-loss order that is used by investors to protect their profits and limit their losses. It is a type of order that is placed with a broker to buy or sell a security when it reaches a certain price. The order is placed with the broker and the broker will then monitor the security and execute the order when the security reaches the specified price. The order is placed with the broker and the broker will then monitor the security and execute the order when the security reaches the specified price.
 ===History of Trailingstop===
+
 The concept of Trailingstop was first introduced in the early 1990s by the Chicago Board Options Exchange (CBOE). The CBOE developed the concept of Trailingstop as a way to protect investors from large losses due to market volatility. The concept of Trailingstop was then adopted by other exchanges and is now widely used by investors to protect their profits and limit their losses.
 ===Types of Trailingstop===
+
 There are two main types of Trailingstop orders: the trailing stop-loss order and the trailing stop-[[Limit Order|limit order]]. The trailing stop-loss order is an order that is placed with a broker to buy or sell a security when it reaches a certain price. The order is placed with the broker and the broker will then monitor the security and execute the order when the security reaches the specified price. The trailing stop-limit order is an order that is placed with a broker to buy or sell a security when it reaches a certain price, but the order is only executed if the security reaches the specified price.
 ===Benefits of Trailingstop===
+
 The main benefit of Trailingstop is that it allows investors to protect their profits and limit their losses. By placing a Trailingstop order, investors can ensure that they will not lose more than a certain amount of money on a particular security. This can help investors to manage their risk and ensure that they are not exposed to large losses due to market volatility.
 ===Drawbacks of Trailingstop===
+
 The main drawback of Trailingstop is that it can be difficult to predict when the security will reach the specified price. This can lead to investors missing out on potential profits if the security does not reach the specified price. Additionally, Trailingstop orders can be expensive as they require the investor to pay a commission to the broker for each order.
 ===Conclusion===
+
 In conclusion, Trailingstop is a type of stop-loss order that is used by investors to protect their profits and limit their losses. It is a type of order that is placed with a broker to buy or sell a security when it reaches a certain price. The order is placed with the broker and the broker will then monitor the security and execute the order when the security reaches the specified price. The main benefit of Trailingstop is that it allows investors to protect their profits and limit their losses. However, the main drawback of Trailingstop is that it ca

@@ -1,15 +1,22 @@
 <seo title="Duration" metakeywords="duration bond,duration duration bond,risk duration measure,duration measure risk" metadescription=" duration is a measure of the time it takes for a bond's price to return to its original value after a change in interest rates."/>
 ===Introduction to Duration===
+
 Duration is a measure of the sensitivity of a bond's price to changes in [[Interest Rate|interest rate]]s. It is a key concept in fixed income investing and is used to measure the risk of a bond portfolio. Duration is a measure of the time it takes for a bond's price to return to its original value after a change in interest rates. It is an important tool for investors to understand the risk of their bond portfolios and to make informed decisions about their investments.
 ===Definition of Duration===
+
 Duration is defined as the [[Weighted Average|weighted average]] of the [[Present Value|present value]]s of all [[Cash Flow|cash flow]]s from a bond, with each cash flow weighted by its time to maturity. It is a measure of the sensitivity of a bond's price to changes in interest rates. The longer the duration, the more sensitive the bond's price is to changes in interest rates.
 ===Calculating Duration===
+
 Duration is calculated by taking the present value of each cash flow from a bond and weighting it by its time to maturity. The weighted average of these present values is the duration of the bond. The longer the duration, the more sensitive the bond's price is to changes in interest rates.
 ===Duration and Interest Rates===
+
 Duration is an important tool for investors to understand the risk of their bond portfolios. When interest rates rise, the price of a bond with a longer duration will fall more than the price of a bond with a shorter duration. Conversely, when interest rates fall, the price of a bond with a longer duration will rise more than the price of a bond with a shorter duration.
 ===Duration and Bond Prices===
+
 Duration is also used to measure the price volatility of a bond. The longer the duration, the more volatile the bond's price will be. This is because a bond with a longer duration is more sensitive to changes in interest rates.
 ===Duration and Risk===
+
 Duration is a measure of the risk of a bond portfolio. The longer the duration, the more risk the portfolio is exposed to. This is because a bond with a longer duration is more sensitive to changes in interest rates.
 ===Conclusion===
+
 Duration is an important concept in fixed income investing. It is a measure of the sensitivity of a bond's price to changes in interest rates and is used to measure the risk of a bond portfolio. Duration is calculated by taking the present value of each cash flow from a bond and weighting it by its time to maturity. The longer the duration, the more sensitive the bond's price is to changes in interest rates and the more volatile the bond's price will be. Duration is an important tool for investors to understand the risk of their bond portfolios and to make informed decisions about their investments

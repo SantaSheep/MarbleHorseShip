@@ -1,11 +1,16 @@
 <seo title="Rational Choice Theory" metakeywords="theory rational choice,rational choice theory,sociology rational choice,economics rational choice" metadescription="Rational Choice Theory is a theory in economics and political science that suggests that individuals make decisions based on rational calculations of costs and benefits."/>
 ===Introduction to Rational Choice Theory===
+
 Rational Choice Theory is a theory in economics and political science that suggests that individuals make decisions based on rational calculations of costs and benefits. It is based on the assumption that individuals are rational actors who make decisions based on their own self-interest. The theory is used to explain and predict the behavior of individuals in a variety of contexts, including economic, political, and social. Rational Choice Theory has been used to explain a wide range of phenomena, from voting behavior to economic decision-making.
 ===History of Rational Choice Theory===
+
 Rational Choice Theory has its roots in the work of economists such as Adam Smith and John Stuart Mill. Smith argued that individuals make decisions based on their own self-interest, and Mill argued that individuals make decisions based on the greatest good for the greatest number. The modern version of Rational Choice Theory was developed in the 1950s and 1960s by economists such as Kenneth Arrow and John Harsanyi. They argued that individuals make decisions based on a cost-benefit analysis, weighing the costs and benefits of each option and choosing the one that maximizes their utility.
 ===Applications of Rational Choice Theory===
+
 Rational Choice Theory has been used to explain a wide range of phenomena, from voting behavior to economic decision-making. In economics, Rational Choice Theory has been used to explain consumer behavior, such as why people buy certain products and why they choose certain investments. In political science, Rational Choice Theory has been used to explain voting behavior, such as why people vote for certain candidates and why they support certain policies. In sociology, Rational Choice Theory has been used to explain social behavior, such as why people join certain groups and why they engage in certain activities.
 ===Criticisms of Rational Choice Theory===
+
 Rational Choice Theory has been criticized for its assumption that individuals are rational actors who make decisions based on their own self-interest. Critics argue that individuals are not always rational actors, and that their decisions are often influenced by factors such as emotions, culture, and social norms. Critics also argue that Rational Choice Theory does not take into account the complexity of human behavior, and that it oversimplifies the decision-making process.
 ===Conclusion===
+
 Rational Choice Theory is a theory in economics and political science that suggests that individuals make decisions based on rational calculations of costs and benefits. It has been used to explain a wide range of phenomena, from voting behavior to economic decision-making. While Rational Choice Theory has been useful in explaining certain phenomena, it has also been criticized for its assumption that individuals are rational actors and for its oversimplification of the decision-making process

@@ -1,13 +1,19 @@
 <seo title="Accruals" metakeywords="definition accruals accruals,accruals type accounting,definition accruals,using accruals" metadescription="Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date."/>
 ===Introduction to Accruals===
+
 Accruals are a type of accounting transaction that involves the recognition of income or expenses that have been incurred but not yet paid or received. Accruals are used to ensure that a company’s [[Financial Statements|financial statements]] accurately reflect the company’s financial position at any given time. Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date.
 ===Definition of Accruals===
+
 Accruals are a type of accounting transaction that involves the recognition of income or expenses that have been incurred but not yet paid or received. Accruals are used to ensure that a company’s financial statements accurately reflect the company’s financial position at any given time. Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date.
 ===Types of Accruals===
+
 Accruals can be divided into two main categories: [[Accrued Income|accrued income]] and [[Accrued Expense|accrued expense]]s. Accrued income is income that has been earned but not yet received. Accrued expenses are expenses that have been incurred but not yet paid. Accruals can also be divided into two subcategories: current accruals and deferred accruals. Current accruals are those that are expected to be paid or received within one year. Deferred accruals are those that are expected to be paid or received after one year.
 ===Accounting Treatment of Accruals===
+
 Accruals are recorded in the company’s financial statements in the period in which they are incurred. Accrued income is recorded as a receivable on the [[Balance Sheet|balance sheet]] and as income on the [[Income Statement|income statement]]. Accrued expenses are recorded as a payable on the balance sheet and as an expense on the income statement. Accruals are also used to adjust the company’s financial statements for any changes in the company’s financial position that have occurred since the last financial statement was prepared.
 ===Advantages and Disadvantages of Accruals===
+
 Accruals are an important part of the accounting process and provide a number of advantages. Accruals ensure that a company’s financial statements are accurate and up-to-date. Accruals also provide a more accurate picture of a company’s financial position at any given time. However, there are also some disadvantages to using accruals. Accruals can be difficult to understand and can be time-consuming to record. Accruals can also lead to errors if not properly recorded.
 ===Conclusion===
+
 Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date. Accruals provide a number of advantages, such as providing a more accurate picture of a company’s financial position at any given time. However, there are also some disadvantages to using accruals, such as the difficulty of understanding and recording them. It is important for companies to understand the advantag

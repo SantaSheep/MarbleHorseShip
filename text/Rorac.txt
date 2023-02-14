@@ -1,0 +1,21 @@
+<seo title="Rorac" metakeywords="rorac financial metric,return capital rorac,rorac return risk,rorac defined ratio" metadescription="RORAC is a financial metric used to measure the efficiency of a company’s capital structure."/>
+===Introduction to RORAC===
+
+RORAC, or Return on Risk Adjusted Capital, is a financial metric used to measure the efficiency of a company’s [[Capital Structure|capital structure]]. It is a measure of the return on capital that is adjusted for the risk associated with the capital. RORAC is used to compare the performance of different companies and to assess the risk-adjusted return of a company’s capital structure.
+===Definition of RORAC===
+
+RORAC is defined as the ratio of the return on capital to the risk associated with the capital. It is calculated by dividing the return on capital by the risk-adjusted capital. The return on capital is the [[Net Income|net income]] of the company divided by the total [[Capital Employed|capital employed]]. The risk-adjusted capital is the total capital employed multiplied by the risk associated with the capital.
+===History of RORAC===
+
+RORAC was developed in the early 1980s by the consulting firm McKinsey & Company. The concept was first used to measure the efficiency of a company’s capital structure. Since then, it has become a widely used financial metric for assessing the risk-adjusted return of a company’s capital structure.
+===Uses of RORAC===
+
+RORAC is used to compare the performance of different companies and to assess the risk-adjusted return of a company’s capital structure. It is also used to evaluate the performance of a company’s capital structure over time.
+===Advantages and Disadvantages of RORAC===
+
+RORAC has several advantages. It is a simple and easy to understand metric that can be used to compare the performance of different companies. It also takes into account the risk associated with the capital, which makes it a more accurate measure of the return on capital.
+
+However, RORAC also has some disadvantages. It does not take into account the [[Cost Of Capital|cost of capital]], which can have a significant impact on the return on capital. Additionally, it does not take into account the [[Time Value Of Money|time value of money]], which can also have an impact on the return on capital.
+===Conclusion===
+
+RORAC is a financial metric used to measure the efficiency of a company’s capital structure. It is a measure of the return on capital that is adjusted for the risk associated with the capital. RORAC is used to compare the performance of different companies and to assess the risk-adjusted return of a company’s capital structure. It has several advantages, such as being a simple and easy to understand metric, but it also has some disadvantages, such as not taking into account the cost of capital or the time value of money

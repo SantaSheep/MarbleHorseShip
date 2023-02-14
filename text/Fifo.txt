@@ -1,0 +1,21 @@
+<seo title="Fifo" metakeywords="fifo accounting method,fifo accounting,fifo fifo accounting,fifo acronym accounting" metadescription="FIFO is a method of inventory valuation that assumes that the oldest items in inventory are the first to be sold."/>
+===Introduction to Fifo===
+
+First in, first out (FIFO) is an [[Accounting Method|accounting method]] used to record and track the flow of inventory and costs associated with the inventory. It is a method of inventory valuation that assumes that the oldest items in inventory are the first to be sold. FIFO is one of the most commonly used inventory valuation methods, and is used by many businesses to accurately track their inventory and costs.
+===Definition of Fifo===
+
+FIFO is an acronym for “first in, first out”. It is an accounting method used to record and track the flow of inventory and costs associated with the inventory. It is a method of inventory valuation that assumes that the oldest items in inventory are the first to be sold. This method is used to calculate the cost of goods sold (COGS) and the value of the inventory on hand.
+===Examples of Fifo===
+
+FIFO is commonly used in retail and manufacturing businesses. For example, a retail store may use FIFO to track the cost of goods sold. The store would record the cost of the oldest items in inventory as the cost of goods sold, and the cost of the newest items in inventory as the value of the inventory on hand.
+
+In a manufacturing business, FIFO is used to track the cost of [[Raw Materials|raw materials]] used in the production process. The cost of the oldest raw materials used in production is recorded as the cost of goods sold, and the cost of the newest raw materials used in production is recorded as the value of the inventory on hand.
+===Advantages of Fifo===
+
+FIFO has several advantages over other inventory valuation methods. First, it is easy to understand and implement. Second, it is a reliable method of tracking inventory and costs. Third, it is a more accurate method of tracking inventory and costs than other methods, such as average cost or last in, first out (LIFO). Finally, it is a more tax-efficient method of inventory valuation, as it allows businesses to defer taxes on inventory until it is sold.
+===Disadvantages of Fifo===
+
+Despite its advantages, FIFO also has some disadvantages. First, it does not take into account changes in the cost of goods over time. Second, it does not accurately reflect the true cost of goods sold, as it does not take into account the cost of goods that have been sold but not yet replaced. Finally, it can lead to higher taxes, as businesses are required to pay taxes on the cost of goods sold even if the cost of the goods has decreased since they were purchased.
+===Conclusion===
+
+FIFO is a commonly used inventory valuation method that is easy to understand and implement. It is a reliable method of tracking inventory and costs, and is more tax-efficient than other methods. However, it does not take into account changes in the cost of goods over time, and can lead to higher taxes. Ultimately, businesses must decide which inventory valuation method is best for their particular situation

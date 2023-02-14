@@ -1,13 +1,19 @@
 <seo title="Invested Capital" metakeywords="company invested capital,introduction invested capital,debt capital invested,companies invested capital" metadescription="Invested capital is a financial term that refers to the total amount of money that has been invested in a company or business."/>
 ===Introduction to Invested Capital===
+
 Invested capital is a financial term that refers to the total amount of money that has been invested in a company or business. It is a measure of the total amount of capital that has been used to finance the operations of a business. Invested capital is an important concept in finance and accounting, as it is used to measure the financial health of a company. It is also used to assess the potential [[Return On Investment|return on investment]] for a company.
 ===Components of Invested Capital===
+
 Invested capital is composed of two main components: equity capital and debt capital. Equity capital is the money that is invested in a company by its owners or shareholders. This includes money that is invested in the form of stocks, bonds, and other investments. Debt capital is the money that is borrowed by a company from lenders, such as banks or other [[Financial Institution|financial institution]]s. This includes money that is borrowed in the form of loans, lines of credit, and other forms of debt.
 ===Calculating Invested Capital===
+
 Invested capital is calculated by adding together the equity capital and debt capital of a company. This can be done by adding together the total value of the company’s equity investments and the total value of its debt. The total value of the company’s equity investments is calculated by adding together the value of all of the company’s stocks, bonds, and other investments. The total value of the company’s debt is calculated by adding together the value of all of the company’s loans, lines of credit, and other forms of debt.
 ===Advantages of Invested Capital===
+
 Invested capital is an important concept in finance and accounting, as it is used to measure the financial health of a company. It is also used to assess the potential return on investment for a company. Invested capital can be used to measure the amount of money that has been invested in a company, and it can be used to compare the [[Financial Performance|financial performance]] of different companies. Invested capital can also be used to assess the risk associated with investing in a company.
 ===Disadvantages of Invested Capital===
+
 One of the main disadvantages of invested capital is that it does not take into account the value of [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s, such as intellectual property or brand recognition. Invested capital also does not take into account the value of future [[Cash Flow|cash flow]]s, which can be an important factor in assessing the potential return on investment for a company. Additionally, invested capital does not take into account the potential risks associated with investing in a company.
 ===Conclusion===
+
 Invested capital is an important concept in finance and accounting, as it is used to measure the financial health of a company. It is composed of two main components: equity capital and debt capital. Invested capital is calculated by adding together the equity capital and debt capital of a company. Invested capital can be used to measure the amount of money that has been invested i

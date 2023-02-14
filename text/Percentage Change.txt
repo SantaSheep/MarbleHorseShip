@@ -1,0 +1,32 @@
+<seo title="Percentage Change" metakeywords="calculating percentage change,percentage change calculated,percentage change measure,percentage change formula" metadescription="Percentage change is a measure of the relative change in a quantity over a period of time."/>
+===Introduction to Percentage Change===
+
+Percentage change is a measure of the relative change in a quantity over a period of time. It is expressed as a percentage and is calculated by taking the difference between the initial and final values of a quantity and dividing it by the initial value. This calculation is then multiplied by 100 to express the result as a percentage. Percentage change is a useful tool for comparing changes in values over time and can be used to measure the performance of investments, the growth of a company, or the inflation rate of a country.
+===Calculating Percentage Change===
+
+The formula for calculating percentage change is as follows:
+
+Percentage Change = (Final Value - Initial Value) / Initial Value x 100
+
+For example, if the initial value of a stock is $100 and the final value is $120, the percentage change would be calculated as follows:
+
+Percentage Change = ($120 - $100) / $100 x 100 = 20%
+===Examples of Percentage Change===
+
+Percentage change can be used to measure the performance of investments, the growth of a company, or the inflation rate of a country. For example, if a companyâ€™s sales increased from $1 million to $1.2 million over a period of one year, the percentage change in sales would be calculated as follows:
+
+Percentage Change = ($1.2 million - $1 million) / $1 million x 100 = 20%
+
+Similarly, if the inflation rate of a country increased from 2% to 4% over a period of one year, the percentage change in the inflation rate would be calculated as follows:
+
+Percentage Change = (4% - 2%) / 2% x 100 = 100%
+===Uses of Percentage Change===
+
+Percentage change is a useful tool for comparing changes in values over time. It can be used to measure the performance of investments, the growth of a company, or the inflation rate of a country. It can also be used to compare the performance of different investments or companies over a period of time. For example, if two stocks have the same initial value of $100, but one stock increases to $120 and the other decreases to $80, the percentage change for each stock can be calculated as follows:
+
+Stock 1: Percentage Change = ($120 - $100) / $100 x 100 = 20%
+
+Stock 2: Percentage Change = ($80 - $100) / $100 x 100 = -20%
+===Conclusion===
+
+In conclusion, percentage change is a measure of the relative change in a quantity over a period of time. It is expressed as a percentage and is calculated by taking the difference between the initial and final values of a quantity and dividing it by the initial value. Percentage change is a useful tool for comparing changes in values over time and can be used to measure the performance of investments, the growth of a company, or the inflation rate of a country

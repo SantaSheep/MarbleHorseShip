@@ -1,13 +1,19 @@
 <seo title="Three Sigma Limits" metakeywords="sigma limits statistical,uses sigma limits,disadvantages sigma limits,sigma limits used" metadescription="Three Sigma Limits, also known as control limits, are a statistical tool used to measure the performance of a process or system."/>
 ===Introduction to Three Sigma Limits===
+
 Three Sigma Limits, also known as 3-sigma limits, are a statistical tool used to measure the performance of a process or system. They are used to identify and monitor process performance and to identify areas of improvement. The 3-sigma limits are calculated by taking the mean of a process or system and adding and subtracting three [[Standard Deviation|standard deviation]]s from it. This creates an upper and lower limit that can be used to measure the performance of the process or system.
 ===Definition of Three Sigma Limits===
+
 Three Sigma Limits are a statistical tool used to measure the performance of a process or system. They are calculated by taking the mean of a process or system and adding and subtracting three standard deviations from it. This creates an upper and lower limit that can be used to measure the performance of the process or system. The 3-sigma limits are also known as control limits, and they are used to identify and monitor process performance and to identify areas of improvement.
 ===Uses of Three Sigma Limits===
+
 Three Sigma Limits are used to measure the performance of a process or system. They are used to identify and monitor process performance and to identify areas of improvement. The 3-sigma limits are also used to detect process variation and to identify potential problems. They can also be used to set goals and objectives for a process or system.
 ===Examples of Three Sigma Limits===
+
 One example of a 3-sigma limit is the mean of a process or system plus or minus three standard deviations. This creates an upper and lower limit that can be used to measure the performance of the process or system. Another example is the use of 3-sigma limits to detect process variation and to identify potential problems.
 ===Advantages and Disadvantages of Three Sigma Limits===
+
 The advantages of using 3-sigma limits include the ability to identify and monitor process performance and to identify areas of improvement. They can also be used to detect process variation and to identify potential problems. The disadvantages of using 3-sigma limits include the fact that they are not always accurate and can be affected by outliers.
 ===Conclusion===
+
 Three Sigma Limits are a statistical tool used to measure the performance of a process or system. They are calculated by taking the mean of a process or system and adding and subtracting three standard deviations from it. This creates an upper and lower limit that can be used to measure the performance of the process or system. The 3-sigma limits are used to identify and monitor process performance and to identify areas of improvement. They can also be used to detect process variation and to identify potential problems. The advantages of using 3-sigma limits include the ability to identify and monitor process performance and to identify areas of improvement. The disadvantages of using 3-sigma limits include the fact that they are not always accurate and can be affected b

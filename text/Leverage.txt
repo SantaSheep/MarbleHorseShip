@@ -1,13 +1,19 @@
 <seo title="Leverage" metakeywords="different types leverage,finance investment leverage,leverage used financial,types leverage used" metadescription="Leverage is a way of using borrowed money to increase the potential return of an investment."/>
 ===Introduction to Leverage===
+
 Leverage is a financial tool used to increase the potential return on an investment. It is a way of using borrowed money to increase the potential return of an investment. Leverage can be used to increase the potential return of an investment by increasing the amount of money invested in the asset. Leverage can also be used to reduce the risk of an investment by allowing the investor to spread their risk across multiple investments. Leverage can be used in a variety of ways, including through the use of debt, derivatives, and margin accounts.
 ===Types of Leverage===
+
 There are several different types of leverage that can be used in [[Financial Market|financial market]]s. Debt leverage is the most common type of leverage and involves borrowing money to increase the potential return of an investment. Derivatives leverage involves using derivatives, such as options and futures, to increase the potential return of an investment. Margin accounts leverage involves using a margin account to increase the potential return of an investment.
 ===Leverage Ratios===
+
 [[Leverage Ratio|Leverage ratio]]s are used to measure the amount of leverage used in an investment. The most common leverage ratio is the debt-to-equity ratio, which measures the amount of debt used to finance an investment relative to the amount of equity invested. Other leverage ratios include the debt-to-assets ratio, which measures the amount of debt used to finance an investment relative to the total assets of the investment, and the debt-to-income ratio, which measures the amount of debt used to finance an investment relative to the income of the investor.
 ===Leverage and Risk===
+
 Leverage can be used to increase the potential return of an investment, but it can also increase the risk of an investment. Leverage increases the potential return of an investment by increasing the amount of money invested in the asset, but it also increases the potential losses of an investment if the asset does not perform as expected. Leverage can also increase the risk of an investment by increasing the amount of debt used to finance the investment.
 ===Leverage and Financial Markets===
+
 Leverage is commonly used in financial markets to increase the potential return of an investment. Leverage is used by investors to increase the potential return of an investment by increasing the amount of money invested in the asset. Leverage is also used by [[Financial Institution|financial institution]]s to increase the potential return of an investment by increasing the amount of debt used to finance the investment. Leverage is also used by traders to increase the potential return of an investment by using derivatives and margin accounts.
 ===Conclusion===
+
 Leverage is a financial tool used to increase the potential return of an investment. Leverage can be used in a variety of ways, including through the use of debt, derivatives, and margin accounts. Leverage can increase the potential return of an investment, but it can also increase the risk of

@@ -1,13 +1,19 @@
 <seo title="Tapering" metakeywords="tapering quantitative easing,tapering financial term,tapering tapering benefits,tapering tapering drawbacks" metadescription="Tapering is a financial term that refers to the gradual reduction of a central bankâ€™s monetary policy stimulus."/>
 ===Introduction to Tapering===
+
 Tapering is a financial term that refers to the gradual reduction of a central bankâ€™s [[Monetary Policy|monetary policy]] stimulus. It is a process that is used to reduce the amount of money that is being injected into the economy in order to slow down the rate of [[Economic Growth|economic growth]]. Tapering is a tool that is used by central banks to manage the [[Money Supply|money supply]] and to control inflation.
 ===History of Tapering===
+
 Tapering has been used by central banks since the early 20th century. The first instance of tapering was in the United States in the 1920s, when the Federal Reserve began to reduce the amount of money it was injecting into the economy. This was done in order to slow down the rate of economic growth and to prevent inflation from getting out of control. Since then, tapering has been used by central banks around the world to manage the money supply and to control inflation.
 ===Types of Tapering===
+
 There are two main types of tapering: [[Quantitative Easing|quantitative easing]] (QE) and [[Open Market Operations|open market operations]] (OMO). Quantitative easing is a form of monetary policy in which a central bank purchases government bonds and other [[Financial Asset|financial asset]]s in order to increase the money supply and stimulate the economy. Open market operations are a form of monetary policy in which a central bank buys and sells government bonds in order to influence the money supply and [[Interest Rate|interest rate]]s.
 ===Benefits of Tapering===
+
 Tapering has several benefits. It can help to reduce inflation by reducing the amount of money that is being injected into the economy. It can also help to reduce the risk of asset bubbles by reducing the amount of money that is available for speculation. Finally, tapering can help to reduce the risk of a financial crisis by reducing the amount of money that is available for lending.
 ===Drawbacks of Tapering===
+
 Tapering can also have some drawbacks. It can lead to a decrease in economic growth, as the reduction [[In The Money|in the money]] supply can lead to a decrease in consumer spending. It can also lead to an increase in unemployment, as businesses may be forced to lay off workers due to the decrease in demand for their products. Finally, tapering can lead to an increase in interest rates, as the central bank may need to raise rates in order to control inflation.
 ===Conclusion===
+
 Tapering is a tool that is used by central banks to manage the money supply and to control inflation. It has both benefits and drawbacks, and it is important for central banks to carefully consider the potential effects of tapering before implementing it. Tapering can be a useful tool for central banks, but it should be used with caution

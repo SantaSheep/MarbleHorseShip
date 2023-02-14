@@ -1,13 +1,19 @@
 <seo title="Yield" metakeywords="evaluating investment yield,investment yield,yield investment,investment yield investment" metadescription="Yield is an important concept in finance and is used to evaluate the performance of investments."/>
 ===Introduction to Yield===
+
 Yield is a measure of the return on an investment. It is typically expressed as a percentage of the original investment and is used to compare different investments. Yield is an important concept in finance and is used to evaluate the performance of investments. Yield can be calculated for stocks, bonds, [[Mutual Fund|mutual fund]]s, and other investments.
 ===Types of Yield===
+
 Yield can be divided into two main categories: current yield and [[Yield To Maturity|yield to maturity]]. Current yield is the annual return on an investment, expressed as a percentage of the current market price. Yield to maturity is the total return on an investment, expressed as a percentage of the original investment. Yield to maturity takes into account the [[Time Value Of Money|time value of money]] and is a more accurate measure of an investmentâ€™s return.
 ===Calculating Yield===
+
 Yield can be calculated using a variety of methods. The most common method is to divide the annual income from an investment by the current market price. This calculation is known as the current yield. Yield to maturity can be calculated by taking into account the time value of money and the expected future [[Cash Flow|cash flow]]s from the investment.
 ===Yield and Risk===
+
 Yield and risk are closely related. Generally, investments with higher yields are associated with higher levels of risk. This is because higher yields are typically associated with investments that have a higher potential for loss. Investors should consider both the potential return and the potential risk when evaluating an investment.
 ===Yield and Investment Strategies===
+
 Yield is an important factor in investment strategies. Investors may choose to invest in higher yielding investments in order to maximize their returns. However, they should also consider the associated risks before making any investment decisions.
 ===Conclusion===
+
 Yield is an important concept in finance and is used to evaluate the performance of investments. Yield can be divided into two main categories: current yield and yield to maturity. Yield can be calculated using a variety of methods and is closely related to risk. Yield is an important factor in investment strategies and investors should consider both the potential return and the potential risk when evaluating an investment

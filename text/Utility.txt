@@ -1,13 +1,19 @@
 <seo title="Utility" metakeywords="utility important concept,definition utility,utility measure,utility subjective meaning" metadescription="Utility is a term used in economics and finance to describe the satisfaction or benefit that a consumer receives from a good or service."/>
 ===Introduction to Utility===
+
 Utility is a term used in economics and finance to describe the satisfaction or benefit that a consumer receives from a good or service. It is a measure of the usefulness of a product or service and is used to compare different products or services. Utility is an important concept in economics and finance, as it helps to explain why people make certain decisions and how they value different goods and services.
 ===Definition of Utility===
+
 Utility is defined as the satisfaction or benefit that a consumer receives from a good or service. It is a measure of the usefulness of a product or service and is used to compare different products or services. Utility is subjective, meaning that it is based on the individual's preferences and values. Utility is also a measure of the relative value of a good or service, as it takes into account the cost of the good or service as well as the satisfaction or benefit that the consumer receives from it.
 ===Types of Utility===
+
 There are three main types of utility: form utility, place utility, and time utility. Form utility is the satisfaction or benefit that a consumer receives from the physical form of a good or service. Place utility is the satisfaction or benefit that a consumer receives from the location of a good or service. Time utility is the satisfaction or benefit that a consumer receives from the timing of a good or service.
 ===Utility in Financial Markets===
+
 Utility is an important concept in [[Financial Market|financial market]]s, as it helps to explain why people make certain decisions and how they value different investments. Utility is used to measure the relative value of different investments, as it takes into account the cost of the investment as well as the satisfaction or benefit that the investor receives from it. Utility is also used to measure the risk of an investment, as it takes into account the potential for loss as well as the potential for gain.
 ===Utility and Risk===
+
 Utility is closely related to risk, as it is used to measure the potential for loss as well as the potential for gain. Utility is used to measure the risk of an investment, as it takes into account the cost of the investment as well as the potential for loss or gain. Utility is also used to measure the risk of a portfolio, as it takes into account the potential for loss or gain from each individual investment in the portfolio.
 ===Conclusion===
+
 In conclusion, utility is an important concept in economics and finance, as it helps to explain why people make certain decisions and how they value different goods and services. Utility is used to measure the relative value of different investments, as it takes into account the cost of the investment as well as the satisfaction or benefit that the investor receives from it. Utility is also used to measure the risk of an investment, as it takes into account the potential for loss as well as the potential for gain

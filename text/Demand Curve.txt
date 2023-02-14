@@ -1,11 +1,16 @@
 <seo title="Demand Curve" metakeywords="demand curve types,curve demand curves,types demand curves,demand curve demand" metadescription="A demand curve is a graphical representation of the relationship between the price of a good or service and the quantity that consumers are willing and able to purchase."/>
 ===Introduction to Demand Curve===
+
 A demand curve is a graphical representation of the relationship between the price of a good or service and the quantity of that good or service that consumers are willing and able to purchase. It is used to illustrate the [[Law Of Demand|law of demand]], which states that as the price of a good or service increases, the quantity demanded decreases. The demand curve is a fundamental tool in economics and is used to analyze consumer behavior, market trends, and the effects of government policies.
 ===Factors Affecting Demand Curve===
+
 There are several factors that can affect the shape of a demand curve. These include the price of related goods, consumer income, consumer tastes and preferences, the availability of substitutes, and the number of buyers in the market. The price of related goods, such as complementary goods or substitute goods, can affect the demand for a good or service. For example, if the price of a substitute good increases, the demand for the original good may decrease. Similarly, if the price of a complementary good decreases, the demand for the original good may increase. Consumer income is also an important factor in determining the shape of the demand curve. As income increases, consumers are able to purchase more of a good or service, and the demand curve shifts to the right.
 ===Types of Demand Curve===
+
 There are several types of demand curves. The most common type is the linear demand curve, which is a straight line that slopes downward from left to right. This type of demand curve is used to illustrate the law of demand, which states that as the price of a good or service increases, the quantity demanded decreases. Other types of demand curves include the non-linear demand curve, which is a curved line that slopes downward from left to right, and the inverse demand curve, which is a curved line that slopes upward from left to right.
 ===Applications of Demand Curve===
+
 Demand curves are used in a variety of economic applications. They are used to analyze consumer behavior, market trends, and the effects of government policies. For example, demand curves can be used to analyze the effects of a tax on a good or service. They can also be used to analyze the effects of a change in consumer income on the demand for a good or service. Additionally, demand curves can be used to analyze the effects of changes in the price of related goods on the demand for a good or service.
 ===Conclusion===
+
 In conclusion, a demand curve is a graphical representation of the relationship between the price of a good or service and the quantity of that good or service that consumers are willing and able to purchase. It is used to illustrate the law of demand, which states that as the price of a good or service increases, the quantity demanded decreases. There are several factors that can affect the shape of a demand curve, including the price of related goods, consumer income, consumer tastes and preferences, the availabil

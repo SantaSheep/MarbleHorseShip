@@ -1,15 +1,22 @@
 <seo title="Accrued Income" metakeywords="examples accrued income,income accrued income,accrued income income,accrued income type" metadescription="Accrued income is an important concept in accounting and finance.It allows businesses to recognize income that has been earned but not yet received."/>
 ===Introduction to Accrued Income===
+
 Accrued income is a type of income that is earned but not yet received. It is a form of income that is recognized in the accounting period in which it is earned, even though the actual cash may not be received until a later period. Accrued income is an important concept in accounting and finance, as it allows businesses to recognize income that has been earned but not yet received.
 ===Definition of Accrued Income===
+
 Accrued income is income that has been earned but not yet received. It is income that has been earned in the [[Curren[[T Account|t Account]]|current account]]ing period, but the cash may not be received until a later period. Accrued income is recognized in the accounting period in which it is earned, regardless of when the cash is received.
 ===Examples of Accrued Income===
+
 Accrued income can take many forms. Common examples of accrued income include interest income, rent income, and dividend income. Interest income is income earned from investments, such as bonds or savings accounts. Rent income is income earned from renting out property. Dividend income is income earned from owning shares of a company.
 ===Accounting Treatment of Accrued Income===
+
 Accrued income is recorded in the accounting period in which it is earned, regardless of when the cash is received. The income is recorded as a receivable on the [[Balance Sheet|balance sheet]], and as income on the [[Income Statement|income statement]]. The receivable is then adjusted when the cash is received.
 ===Taxation of Accrued Income===
+
 Accrued income is subject to taxation in the period in which it is earned, regardless of when the cash is received. The income is reported on the taxpayerâ€™s tax return in the period in which it is earned, and the taxes are paid when the return is filed.
 ===Advantages and Disadvantages of Accrued Income===
+
 Accrued income has both advantages and disadvantages. The main advantage of accrued income is that it allows businesses to recognize income that has been earned but not yet received. This allows businesses to accurately reflect their [[Financial Performance|financial performance]] in the current period. The main disadvantage of accrued income is that it can lead to [[Cash Flow|cash flow]] issues if the cash is not received in a timely manner.
 ===Conclusion===
+
 Accrued income is a type of income that is earned but not yet received. It is an important concept in accounting and finance, as it allows businesses to recognize income that has been earned but not yet received. Accrued income is recorded in the accounting period in which it is earned, regardless of when the cash is received. It is subject to taxation in the period in which it is earned, and it can lead to cash flow issues if the cash is not received in a timely manner

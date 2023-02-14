@@ -1,15 +1,22 @@
 <seo title="Opportunity Cost" metakeywords="opportunity cost concept,opportunity cost example,definition opportunity cost,opportunity cost defined" metadescription="Opportunity cost is the cost of an alternative that must be forgone in order to pursue a certain action."/>
 ===Introduction to Opportunity Cost===
+
 Opportunity cost is an economic concept that refers to the cost of an alternative that must be forgone in order to pursue a certain action. It is the cost of the next best alternative that is not chosen. Opportunity cost is an important concept in economics and finance, as it helps to determine the optimal decision when faced with multiple choices.
 ===Definition of Opportunity Cost===
+
 Opportunity cost is defined as the cost of the next best alternative that is not chosen. It is the cost of the forgone opportunity, or the cost of the alternative that is not taken. Opportunity cost is a concept that is used to compare the cost of different options and to determine the optimal decision.
 ===Examples of Opportunity Cost===
+
 One example of opportunity cost is the decision to go to college. The opportunity cost of going to college is the cost of the forgone opportunity, such as the cost of not working or the cost of not pursuing other activities. Another example of opportunity cost is the decision to invest in a certain stock. The opportunity cost of investing in a certain stock is the cost of the forgone opportunity, such as the cost of not investing in another stock.
 ===Factors Affecting Opportunity Cost===
+
 There are several factors that can affect the opportunity cost of a decision. These factors include the cost of the alternative that is not chosen, the [[Expected Return|expected return]] of the alternative that is chosen, and the risk associated with the alternative that is chosen.
 ===Calculating Opportunity Cost===
+
 The opportunity cost of a decision can be calculated by subtracting the expected return of the alternative that is chosen from the expected return of the alternative that is not chosen. This calculation will give the opportunity cost of the decision.
 ===Advantages and Disadvantages of Opportunity Cost===
+
 The main advantage of opportunity cost is that it helps to determine the optimal decision when faced with multiple choices. It also helps to compare the cost of different options and to make informed decisions. The main disadvantage of opportunity cost is that it does not take into account the risk associated with the decision.
 ===Conclusion===
+
 In conclusion, opportunity cost is an important concept in economics and finance. It is the cost of the forgone opportunity, or the cost of the alternative that is not taken. It is used to compare the cost of different options and to determine the optimal decision. There are several factors that can affect the opportunity cost of a decision, and it can be calculated by subtracting the expected return of the alternative that is chosen from the expected return of the alternative that is not chosen. The main advantage of opportunity cost is that it helps to determine the optimal decision when faced with multiple choices, while the main disadvantage is that it does not take into account the risk associated with the decision

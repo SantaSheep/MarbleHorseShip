@@ -1,13 +1,19 @@
 <seo title="Market" metakeywords="market structure,market structure market,market structure structure,competition market structure" metadescription="A market is an economic system that facilitates the exchange of goods and services between buyers and sellers."/>
 ===Introduction to Market===
+
 A market is an economic system that facilitates the exchange of goods and services between buyers and sellers. It is a place where buyers and sellers come together to negotiate prices and exchange goods and services. Markets can be physical or virtual, and can be organized in a variety of ways, such as through auctions, bargaining, or fixed prices. The market is an important part of the economy, as it allows for the efficient allocation of resources and the efficient distribution of goods and services.
 ===Types of Markets===
+
 There are several different types of markets, each with its own characteristics. The most common types of markets are [[Perfect Competition|perfect competition]], monopolistic competition, oligopoly, and monopoly. Perfect competition is a market structure in which there are many buyers and sellers, and no single buyer or seller has the power to influence prices. Monopolistic competition is a market structure in which there are many buyers and sellers, but one or a few firms have the power to influence prices. Oligopoly is a market structure in which there are a few firms that dominate the market and have the power to influence prices. Monopoly is a market structure in which there is only one firm that has the power to influence prices.
 ===Market Structure===
+
 The structure of a market is determined by the number of buyers and sellers, the type of goods and services being exchanged, and the rules and regulations governing the market. The structure of a market can be divided into two main categories: competitive and non-competitive. In a competitive market, buyers and sellers compete for the best prices and [[Terms Of Trade|terms of trade]]. In a non-competitive market, buyers and sellers do not compete and prices are determined by a single seller or buyer.
 ===Market Participants===
+
 The participants in a market include buyers, sellers, intermediaries, and regulators. Buyers are the individuals or organizations that purchase goods and services. Sellers are the individuals or organizations that produce and sell goods and services. Intermediaries are the individuals or organizations that facilitate the exchange of goods and services between buyers and sellers. Regulators are the individuals or organizations that set the rules and regulations governing the market.
 ===Market Efficiency===
+
 Market efficiency is the degree to which a market is able to allocate resources efficiently. A market is said to be efficient if it is able to allocate resources in such a way that the maximum benefit is achieved for the least cost. Market efficiency is affected by the structure of the market, the number of participants, and the rules and regulations governing the market.
 ===Market Regulation===
+
 Market regulation is the process of setting rules and regulations to ensure that the market functions efficiently and fairly. Market regulation is necessary to ensure that the market is not manipulated by any single participant, and that the market is abl

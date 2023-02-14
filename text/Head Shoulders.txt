@@ -1,15 +1,22 @@
 <seo title="Head Shoulders" metakeywords="shoulders patterns head,head shoulders pattern,head shoulders patterns,patterns head shoulders" metadescription="Head and Shoulders is a technical analysis pattern used by traders to identify potential reversals in the price of a security."/>
 ===Introduction to Head and Shoulders===
+
 Head and Shoulders is a [[Technical Analysis|technical analysis]] pattern used by traders to identify potential reversals in the price of a security. It is one of the most widely used and reliable chart patterns in the [[Financial Market|financial market]]s. The pattern is characterized by three peaks, with the middle peak being the highest and the two outside peaks being lower. The pattern is used to identify potential reversals in the price of a security, as well as potential entry and exit points for traders.
 ===History of Head and Shoulders===
+
 The Head and Shoulders pattern was first identified by Charles Dow in the late 19th century. Dow was a pioneer in the field of technical analysis and is credited with developing the [[Dow Theory|Dow Theory]], which is still used today. The Head and Shoulders pattern was first described in Dow's book, The Wall Street Journal, in 1897. Since then, the pattern has become one of the most widely used and reliable chart patterns in the financial markets.
 ===Types of Head and Shoulders Patterns===
+
 There are two types of Head and Shoulders patterns: the [[Inverse Head And Shoulders|inverse Head and Shoulders]] and the regular Head and Shoulders. The inverse Head and Shoulders pattern is characterized by three peaks, with the middle peak being the lowest and the two outside peaks being higher. This pattern is used to identify potential reversals in the price of a security, as well as potential entry and exit points for traders. The regular Head and Shoulders pattern is characterized by three peaks, with the middle peak being the highest and the two outside peaks being lower. This pattern is used to identify potential reversals in the price of a security, as well as potential entry and exit points for traders.
 ===How to Identify Head and Shoulders Patterns===
+
 The Head and Shoulders pattern is relatively easy to identify on a chart. The pattern is characterized by three peaks, with the middle peak being the highest and the two outside peaks being lower. The pattern is usually accompanied by a volume spike at the time of the middle peak. The pattern is also usually accompanied by a decrease in volume at the time of the two outside peaks.
 ===Benefits of Head and Shoulders Patterns===
+
 The Head and Shoulders pattern is one of the most reliable chart patterns in the financial markets. It is used to identify potential reversals in the price of a security, as well as potential entry and exit points for traders. The pattern is also relatively easy to identify on a chart, making it a useful tool for traders.
 ===Risks of Head and Shoulders Patterns===
+
 Although the Head and Shoulders pattern is one of the most reliable chart patterns in the financial markets, it is not without risk. The pattern is not always reliable and can be subject to false signals. Additionally, the pattern is not always easy to identify on a chart, and can be subject to interpretation.
 ===Conclusion===
+
 Head and Shoulders is a technical analysis pattern used by traders to identify potenti

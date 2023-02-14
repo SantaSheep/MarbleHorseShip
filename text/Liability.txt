@@ -1,11 +1,16 @@
 <seo title="Liability" metakeywords="liabilities accounting liabilities,liabilities accounting,understanding liabilities managing,accounting liabilities" metadescription="Liability is a term used in accounting and finance to refer to a company’s financial obligations."/>
 ===Introduction to Liability===
+
 Liability is a term used in accounting and finance to refer to a company’s financial obligations. Liabilities are obligations that a company has to pay or provide goods or services to another party. Liabilities can be short-term or long-term, and can be either current or non-current. Liabilities are typically recorded on a company’s [[Balance Sheet|balance sheet]], and are used to measure the financial health of a company.
 ===Types of Liabilities===
+
 There are several different types of liabilities that a company may have. These include [[Current Liabilities|current liabilities]], such as [[Accounts Payable|accounts payable]], taxes payable, and short-term loans; and non-current liabilities, such as long-term debt, deferred taxes, and pension obligations. Current liabilities are obligations that must be paid within one year, while non-current liabilities are obligations that must be paid over a longer period of time.
 ===Accounting for Liabilities===
+
 When accounting for liabilities, companies must record the amount of the liability, the date it was incurred, and the expected date of payment. Companies must also record any interest or other costs associated with the liability. The amount of the liability is recorded as a debit on the company’s balance sheet, and the expected payment is recorded as a credit.
 ===Liability Management===
+
 Liability management is the process of managing a company’s liabilities in order to maximize its [[Financial Performance|financial performance]]. This involves monitoring the company’s liabilities, assessing the risks associated with them, and taking steps to reduce or eliminate those risks. This may include refinancing debt, renegotiating payment terms, or restructuring the company’s debt.
 ===Conclusion===
+
 Liability is an important concept in accounting and finance, and is used to measure the financial health of a company. Liabilities can be either current or non-current, and can be managed in order to maximize a company’s financial performance. By understanding liabilities and managing them effectively, companies can ensure their financial success

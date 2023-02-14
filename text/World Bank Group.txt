@@ -1,13 +1,19 @@
 <seo title="World Bank Group" metakeywords="world bank group,group world bank,history world bank,structure world bank" metadescription="The World Bank Group is an international financial institution that provides loans, grants, and other financial assistance to developing countries around the world."/>
 ===Introduction to the World Bank Group===
+
 The [[World Bank|World Bank]] Group is an international [[Financial Institution|financial institution]] that provides loans, grants, and other financial assistance to developing countries around the world. It is made up of five organizations: the International Bank for Reconstruction and Development (IBRD), the International Development Association (IDA), the International Finance Corporation (IFC), the Multilateral Investment Guarantee Agency (MIGA), and the International Centre for Settlement of Investment Disputes (ICSID). The World Bank Group is headquartered in Washington,  and is owned by its 189 member countries.
 ===History of the World Bank Group===
+
 The World Bank Group was established in 1944 at the Bretton Woods Conference in New Hampshire, USA. The purpose of the conference was to create a new international [[Financial System|financial system]] that would help rebuild Europe after World War  The World Bank Group was created to provide loans to countries for economic development and reconstruction. Since then, the World Bank Group has grown to become one of the largest sources of development finance in the world.
 ===Structure of the World Bank Group===
+
 The World Bank Group is made up of five organizations: the International Bank for Reconstruction and Development (IBRD), the International Development Association (IDA), the International Finance Corporation (IFC), the Multilateral Investment Guarantee Agency (MIGA), and the International Centre for Settlement of Investment Disputes (ICSID). The IBRD and IDA are the two main lending arms of the World Bank Group. The IBRD provides loans to middle-income countries, while the IDA provides grants and loans to the worldâ€™s poorest countries. The IFC provides loans and equity investments to [[Private Sector|private sector]] projects in developing countries. The MIGA provides political risk insurance to investors in developing countries. The ICSID provides a forum for the resolution of investment disputes between foreign investors and host countries.
 ===Role of the World Bank Group===
+
 The World Bank Group plays a key role in global development. It provides loans, grants, and other financial assistance to developing countries to help them reduce poverty and promote [[Economic Growth|economic growth]]. It also provides technical assistance and advice to governments and private sector organizations on a wide range of development issues. The World Bank Group also works to promote global economic stability and reduce [[Financial Risk|financial risk]] by providing loans to countries in crisis.
 ===Funding of the World Bank Group===
+
 The World Bank Group is funded by its 189 member countries. Each member country contributes a certain amount of money to the World Bank Group, which is then used to fund its operations. The World Bank Group also raises funds from private investors, such as banks, pension funds, and insurance companies.
 ===Impact of the World Bank Group===
+
 The World Bank Group has had a significant impact on global development. It has provided billions of 

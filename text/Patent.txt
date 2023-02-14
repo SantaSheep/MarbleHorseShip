@@ -1,13 +1,19 @@
 <seo title="Patent" metakeywords="introduction patents,patent patent protection,introduction patents patents,invention patents" metadescription="A patent is a legal document that grants the inventor the right to exclude others from making, using, selling, or importing the invention."/>
 ===Introduction to Patents===
+
 Patents are a form of intellectual property that grants exclusive rights to an inventor or assignee for a limited period of time. A patent is a legal document that grants the inventor the right to exclude others from making, using, selling, or importing the invention. Patents are granted by the government and are typically valid for 20 years from the date of filing. Patents are a form of protection for inventors and can be used to protect inventions from being copied or used without permission.
 ===Types of Patents===
+
 There are three main types of patents: utility patents, design patents, and plant patents. Utility patents are the most common type of patent and are used to protect inventions that are new, useful, and non-obvious. Design patents are used to protect the ornamental design of a product. Plant patents are used to protect asexually reproduced plants.
 ===Patent Process===
+
 The patent process begins with the filing of a patent application with the United States Patent and Trademark Office (USPTO). The application must include a detailed description of the invention, drawings, and claims. The USPTO will then review the application and determine if the invention is eligible for a patent. If the invention is eligible, the USPTO will issue a patent.
 ===Patent Protection===
+
 Once a patent is issued, the inventor is granted exclusive rights to the invention. This means that the inventor can prevent others from making, using, selling, or importing the invention without permission. The patent also gives the inventor the right to sue for damages if someone infringes on the patent.
 ===Patent Infringement===
+
 Patent infringement occurs when someone uses, makes, sells, or imports an invention that is protected by a patent without permission. Patent infringement is a serious offense and can result in legal action. If a patent is infringed upon, the patent holder can sue for damages.
 ===Conclusion===
+
 Patents are a form of intellectual property that grants exclusive rights to an inventor or assignee for a limited period of time. Patents are used to protect inventions from being copied or used without permission and can be used to sue for damages if someone infringes on the patent. There are three main types of patents: utility patents, design patents, and plant patents. The patent process begins with the filing of a patent application with the USPTO and, if the invention is eligible, the USPTO will issue a patent. Patent infringement occurs when someone uses, makes, sells, or imports an invention that is protected by a patent without permission

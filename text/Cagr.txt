@@ -1,0 +1,25 @@
+<seo title="Cagr" metakeywords="cagr financial metric,cagr compound annual,growth rate cagr,rate cagr" metadescription="Compound Annual Growth Rate (CAGR) is a financial metric used to measure the rate of return of an investment over a period of time."/>
+===Introduction to CAGR===
+
+Compound Annual Growth Rate (CAGR) is a financial metric used to measure the [[Rate Of Return|rate of return]] of an investment over a period of time. It is calculated by taking the nth root of the total return of the investment, where n is the number of years in the investment period. CAGR is a useful tool for investors to compare the performance of different investments over time. It is also used to measure the growth of a company’s revenue or profits over a period of time.
+===Calculation of CAGR===
+
+CAGR is calculated by taking the nth root of the total return of the investment, where n is the number of years in the investment period. The formula for calculating CAGR is as follows:
+
+CAGR = (Ending Value/Beginning Value)^(1/n) - 1
+
+Where n is the number of years in the investment period.
+===Advantages of CAGR===
+
+CAGR is a useful tool for investors to compare the performance of different investments over time. It is also used to measure the growth of a company’s revenue or profits over a period of time. CAGR is a simple and easy to understand metric that can be used to compare investments with different time periods. It is also useful for investors to compare the performance of different investments with different time periods.
+===Disadvantages of CAGR===
+
+CAGR does not take into account the volatility of the investment. It also does not take into account the timing of the investment. For example, if an investor invests in an asset at the beginning of the period and then sells it at the end of the period, the CAGR will not take into account the timing of the investment.
+===Examples of CAGR===
+
+For example, if an investor invests $100 in an asset at the beginning of the year and the asset grows to $150 at the end of the year, the CAGR would be calculated as follows:
+
+CAGR = (150/100)^(1/1) - 1 = 0.5 or 50%
+===Conclusion===
+
+In conclusion, CAGR is a useful tool for investors to compare the performance of different investments over time. It is a simple and easy to understand metric that can be used to compare investments with different time periods. However, it does not take into account the volatility of the investment or the timing of the investment

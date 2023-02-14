@@ -1,0 +1,33 @@
+<seo title="Capm" metakeywords="capm financial model,capital asset pricing,model capm capital,pricing model capm" metadescription="The Capital Asset Pricing Model (CAPM) is a widely used financial model used to determine the expected return of an asset based on its risk."/>
+===Introduction to the Capital Asset Pricing Model (CAPM)===
+
+The [[Capital Asset|Capital Asset]] Pricing Model (CAPM) is a financial model used to determine the [[Expected Return|expected return]] of an asset based on its risk. It is a widely used tool in finance and investment, and is used to calculate the expected return of a security or portfolio. The CAPM is based on the idea that investors require a higher return for taking on additional risk. The model was developed by William Sharpe in 1964 and is still used today.
+===Assumptions of the CAPM===
+
+The CAPM is based on several assumptions, including the following:
+
+1. Investors are rational and have homogeneous expectations.
+
+2. Investors have access to all relevant information.
+
+3. Markets are efficient and all investors have the same access to information.
+
+4. Investors can borrow and lend at the risk-free rate.
+
+5. Transactions costs are negligible.
+===Derivation of the CAPM===
+
+The CAPM is derived from the following equation:
+
+Expected Return = Risk-Free Rate + Beta (Market Return - Risk-Free Rate)
+
+The equation states that the expected return of an asset is equal to the risk-free rate plus the beta multiplied by the difference between the market return and the risk-free rate. The beta is a measure of the volatility of the asset relative to the market.
+===Applications of the CAPM===
+
+The CAPM is used to calculate the expected return of a security or portfolio. It is also used to compare the expected return of different investments and to determine the optimal portfolio mix. The CAPM is also used to calculate the [[Cost Of Equity|cost of equity]] capital for a company.
+===Limitations of the CAPM===
+
+The CAPM has several limitations. It assumes that investors are rational and have homogeneous expectations, which may not be true in reality. It also assumes that markets are efficient and that all investors have the same access to information, which may not be the case. Additionally, the CAPM does not take into account other factors such as taxes, transaction costs, and liquidity.
+===Conclusion===
+
+The Capital Asset Pricing Model (CAPM) is a widely used financial model used to determine the expected return of an asset based on its risk. It is based on several assumptions, including that investors are rational and have homogeneous expectations, that markets are efficient, and that all investors have the same access to information. The CAPM is used to calculate the expected return of a security or portfolio, to compare the expected return of different investments, and to determine the optimal portfolio mix. However, the CAPM has several limitations, including that it assumes that investors are rational and have homogeneous expectations, that markets are efficient, and that all investors have the same access to information

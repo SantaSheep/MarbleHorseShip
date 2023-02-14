@@ -1,13 +1,19 @@
 <seo title="Rate Of Return" metakeywords="rate return ror,rate return irr,irr rate return,rate return calculation" metadescription="Rate of return (ROR) is a measure of the profitability of an investment."/>
 ===Introduction to Rate of Return===
+
 Rate of return (ROR) is a measure of the profitability of an investment. It is calculated by dividing the total return of an investment by the initial cost of the investment. ROR is used to compare the performance of different investments and to assess the risk associated with each investment. ROR is an important tool for investors, as it helps them to make informed decisions about their investments.
 ===Types of Rate of Return===
+
 There are several different types of ROR that can be used to measure the performance of an investment. The most common types of ROR are the internal rate of return (IRR), the annualized rate of return (ARR), and the total return. The IRR is the rate of return that an investor would receive if they invested a certain amount of money and held it for a certain period of time. The ARR is the rate of return that an investor would receive if they invested a certain amount of money and held it for a certain period of time, but with the addition of any income or [[Capital Gain|capital gain]]s that were earned during the period. The total return is the total amount of money that an investor would receive if they invested a certain amount of money and held it for a certain period of time, including any income or capital gains that were earned during the period.
 ===Calculating Rate of Return===
+
 The calculation of ROR is relatively straightforward. To calculate the ROR, the total return of an investment is divided by the initial cost of the investment. For example, if an investor invested $100 and received a total return of $120, the ROR would be calculated as follows: ($120 - $100) / $100 = 0.20 or 20%.
 ===Factors Affecting Rate of Return===
+
 There are several factors that can affect the ROR of an investment. These include the type of investment, the amount of risk associated with the investment, the length of time the investment is held, and the performance of the market. Additionally, the ROR can be affected by taxes, fees, and other costs associated with the investment.
 ===Advantages and Disadvantages of Rate of Return===
+
 The primary advantage of ROR is that it provides investors with a way to compare the performance of different investments. Additionally, ROR can be used to assess the risk associated with an investment. However, there are some disadvantages to using ROR. For example, ROR does not take into account the [[Time Value Of Money|time value of money]], which means that it does no[[T Account|t account]] for the fact that money has a different value over time. Additionally, ROR does not take into account the taxes and fees associated with an investment.
 ===Conclusion===
+
 Rate of return is an important measure of the profitability of an investment. It is calculated by dividing the total return of an investment by the initial cost of the investment. ROR is used to compare the performance of different investments and to assess the risk associated with each investment. There are several factors that can affect the ROR of an in

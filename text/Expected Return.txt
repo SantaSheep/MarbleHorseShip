@@ -1,0 +1,21 @@
+<seo title="Expected Return" metakeywords="expected return concept,definition expected return,introduction expected return,expected return investment" metadescription="Expected return is a concept used in finance to measure the expected return on an investment."/>
+===Introduction to Expected Return===
+
+Expected return is a concept used in finance to measure the expected return on an investment. It is a measure of the expected return on an investment over a given period of time. It is used to compare different investments and to determine the risk associated with each investment. The expected return is calculated by taking into account the expected [[Rate Of Return|rate of return]], the risk associated with the investment, and the time horizon of the investment.
+===Definition of Expected Return===
+
+Expected return is the expected rate of return on an investment over a given period of time. It is calculated by taking into account the expected rate of return, the risk associated with the investment, and the time horizon of the investment. The expected return is used to compare different investments and to determine the risk associated with each investment.
+===Factors Affecting Expected Return===
+
+There are several factors that can affect the expected return on an investment. These include the expected rate of return, the risk associated with the investment, the time horizon of the investment, and the volatility of the investment. The expected rate of return is the expected rate of return on an investment over a given period of time. The risk associated with the investment is the amount of risk associated with the investment. The time horizon of the investment is the length of time the investment is expected to last. The volatility of the investment is the amount of fluctuation in the value of the investment over time.
+===Calculating Expected Return===
+
+Expected return is calculated by taking into account the expected rate of return, the risk associated with the investment, and the time horizon of the investment. The expected rate of return is the expected rate of return on an investment over a given period of time. The risk associated with the investment is the amount of risk associated with the investment. The time horizon of the investment is the length of time the investment is expected to last.
+===Examples of Expected Return===
+
+An example of expected return is the expected rate of return on a stock over a given period of time. The expected rate of return is the expected rate of return on the stock over a given period of time. The risk associated with the stock is the amount of risk associated with the stock. The time horizon of the stock is the length of time the stock is expected to last.
+
+Another example of expected return is the expected rate of return on a bond over a given period of time. The expected rate of return is the expected rate of return on the bond over a given period of time. The risk associated with the bond is the amount of risk associated with the bond. The time horizon of the bond is the length of time the bond is expected to last.
+===Conclusion===
+
+Expected return is a concept used in finance to measure the expected return on an investment. It is calculated by taking into account the expected rate

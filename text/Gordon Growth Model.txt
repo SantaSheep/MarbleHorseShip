@@ -1,13 +1,19 @@
 <seo title="Gordon Growth Model" metakeywords="gordon growth model,growth model gordon,model gordon growth,growth model financial" metadescription="The Gordon Growth Model is a financial model used to value a company’s stock price."/>
 ===Introduction to the Gordon Growth Model===
+
 The Gordon Growth Model, also known as the dividend discount model, is a financial model used to value a company’s stock price. It is based on the idea that the value of a stock is equal to the [[Present Value|present value]] of all future dividend payments. The model was developed by Myron Gordon in the 1950s and has since become a widely used tool for valuing stocks.
 ===History of the Gordon Growth Model===
+
 The Gordon Growth Model was developed by Myron Gordon in the 1950s. Gordon was a professor of finance at the University of Toronto and was interested in finding a way to value stocks. He developed the model as a way to estimate the [[Intrinsic Value|intrinsic value]] of a stock based on its expected future dividend payments. The model has since become a widely used tool for valuing stocks.
 ===Components of the Gordon Growth Model===
+
 The Gordon Growth Model is based on the idea that the value of a stock is equal to the present value of all future dividend payments. The model takes into account the expected dividend payments, the required [[Rate Of Return|rate of return]], and the growth rate of the dividend payments. The required rate of return is the minimum rate of return that an investor requires in order to invest in a stock. The growth rate of the dividend payments is the rate at which the dividend payments are expected to grow over time.
 ===Applications of the Gordon Growth Model===
+
 The Gordon Growth Model is used to value stocks and to estimate the intrinsic value of a stock. It is also used to compare the value of a stock to its current market price. If the intrinsic value of a stock is higher than its current market price, then the stock is considered to be undervalued. Conversely, if the intrinsic value of a stock is lower than its current market price, then the stock is considered to be overvalued.
 ===Limitations of the Gordon Growth Model===
+
 The Gordon Growth Model is a useful tool for valuing stocks, but it has some limitations. The model assumes that the dividend payments will grow at a constant rate, which may not always be the case. Additionally, the model does not take into account other factors that may affect the value of a stock, such as changes in the economy or changes in the company’s business.
 ===Conclusion===
+
 The Gordon Growth Model is a financial model used to value stocks. It is based on the idea that the value of a stock is equal to the present value of all future dividend payments. The model takes into account the expected dividend payments, the required rate of return, and the growth rate of the dividend payments. The model is used to value stocks and to estimate the intrinsic value of a stock. However, the model has some limitations, such as its assumption that the dividend payments will grow at a constant rate and its lack of consideration for other factors that may affect the value of a stock

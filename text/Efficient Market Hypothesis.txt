@@ -1,11 +1,16 @@
 <seo title="Efficient Market Hypothesis" metakeywords="efficient market hypothesis,market hypothesis efficient,stock market efficiency,market hypothesis emh" metadescription="The Efficient Market Hypothesis was first proposed by Eugene Fama in 1965."/>
 ===Introduction to the Efficient Market Hypothesis===
+
 The Efficient Market Hypothesis (EMH) is an investment theory that states that it is impossible to “beat the market” because [[Stock Market|stock market]] efficiency causes existing share prices to always incorporate and reflect all relevant information. The EMH suggests that it is impossible to outperform the overall market through expert stock selection or market timing, and that the only way an investor can obtain higher returns is by purchasing riskier investments.
 ===History of the Efficient Market Hypothesis===
+
 The Efficient Market Hypothesis was first proposed by Eugene Fama in 1965. Fama argued that stock prices reflect all available information and that it is impossible to “beat the market” by using any combination of analysis, forecasting, or market timing. Fama’s theory was based on the idea that the stock market is “informationally efficient”, meaning that all available information is quickly and accurately incorporated into stock prices.
 ===Types of Efficient Market Hypothesis===
+
 The Efficient Market Hypothesis is divided into three distinct forms: weak-form efficiency, semi-strong form efficiency, and strong-form efficiency. Weak-form efficiency states that past stock prices and market data cannot be used to predict future stock prices. Semi-strong form efficiency states that all publicly available information is quickly and accurately incorporated into stock prices. Finally, strong-form efficiency states that all information, both public and private, is quickly and accurately incorporated into stock prices.
 ===Criticisms of the Efficient Market Hypothesis===
+
 The Efficient Market Hypothesis has been criticized for its unrealistic assumptions about the stock market. Critics argue that the EMH fails to account for the fact that stock prices are affected by investor sentiment and market psychology, which can lead to irrational price movements. Additionally, the EMH does no[[T Account|t account]] for the fact that some investors may have access to information that is not publicly available, which can give them an advantage over other investors.
 ===Conclusion===
+
 The Efficient Market Hypothesis is an investment theory that states that it is impossible to “beat the market” because stock market efficiency causes existing share prices to always incorporate and reflect all relevant information. The EMH is divided into three distinct forms: weak-form efficiency, semi-strong form efficiency, and strong-form efficiency. While the EMH has been widely accepted by many investors, it has also been criticized for its unrealistic assumptions about the stock market

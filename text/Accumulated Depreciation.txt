@@ -1,13 +1,19 @@
 <seo title="Accumulated Depreciation" metakeywords="depreciation accumulated depreciation,asset accumulated depreciation,example accumulated depreciation,accumulated depreciation" metadescription="Accumulated depreciation is an accounting term used to describe the total amount of depreciation that has been recorded on an asset over its useful life."/>
 ===Introduction to Accumulated Depreciation===
+
 Accumulated depreciation is an accounting term used to describe the total amount of depreciation that has been recorded on an asset over its [[Useful Life|useful life]]. It is a non-cash expense that is used to reduce the value of an asset on the [[Balance Sheet|balance sheet]]. Accumulated depreciation is a key concept in [[Financial Accounting|financial accounting]] and is used to calculate the [[Book Value|book value]] of an asset.
 ===Definition of Accumulated Depreciation===
+
 Accumulated depreciation is the total amount of depreciation that has been recorded on an asset over its useful life. It is a non-cash expense that is used to reduce the value of an asset on the balance sheet. Accumulated depreciation is calculated by subtracting the current value of the asset from its original cost.
 ===Accounting Treatment of Accumulated Depreciation===
+
 Accumulated depreciation is recorded as a contra-asse[[T Account|t account]] on the balance sheet. This means that it is recorded as a negative value that is subtracted from the asset’s original cost. The contra-asset account is used to reduce the value of the asset on the balance sheet.
 ===Examples of Accumulated Depreciation===
+
 One example of accumulated depreciation is a company’s fleet of vehicles. The company purchased the vehicles for a certain amount and over time, the vehicles depreciate in value. The company records the depreciation of the vehicles as an expense on the [[Income Statement|income statement]] and the accumulated depreciation is recorded as a contra-asset account on the balance sheet.
 ===Advantages and Disadvantages of Accumulated Depreciation===
+
 The main advantage of accumulated depreciation is that it allows companies to accurately reflect the value of their assets on the balance sheet. This helps to ensure that the company’s [[Financial Statements|financial statements]] are accurate and up to date. The main disadvantage of accumulated depreciation is that it can lead to overstating the value of an asset on the balance sheet.
 ===Conclusion===
+
 Accumulated depreciation is an important concept in financial accounting. It is used to reduce the value of an asset on the balance sheet and to accurately reflect the value of the asset. Accumulated depreciation has both advantages and disadvantages, but it is an important tool for companies to accurately reflect the value of their assets

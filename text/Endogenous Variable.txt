@@ -1,13 +1,19 @@
 <seo title="Endogenous Variable" metakeywords="endogenous variables typically,variables endogenous variables,economics endogenous variables,endogenous variables" metadescription="An endogenous variable is a type of variable that is determined by the internal factors of a system."/>
 ===Introduction to Endogenous Variable===
+
 An endogenous variable is a type of variable that is determined by the internal factors of a system. It is a variable that is determined by the system itself, rather than by external factors. Endogenous variables are often used in economics and finance to explain the behavior of a system or to predict future outcomes. Endogenous variables are also used in other fields, such as psychology and sociology, to explain the behavior of individuals or groups.
 ===Types of Endogenous Variables===
+
 Endogenous variables can be divided into two main categories: endogenous variables that are determined by the system itself, and exogenous variables that are determined by external factors. Endogenous variables are typically determined by the internal structure of the system, such as the laws of supply and demand, or the behavior of individuals within the system. Exogenous variables, on the other hand, are determined by external factors, such as government policies or external economic shocks.
 ===Examples of Endogenous Variables===
+
 Some examples of endogenous variables include the price of a good or service, the level of employment, the rate of inflation, and the level of [[Economic Growth|economic growth]]. These variables are determined by the internal structure of the system, such as the laws of supply and demand, or the behavior of individuals within the system.
 ===Endogenous Variable in Economics===
+
 In economics, endogenous variables are used to explain the behavior of a system. For example, the price of a good or service is determined by the laws of supply and demand. The level of employment is determined by the number of people looking for work and the number of jobs available. The rate of inflation is determined by the amount of money in circulation and the level of economic growth is determined by the level of investment and consumption.
 ===Endogenous Variable in Finance===
+
 In finance, endogenous variables are used to explain the behavior of [[Financial Market|financial market]]s. For example, the price of a stock is determined by the supply and demand of the stock. The level of [[Interest Rate|interest rate]]s is determined by the level of demand for loans and the level of savings. The level of risk is determined by the level of uncertainty in the market.
 ===Conclusion===
+
 Endogenous variables are an important tool for understanding the behavior of a system. They are used in economics and finance to explain the behavior of a system or to predict future outcomes. Endogenous variables are determined by the internal structure of the system, such as the laws of supply and demand, or the behavior of individuals within the system. Exogenous variables, on the other hand, are determined by external factors, such as government policies or external economic shocks

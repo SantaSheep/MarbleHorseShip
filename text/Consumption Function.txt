@@ -1,11 +1,16 @@
 <seo title="Consumption Function" metakeywords="keynesian theory consumption,consumer spending function,theory consumer spending,keynesian theory consumer" metadescription="The consumption function is an economic concept that describes the relationship between consumer spending and income."/>
 ===Introduction to Consumption Function===
+
 The consumption function is an economic concept that describes the relationship between consumer spending and income. It is a key component of [[Keynesian Economics|Keynesian economics]], which is an economic theory developed by British economist John Maynard Keynes in the 1930s. The consumption function states that consumer spending is a function of income, meaning that as income increases, so does consumer spending. This relationship is known as the [[Marginal Propensity To Consume|marginal propensity to consume]] (MPC). The MPC is the amount of additional spending that results from an increase in income.
 ===Keynesian Theory of Consumption Function===
+
 Keynesian economics is based on the idea that consumer spending is the primary driver of [[Economic Growth|economic growth]]. According to Keynesian theory, when consumer spending increases, businesses will hire more workers and produce more goods and services, which will lead to economic growth. The consumption function is an important part of Keynesian economics because it explains how consumer spending is related to income.
 ===Factors Influencing Consumption Function===
+
 There are several factors that can influence the consumption function. These include the level of [[Disposable Income|disposable income]], the level of savings, the level of consumer confidence, and the level of [[Interest Rate|interest rate]]s. Disposable income is the amount of money that a consumer has available to spend after taxes and other deductions. Savings is the amount of money that a consumer has set aside for future use. Consumer confidence is the level of optimism that consumers have about the economy and their own financial situation. Interest rates are the cost of borrowing money, which can influence consumer spending.
 ===Empirical Evidence of Consumption Function===
+
 There is empirical evidence to support the consumption function. Studies have shown that when income increases, consumer spending also increases. This is known as the [[Income Effect|income effect]]. Additionally, studies have shown that when interest rates decrease, consumer spending increases. This is known as the substitution effect. These findings suggest that the consumption function is a valid economic concept.
 ===Conclusion===
+
 The consumption function is an important concept in economics that describes the relationship between consumer spending and income. It is a key component of Keynesian economics, which states that consumer spending is the primary driver of economic growth. There are several factors that can influence the consumption function, including disposable income, savings, consumer confidence, and interest rates. There is empirical evidence to support the consumption function, which suggests that it is a valid economic concept

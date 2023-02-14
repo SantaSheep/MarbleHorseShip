@@ -1,0 +1,23 @@
+<seo title="Sustainable Growth Rate" metakeywords="sustainable growth rate,growth rate sgr,rate sustainable growth,calculating sustainable growth" metadescription="Sustainable growth rate (SGR) is a measure of the rate at which a company can grow without having to increase its debt or equity financing."/>
+===Introduction to Sustainable Growth Rate===
+
+The sustainable growth rate (SGR) is a measure of the rate at which a company can grow without having to increase its debt or equity financing. It is calculated by taking the company's [[Return On Equity|return on equity]] (ROE) and subtracting the company's dividend payout ratio (DPR). The SGR is an important metric for investors and analysts to consider when evaluating a company's potential for long-term growth.
+===Factors Affecting Sustainable Growth Rate===
+
+The sustainable growth rate is affected by a number of factors, including the company's profitability, its dividend payout ratio, and its debt-to-equity ratio. A company's profitability is determined by its ability to generate profits from its operations. The dividend payout ratio is the percentage of profits that the company pays out as dividends to shareholders. The debt-to-equity ratio is the ratio of the company's total debt to its total equity.
+===Calculating Sustainable Growth Rate===
+
+The sustainable growth rate is calculated by subtracting the company's dividend payout ratio from its return on equity. The formula for calculating the SGR is as follows:
+
+SGR = ROE - DPR
+
+Where ROE is the company's return on equity and DPR is the company's dividend payout ratio.
+===Advantages of Sustainable Growth Rate===
+
+The sustainable growth rate is a useful metric for investors and analysts to consider when evaluating a company's potential for long-term growth. It provides an indication of the company's ability to generate profits from its operations without having to increase its debt or equity financing. This can be beneficial for investors, as it indicates that the company is able to generate profits without having to take on additional risk.
+===Disadvantages of Sustainable Growth Rate===
+
+The sustainable growth rate is not a perfect measure of a company's potential for long-term growth. It does not take into account other factors such as the company's competitive position, its ability to innovate, or its ability to manage its costs. Additionally, the SGR does not take into account the company's ability to generate profits from non-[[Operating Activities|operating activities]] such as investments or financing activities.
+===Conclusion===
+
+The sustainable growth rate is an important metric for investors and analysts to consider when evaluating a company's potential for long-term growth. It provides an indication of the company's ability to generate profits from its operations without having to increase its debt or equity financing. However, it is not a perfect measure of a company's potential for long-term growth, as it does not take into account other factors such as the company's competitive position, its ability to innovate, or its ability to manage its costs

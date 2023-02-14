@@ -1,13 +1,19 @@
 <seo title="National Income Accounting" metakeywords="national income accounting,accounting national income,income accounting national,calculating national income" metadescription="National income accounting is a system of accounting used to measure the total economic activity of a country."/>
 ===Introduction to National Income Accounting===
+
 National income accounting is a system of accounting used to measure the total economic activity of a country. It is used to measure the total output of goods and services produced by a country in a given period of time. It is also used to measure the total income earned by the citizens of a country in a given period of time. National income accounting is an important tool for governments and businesses to understand the economic performance of a country and to make informed decisions.
 ===Components of National Income Accounting===
+
 National income accounting consists of three main components: gross domestic product (GDP), net domestic product (NDP), and personal income. GDP is the total value of all goods and services produced in a country in a given period of time. NDP is the total value of all goods and services produced in a country minus the value of all goods and services used up in the production process. Personal income is the total income earned by the citizens of a country in a given period of time.
 ===Methods of Calculating National Income===
+
 There are two main methods of calculating national income: the expenditure approach and the income approach. The expenditure approach measures the total value of all goods and services produced in a country by adding up the total value of all goods and services purchased by consumers, businesses, and governments. The income approach measures the total value of all goods and services produced in a country by adding up the total income earned by the citizens of a country.
 ===Uses of National Income Accounting===
+
 National income accounting is used to measure the total economic activity of a country. It is used to measure the total output of goods and services produced by a country in a given period of time. It is also used to measure the total income earned by the citizens of a country in a given period of time. National income accounting is an important tool for governments and businesses to understand the economic performance of a country and to make informed decisions.
 ===Limitations of National Income Accounting===
+
 National income accounting is not a perfect system of accounting. It does not take into account the value of goods and services produced in the informal economy, such as the value of goods and services produced in the home or in the underground economy. It also does not take into account the value of goods and services produced by non-residents of a country.
 ===Conclusion===
+
 National income accounting is an important system of accounting used to measure the total economic activity of a country. It is used to measure the total output of goods and services produced by a country in a given period of time. It is also used to measure the total income earned by the citizens of a country in a given period of time. National income accounting is an important tool for governments and businesses to understand the economic performance of a

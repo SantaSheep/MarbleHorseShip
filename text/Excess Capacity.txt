@@ -1,11 +1,16 @@
 <seo title="Excess Capacity" metakeywords="excess capacity situation,introduction excess capacity,excess capacity occur,excess capacity term" metadescription=""/>
 ===Introduction to Excess Capacity===
+
 Excess capacity is a term used in economics to describe a situation in which the amount of production capacity available in an industry exceeds the amount of demand for the goods or services produced by that industry. This can occur when an industry is producing more than what the market can absorb, resulting in a surplus of goods or services. Excess capacity can also occur when an industry is producing at a rate that is below the potential output of the industry. In either case, excess capacity can lead to a decrease in profits and an increase in costs for the industry.
 ===Causes of Excess Capacity===
+
 Excess capacity can be caused by a variety of factors. One of the most common causes is an increase in the number of firms in an industry. When there are more firms competing for the same [[Market Share|market share]], the industry may be producing more than what the market can absorb. This can lead to a surplus of goods or services, resulting in excess capacity. Other causes of excess capacity include technological advances that allow for increased production, changes in consumer preferences, and government policies that limit the amount of production in an industry.
 ===Effects of Excess Capacity===
+
 Excess capacity can have a number of negative effects on an industry. One of the most significant effects is a decrease in profits. When an industry is producing more than what the market can absorb, the firms in the industry will be unable to sell all of their goods or services, resulting in a decrease in profits. Additionally, excess capacity can lead to an increase in costs for the industry. This is because firms will have to pay for the costs associated with producing more than what the market can absorb, such as the costs of labor, materials, and energy.
 ===Strategies to Reduce Excess Capacity===
+
 There are a number of strategies that firms can use to reduce excess capacity. One of the most common strategies is to reduce the number of firms in the industry. This can be done through mergers and acquisitions, which can help to reduce the amount of competition in the industry and reduce the amount of production. Additionally, firms can reduce their production levels in order to match the demand for their goods or services. This can help to reduce the amount of excess capacity in the industry. Finally, firms can invest in new technologies that can help to increase the efficiency of their production processes, allowing them to produce more with less resources.
 ===Conclusion===
+
 Excess capacity is a situation in which the amount of production capacity available in an industry exceeds the amount of demand for the goods or services produced by that industry. This can lead to a decrease in profits and an increase in costs for the industry. There are a number of strategies that firms can use to reduce excess capacity, such as reducing the number of firms in the industry, reducing production levels, and investing in new technologi

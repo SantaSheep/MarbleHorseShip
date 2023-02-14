@@ -1,11 +1,16 @@
 <seo title="Compound Interest" metakeywords="compound investment,investments compound,investing conclusion compound,different investments compound" metadescription="Compound interest is the result of reinvesting interest, rather than paying it out.It is the most common type of interest used in banking and finance."/>
 ===Introduction to Compound Interest===
+
 Compound interest is a type of interest that is calculated on the initial principal and the accumulated interest of previous periods. It is the result of reinvesting interest, rather than paying it out, so that interest in the next period is then earned on the principal and the previously accumulated interest. Compound interest is the most common type of interest used in banking and finance, and is the basis for many investment strategies.
 ===Calculating Compound Interest===
+
 Compound interest is calculated by multiplying the principal amount by one plus the annual [[Interest Rate|interest rate]] raised to the number of compound periods minus one. The total interest on the principal after n periods is calculated by multiplying the principal amount by one plus the annual interest rate raised to the number of compound periods. The formula for calculating compound interest is A = P (1 + r/n)^nt, where A is the total amount, P is the principal amount, r is the annual interest rate, n is the number of times the interest is compounded per year, and t is the number of years.
 ===Compound Interest and Investment Strategies===
+
 Compound interest is an important factor in investment strategies. It can be used to calculate the [[Future Value|future value]] of an investment, and can be used to compare different investments. Compound interest can also be used to calculate the [[Rate Of Return|rate of return]] on an investment, which is the rate of return that an investor can expect to receive on an investment over a given period of time. Compound interest can also be used to calculate the effective annual rate, which is the rate of return that an investor can expect to receive on an investment over a given period of time, taking into account the effects of compounding.
 ===Compound Interest and Tax Implications===
+
 Compound interest can also have tax implications. Interest earned on investments is generally subject to taxation, and the amount of tax that is due will depend on the type of investment and the tax laws of the jurisdiction in which the investment is made. In some cases, the interest earned on an investment may be subject to a different rate of taxation than the principal amount. It is important to understand the tax implications of compound interest before investing.
 ===Conclusion===
+
 Compound interest is an important concept in banking and finance, and is the basis for many investment strategies. It is important to understand the implications of compound interest before investing, as it can have tax implications and can be used to calculate the future value of an investment. Compound interest can be used to calculate the rate of return on an investment, and can be used to compare different investments

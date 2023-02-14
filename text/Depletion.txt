@@ -1,0 +1,18 @@
+<seo title="Depletion" metakeywords="depletion depletion accounting,depletion accounting method,depletion accounting,depletion taxation" metadescription="Depletion is an accounting method used to allocate the cost of extracting natural resources from the earth."/>
+===Introduction to Depletion===
+
+Depletion is an [[Accounting Method|accounting method]] used to allocate the cost of extracting natural resources from the earth. It is a non-cash expense that is used to account for the reduction in the value of a natural resource over time. Depletion is used to account for the cost of extracting natural resources such as oil, gas, timber, and minerals. It is similar to depreciation, which is used to account for the reduction in the value of [[Tangible Asset|tangible asset]]s such as buildings and equipment.
+===Accounting for Depletion===
+
+Depletion is calculated by dividing the cost of the natural resource by the estimated number of units that can be extracted from the resource. This calculation is used to determine the cost of each unit of the resource. The cost of each unit is then multiplied by the number of units extracted during the period to determine the depletion expense for the period.
+===Taxation of Depletion===
+
+The taxation of depletion depends on the type of natural resource being extracted. For example, the taxation of oil and gas depletion is based on the percentage depletion method. This method allows companies to deduct a percentage of their [[Gross Income|gross income]] from the sale of oil and gas from their [[Taxable Income|taxable income]]. The percentage is determined by the Internal Revenue Service (IRS).
+===Examples of Depletion===
+
+One example of depletion is the extraction of oil and gas from the ground. Companies must calculate the depletion expense for each unit of oil and gas extracted from the ground. The depletion expense is then deducted from the company’s taxable income.
+
+Another example of depletion is the extraction of timber from a forest. Companies must calculate the depletion expense for each unit of timber extracted from the forest. The depletion expense is then deducted from the company’s taxable income.
+===Conclusion===
+
+Depletion is an accounting method used to allocate the cost of extracting natural resources from the earth. It is a non-cash expense that is used to account for the reduction in the value of a natural resource over time. Depletion is used to account for the cost of extracting natural resources such as oil, gas, timber, and minerals. The taxation of depletion depends on the type of natural resource being extracted. Examples of depletion include the extraction of oil and gas from the ground and the extraction of timber from a forest

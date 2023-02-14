@@ -1,11 +1,16 @@
 <seo title="Inverse Head And Shoulders" metakeywords="shoulders pattern inverse,shoulders pattern traders,head shoulders inverse,reversal pattern signals" metadescription="Inverse head and shoulders is a chart pattern used by traders to identify potential reversals in a downtrend."/>
 ===Introduction to Inverse Head and Shoulders===
+
 Inverse head and shoulders is a [[Technical Analysis|technical analysis]] pattern used by traders to identify potential reversals in a downtrend. It is a chart pattern that is formed when the price of a security makes a series of lower lows and higher highs. The pattern is made up of three consecutive troughs and peaks, with the middle peak being the highest. The pattern is considered to be a bullish reversal pattern, as it signals that the downtrend may be coming to an end and that the price of the security may be about to reverse and start to move higher.
 ===Anatomy of an Inverse Head and Shoulders Pattern===
+
 The inverse head and shoulders pattern is made up of three consecutive troughs and peaks. The first trough is the left shoulder, the second trough is the head, and the third trough is the right shoulder. The left shoulder is the lowest point of the pattern, followed by the head, which is the highest point. The right shoulder is the second lowest point of the pattern. The neckline is the line that connects the two troughs of the pattern. When the price of the security breaks above the neckline, it is a signal that the downtrend may be coming to an end and that the price of the security may be about to reverse and start to move higher.
 ===How to Trade an Inverse Head and Shoulders Pattern===
+
 Traders can use the inverse head and shoulders pattern to identify potential reversals in a downtrend. When the price of the security breaks above the neckline, it is a signal that the downtrend may be coming to an end and that the price of the security may be about to reverse and start to move higher. Traders can then enter a long position in the security, with a stop loss placed below the neckline. The target price for the trade should be set at the height of the head, as this is the highest point of the pattern.
 ===Risks of Trading an Inverse Head and Shoulders Pattern===
+
 Although the inverse head and shoulders pattern can be a useful tool for identifying potential reversals in a downtrend, it is important to remember that there are risks associated with trading this pattern. The pattern is not always reliable and can sometimes fail to signal a reversal in the price of the security. Additionally, the pattern can be subject to false breakouts, which can lead to losses if the trader is not careful.
 ===Conclusion===
+
 Inverse head and shoulders is a technical analysis pattern used by traders to identify potential reversals in a downtrend. The pattern is made up of three consecutive troughs and peaks, with the middle peak being the highest. When the price of the security breaks above the neckline, it is a signal that the downtrend may be coming to an end and that the price of the security may be about to reverse and start to move higher. However, it is important to remember that there are risks associated with trading this pattern, and traders should always use caution when trading this pattern

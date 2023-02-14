@@ -1,0 +1,21 @@
+<seo title="Price Elasticity" metakeywords="price elasticity used,price elasticity,price elasticity factors,price elasticity main" metadescription="Price elasticity is a measure of how sensitive the demand for a good or service is to changes in its price."/>
+===Introduction to Price Elasticity===
+
+Price elasticity is a measure of how sensitive the demand for a good or service is to changes in its price. It is an important concept in economics and finance, as it helps to determine how prices should be set in order to maximize profits. Price elasticity can be used to measure the responsiveness of consumers to changes in prices, and to predict how changes in prices will affect the demand for a product or service.
+===Types of Price Elasticity===
+
+There are two main types of price elasticity: elasticity of demand and elasticity of supply. Elasticity of demand measures how much the quantity demanded of a good or service changes in response to a change in its price. Elasticity of supply measures how much the quantity supplied of a good or service changes in response to a change in its price.
+===Factors Affecting Price Elasticity===
+
+There are several factors that can affect the price elasticity of a good or service. These include the availability of substitutes, the availability of information, the amount of time available to make a decision, and the level of income of the consumer.
+===Calculating Price Elasticity===
+
+Price elasticity can be calculated using the following formula:
+
+Elasticity = % Change in Quantity Demanded / % Change in Price
+===Applications of Price Elasticity===
+
+Price elasticity is used in many different areas of economics and finance. It is used to determine the optimal price for a product or service, to predict how changes in prices will affect demand, and to assess the impact of taxes and subsidies on the market. It is also used to analyze the effects of advertising and promotional campaigns on demand.
+===Conclusion===
+
+Price elasticity is an important concept in economics and finance, as it helps to determine how prices should be set in order to maximize profits. It is used to measure the responsiveness of consumers to changes in prices, and to predict how changes in prices will affect the demand for a product or service. Price elasticity can be calculated using the formula provided, and it is used in many different areas of economics and finance

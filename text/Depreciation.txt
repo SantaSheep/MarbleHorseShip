@@ -1,11 +1,16 @@
 <seo title="Depreciation" metakeywords="understanding depreciation,depreciation important concept,asset understanding depreciation,different types depreciation" metadescription="Depreciation is an accounting term used to describe the gradual decrease in the value of an asset over time."/>
 ===Introduction to Depreciation===
+
 Depreciation is an accounting term used to describe the gradual decrease in the value of an asset over time. It is a non-cash expense that is used to spread the cost of an asset over its [[Useful Life|useful life]]. Depreciation is used to account for the wear and tear of an asset due to usage, age, or obsolescence. It is an important concept in accounting and finance, as it allows companies to accurately reflect the cost of an asset in their [[Financial Statements|financial statements]].
 ===Accounting Treatment of Depreciation===
+
 Depreciation is recorded in the books of accounts as an expense. It is calculated by taking the cost of the asset and dividing it by the estimated useful life of the asset. The resulting amount is then charged to the [[Income Statement|income statement]] as an expense in the period in which it is incurred. The amount of depreciation is also recorded in the [[Balance Sheet|balance sheet]] as a contra-asset, which is an asset that offsets the value of the original asset.
 ===Types of Depreciation===
+
 There are several different types of depreciation that can be used to account for the gradual decrease in the value of an asset. The most common types of depreciation are straight-line, accelerated, and declining balance. Straight-line depreciation is the simplest method, as it charges the same amount of depreciation each year. [[Accelerated Depreciation|Accelerated depreciation]] is used to charge more depreciation in the early years of an asset’s life, while declining balance depreciation is used to charge more depreciation in the later years of an asset’s life.
 ===Factors Affecting Depreciation===
+
 There are several factors that can affect the amount of depreciation that is charged for an asset. These include the estimated useful life of the asset, the salvage value of the asset, the method of depreciation used, and the rate of depreciation. The estimated useful life of an asset is the amount of time that the asset is expected to be used before it is no longer useful. The salvage value of an asset is the estimated amount that the asset can be sold for at the end of its useful life. The method of depreciation used will determine how the depreciation is charged over the life of the asset. The rate of depreciation is the percentage of the asset’s cost that is charged as an expense each year.
 ===Conclusion===
+
 Depreciation is an important concept in accounting and finance, as it allows companies to accurately reflect the cost of an asset in their financial statements. There are several different types of depreciation that can be used to account for the gradual decrease in the value of an asset, and there are several factors that can affect the amount of depreciation that is charged for an asset. Understanding depreciation is essential for anyone involved in accounting or finance

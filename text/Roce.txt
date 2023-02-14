@@ -1,0 +1,18 @@
+<seo title="Roce" metakeywords="roce financial ratio,roce operating profits,roce return capital,company calculation roce" metadescription="Return on Capital Employed (ROCE) is a financial ratio that measures the profitability of a company."/>
+===Introduction to Return on Capital Employed (ROCE)===
+
+Return on [[Capital Employed|Capital Employed]] (ROCE) is a financial ratio that measures the profitability of a company by comparing its [[Operating Profit|operating profit]]s to its capital employed. It is a measure of how efficiently a company is using its capital to generate profits. ROCE is a key indicator of a company’s financial health and is used by investors and analysts to assess the performance of a company.
+===Calculation of ROCE===
+
+ROCE is calculated by dividing a company’s operating profits by its capital employed. Operating profits are calculated by subtracting operating expenses from total revenues. Capital employed is calculated by adding the company’s total assets to its [[Total Liabilities|total liabilities]]. The formula for ROCE is:
+
+ROCE = Operating Profits / Capital Employed
+===Advantages of ROCE===
+
+ROCE is a useful tool for investors and analysts to assess the performance of a company. It is a measure of how efficiently a company is using its capital to generate profits. ROCE can be used to compare the performance of different companies in the same industry. It can also be used to compare the performance of a company over time.
+===Disadvantages of ROCE===
+
+ROCE is a useful tool, but it has some limitations. It does not take into account the risk associated with a company’s capital employed. It also does not take into account the company’s debt levels. Additionally, ROCE does not take into account the company’s [[Cash Flow|cash flow]] or its ability to generate cash.
+===Conclusion===
+
+Return on Capital Employed (ROCE) is a financial ratio that measures the profitability of a company by comparing its operating profits to its capital employed. It is a measure of how efficiently a company is using its capital to generate profits. ROCE is a key indicator of a company’s financial health and is used by investors and analysts to assess the performance of a company. While ROCE is a useful tool, it has some limitations and should be used in conjunction with other financial ratios to get a more complete picture of a company’s financial health

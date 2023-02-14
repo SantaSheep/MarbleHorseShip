@@ -1,11 +1,16 @@
 <seo title="Capitalized Cost" metakeywords="cost capitalized cost,disadvantages capitalized cost,introduction capitalized cost,asset capitalized cost" metadescription="Capitalized cost is a term used in accounting and finance to refer to the cost of an asset that is recorded on the balance sheet as an asset."/>
 ===Introduction to Capitalized Cost===
+
 Capitalized cost is a term used in accounting and finance to refer to the cost of an asset that is recorded on the [[Balance Sheet|balance sheet]] as an asset. This cost is then amortized over the life of the asset, meaning that the cost is spread out over the life of the asset. Capitalized cost is also known as [[Capital Expenditure|capital expenditure]] or capitalized investment. It is important to understand the concept of capitalized cost in order to properly manage a company’s finances.
 ===Components of Capitalized Cost===
+
 The components of capitalized cost include the purchase price of the asset, any installation costs, and any other costs associated with the acquisition of the asset. These costs are then amortized over the life of the asset, meaning that the cost is spread out over the life of the asset. This allows the company to spread out the cost of the asset over a period of time, rather than having to pay for the entire cost upfront.
 ===Calculating Capitalized Cost===
+
 The calculation of capitalized cost is relatively straightforward. The total cost of the asset is divided by the estimated [[Useful Life|useful life]] of the asset. This will give the company the amount of capitalized cost that needs to be amortized over the life of the asset. This calculation is important in order to properly manage the company’s finances.
 ===Advantages and Disadvantages of Capitalized Cost===
+
 The main advantage of capitalized cost is that it allows the company to spread out the cost of the asset over a period of time, rather than having to pay for the entire cost upfront. This can be beneficial for companies that do not have the [[Cash Flow|cash flow]] to pay for the entire cost upfront. The main disadvantage of capitalized cost is that it can be difficult to accurately estimate the useful life of the asset, which can lead to inaccurate calculations.
 ===Conclusion===
+
 In conclusion, capitalized cost is an important concept in accounting and finance. It is the cost of an asset that is recorded on the balance sheet as an asset and then amortized over the life of the asset. The components of capitalized cost include the purchase price of the asset, any installation costs, and any other costs associated with the acquisition of the asset. The calculation of capitalized cost is relatively straightforward and can be beneficial for companies that do not have the cash flow to pay for the entire cost upfront. However, it can be difficult to accurately estimate the useful life of the asset, which can lead to inaccurate calculations

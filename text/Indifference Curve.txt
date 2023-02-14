@@ -1,11 +1,16 @@
 <seo title="Indifference Curve" metakeywords="indifference curves indifference,meaning indifference curves,understand indifference curves,indifference curve indifference" metadescription="An indifference curve is a graphical representation of a consumer’s preferences for two goods or services.It is used to illustrate the concept of consumer equilibrium."/>
 ===Introduction to Indifference Curve===
+
 An indifference curve is a graphical representation of a consumer’s preferences for two goods or services. It is used to illustrate the concept of consumer equilibrium, which is the point at which a consumer is indifferent between two goods or services. The indifference curve is a tool used in economics to analyze consumer behavior and to determine the optimal combination of goods and services that will maximize a consumer’s satisfaction.
 ===Types of Indifference Curves===
+
 There are three types of indifference curves: linear, convex, and concave. Linear indifference curves are straight lines that represent a consumer’s preferences for two goods or services. Convex indifference curves are curved lines that represent a consumer’s preferences for two goods or services. Concave indifference curves are curved lines that represent a consumer’s preferences for two goods or services.
 ===Properties of Indifference Curves===
+
 Indifference curves have several properties that are important to understand. First, indifference curves are downward sloping, meaning that as the quantity of one good or service increases, the quantity of the other good or service decreases. Second, indifference curves are convex to the origin, meaning that as the quantity of one good or service increases, the rate of substitution of the other good or service decreases. Third, indifference curves are non-intersecting, meaning that no two indifference curves can intersect.
 ===Applications of Indifference Curves===
+
 Indifference curves are used in economics to analyze consumer behavior and to determine the optimal combination of goods and services that will maximize a consumer’s satisfaction. They are also used to analyze the effects of changes in prices and income on consumer behavior. Additionally, indifference curves can be used to analyze the effects of changes in taxes and subsidies on consumer behavior.
 ===Conclusion===
+
 In conclusion, indifference curves are a graphical representation of a consumer’s preferences for two goods or services. They are used to analyze consumer behavior and to determine the optimal combination of goods and services that will maximize a consumer’s satisfaction. Indifference curves have several properties, including being downward sloping, convex to the origin, and non-intersecting. They are used to analyze the effects of changes in prices, income, taxes, and subsidies on consumer behavior

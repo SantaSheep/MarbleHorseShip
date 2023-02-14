@@ -1,11 +1,16 @@
 <seo title="Hewlett Packard Enterprise" metakeywords="introduction hewlett packard,hewlett packard enterprise,history hewlett packard,enterprise hewlett packard" metadescription="Hewlett Packard Enterprise (HPE) is a global technology company that provides a wide range of products and services to its customers."/>
 ===Introduction to Hewlett Packard Enterprise===
+
 Hewlett Packard Enterprise (HPE) is a global technology company that provides a wide range of products and services to its customers. HPE is a leader in the enterprise technology space, offering solutions for data centers, [[Cloud Computing|cloud computing]], software, storage, and networking. HPE is headquartered in Palo Alto, California and has operations in over 170 countries. HPE is a publicly traded company on the New York Stock Exchange (NYSE) and is a component of the S&P 500 index.
 ===History of Hewlett Packard Enterprise===
+
 HPE was founded in 1939 by William Hewlett and David Packard. The two engineers met while studying at Stanford University and decided to start a business together. They initially started out in a garage in Palo Alto, California and developed a number of products, including the first audio oscillator. HPE went public in 1957 and has since grown to become one of the largest technology companies in the world.
 ===Business Model of Hewlett Packard Enterprise===
+
 HPE’s business model is focused on providing enterprise technology solutions to its customers. HPE offers a wide range of products and services, including servers, storage, networking, software, and cloud computing. HPE also provides consulting and support services to its customers. HPE’s customers include large enterprises, small and medium businesses, and government agencies.
 ===Financial Performance of Hewlett Packard Enterprise===
+
 HPE has had a strong [[Financial Performance|financial performance]] over the past few years. In 2020, HPE reported revenue of $29.3 billion, up from $27.9 billion in 2019. HPE’s [[Net Income|net income]] for 2020 was $2.2 billion, up from $1.9 billion in 2019. HPE’s stock price has also been strong, with the stock up over 40% in the past year.
 ===Conclusion===
+
 Hewlett Packard Enterprise is a global technology company that provides a wide range of products and services to its customers. HPE has had a strong financial performance over the past few years, with revenue and net income both increasing in 2020. HPE’s stock price has also been strong, with the stock up over 40% in the past year. HPE is a leader in the enterprise technology space and is well-positioned for continued success in the future

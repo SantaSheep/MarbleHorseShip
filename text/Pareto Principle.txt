@@ -1,11 +1,16 @@
 <seo title="Pareto Principle" metakeywords="pareto principle concept,pareto principle useful,pareto principle criticized,pareto principle known" metadescription="The Pareto Principle is a concept in economics and business that states that 80% of the effects come from 20% the causes."/>
 ===Introduction to the Pareto Principle===
+
 The Pareto Principle, also known as the 80/20 rule, is a concept in economics and business that states that 80% of the effects come from 20% of the causes. This principle is named after Italian economist Vilfredo Pareto, who observed that 80% of the land in Italy was owned by 20% of the population. The Pareto Principle has been used in many different fields, including economics, business, and finance.
 ===History of the Pareto Principle===
+
 The Pareto Principle was first proposed by Vilfredo Pareto in 1896. Pareto observed that 80% of the land in Italy was owned by 20% of the population. He then developed the principle to explain the unequal distribution of wealth in society. The Pareto Principle has since been applied to many different fields, including economics, business, and finance.
 ===Applications of the Pareto Principle===
+
 The Pareto Principle has been used in many different fields, including economics, business, and finance. In economics, the Pareto Principle is used to explain the unequal distribution of wealth in society. In business, the Pareto Principle is used to identify the most important tasks that need to be completed in order to achieve a goal. In finance, the Pareto Principle is used to identify the most important investments that will yield the highest returns.
 ===Criticisms of the Pareto Principle===
+
 The Pareto Principle has been criticized for its oversimplification of complex economic and business issues. Critics argue that the Pareto Principle does not take into account the many other factors that can affect the distribution of wealth and the success of a business. Additionally, the Pareto Principle does no[[T Account|t account]] for the fact that the distribution of wealth and success can change over time.
 ===Conclusion===
+
 The Pareto Principle is a concept in economics and business that states that 80% of the effects come from 20% of the causes. The Pareto Principle has been used in many different fields, including economics, business, and finance. While the Pareto Principle has been useful in identifying the most important tasks and investments, it has been criticized for its oversimplification of complex economic and business issues

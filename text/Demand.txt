@@ -1,13 +1,19 @@
 <seo title="Demand" metakeywords="concepts economics demand,demand economic concept,demand demand defined,factors influence demand" metadescription="Demand is a key factor in determining the price of a good or service, as well as the quantity of goods and services that are produced."/>
 ===Introduction to Demand===
+
 Demand is an economic concept that refers to the quantity of a good or service that consumers are willing and able to purchase at a given price. It is one of the most important concepts in economics, as it is the basis for understanding how markets work and how prices are determined. Demand is a key factor in determining the price of a good or service, as well as the quantity of goods and services that are produced. Demand is also an important factor in determining the level of economic activity in an economy.
 ===Definition of Demand===
+
 Demand is defined as the quantity of a good or service that consumers are willing and able to purchase at a given price. It is the amount of a good or service that consumers are willing to purchase at a given price. Demand is determined by a number of factors, including the price of the good or service, the availability of substitutes, the income of the consumer, and the consumer's preferences.
 ===Factors Influencing Demand===
+
 There are several factors that influence demand. The most important factor is the price of the good or service. When the price of a good or service increases, the demand for it decreases. This is because consumers are less willing to pay a higher price for the same good or service. Other factors that influence demand include the availability of substitutes, the income of the consumer, and the consumer's preferences.
 ===Demand Curve===
+
 The [[Demand Curve|demand curve]] is a graphical representation of the relationship between the price of a good or service and the quantity of the good or service that consumers are willing and able to purchase. The demand curve shows the quantity of a good or service that consumers are willing to purchase at different prices. The demand curve is downward sloping, meaning that as the price of a good or service increases, the quantity of the good or service that consumers are willing to purchase decreases.
 ===Demand and Supply===
+
 Demand and supply are two of the most important concepts in economics. Demand is the quantity of a good or service that consumers are willing and able to purchase at a given price. Supply is the quantity of a good or service that producers are willing and able to produce at a given price. The interaction between demand and supply determines the price of a good or service and the quantity of the good or service that is produced.
 ===Conclusion===
+
 Demand is an important concept in economics that refers to the quantity of a good or service that consumers are willing and able to purchase at a given price. Demand is determined by a number of factors, including the price of the good or service, the availability of substitutes, the income of the consumer, and the consumer's preferences. The demand curve is a graphical representation of the relationship between the price of a good or service and the quantity of the good or service that consumers are willing and able to purchase. Demand and supply are two of the most 

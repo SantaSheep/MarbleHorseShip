@@ -1,15 +1,22 @@
 <seo title="Durbin Watson Statistic" metakeywords="durbin watson statistic,autocorrelation durbin watson,statistic durbin watson,watson statistic durbin" metadescription="The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series.The statistic is commonly used in econometrics and finance."/>
 ===Introduction to the Durbin Watson Statistic===
+
 The Durbin Watson statistic is a statistical measure used to detect autocorrelation in a [[Time Series|time series]]. Autocorrelation is the correlation of a variable with itself over different time periods. The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series and to measure the strength of the autocorrelation.
 ===Definition of the Durbin Watson Statistic===
+
 The Durbin Watson statistic is a measure of autocorrelation in a time series. It is calculated by taking the sum of the squared differences between consecutive observations in the time series and dividing it by the sum of the squared differences between the mean of the time series and each observation. The result is a number between 0 and 4, with 0 indicating no autocorrelation and 4 indicating perfect autocorrelation.
 ===Uses of the Durbin Watson Statistic===
+
 The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series. It is also used to measure the strength of the autocorrelation. The statistic is commonly used in econometrics and finance to detect the presence of autocorrelation in financial time series.
 ===Calculating the Durbin Watson Statistic===
+
 The Durbin Watson statistic is calculated by taking the sum of the squared differences between consecutive observations in the time series and dividing it by the sum of the squared differences between the mean of the time series and each observation. The result is a number between 0 and 4, with 0 indicating no autocorrelation and 4 indicating perfect autocorrelation.
 ===Interpreting the Durbin Watson Statistic===
+
 The Durbin Watson statistic is interpreted as follows: a value of 0 indicates no autocorrelation, a value between 0 and 2 indicates positive autocorrelation, a value between 2 and 4 indicates negative autocorrelation, and a value of 4 indicates perfect autocorrelation.
 ===Limitations of the Durbin Watson Statistic===
+
 The Durbin Watson statistic is limited in its ability to detect autocorrelation in a time series. It is also limited in its ability to measure the strength of the autocorrelation. The statistic is also sensitive to outliers and can be affected by the presence of heteroscedasticity.
 ===Conclusion===
+
 The Durbin Watson statistic is a statistical measure used to detect autocorrelation in a time series. It is calculated by taking the sum of the squared differences between consecutive observations in the time series and dividing it by the sum of the squared differences between the mean of the time series and each observation. The result is a number between 0 and 4, with 0 indicating no autocorrelation and 4 indicating perfect autocorrelation. The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series and to measure the strength of the autocorrelation. However, the statistic is limited in its ability to detect autocorrelation and measure the strength of the autocorrelation

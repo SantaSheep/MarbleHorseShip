@@ -1,13 +1,19 @@
 <seo title="Managerial Accounting" metakeywords="managerial accounting principles,principles managerial accounting,accounting principles managerial,accounting managerial accounting" metadescription="Managerial accounting is a branch of accounting that is concerned with providing financial information to managers within an organization to help them make decisions."/>
 ===Introduction to Managerial Accounting===
+
 Managerial accounting is a type of accounting that focuses on providing information to managers within an organization to help them make decisions. It is a branch of accounting that is concerned with providing financial information to managers within an organization to help them make decisions. Managerial accounting is different from [[Financial Accounting|financial accounting]] in that it focuses on providing information to internal users, such as managers, rather than external users, such as investors and creditors. Managerial accounting is also known as managemen[[T Account|t account]]ing or [[Cost Accounting|cost accounting]].
 ===Overview of Managerial Accounting Principles===
+
 Managerial accounting is based on a set of principles that guide the practice of managerial accounting. These principles include the following: cost-benefit analysis, cost-volume-profit analysis, activity-based costing, budgeting, and performance measurement. Cost-benefit analysis is a technique used to determine the cost and benefit of a particular decision or action. Cost-volume-profit analysis is a technique used to analyze the relationship between costs, volume, and profits. Activity-based costing is a technique used to allocate costs to activities and products. Budgeting is a technique used to plan and control the financial resources of an organization. Performance measurement is a technique used to measure the performance of an organization.
 ===Types of Managerial Accounting Reports===
+
 Managerial accounting reports provide information to managers to help them make decisions. These reports can be divided into two categories: financial reports and non-financial reports. Financial reports provide information about the [[Financial Performance|financial performance]] of an organization. These reports include [[Income Statement|income statement]]s, [[Balance Sheet|balance sheet]]s, and [[[[Cash Flow|Cash Flow]] Statement|cash flow statement]]s. Non-financial reports provide information about the non-financial performance of an organization. These reports include customer satisfaction reports, employee satisfaction reports, and process improvement reports.
 ===Benefits of Managerial Accounting===
+
 Managerial accounting provides a number of benefits to organizations. It helps managers make better decisions by providing them with accurate and timely information. It also helps organizations identify areas of improvement and develop strategies to improve performance. Additionally, it helps organizations control costs and maximize profits.
 ===Challenges of Managerial Accounting===
+
 Although managerial accounting provides many benefits, it also presents some challenges. One of the main challenges is the accuracy of the information. Managerial accounting relies on accurate and timely information, which can be difficult to obtain. Additionally, it can be difficult to interpret the information and make decisions based on it. Finally, it can be difficult to keep up with the changing needs of the organization and ensure that the information is up to date.
 ===Conclusion===
+
 Managerial 

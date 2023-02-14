@@ -1,11 +1,16 @@
 <seo title="Naked Shorting" metakeywords="traders execute nakedshorting,naked short selling,markets nakedshorting,nakedshorting markets" metadescription="Nakedshorting is a form of stock market trading that involves selling shares of a company without first borrowing the shares or ensuring that the shares can be borrowed."/>
 ===Introduction to Nakedshorting===
+
 Nakedshorting is a form of [[Stock Market|stock market]] trading that involves selling shares of a company without first borrowing the shares or ensuring that the shares can be borrowed. This practice is also known as “naked [[Short Selling|short selling]]” or “uncovered short selling.” Nakedshorting is a controversial practice that has been the subject of much debate in the financial world.
 ===History of Nakedshorting===
+
 Nakedshorting has been around since the early days of the stock market. It was first used in the late 19th century by speculators who wanted to take advantage of price movements in the market. The practice was not widely used until the late 1990s, when the advent of electronic trading made it easier for traders to execute nakedshorting trades.
 ===Regulatory Framework of Nakedshorting===
+
 Nakedshorting is regulated by the Securities and Exchange Commission (SEC). The SEC has implemented a number of rules and regulations to limit the practice. These include the “uptick rule,” which requires that a trader must wait for a price increase before executing a nakedshorting trade, and the “alternative uptick rule,” which requires that a trader must wait for a price increase before executing a nakedshorting trade if the price of the stock has declined by 10% or more in the previous five trading days.
 ===Impact of Nakedshorting on Markets===
+
 Nakedshorting has been blamed for contributing to market volatility and price manipulation. Critics of the practice argue that it can be used to drive down the price of a stock, which can lead to losses for investors who are long the stock. Proponents of nakedshorting argue that it can be used to provide liquidity to the market and to help investors hedge their positions.
 ===Conclusion===
+
 Nakedshorting is a controversial practice that has been the subject of much debate in the financial world. It is regulated by the SEC, which has implemented a number of rules and regulations to limit the practice. The impact of nakedshorting on markets is a subject of debate, with critics arguing that it can be used to manipulate prices and proponents arguing that it can provide liquidity to the market

@@ -1,13 +1,19 @@
 <seo title="Modern Portfolio Theory" metakeywords="markowitz developed theory,portfolio theory modern,portfolio theory introduced,theory modern portfolio" metadescription="Modern Portfolio Theory was first introduced by Harry Markowitz in 1952."/>
 ===Introduction to Modern Portfolio Theory===
+
 Modern Portfolio Theory (MPT) is an investment theory developed by Nobel Prize-winning economist Harry Markowitz in 1952. It is a mathematical model used to help investors construct portfolios that maximize [[Expected Return|expected return]]s while minimizing risk. MPT is based on the idea that investors should diversify their investments in order to reduce risk and maximize returns. The theory suggests that investors should construct portfolios that are diversified across different [[Asset Classes|asset classes]] and that have a low correlation with each other.
 ===History of Modern Portfolio Theory===
+
 Modern Portfolio Theory was first introduced by Harry Markowitz in 1952. Markowitz developed the theory in response to the traditional approach to portfolio construction, which focused on selecting individual stocks and bonds based on their individual characteristics. Markowitz argued that investors should instead focus on constructing portfolios that are diversified across different asset classes and that have a low correlation with each other. This approach would allow investors to reduce risk and maximize returns.
 ===Components of Modern Portfolio Theory===
+
 Modern Portfolio Theory is based on several key components. The first is the concept of diversification, which suggests that investors should diversify their investments across different asset classes and that have a low correlation with each other. The second component is the concept of risk and return. MPT suggests that investors should seek to maximize expected returns while minimizing risk. The third component is the concept of portfolio optimization, which suggests that investors should construct portfolios that are optimized for their individual risk tolerance and investment goals.
 ===Benefits of Modern Portfolio Theory===
+
 Modern Portfolio Theory has several benefits for investors. The first is that it allows investors to construct portfolios that are diversified across different asset classes and that have a low correlation with each other. This reduces risk and allows investors to maximize returns. The second benefit is that it allows investors to construct portfolios that are optimized for their individual risk tolerance and investment goals. This allows investors to tailor their portfolios to their individual needs and objectives.
 ===Criticisms of Modern Portfolio Theory===
+
 Modern Portfolio Theory has been criticized for its reliance on historical data and its failure to account for market volatility. Critics argue that MPT does not take into account the potential for unexpected events or market movements that could affect the performance of a portfolio. Additionally, critics argue that MPT does not take into account the impact of taxes or transaction costs, which can have a significant impact on the performance of a portfolio.
 ===Conclusion===
+
 Modern Portfolio Theory is an investment theory developed by Nobel Prize-winning economist Harry Markowitz in 1952. It i

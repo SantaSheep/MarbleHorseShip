@@ -1,11 +1,16 @@
 <seo title="Federal Funds Rate" metakeywords="federal funds rate,rate federal funds,funds rate fomc,funds rate federal" metadescription="The Federal Funds Rate is the interest rate at which banks and credit unions lend balances held at the Federal Reserve to other depository institutions overnight."/>
 ===Introduction to the Federal Funds Rate===
+
 The Federal Funds Rate is the [[Interest Rate|interest rate]] at which depository institutions (banks and credit unions) lend balances held at the Federal Reserve to other depository institutions overnight. It is the most important interest rate in the United States economy, as it influences other short-term interest rates, such as the prime rate and the [[Discount Rate|discount rate]]. The Federal Funds Rate is determined by the Federal Open Market Committee (FOMC), which meets eight times a year to set the target rate.
 ===History of the Federal Funds Rate===
+
 The Federal Funds Rate was first established in the Federal Reserve Act of 1913. The Federal Reserve Act gave the Federal Reserve the authority to set the Federal Funds Rate, and the FOMC was established in 1933 to set the rate. Since then, the Federal Funds Rate has been used as a tool to influence the economy. The Federal Funds Rate has been used to combat inflation, stimulate [[Economic Growth|economic growth]], and manage the [[Money Supply|money supply]].
 ===Factors Influencing the Federal Funds Rate===
+
 The Federal Funds Rate is influenced by a variety of factors, including the state of the economy, the money supply, and the inflation rate. The Federal Reserve uses the Federal Funds Rate to influence the money supply and the inflation rate. When the Federal Reserve wants to increase the money supply, it lowers the Federal Funds Rate, making it easier for banks to borrow money. When the Federal Reserve wants to reduce the money supply, it raises the Federal Funds Rate, making it more expensive for banks to borrow money.
 ===Impact of the Federal Funds Rate on the Economy===
+
 The Federal Funds Rate has a significant impact on the economy. When the Federal Funds Rate is lowered, it encourages borrowing and spending, which can stimulate economic growth. Lowering the Federal Funds Rate can also help to reduce unemployment, as businesses are more likely to hire new employees when borrowing costs are low. On the other hand, when the Federal Funds Rate is raised, it discourages borrowing and spending, which can slow economic growth.
 ===Conclusion===
+
 The Federal Funds Rate is the most important interest rate in the United States economy, as it influences other short-term interest rates, such as the prime rate and the discount rate. The Federal Funds Rate is determined by the Federal Open Market Committee and is influenced by a variety of factors, including the state of the economy, the money supply, and the inflation rate. The Federal Funds Rate has a significant impact on the economy, as it can be used to stimulate economic growth or slow it down

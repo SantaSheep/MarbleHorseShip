@@ -1,13 +1,19 @@
 <seo title="Fam A And French Three Factor Model" metakeywords="factor model financial,french factor model,factor model fama,factors market risk" metadescription="The Fama-French Three Factor Model was developed by Eugene Fama and Kenneth French in 1992.It is used to explain the behavior of stock returns."/>
 ===Introduction to the Fama-French Three Factor Model===
+
 The Fama-French Three Factor Model is a financial model developed by Eugene Fama and Kenneth French in 1992. It is a widely used model in the field of finance and is used to explain the behavior of stock returns. The model is based on the idea that stock returns are determined by three factors: market risk, size risk, and value risk. The model has been widely accepted by the financial community and is used to explain the behavior of stock returns.
 ===History of the Fama-French Three Factor Model===
+
 The Fama-French Three Factor Model was developed by Eugene Fama and Kenneth French in 1992. The model was developed in response to the [[Capital Asset|Capital Asset]] Pricing Model (CAPM), which was developed in the 1960s. The CAPM was the dominant model used to explain stock returns, but it was found to be inadequate in explaining the behavior of stock returns. Fama and French developed the Three Factor Model to address the shortcomings of the CAPM.
 ===Components of the Fama-French Three Factor Model===
+
 The Fama-French Three Factor Model is based on three factors: market risk, size risk, and value risk. Market risk is the risk associated with the overall [[Stock Market|stock market]]. Size risk is the risk associated with the size of a company. Value risk is the risk associated with the value of a company. The model states that stock returns are determined by these three factors.
 ===Applications of the Fama-French Three Factor Model===
+
 The Fama-French Three Factor Model is widely used in the field of finance. It is used to explain the behavior of stock returns and is used by investors to make investment decisions. The model is also used by financial advisors to help clients make informed decisions about their investments.
 ===Criticisms of the Fama-French Three Factor Model===
+
 The Fama-French Three Factor Model has been criticized for its reliance on historical data. Critics argue that the model does not take into account future events that could affect stock returns. Additionally, the model does not take into account the effects of taxes and transaction costs, which can have a significant impact on stock returns.
 ===Conclusion===
+
 The Fama-French Three Factor Model is a widely used financial model that is used to explain the behavior of stock returns. The model is based on three factors: market risk, size risk, and value risk. The model is used by investors and financial advisors to make informed decisions about their investments. However, the model has been criticized for its reliance on historical data and its failure to take into account future events and taxes and transaction costs

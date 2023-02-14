@@ -1,13 +1,19 @@
 <seo title="Neoclassical" metakeywords="neoclassical economics used,concepts neoclassical economics,economists argued neoclassical,neoclassical economics based" metadescription="Neoclassical economics is a school of economic thought that emerged in the late 19th century and is still widely used today."/>
 ===Introduction to Neoclassical Economics===
+
 Neoclassical economics is a school of economic thought that emerged in the late 19th century and is still widely used today. It is based on the idea that markets are efficient and that individuals are rational actors who make decisions based on their own self-interest. Neoclassical economics is the dominant economic theory in the world today and is used to inform policy decisions in many countries.
 ===History of Neoclassical Economics===
+
 Neoclassical economics was developed in the late 19th century by a group of economists, including Alfred Marshall, Leon Walras, and Vilfredo Pareto. These economists sought to combine the classical economics of Adam Smith and David Ricardo with the new insights of the marginalist school of thought. The result was a new approach to economics that focused on the individual and their decisions, rather than the aggregate behavior of the economy as a whole.
 ===Key Concepts of Neoclassical Economics===
+
 Neoclassical economics is based on several key concepts. The first is the idea of rational choice, which states that individuals make decisions based on their own self-interest. This means that individuals will always choose the option that is most beneficial to them. The second concept is the idea of [[Perfect Competition|perfect competition]], which states that markets are efficient and that prices are determined by the forces of supply and demand. Finally, neoclassical economics also emphasizes the importance of incentives, which are rewards or punishments that influence an individualâ€™s behavior.
 ===Applications of Neoclassical Economics===
+
 Neoclassical economics is used to inform policy decisions in many countries. It is used to analyze the effects of taxes, subsidies, and other government interventions on the economy. It is also used to analyze the effects of international trade and the impact of different economic systems on the global economy. Finally, neoclassical economics is used to analyze the effects of different economic policies on the distribution of income and wealth.
 ===Criticisms of Neoclassical Economics===
+
 Neoclassical economics has been criticized for its reliance on the assumption of perfect competition and its failure to account for the effects of externalities, such as pollution. It has also been criticized for its failure to account for the effects of inequality and its focus on the individual rather than the collective. Finally, some economists have argued that neoclassical economics is too focused on short-term gains and does not take into account the long-term effects of economic policies.
 ===Conclusion===
+
 Neoclassical economics is a school of economic thought that has been widely used since the late 19th century. It is based on the idea that markets are efficient and that individuals are rational actors who make decisions based on their own self-interest. Neoclassical economics is used to inform policy decisions in many countries and is the dominant eco

@@ -1,15 +1,22 @@
 <seo title="Gross Working Capital" metakeywords="gross working capital,working capital gross,working capital calculated,capital gross working" metadescription="Gross working capital is a financial term used to describe the total amount of current assets a company has available to fund its operations."/>
 ===Introduction to Gross Working Capital===
+
 Gross [[Working Capital|working capital]] is a financial term used to describe the total amount of [[Current Assets|current assets]] a company has available to fund its operations. It is an important measure of a company’s financial health and is used to assess the company’s ability to meet its short-term obligations. Gross working capital is calculated by subtracting total [[Current Liabilities|current liabilities]] from total current assets.
 ===Definition of Gross Working Capital===
+
 Gross working capital is defined as the total amount of current assets a company has available to fund its operations. It is a measure of a company’s liquidity and is used to assess the company’s ability to meet its short-term obligations. Gross working capital is calculated by subtracting total current liabilities from total current assets.
 ===Components of Gross Working Capital===
+
 Gross working capital is composed of two components: current assets and current liabilities. Current assets are assets that can be converted into cash within one year, such as cash, [[Accounts Receivable|accounts receivable]], inventory, and [[Marketable Securities|marketable securities]]. Current liabilities are obligations that must be paid within one year, such as [[Accounts Payable|accounts payable]], wages payable, taxes payable, and short-term loans.
 ===Calculating Gross Working Capital===
+
 Gross working capital is calculated by subtracting total current liabilities from total current assets. For example, if a company has $100,000 in current assets and $50,000 in current liabilities, its gross working capital would be $50,000.
 ===Advantages of Gross Working Capital===
+
 Gross working capital is an important measure of a company’s financial health and is used to assess the company’s ability to meet its short-term obligations. It is also used to measure a company’s liquidity and its ability to pay its bills on time. A high level of gross working capital indicates that a company is in good financial health and is able to meet its short-term obligations.
 ===Disadvantages of Gross Working Capital===
+
 The main disadvantage of gross working capital is that it does not take into account the company’s long-term liabilities. It is important to consider both short-term and long-term liabilities when assessing a company’s financial health. Additionally, gross working capital does not take into account the company’s [[Cash Flow|cash flow]], which is an important measure of a company’s financial health.
 ===Conclusion===
+
 Gross working capital is an important measure of a company’s financial health and is used to assess the company’s ability to meet its short-term obligations. It is calculated by subtracting total current liabilities from total current assets. Gross working capital has both advantages and disadvantages, and it is important to consider both short-term and long-term liabilities when assessing a company’s financial health

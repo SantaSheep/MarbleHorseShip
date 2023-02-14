@@ -1,0 +1,18 @@
+<seo title="Mark To Market" metakeywords="mark market accounting,mark market method,introduction mark market,liabilities mark market" metadescription="Mark-to-market (MTM) is an accounting method used to value assets and liabilities on a company’s balance sheet.It is based on the principle that assets and."/>
+===Introduction to Mark-to-Market===
+
+Mark-to-market (MTM) is an [[Accounting Method|accounting method]] used to value assets and liabilities on a company’s [[Balance Sheet|balance sheet]]. It is a way of measuring the [[Fair Value|fair value]] of a company’s assets and liabilities by taking into account current market prices. The mark-to-market method is used to ensure that a company’s [[Financial Statements|financial statements]] accurately reflect the current market value of its assets and liabilities.
+===History of Mark-to-Market===
+
+The mark-to-market method has been used for centuries, but it was not until the early 20th century that it became widely accepted. The method was first used by the London Stock Exchange in the 1920s and was later adopted by the New York Stock Exchange in the 1930s. The method was further refined in the 1970s when the Financial [[Accounting Standard|Accounting Standard]]s Board (FASB) issued Statement of [[Financial Accounting|Financial Accounting]] Standards (SFAS) No. 157, which established the mark-to-marke[[T Account|t account]]ing method as the standard for valuing assets and liabilities.
+===How Mark-to-Market Works===
+
+The mark-to-market method is used to value assets and liabilities on a company’s balance sheet. It is based on the principle that assets and liabilities should be valued at their current market value. This means that the value of an asset or liability is determined by its current market price, rather than its [[Historical Cost|historical cost]]. For example, if a company owns a piece of land that was purchased for $100,000, but the current market value of the land is $150,000, then the company must value the land at $150,000 on its balance sheet.
+===Advantages and Disadvantages of Mark-to-Market===
+
+The mark-to-market method has several advantages. It provides a more accurate picture of a company’s financial position by taking into account current market prices. It also allows companies to adjust their balance sheets quickly in response to changing market conditions.
+
+However, the mark-to-market method also has some disadvantages. It can be difficult to accurately value assets and liabilities, as market prices can be volatile and unpredictable. Additionally, mark-to-market accounting can lead to large swings in a company’s reported earnings, which can be difficult for investors to interpret.
+===Conclusion===
+
+Mark-to-market accounting is an important tool for valuing assets and liabilities on a company’s balance sheet. It provides a more accurate picture of a company’s financial position by taking into account current market prices. However, it can also lead to large swings in a company’s reported earnings, which can be difficult for investors to interpret

@@ -1,13 +1,19 @@
 <seo title="Microeconomics" metakeywords="microeconomic theory microeconomic,microeconomic theory study,microeconomic theory,microeconomics" metadescription="Microeconomics is a branch of economics that studies the behavior of individual economic agents, such as households and firms."/>
 ===Introduction to Microeconomics===
+
 Microeconomics is a branch of economics that studies the behavior of individual economic agents, such as households and firms, and how they interact with each other in markets. It focuses on the decisions of these agents and how they affect the supply and demand of goods and services. Microeconomics is concerned with the allocation of scarce resources among competing uses, and the determination of prices and quantities of goods and services in markets. It is also concerned with the distribution of income and wealth among individuals and households.
 ===Microeconomic Theory===
+
 Microeconomic theory is the study of how individual economic agents make decisions and how these decisions interact with each other in markets. It is based on the assumption that individuals are rational and seek to maximize their utility or satisfaction. Microeconomic theory is used to analyze the behavior of individual economic agents, such as households and firms, and how they interact with each other in markets. It is also used to analyze the effects of government policies on the economy.
 ===Microeconomic Applications===
+
 Microeconomic applications are used to analyze the behavior of individual economic agents and how they interact with each other in markets. These applications are used to analyze the effects of government policies on the economy. Examples of microeconomic applications include the analysis of consumer demand, the analysis of production and cost, the analysis of market structure and pricing, and the analysis of public policy.
 ===Microeconomic Analysis===
+
 Microeconomic analysis is the study of how individual economic agents make decisions and how these decisions interact with each other in markets. It is used to analyze the behavior of individual economic agents, such as households and firms, and how they interact with each other in markets. It is also used to analyze the effects of government policies on the economy. Microeconomic analysis is used to analyze the effects of taxes, subsidies, and other government policies on the economy.
 ===Microeconomic Policy===
+
 Microeconomic policy is the use of government policies to influence the behavior of individual economic agents and the outcomes of markets. Examples of microeconomic policies include taxes, subsidies, and regulations. These policies are used to influence the behavior of individual economic agents and the outcomes of markets. For example, taxes can be used to reduce the demand for certain goods and services, while subsidies can be used to increase the supply of certain goods and services.
 ===Conclusion===
+
 In conclusion, microeconomics is a branch of economics that studies the behavior of individual economic agents and how they interact with each other in markets. It is used to analyze the behavior of individual economic agents, such as households and firms, and how they interact with each other in markets. It is also used to analyze the effects of

@@ -1,11 +1,16 @@
 <seo title="Frequency Distribution" metakeywords="frequency distributions useful,frequency distributions used,uses frequency distributions,examples frequency distributions" metadescription="Frequency distribution is a statistical tool used to organize and analyze data."/>
 ===Introduction to Frequency Distribution===
+
 Frequency distribution is a statistical tool used to organize and analyze data. It is a way of organizing data into categories and counting the number of occurrences of each category. Frequency distributions are used to summarize data and to identify patterns and trends in the data. Frequency distributions can be used to compare different sets of data, to identify outliers, and to identify relationships between variables.
 ===Types of Frequency Distributions===
+
 There are two main types of frequency distributions: grouped and ungrouped. Grouped frequency distributions are used when the data is divided into categories, such as age groups or income brackets. Ungrouped frequency distributions are used when the data is not divided into categories, such as when measuring the height of a group of people.
 ===Uses of Frequency Distributions===
+
 Frequency distributions are used to summarize data and to identify patterns and trends in the data. Frequency distributions can be used to compare different sets of data, to identify outliers, and to identify relationships between variables. Frequency distributions can also be used to calculate the mean, median, and mode of a set of data.
 ===Examples of Frequency Distributions===
+
 One example of a frequency distribution is a histogram. A histogram is a graph that shows the frequency of a particular variable. For example, a histogram could be used to show the frequency of different income levels in a population. Another example of a frequency distribution is a bar chart. A bar chart is a graph that shows the frequency of a particular variable, but it also shows the relative size of each category. For example, a bar chart could be used to show the frequency of different age groups in a population.
 ===Conclusion===
+
 Frequency distribution is a statistical tool used to organize and analyze data. It is a way of organizing data into categories and counting the number of occurrences of each category. Frequency distributions are used to summarize data and to identify patterns and trends in the data. There are two main types of frequency distributions: grouped and ungrouped. Frequency distributions can be used to compare different sets of data, to identify outliers, and to identify relationships between variables. Examples of frequency distributions include histograms and bar charts. Frequency distributions are a useful tool for summarizing and analyzing data

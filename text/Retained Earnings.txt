@@ -1,11 +1,16 @@
 <seo title="Retained Earnings" metakeywords="use retained earnings,retained earnings retained,retained earnings used,introduction retained earnings" metadescription="Retained earnings are the portion of a company’s profits that are not paid out as dividends, but instead are kept in the business to be reinvested or used to pay off debt."/>
 ===Introduction to Retained Earnings===
+
 Retained earnings are the cumulative [[Net Income|net income]] of a company that is retained by the company instead of being distributed to its shareholders. It is the portion of a company’s profits that are not paid out as dividends, but instead are kept in the business to be reinvested or used to pay off debt. Retained earnings are reported in the equity section of the [[Balance Sheet|balance sheet]] and are an important source of capital for a company.
 ===Accounting Treatment of Retained Earnings===
+
 Retained earnings are calculated by taking the beginning balance of retained earnings and adding net income and subtracting dividends. The retained earnings account is a part of the equity section of the balance sheet and is used to represent the cumulative net income of the company since its inception. The retained earnings account is also used to record any changes in the company’s equity due to transactions such as [[Stock Split|stock split]]s, [[Stock Dividend|stock dividend]]s, and [[Treasury Stock|treasury stock]] transactions.
 ===Uses of Retained Earnings===
+
 Retained earnings can be used for a variety of purposes, including paying off debt, investing in new projects, and paying dividends to shareholders. Companies may also use retained earnings to purchase additional assets or to fund research and development projects. Retained earnings can also be used to finance acquisitions or to pay for [[Capital Expenditure|capital expenditure]]s.
 ===Advantages and Disadvantages of Retained Earnings===
+
 Retained earnings can be a valuable source of capital for a company, as it allows the company to reinvest its profits and grow without having to raise additional capital. Retained earnings can also be used to pay off debt, which can help to improve the company’s financial position. However, retained earnings can also be a source of risk for a company, as it can be difficult to predict how much of the company’s profits will be retained and how much will be paid out as dividends.
 ===Conclusion===
+
 Retained earnings are an important source of capital for a company and can be used for a variety of purposes. Retained earnings can be a valuable source of capital for a company, as it allows the company to reinvest its profits and grow without having to raise additional capital. However, retained earnings can also be a source of risk for a company, as it can be difficult to predict how much of the company’s profits will be retained and how much will be paid out as dividends

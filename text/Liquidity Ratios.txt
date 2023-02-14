@@ -1,13 +1,19 @@
 <seo title="Liquidity Ratios" metakeywords="cash ratio liquidity,liquidity ratios assess,liquidity ratios used,use liquidity ratios" metadescription="Liquidity ratios are a set of financial metrics used to measure a company’s ability to pay off its short-term obligations."/>
 ===Introduction to Liquidity Ratios===
+
 Liquidity ratios are a set of financial metrics used to measure a company’s ability to pay off its short-term obligations. These ratios are important for investors and creditors to assess the financial health of a company. Liquidity ratios are used to determine the company’s ability to meet its short-term debt obligations and to assess the company’s overall financial stability.
 ===Current Ratio===
+
 The [[Current Ratio|current ratio]] is a liquidity ratio that measures a company’s ability to pay off its short-term obligations. It is calculated by dividing a company’s [[Current Assets|current assets]] by its [[Current Liabilities|current liabilities]]. The current ratio is an important measure of a company’s short-term liquidity and is used to assess the company’s ability to meet its short-term debt obligations.
 ===Quick Ratio===
+
 The [[Quick Ratio|quick ratio]] is a liquidity ratio that measures a company’s ability to pay off its short-term obligations without relying on the sale of inventory. It is calculated by dividing a company’s current assets minus its inventory by its current liabilities. The quick ratio is an important measure of a company’s short-term liquidity and is used to assess the company’s ability to meet its short-term debt obligations without relying on the sale of inventory.
 ===Cash Ratio===
+
 The [[Cash Ratio|cash ratio]] is a liquidity ratio that measures a company’s ability to pay off its short-term obligations with only [[Cash And Cash Equivalents|cash and cash equivalents]]. It is calculated by dividing a company’s cash and cash equivalents by its current liabilities. The cash ratio is an important measure of a company’s short-term liquidity and is used to assess the company’s ability to meet its short-term debt obligations with only cash and cash equivalents.
 ===Cash Conversion Cycle===
+
 The [[Cash Conversion Cycle|cash conversion cycle]] is a liquidity ratio that measures the amount of time it takes for a company to convert its inventory into cash. It is calculated by subtracting the number of days it takes to collect [[Accounts Receivable|accounts receivable]] from the number of days it takes to pay [[Accounts Payable|accounts payable]]. The cash conversion cycle is an important measure of a company’s short-term liquidity and is used to assess the company’s ability to convert its inventory into cash.
 ===Conclusion===
+
 Liquidity ratios are a set of financial metrics used to measure a company’s ability to pay off its short-term obligations. The current ratio, quick ratio, cash ratio, and cash conversion cycle are all important measures of a company’s short-term liquidity and are used to assess the company’s ability to meet its short-term debt obligations. Investors and creditors use liquidity ratios to assess the financial health of a company and to determine the company’s ability to pay off its short-term obligations

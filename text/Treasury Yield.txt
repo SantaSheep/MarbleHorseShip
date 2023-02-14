@@ -1,15 +1,22 @@
 <seo title="Treasury Yield" metakeywords="calculating treasury yield,treasury yield calculated,treasury yield measure,treasury yields used" metadescription="Treasury yield is a measure of the return on investment for a U.S. Treasury security."/>
 ===Introduction to Treasury Yield===
+
 Treasury yield is a measure of the [[Return On Investment|return on investment]] for a U.S. Treasury security. It is calculated by taking the coupon rate of the security and dividing it by the current market price of the security. Treasury yields are used to measure the performance of the U.S. Treasury market and are an important indicator of the overall health of the economy. Treasury yields are also used to compare the relative value of different types of investments.
 ===History of Treasury Yield===
+
 Treasury yields have been used as a measure of the return on investment for U.S. Treasury securities since the early 1900s. The first Treasury yield was calculated in 1913, when the U.S. Treasury began issuing bonds with fixed coupon rates. Since then, Treasury yields have been used to measure the performance of the U.S. Treasury market and to compare the relative value of different types of investments.
 ===Components of Treasury Yield===
+
 The components of Treasury yield include the coupon rate, the current market price of the security, and the time to maturity. The coupon rate is the [[Interest Rate|interest rate]] that is paid on the security. The current market price of the security is the price at which the security is currently trading in the market. The time to maturity is the amount of time until the security matures and the principal is repaid.
 ===Calculating Treasury Yield===
+
 Treasury yield is calculated by taking the coupon rate of the security and dividing it by the current market price of the security. For example, if a security has a coupon rate of 5% and a current market price of $100, the Treasury yield would be 5%.
 ===Uses of Treasury Yield===
+
 Treasury yields are used to measure the performance of the U.S. Treasury market and are an important indicator of the overall health of the economy. Treasury yields are also used to compare the relative value of different types of investments. For example, if two investments have the same coupon rate but different market prices, the investment with the lower market price will have a higher Treasury yield.
 ===Advantages and Disadvantages of Treasury Yield===
+
 The main advantage of Treasury yield is that it is a reliable measure of the return on investment for U.S. Treasury securities. Treasury yields are also easy to calculate and can be used to compare the relative value of different types of investments. The main disadvantage of Treasury yield is that it does not take into account the risk associated with the security.
 ===Conclusion===
+
 Treasury yield is a measure of the return on investment for a U.S. Treasury security. It is calculated by taking the coupon rate of the security and dividing it by the current market price of the security. Treasury yields are used to measure the performance of the U.S. Treasury market and are an important indicator of the overall health of the economy. Treasury yields are also used to compare the relative value of different types of investments. The

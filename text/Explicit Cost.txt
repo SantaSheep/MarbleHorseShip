@@ -1,11 +1,16 @@
 <seo title="Explicit Cost" metakeywords="business explicit costs,costs explicit costs,explicit costs include,taxes explicit costs" metadescription="Explicit cost is a term used in economics and finance to refer to the direct costs associated with producing a good or service."/>
 ===Introduction to Explicit Cost===
+
 Explicit cost is a term used in economics and finance to refer to the [[Direct Cost|direct cost]]s associated with producing a good or service. Explicit costs are those that are directly incurred by a business, such as wages, materials, and rent. These costs are easily identifiable and can be measured in monetary terms. Explicit costs are also known as out-of-pocket costs, as they are paid directly by the business.
 ===Types of Explicit Costs===
+
 Explicit costs can be divided into two main categories: [[Fixed Cost|fixed cost]]s and [[Variable Cost|variable cost]]s. Fixed costs are those that remain the same regardless of the level of production, such as rent and insurance. Variable costs, on the other hand, are those that vary with the level of production, such as materials and labor.
 ===Examples of Explicit Costs===
+
 Examples of explicit costs include wages, materials, rent, utilities, insurance, and taxes. Wages are the salaries and wages paid to employees for their work. Materials are the [[Raw Materials|raw materials]] used to produce a good or service. Rent is the cost of leasing or renting a space for a business. Utilities are the costs associated with providing electricity, water, and other services. Insurance is the cost of protecting a business from potential losses. Taxes are the fees paid to the government for the privilege of doing business.
 ===Implications of Explicit Costs===
+
 Explicit costs are important for businesses to consider when making decisions about production and pricing. These costs can have a significant impact on a business’s profitability. For example, if a business’s explicit costs are too high, it may not be able to make a profit. On the other hand, if a business’s explicit costs are too low, it may not be able to cover its overhead costs.
 ===Conclusion===
+
 Explicit cost is an important concept in economics and finance. It refers to the direct costs associated with producing a good or service. These costs can be divided into two main categories: fixed costs and variable costs. Examples of explicit costs include wages, materials, rent, utilities, insurance, and taxes. Explicit costs can have a significant impact on a business’s profitability, and it is important for businesses to consider these costs when making decisions about production and pricing

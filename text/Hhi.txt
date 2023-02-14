@@ -1,13 +1,19 @@
 <seo title="Hhi" metakeywords="hhi measure market,firms calculating hhi,firms market hhi,index hhi measure" metadescription="The Herfindahl-Hirschman Index (HHI) is a measure of market concentration used in economics and finance."/>
 ===Introduction to HHI===
+
 The Herfindahl-Hirschman Index (HHI) is a measure of market concentration used in economics and finance. It is used to measure the degree of competition in a market, and is often used by antitrust authorities to determine whether a merger or acquisition is likely to reduce competition. The HHI is calculated by summing the squares of the [[Market Share|market share]]s of all firms in the market. The higher the HHI, the more concentrated the market is.
 ===Definition of HHI===
+
 The Herfindahl-Hirschman Index (HHI) is a measure of market concentration. It is calculated by summing the squares of the market shares of all firms in the market. The HHI is used to measure the degree of competition in a market, and is often used by antitrust authorities to determine whether a merger or acquisition is likely to reduce competition.
 ===Uses of HHI===
+
 The HHI is used to measure the degree of competition in a market. It is often used by antitrust authorities to determine whether a merger or acquisition is likely to reduce competition. The HHI is also used to measure the competitiveness of an industry, and to assess the potential for market entry by new firms.
 ===Calculating HHI===
+
 The HHI is calculated by summing the squares of the market shares of all firms in the market. The market share of each firm is calculated by dividing its sales by the total sales of all firms in the market. The HHI is then calculated by summing the squares of the market shares of all firms in the market.
 ===Advantages and Disadvantages of HHI===
+
 The HHI is a simple and effective measure of market concentration. It is easy to calculate and interpret, and can be used to compare markets over time. However, the HHI does not take into account the size of firms or the number of firms in the market, which can affect the degree of competition.
 ===Conclusion===
+
 The Herfindahl-Hirschman Index (HHI) is a measure of market concentration used in economics and finance. It is used to measure the degree of competition in a market, and is often used by antitrust authorities to determine whether a merger or acquisition is likely to reduce competition. The HHI is calculated by summing the squares of the market shares of all firms in the market. The HHI is a simple and effective measure of market concentration, but it does not take into account the size of firms or the number of firms in the market

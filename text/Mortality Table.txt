@@ -1,13 +1,19 @@
 <seo title="Mortality Table" metakeywords="mortality tables used,uses mortality tables,mortality table statistical,mortality tables" metadescription="A mortality table is a statistical tool used to calculate the probability of death for a given population."/>
 ===Introduction to Mortality Table===
+
 A mortality table is a statistical tool used to calculate the probability of death for a given population. It is used to estimate the life expectancy of a population, as well as to calculate the probability of death for a given age. Mortality tables are used in a variety of fields, including insurance, [[Actuarial Science|actuarial science]], and public health.
 ===Types of Mortality Tables===
+
 There are two main types of mortality tables: actuarial and public health. Actuarial mortality tables are used to calculate the probability of death for a given population, and are used in the insurance industry. Public health mortality tables are used to estimate the life expectancy of a population, and are used in public health research.
 ===Uses of Mortality Tables===
+
 Mortality tables are used in a variety of fields, including insurance, actuarial science, and public health. In the insurance industry, mortality tables are used to calculate the probability of death for a given population, and to calculate the premiums for [[Life Insurance|life insurance]] policies. In actuarial science, mortality tables are used to calculate the probability of death for a given age. In public health, mortality tables are used to estimate the life expectancy of a population.
 ===Calculating Mortality Rates===
+
 Mortality rates are calculated by dividing the number of deaths in a given population by the total number of people in that population. The mortality rate is then multiplied by 1,000 to get the mortality rate per 1,000 people. Mortality rates can be calculated for a given age group, gender, or other demographic.
 ===Advantages and Disadvantages of Mortality Tables===
+
 Mortality tables are a useful tool for calculating the probability of death for a given population. They are also useful for estimating the life expectancy of a population. However, mortality tables are limited in that they do not take into account other factors that may affect mortality, such as lifestyle choices or environmental factors.
 ===Conclusion===
+
 Mortality tables are a useful tool for calculating the probability of death for a given population, as well as for estimating the life expectancy of a population. They are used in a variety of fields, including insurance, actuarial science, and public health. However, mortality tables are limited in that they do not take into account other factors that may affect mortality

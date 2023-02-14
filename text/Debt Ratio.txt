@@ -1,11 +1,16 @@
 <seo title="Debt Ratio" metakeywords="ratio measures debt,debt ratio used,ratio debt ratio,debt ratio financial" metadescription="Debt ratio is a financial ratio that measures the amount of debt a company has relative to its total assets."/>
 ===Introduction to Debt Ratio===
+
 Debt ratio is a financial ratio that measures the amount of debt a company has relative to its total assets. It is calculated by dividing [[Total Liabilities|total liabilities]] by total assets. The debt ratio is an important measure of a company’s financial health and is used by investors and creditors to assess the risk of investing in or lending to a company. A higher debt ratio indicates that a company is more leveraged and has a higher risk of defaulting on its debt obligations.
 ===Calculation of Debt Ratio===
+
 The debt ratio is calculated by dividing total liabilities by total assets. Total liabilities include all short-term and long-term debt, such as [[Accounts Payable|accounts payable]], notes payable, and long-term debt. Total assets include all current and non-[[Current Assets|current assets]], such as cash, [[Accounts Receivable|accounts receivable]], inventory, and [[Fixed Asset|fixed asset]]s. The debt ratio is expressed as a percentage.
 ===Advantages of Debt Ratio===
+
 The debt ratio is a useful tool for investors and creditors to assess the risk of investing in or lending to a company. A higher debt ratio indicates that a company is more leveraged and has a higher risk of defaulting on its debt obligations. A lower debt ratio indicates that a company is less leveraged and has a lower risk of defaulting on its debt obligations. The debt ratio can also be used to compare the financial health of different companies in the same industry.
 ===Disadvantages of Debt Ratio===
+
 The debt ratio does not take into account the quality of the assets or the quality of the liabilities. For example, a company may have a high debt ratio due to the fact that it has a large amount of low-quality assets and a large amount of high-quality liabilities. This could lead to an inaccurate assessment of the company’s financial health. Additionally, the debt ratio does not take into account the company’s ability to generate [[Cash Flow|cash flow]] to service its debt obligations.
 ===Conclusion===
+
 The debt ratio is a useful tool for investors and creditors to assess the risk of investing in or lending to a company. It is calculated by dividing total liabilities by total assets and is expressed as a percentage. A higher debt ratio indicates that a company is more leveraged and has a higher risk of defaulting on its debt obligations. However, the debt ratio does not take into account the quality of the assets or the quality of the liabilities, nor does it take into account the company’s ability to generate cash flow to service its debt obligations

@@ -1,0 +1,18 @@
+<seo title="Retention Ratio" metakeywords="dividends retention ratio,retention ratio financial,retention ratio provides,retention ratio useful" metadescription="Retention ratio is a financial metric used to measure the amount of earnings that a company retains after paying out dividends to its shareholders."/>
+===Introduction to Retention Ratio===
+
+Retention ratio is a financial metric used to measure the amount of earnings that a company retains after paying out dividends to its shareholders. It is calculated by dividing the company’s [[Net Income|net income]] by its total dividends paid out. The higher the retention ratio, the more of the company’s earnings are retained and reinvested in the business.
+===Calculation of Retention Ratio===
+
+The retention ratio is calculated by dividing the company’s net income by its total dividends paid out. For example, if a company has a net income of $100,000 and pays out $50,000 in dividends, its retention ratio would be 2.0 (100,000/50,000). This means that the company is retaining twice as much of its earnings as it is paying out in dividends.
+===Uses of Retention Ratio===
+
+The retention ratio is used to measure the amount of earnings that a company retains after paying out dividends to its shareholders. It is also used to compare the performance of different companies in the same industry. A higher retention ratio indicates that the company is retaining more of its earnings and reinvesting them in the business, which can be seen as a sign of financial strength.
+===Advantages and Disadvantages of Retention Ratio===
+
+The main advantage of the retention ratio is that it provides a quick and easy way to measure the amount of earnings that a company is retaining after paying out dividends. It is also useful for comparing the performance of different companies in the same industry.
+
+However, the retention ratio does not take into account other factors such as the company’s debt levels or the amount of cash on hand. It also does not provide any insight into how the company is using its [[Retained Earnings|retained earnings]].
+===Conclusion===
+
+Retention ratio is a useful financial metric for measuring the amount of earnings that a company retains after paying out dividends to its shareholders. It is also useful for comparing the performance of different companies in the same industry. However, it does not take into account other factors such as the company’s debt levels or the amount of cash on hand

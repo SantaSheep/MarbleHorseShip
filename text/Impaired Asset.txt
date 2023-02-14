@@ -1,11 +1,16 @@
 <seo title="Impaired Asset" metakeywords="asset considered impaired,impaired assets,impaired assets examples,impaired assets asset" metadescription="An impaired asset is an asset that has been damaged or has lost its value due to external factors."/>
 ===Introduction to Impaired Asset===
+
 An impaired asset is an asset that has been damaged or has lost its value due to external factors such as market conditions, economic downturns, or other events. The impairment of an asset can be either temporary or permanent, and it can have a significant impact on a company’s [[Financial Statements|financial statements]]. In order to accurately reflect the value of an impaired asset, companies mus[[T Account|t account]] for the impairment in their financial statements.
 ===Definition of Impaired Asset===
+
 An impaired asset is an asset that has been damaged or has lost its value due to external factors such as market conditions, economic downturns, or other events. The impairment of an asset can be either temporary or permanent, and it can have a significant impact on a company’s financial statements. An impaired asset is not necessarily a bad asset, as it may still have some value. However, the value of the asset is lower than what it was originally purchased for.
 ===Accounting Treatment of Impaired Assets===
+
 When an asset is impaired, companies must account for the impairment in their financial statements. The accounting treatment of an impaired asset depends on the type of asset and the extent of the impairment. Generally, companies must recognize the impairment in their financial statements by reducing the carrying value of the asset to its [[Fair Value|fair value]]. The impairment loss is then recorded as an expense on the [[Income Statement|income statement]].
 ===Examples of Impaired Assets===
+
 Examples of impaired assets include [[Real Estate|real estate]], investments, inventory, and [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s. For example, if a company purchases a piece of real estate for $1 million and the market value of the property decreases to $800,000, the asset is considered impaired. Similarly, if a company invests in a stock and the stock price decreases significantly, the investment is considered impaired.
 ===Conclusion===
+
 In conclusion, an impaired asset is an asset that has been damaged or has lost its value due to external factors such as market conditions, economic downturns, or other events. Companies must account for the impairment in their financial statements by reducing the carrying value of the asset to its fair value and recording the impairment loss as an expense on the income statement. Examples of impaired assets include real estate, investments, inventory, and intangible assets

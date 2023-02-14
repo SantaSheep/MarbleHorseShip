@@ -1,11 +1,16 @@
 <seo title="Nonrenewable Resource" metakeywords="introduction nonrenewable resources,nonrenewable resources natural,nonrenewable resources,impact nonrenewable resources" metadescription="Nonrenewable resources are natural resources that are finite and cannot be replenished in a short period of time."/>
 ===Introduction to Nonrenewable Resources===
+
 Nonrenewable resources are natural resources that are finite and cannot be replenished in a short period of time. These resources are typically used to produce energy, such as oil, coal, and natural gas. Nonrenewable resources are essential to the global economy, but their use has significant environmental and economic impacts.
 ===Types of Nonrenewable Resources===
+
 The most common types of nonrenewable resources are fossil fuels, such as oil, coal, and natural gas. These resources are formed over millions of years from the remains of plants and animals that have been buried and compressed. Other nonrenewable resources include uranium, which is used to produce nuclear energy, and metals, such as copper, gold, and silver.
 ===Economic Impact of Nonrenewable Resources===
+
 Nonrenewable resources are essential to the global economy. They are used to produce energy, which is necessary for transportation, manufacturing, and other economic activities. Nonrenewable resources are also used to produce a variety of products, such as plastics, pharmaceuticals, and electronics. The use of nonrenewable resources has enabled [[Economic Growth|economic growth]] and development, but it has also led to economic instability. The price of nonrenewable resources is subject to market forces, and their availability is limited, which can lead to price volatility.
 ===Environmental Impact of Nonrenewable Resources===
+
 The use of nonrenewable resources has significant environmental impacts. The burning of fossil fuels releases carbon dioxide and other pollutants into the atmosphere, which contributes to climate change. Mining and drilling for nonrenewable resources can also cause environmental damage, such as air and water pollution. In addition, the extraction of nonrenewable resources can lead to the destruction of habitats and ecosystems.
 ===Conclusion===
+
 Nonrenewable resources are essential to the global economy, but their use has significant environmental and economic impacts. The use of nonrenewable resources has enabled economic growth and development, but it has also led to economic instability and environmental damage. As the worldâ€™s population continues to grow, it is important to find ways to reduce our dependence on nonrenewable resources and transition to renewable sources of energy

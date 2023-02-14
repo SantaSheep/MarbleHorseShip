@@ -1,11 +1,16 @@
 <seo title="M2" metakeywords="inflation affects m2,impact m2 economy,m2 measure money,economy m2 important" metadescription="M2 is a broader measure of money than M1, which only includes currency and demand deposits."/>
 ===Introduction to M2===
+
 M2 is a measure of the [[Money Supply|money supply]] in an economy. It is a broader measure of money than M1, which only includes currency and demand deposits. M2 includes all of the components of M1, as well as savings deposits, [[Money Market|money market]] [[Mutual Fund|mutual fund]]s, and other time deposits. M2 is an important indicator of economic activity and is closely watched by economists and central banks.
 ===Components of M2===
+
 M2 includes all of the components of M1, as well as savings deposits, money market mutual funds, and other time deposits. Savings deposits are deposits held in banks and other [[Financial Institution|financial institution]]s that are not immediately available for withdrawal. Money market mutual funds are mutual funds that invest in short-term [[Debt Instrument|debt instrument]]s such as [[Treasury Bill|Treasury bill]]s and [[Commercial Paper|commercial paper]]. Other time deposits are deposits that have a fixed maturity date and are not immediately available for withdrawal.
 ===Factors Influencing M2===
+
 M2 is influenced by a variety of factors, including [[Interest Rate|interest rate]]s, inflation, and government policies. Interest rates affect M2 because they influence the amount of money that people are willing to save and invest. Inflation affects M2 because it affects the [[Purchasing Power|purchasing power]] of money. Government policies, such as [[Quantitative Easing|quantitative easing]], can also affect M2 by increasing the money supply.
 ===Impact of M2 on the Economy===
+
 M2 is an important indicator of economic activity. An increase in M2 indicates that there is more money available for spending and investment, which can lead to [[Economic Growth|economic growth]]. Conversely, a decrease in M2 indicates that there is less money available for spending and investment, which can lead to a slowdown in economic activity.
 ===Conclusion===
+
 M2 is a measure of the money supply in an economy. It is a broader measure of money than M1 and includes savings deposits, money market mutual funds, and other time deposits. M2 is influenced by a variety of factors, including interest rates, inflation, and government policies. M2 is an important indicator of economic activity and can have a significant impact on the economy

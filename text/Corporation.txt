@@ -1,13 +1,19 @@
 <seo title="Corporation" metakeywords="corporation concept,advantages disadvantages corporations,definition corporation corporation,definition corporation" metadescription="A corporation is a legal entity created by individuals, stockholders, or shareholders with the purpose of operating for profit."/>
 ===Definition of Corporation===
+
 A corporation is a legal entity created by individuals, stockholders, or shareholders, with the purpose of operating for profit. Corporations are separate from their owners and are allowed to enter into contracts, sue and be sued, own assets, remit federal and state taxes, and borrow money from [[Financial Institution|financial institution]]s. Corporations are also allowed to issue stock and can be publicly traded on a stock exchange.
 ===History of the Corporation===
+
 The concept of the corporation has been around since the Roman Empire. The first modern corporation was the Dutch East India Company, which was established in 1602. This company was the first to issue stock and have shareholders. The corporation has since become the most popular form of business organization in the world.
 ===Types of Corporations===
+
 There are several types of corporations, including  corporations, S corporations, limited liability companies (LLCs), and nonprofit corporations.  corporations are the most common type of corporation and are owned by shareholders. S corporations are similar to  corporations, but they are taxed differently and have fewer restrictions. LLCs are owned by members and are not taxed as a separate entity. Nonprofit corporations are formed to pursue a charitable, educational, religious, or scientific purpose.
 ===Advantages and Disadvantages of Corporations===
+
 The main advantage of a corporation is that it provides limited liability protection to its owners. This means that the owners are not personally liable for the debts and liabilities of the corporation. Corporations also have the ability to raise capital through the sale of stock and can attract investors. However, corporations are subject to double taxation, meaning that the corporation is taxed on its profits and then the shareholders are taxed on the dividends they receive. Additionally, corporations are subject to more government regulations than other forms of business organizations.
 ===Corporate Governance===
+
 [[Corporate Governance|Corporate governance]] is the system of rules, practices, and processes by which a corporation is directed and controlled. Corporate governance is important because it helps ensure that the corporation is managed in the best interests of its shareholders. Corporate governance includes the [[Board Of Directors|board of directors]], executive officers, and shareholders. The board of directors is responsible for setting the companyâ€™s strategic direction and overseeing the management of the company. Executive officers are responsible for managing the day-to-day operations of the company. Shareholders are the owners of the company and have the right to vote on important matters.
 ===Conclusion===
+
 The corporation is the most popular form of business organization in the world. It provides limited liability protection to its owners and has the ability to raise capital through the sale of stock. However, corporations are subject to double taxation and more government regulations than other 

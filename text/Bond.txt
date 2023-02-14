@@ -1,15 +1,22 @@
 <seo title="Bond" metakeywords="bonds typically issued,bonds including government,bond yields typically,government bonds" metadescription="A bond is a debt security issued by a government, corporation, or other entity to raise capital."/>
 ===Introduction to Bonds===
+
 A bond is a debt security issued by a government, corporation, or other entity to raise capital. Bonds are typically issued in denominations of $1,000 or more and are used to finance long-term projects such as infrastructure, capital investments, and other large-scale projects. Bonds are typically issued with a fixed [[Interest Rate|interest rate]] and a maturity date, at which point the bond issuer must repay the principal amount of the bond. Bonds are typically traded on the secondary market, where investors can buy and sell bonds.
 ===Types of Bonds===
+
 There are several different types of bonds, including government bonds, corporate bonds, municipal bonds, and zero-coupon bonds. Government bonds are issued by national governments and are typically backed by the full faith and credit of the issuing government. Corporate bonds are issued by corporations and are typically backed by the assets of the issuing company. Municipal bonds are issued by local governments and are typically backed by the taxing authority of the issuing municipality. Zero-coupon bonds are bonds that do not pay interest until maturity, at which point the investor receives the full [[Face Value|face value]] of the bond.
 ===Bond Pricing===
+
 Bond prices are determined by the market forces of supply and demand. Bond prices are typically quoted in terms of the [[Yield To Maturity|yield to maturity]], which is the [[Rate Of Return|rate of return]] an investor can expect to receive if the bond is held until maturity. Bond prices are also affected by the creditworthiness of the issuer, the current interest rate environment, and the length of time until the bond matures.
 ===Bond Yields===
+
 [[Bond Yield|Bond yield]]s are the rate of return an investor can expect to receive from a bond. Bond yields are typically quoted in terms of the yield to maturity, which is the rate of return an investor can expect to receive if the bond is held until maturity. Bond yields are also affected by the creditworthiness of the issuer, the current interest rate environment, and the length of time until the bond matures.
 ===Bond Ratings===
+
 Bond ratings are used to assess the creditworthiness of a bond issuer. Bond ratings are typically assigned by [[Credit Rating|credit rating]] agencies such as Moody's and Standard & Poor's. Bond ratings range from AAA (the highest rating) to  (the lowest rating). Bond ratings are used to assess the risk of default on a bond and are used by investors to determine the level of risk associated with a particular bond.
 ===Bond Risks===
+
 Bonds are subject to several risks, including interest rate risk, [[Credit Risk|credit risk]], and inflation risk. Interest rate risk is the risk that the value of a bond will decrease if interest rates rise. Credit risk is the risk that the issuer of a bond will default on its obligations. Inflation risk is the risk that the [[Purchasing Power|purchasing power]] of a bond's payments will be eroded by inflation.
 ===Bond Investing Strategies===
+
 Investors can use several different strategies when investing in bonds. Investors can buy individu

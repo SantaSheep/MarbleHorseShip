@@ -1,11 +1,16 @@
 <seo title="Tier 1 Capital Ratio" metakeywords="tier capital ratio,bank tier capital,capital ratio tier,riskiness tier capital" metadescription="The Tier 1 Capital Ratio is an important measure of a bank’s financial health and is used by regulators to assess the bank's ability to absorb losses and remain solvent."/>
 ===Introduction to Tier 1 Capital Ratio===
+
 The Tier 1 Capital Ratio is a measure of a bank’s financial strength and stability. It is calculated by dividing a bank’s Tier 1 capital by its total risk-weighted assets. Tier 1 capital is the core capital of a bank, which includes equity capital and disclosed reserves. Risk-weighted assets are assets that are weighted according to their riskiness. The Tier 1 Capital Ratio is an important measure of a bank’s financial health and is used by regulators to assess the bank’s ability to absorb losses and remain solvent.
 ===Components of Tier 1 Capital Ratio===
+
 The Tier 1 Capital Ratio is calculated by dividing a bank’s Tier 1 capital by its total risk-weighted assets. Tier 1 capital is the core capital of a bank, which includes equity capital and disclosed reserves. Equity capital is the amount of money that a bank has raised from shareholders, while disclosed reserves are the amount of money that a bank has set aside to cover potential losses. Risk-weighted assets are assets that are weighted according to their riskiness. These assets include loans, investments, and other assets that are subject to risk.
 ===Calculation of Tier 1 Capital Ratio===
+
 The Tier 1 Capital Ratio is calculated by dividing a bank’s Tier 1 capital by its total risk-weighted assets. To calculate the Tier 1 Capital Ratio, a bank must first calculate its Tier 1 capital. This is done by adding together the bank’s equity capital and disclosed reserves. The bank then divides this number by its total risk-weighted assets. The result is the Tier 1 Capital Ratio.
 ===Significance of Tier 1 Capital Ratio===
+
 The Tier 1 Capital Ratio is an important measure of a bank’s financial health and is used by regulators to assess the bank’s ability to absorb losses and remain solvent. A higher Tier 1 Capital Ratio indicates that a bank is better able to absorb losses and remain solvent. A lower Tier 1 Capital Ratio indicates that a bank is less able to absorb losses and may be at risk of insolvency.
 ===Conclusion===
+
 The Tier 1 Capital Ratio is an important measure of a bank’s financial health and is used by regulators to assess the bank’s ability to absorb losses and remain solvent. It is calculated by dividing a bank’s Tier 1 capital by its total risk-weighted assets. A higher Tier 1 Capital Ratio indicates that a bank is better able to absorb losses and remain solvent, while a lower Tier 1 Capital Ratio indicates that a bank is less able to absorb losses and may be at risk of insolvency

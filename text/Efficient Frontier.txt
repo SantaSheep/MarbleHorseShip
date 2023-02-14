@@ -1,15 +1,22 @@
 <seo title="Efficient Frontier" metakeywords="efficient frontier concept,risk efficient frontier,efficient frontier useful,introduction efficient frontier" metadescription="The efficient frontier is a concept in modern portfolio theory that describes the optimal portfolio of assets that provides the highest expected return for a given level of risk."/>
 ===Introduction to Efficient Frontier===
+
 The efficient frontier is a concept in [[Modern Portfolio Theory|modern portfolio theory]] that describes the optimal portfolio of assets that provides the highest [[Expected Return|expected return]] for a given level of risk. It is a graphical representation of the relationship between risk and return, and is used to identify the optimal portfolio of assets for a given level of risk. The efficient frontier is based on the idea that investors are risk-averse and will only invest in assets that provide a higher expected return for a given level of risk.
 ===History of Efficient Frontier===
+
 The efficient frontier was first developed by Harry Markowitz in 1952. Markowitz developed the concept of modern portfolio theory, which states that investors should diversify their investments in order to reduce risk and maximize returns. Markowitz's work was based on the idea that investors are risk-averse and will only invest in assets that provide a higher expected return for a given level of risk.
 ===Applications of Efficient Frontier===
+
 The efficient frontier is used by investors to identify the optimal portfolio of assets for a given level of risk. It is also used by financial advisors to help clients identify the best portfolio of assets for their individual needs. The efficient frontier can also be used to identify the optimal portfolio of assets for a given level of risk tolerance.
 ===Calculating the Efficient Frontier===
+
 The efficient frontier is calculated using a mathematical formula that takes into account the expected return and risk of each asset in the portfolio. The formula takes into account the expected return and risk of each asset in the portfolio, as well as the correlation between the assets. The formula is used to identify the optimal portfolio of assets for a given level of risk.
 ===Benefits of Efficient Frontier===
+
 The efficient frontier is a useful tool for investors and financial advisors. It helps investors identify the optimal portfolio of assets for a given level of risk. It also helps financial advisors identify the best portfolio of assets for their clients. The efficient frontier can also be used to identify the optimal portfolio of assets for a given level of risk tolerance.
 ===Limitations of Efficient Frontier===
+
 The efficient frontier is not a perfect tool. It does not take into account the potential for unexpected events or changes in the market. It also does not take into account the potential for changes in the risk and return of individual assets. Additionally, the efficient frontier does not take into account the potential for changes in the correlation between assets.
 ===Conclusion===
+
 The efficient frontier is a useful tool for investors and financial advisors. It helps investors identify the optimal portfolio of assets for a given level of risk. It also helps financial advisors identify the best portfolio of assets for their clients. However, the efficient frontier is not a perfect tool and does not take i

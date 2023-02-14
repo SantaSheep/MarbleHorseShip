@@ -1,11 +1,16 @@
 <seo title="Time Series" metakeywords="timeseries analysis involves,engineering timeseries,used timeseries analysis,methods used timeseries" metadescription="Timeseries is a type of data analysis that focuses on the temporal aspects of data."/>
 ===Introduction to Timeseries===
+
 Timeseries is a type of data analysis that focuses on the temporal aspects of data. It is used to analyze the changes in data over time, and to identify patterns and trends in the data. Timeseries analysis is used in a variety of fields, including finance, economics, engineering, and medicine.
 ===Types of Timeseries===
+
 There are two main types of timeseries: linear and nonlinear. Linear timeseries are those that follow a linear pattern, such as a straight line. Nonlinear timeseries are those that follow a more complex pattern, such as a sinusoidal wave.
 ===Applications of Timeseries===
+
 Timeseries analysis is used in a variety of fields, including finance, economics, engineering, and medicine. In finance, timeseries analysis is used to identify trends in stock prices, and to predict future stock prices. In economics, timeseries analysis is used to identify trends in economic indicators, such as GDP, inflation, and unemployment. In engineering, timeseries analysis is used to identify trends in engineering data, such as temperature, pressure, and vibration. In medicine, timeseries analysis is used to identify trends in medical data, such as heart rate, blood pressure, and respiration rate.
 ===Analyzing Timeseries===
+
 Timeseries analysis involves the use of statistical methods to identify patterns and trends in the data. Common methods used in timeseries analysis include autocorrelation, cross-correlation, and spectral analysis. Autocorrelation is used to identify patterns in the data that repeat over time. Cross-correlation is used to identify patterns in the data that are related to other variables. Spectral analysis is used to identify patterns in the data that are related to frequency.
 ===Conclusion===
+
 Timeseries analysis is a powerful tool for analyzing data over time. It is used in a variety of fields, including finance, economics, engineering, and medicine. Timeseries analysis involves the use of statistical methods to identify patterns and trends in the data. Common methods used in timeseries analysis include autocorrelation, cross-correlation, and spectral analysis

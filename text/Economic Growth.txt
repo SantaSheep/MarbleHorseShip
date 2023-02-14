@@ -1,13 +1,19 @@
 <seo title="Economic Growth" metakeywords="history economic growth,growth history economic,theories economic growth,economic growth history" metadescription="Economic growth is the increase in the production of goods and services over a period of time."/>
 ===Introduction to Economic Growth===
+
 Economic growth is the increase in the production of goods and services over a period of time. It is measured as the percentage rate of increase in real gross domestic product (GDP) or other measure of aggregate income. Economic growth is an important indicator of the health of an economy and is closely monitored by governments, businesses, and individuals.
 ===Factors Affecting Economic Growth===
+
 There are a number of factors that can affect economic growth. These include population growth, technological advances, capital investment, government policies, and international trade. Population growth can lead to increased demand for goods and services, while technological advances can lead to increased productivity and efficiency. Capital investment can lead to increased production capacity, while government policies can influence the availability of resources and the incentives for businesses to invest. International trade can also affect economic growth, as countries can benefit from increased access to foreign markets and resources.
 ===Measuring Economic Growth===
+
 Economic growth is typically measured using [[Real Gdp|real GDP]], which is the total value of all goods and services produced in an economy, adjusted for inflation. Other measures of economic growth include gross domestic product [[Per Capita|per capita]], which measures the average income of a country’s citizens, and gross national product, which measures the total value of all goods and services produced by a country’s citizens.
 ===Theories of Economic Growth===
+
 There are a number of theories that attempt to explain economic growth. These include the neoclassical growth theory, which suggests that economic growth is driven by technological advances and capital investment, and the endogenous growth theory, which suggests that economic growth is driven by the accumulation of [[Human Capital|human capital]] and technological progress.
 ===History of Economic Growth===
+
 The history of economic growth is closely linked to the history of industrialization. The [[Industrial Revolution|industrial revolution]] of the 18th and 19th centuries saw a dramatic increase in economic growth, as new technologies and production methods allowed for increased productivity and efficiency. This period of economic growth was followed by a period of stagnation in the early 20th century, as the world economy was affected by two world wars and the Great Depression. Since then, economic growth has been relatively steady, with some periods of rapid growth and some periods of slower growth.
 ===Conclusion===
+
 Economic growth is an important indicator of the health of an economy and is closely monitored by governments, businesses, and individuals. There are a number of factors that can affect economic growth, including population growth, technological advances, capital investment, government policies, and international trade. Economic growth is typically measured using real GDP, and there are a number of theories that attempt to explai

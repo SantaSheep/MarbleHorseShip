@@ -1,15 +1,22 @@
 <seo title="Theta" metakeywords="theta important concept,theta used measure,theta important,options trading theta" metadescription="Theta is a financial term used to describe the rate of change of an option's value with respect to the passage of time."/>
 ===Introduction to Theta===
+
 Theta is a financial term used to describe the rate of change of an option's value with respect to the passage of time. It is one of the most important concepts in options trading and is used to measure the time decay of an option. Theta is also used to measure the risk associated with an option and to help traders manage their risk.
 ===Theta in Financial Markets===
+
 Theta is an important concept in [[Financial Market|financial market]]s, as it is used to measure the rate of change of an option's value with respect to the passage of time. Theta is used to measure the time decay of an option, which is the rate at which an option's value decreases as time passes. Theta is also used to measure the risk associated with an option, as it is used to calculate the probability of an option expiring [[In The Money|in the money]].
 ===Theta in Options Trading===
+
 Theta is an important concept in options trading, as it is used to measure the rate of change of an option's value with respect to the passage of time. Theta is used to measure the time decay of an option, which is the rate at which an option's value decreases as time passes. Theta is also used to measure the risk associated with an option, as it is used to calculate the probability of an option expiring in the money.
 ===Theta and Time Decay===
+
 Theta is used to measure the time decay of an option, which is the rate at which an option's value decreases as time passes. Theta is calculated by subtracting the current value of the option from the value of the option at expiration. The higher the theta, the faster the option will decay in value.
 ===Theta and Volatility===
+
 Theta is also used to measure the volatility of an option. Volatility is the measure of how much an option's price can move in a given period of time. The higher the theta, the higher the volatility of the option. This means that the option is more likely to move in price, and thus is more risky.
 ===Theta and Risk Management===
+
 Theta is also used in [[Risk Management|risk management]], as it is used to calculate the probability of an option expiring in the money. The higher the theta, the higher the probability of the option expiring in the money. This means that the option is more likely to be profitable, and thus is less risky.
 ===Conclusion===
+
 Theta is an important concept in financial markets, as it is used to measure the rate of change of an option's value with respect to the passage of time. Theta is used to measure the time decay of an option, the volatility of an option, and the probability of an option expiring in the money. Theta is also used in risk management, as it is used to calculate the probability of an option expiring in the money. The higher the theta, the higher the probability of the option expiring in the money, and thus the less risky the option is

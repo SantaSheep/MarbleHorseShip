@@ -1,13 +1,19 @@
 <seo title="Cost Benefit Analysis" metakeywords="cost benefit analysis,benefit analysis cba,evaluating costs benefits,evaluate costs benefits" metadescription="Cost Benefit Analysis (CBA) is a method of evaluating the costs and benefits of a project or decision."/>
 ===Introduction to Cost Benefit Analysis===
+
 Cost Benefit Analysis (CBA) is a method of evaluating the costs and benefits of a project or decision. It is a tool used to determine whether a project or decision is worth pursuing or not. CBA is used to compare the costs and benefits of different options and to determine which option is the most cost-effective. It is a quantitative approach to decision-making that helps to identify the most efficient and effective way to achieve a desired outcome.
 ===Definition of Cost Benefit Analysis===
+
 Cost Benefit Analysis is a systematic approach to evaluating the costs and benefits of a project or decision. It is a tool used to compare the costs and benefits of different options and to determine which option is the most cost-effective. CBA is used to assess the economic feasibility of a project or decision by comparing the costs and benefits of each option. It is a quantitative approach to decision-making that helps to identify the most efficient and effective way to achieve a desired outcome.
 ===Benefits of Cost Benefit Analysis===
+
 Cost Benefit Analysis is a useful tool for decision-making. It helps to identify the most cost-effective option and can be used to compare different options. CBA can also be used to assess the economic feasibility of a project or decision. It is a quantitative approach to decision-making that helps to identify the most efficient and effective way to achieve a desired outcome.
 ===Limitations of Cost Benefit Analysis===
+
 Cost Benefit Analysis is not without its limitations. It is a quantitative approach to decision-making and does not take into account qualitative factors such as social, environmental, and ethical considerations. CBA also does not consider the long-term effects of a project or decision. Additionally, CBA is based on assumptions and estimates and can be subject to bias.
 ===Examples of Cost Benefit Analysis===
+
 Cost Benefit Analysis is used in a variety of contexts. It is commonly used in the public sector to evaluate the costs and benefits of public policies and programs. It is also used in the [[Private Sector|private sector]] to evaluate the costs and benefits of investments and projects. CBA can also be used to evaluate the costs and benefits of different options in a variety of other contexts.
 ===Conclusion===
+
 Cost Benefit Analysis is a useful tool for decision-making. It is a quantitative approach to decision-making that helps to identify the most efficient and effective way to achieve a desired outcome. CBA is used in a variety of contexts and can be used to compare the costs and benefits of different options. However, it is important to be aware of the limitations of CBA and to consider qualitative factors such as social, environmental, and ethical considerations

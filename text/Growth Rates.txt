@@ -1,13 +1,19 @@
 <seo title="Growth Rates" metakeywords="rates growth rates,real growth rates,growth rates growth,growth rates measure" metadescription="Growth rates are a measure of the rate of change in a given variable over a period of time."/>
 ===Introduction to Growth Rates===
+
 Growth rates are a measure of the rate of change in a given variable over a period of time. They are used to measure the rate of change in a variety of economic and financial indicators, such as GDP, inflation, unemployment, and stock prices. Growth rates are important for understanding the performance of an economy or a company, and can be used to make predictions about future performance.
 ===Types of Growth Rates===
+
 There are several different types of growth rates that can be used to measure the rate of change in a given variable. The most common types of growth rates are nominal growth rates, real growth rates, and compound growth rates. Nominal growth rates measure the rate of change in a given variable in terms of its current value. Real growth rates measure the rate of change in a given variable in terms of its [[Purchasing Power|purchasing power]]. Compound growth rates measure the rate of change in a given variable over multiple periods of time.
 ===Factors Affecting Growth Rates===
+
 There are several factors that can affect the growth rate of a given variable. These factors include economic conditions, government policies, technological advances, and demographic changes. Economic conditions, such as GDP growth, inflation, and unemployment, can have a significant impact on the growth rate of a given variable. Government policies, such as tax rates and regulations, can also affect the growth rate of a given variable. Technological advances can also have an impact on the growth rate of a given variable, as new technologies can increase productivity and efficiency. Finally, demographic changes, such as population growth, can also affect the growth rate of a given variable.
 ===Calculating Growth Rates===
+
 Growth rates can be calculated using a variety of methods. The most common method is to calculate the [[Percentage Change|percentage change]] in a given variable over a period of time. This can be done by subtracting the initial value of the variable from the final value of the variable, and then dividing the result by the initial value of the variable. The result is then multiplied by 100 to get the percentage change.
 ===Uses of Growth Rates===
+
 Growth rates are used in a variety of contexts. They are used to measure the performance of an economy or a company, and can be used to make predictions about future performance. Growth rates can also be used to compare the performance of different economies or companies. Finally, growth rates can be used to assess the impact of government policies on the economy or a company.
 ===Conclusion===
+
 Growth rates are an important measure of the rate of change in a given variable over a period of time. They are used to measure the performance of an economy or a company, and can be used to make predictions about future performance. Growth rates can be calculated using a variety of methods, and are affected by a variety of factors, such as economic conditions, government policies, technological advances

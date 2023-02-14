@@ -1,15 +1,22 @@
 <seo title="Net Debt" metakeywords="debt netdebt measure,netdebt financial term,total debt netdebt,debt conclusion netdebt" metadescription="Netdebt is a financial term used to describe the total amount of debt a company has after subtracting its cash and cash equivalents."/>
 ===Introduction to Netdebt===
+
 Netdebt is a financial term used to describe the total amount of debt a company has after subtracting its [[Cash And Cash Equivalents|cash and cash equivalents]]. It is a measure of a company’s financial health and is used to assess the company’s ability to pay off its debt. Netdebt is an important metric for investors and creditors to consider when evaluating a company’s financial position.
 ===Definition of Netdebt===
+
 Netdebt is defined as the total amount of debt a company has after subtracting its cash and cash equivalents. It is calculated by subtracting a company’s cash and cash equivalents from its total debt. Netdebt is a measure of a company’s financial health and is used to assess the company’s ability to pay off its debt.
 ===Components of Netdebt===
+
 Netdebt is composed of two components: total debt and cash and cash equivalents. Total debt includes all of a company’s long-term and short-term debt, such as loans, bonds, and other liabilities. Cash and cash equivalents are [[Liquid Asset|liquid asset]]s such as cash, [[Marketable Securities|marketable securities]], and other short-term investments.
 ===Calculating Netdebt===
+
 Netdebt is calculated by subtracting a company’s cash and cash equivalents from its total debt. For example, if a company has $100,000 in total debt and $50,000 in cash and cash equivalents, its netdebt would be $50,000.
 ===Advantages of Netdebt===
+
 Netdebt is a useful metric for investors and creditors to consider when evaluating a company’s financial position. It provides a more accurate picture of a company’s financial health than total debt alone. Netdebt also helps investors and creditors assess a company’s ability to pay off its debt.
 ===Disadvantages of Netdebt===
+
 Netdebt does not take into account a company’s assets, such as inventory, [[Accounts Receivable|accounts receivable]], and other assets. This means that a company with a high netdebt may still be able to pay off its debt if it has enough assets to cover the debt. Additionally, netdebt does not take into account a company’s future [[Cash Flow|cash flow]], which is an important factor in assessing a company’s ability to pay off its debt.
 ===Conclusion===
+
 Netdebt is a useful metric for investors and creditors to consider when evaluating a company’s financial position. It provides a more accurate picture of a company’s financial health than total debt alone and helps investors and creditors assess a company’s ability to pay off its debt. However, it does not take into account a company’s assets or future cash flow, which are important factors in assessing a company’s ability to pay off its debt

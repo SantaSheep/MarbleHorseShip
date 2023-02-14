@@ -1,13 +1,19 @@
 <seo title="Multi Factor Model" metakeywords="multifactor model financial,introduction multifactor model,applications multifactor model,multifactor model" metadescription="Multifactor model is a financial model used to analyze the performance of a portfolio of investments."/>
 ===Introduction to Multifactor Model===
+
 The multifactor model is a financial model used to analyze the performance of a portfolio of investments. It is based on the idea that the performance of a portfolio is determined by a combination of factors, such as market risk, sector risk, and company-specific risk. The model is used to identify the sources of risk and return in a portfolio, and to determine the optimal portfolio allocation.
 ===History of Multifactor Model===
+
 The multifactor model was first developed in the 1950s by Harry Markowitz, a Nobel Prize-winning economist. Markowitz developed the model as a way to analyze the performance of a portfolio of investments. He proposed that the performance of a portfolio is determined by a combination of factors, such as market risk, sector risk, and company-specific risk.
 ===Components of Multifactor Model===
+
 The multifactor model consists of three components: market risk, sector risk, and company-specific risk. Market risk is the risk associated with the overall market, such as changes in [[Interest Rate|interest rate]]s or economic conditions. Sector risk is the risk associated with a particular sector, such as changes in the price of oil or the performance of the technology sector. Company-specific risk is the risk associated with a particular company, such as changes in the companyâ€™s management or [[Financial Performance|financial performance]].
 ===Applications of Multifactor Model===
+
 The multifactor model is used to analyze the performance of a portfolio of investments. It is used to identify the sources of risk and return in a portfolio, and to determine the optimal portfolio allocation. The model is also used to evaluate the performance of a portfolio over time, and to identify potential areas of improvement.
 ===Limitations of Multifactor Model===
+
 The multifactor model is limited in its ability to predict the future performance of a portfolio. The model is based on historical data, and does not take into account future events or changes in the market. Additionally, the model does not take into account the impact of taxes or transaction costs, which can have a significant impact on the performance of a portfolio.
 ===Conclusion===
+
 The multifactor model is a financial model used to analyze the performance of a portfolio of investments. It is based on the idea that the performance of a portfolio is determined by a combination of factors, such as market risk, sector risk, and company-specific risk. The model is used to identify the sources of risk and return in a portfolio, and to determine the optimal portfolio allocation. However, the model is limited in its ability to predict the future performance of a portfolio, and does not take into account taxes or transaction costs

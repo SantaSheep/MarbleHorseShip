@@ -1,13 +1,19 @@
 <seo title="Ppe" metakeywords="ppe property plant,ppe recorded asset,equipment ppe term,tangible assets used" metadescription="Property, Plant, and Equipment (PPE) is a term used to describe long-term tangible assets that are used in the production or supply of goods and services."/>
 ===Introduction to PPE===
+
 Property, Plant, and Equipment (PPE) is a term used to describe long-term [[Tangible Asset|tangible asset]]s that are used in the production or supply of goods and services. PPE is a major component of a companyâ€™s [[Balance Sheet|balance sheet]] and is typically the second largest asset category after [[Current Assets|current assets]]. PPE is also known as [[Fixed Asset|fixed asset]]s, tangible assets, or plant and equipment.
 ===Definition of PPE===
+
 Property, Plant, and Equipment (PPE) is a term used to describe long-term tangible assets that are used in the production or supply of goods and services. PPE includes land, buildings, machinery, equipment, furniture, fixtures, vehicles, and other physical assets that have a [[Useful Life|useful life]] of more than one year. PPE is considered to be a long-term asset because it is expected to be used for more than one year.
 ===Accounting Treatment of PPE===
+
 When a company purchases PPE, it is recorded as an asset on the balance sheet. The cost of the asset is recorded as the purchase price plus any associated costs such as installation and delivery. The asset is then depreciated over its useful life. Depreciation is the process of allocating the cost of an asset over its useful life. The depreciation expense is recorded as an expense on the [[Income Statement|income statement]].
 ===Examples of PPE===
+
  include land, buildings, machinery, equipment, furniture, fixtures, vehicles, and other physical assets that have a useful life of more than one year.  include office furniture, computers, manufacturing equipment, vehicles, and buildings.
 ===Advantages and Disadvantages of PPE===
+
 The main advantage of PPE is that it provides a company with the necessary resources to produce goods and services. PPE also provides a company with a long-term asset that can be used to generate income. The main disadvantage of PPE is that it is a long-term asset and requires a significant amount of capital to purchase.
 ===Conclusion===
+
 Property, Plant, and Equipment (PPE) is a term used to describe long-term tangible assets that are used in the production or supply of goods and services. PPE includes land, buildings, machinery, equipment, furniture, fixtures, vehicles, and other physical assets that have a useful life of more than one year. PPE provides a company with the necessary resources to produce goods and services and can generate income over its useful life. However, PPE is a long-term asset and requires a significant amount of capital to purchase

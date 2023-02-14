@@ -1,15 +1,22 @@
 <seo title="Greeks" metakeywords="rates greeks,rates greeks used,volatility rates greeks,options position gamma" metadescription="Greeks are a set of mathematical calculations used to measure the sensitivity of an option’s price to various factors."/>
 ===Introduction to Greeks===
+
 Greeks are a set of mathematical calculations used to measure the sensitivity of an option’s price to various factors. These factors include the underlying asset’s price, time to expiration, volatility, and [[Interest Rate|interest rate]]s. Greeks are used by traders to measure the risk of their options positions and to determine the best strategies for their portfolios.
 ===Delta===
+
  is a measure of the rate of change of an option’s price with respect to the underlying asset’s price. It is expressed as a number between 0 and 1, and is often referred to as the “[[Hedge Ratio|hedge ratio]]”. A delta of 0.5, for example, means that for every $1 increase in the underlying asset’s price, the option’s price will increase by $0.50.  is an important measure of risk, as it can be used to determine the amount of the underlying asset that needs to be purchased or sold in order to hedge an options position.
 ===Gamma===
+
  is a measure of the rate of change of an option’s delta with respect to the underlying asset’s price. It is expressed as a number between 0 and 1, and is often referred to as the “convexity” of an option. A gamma of 0.5, for example, means that for every $1 increase in the underlying asset’s price, the option’s delta will increase by $0.50.  is an important measure of risk, as it can be used to determine the amount of the underlying asset that needs to be purchased or sold in order to maintain a delta-neutral position.
 ===Theta===
+
  is a measure of the rate of change of an option’s price with respect to time. It is expressed as a number between 0 and 1, and is often referred to as the “time decay” of an option. A theta of 0.5, for example, means that for every day that passes, the option’s price will decrease by $0.50.  is an important measure of risk, as it can be used to determine the amount of time that needs to pass in order to realize a profit or loss on an options position.
 ===Vega===
+
  is a measure of the rate of change of an option’s price with respect to volatility. It is expressed as a number between 0 and 1, and is often referred to as the “volatility sensitivity” of an option. A vega of 0.5, for example, means that for every 1% increase in volatility, the option’s price will increase by $0.50.  is an important measure of risk, as it can be used to determine the amount of volatility that needs to be present in order to realize a profit or loss on an options position.
 ===Rho===
+
  is a measure of the rate of change of an option’s price with respect to interest rates. It is expressed as a number between 0 and 1, and is often referred to as the “interest rate sensitivity” of an option. A rho of 0.5, for example, means that for every 1% increase in interest rates, the option’s price will increase by $0.50.  is an important measure of risk, as it can be used to determine the amount of interest rate risk that needs to be present in order to realize a profit or loss on an options position.
 ===Conclusion===
+
 Greeks are an important set 

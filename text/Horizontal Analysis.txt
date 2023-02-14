@@ -1,11 +1,16 @@
 <seo title="Horizontal Analysis" metakeywords="disadvantages horizontal analysis,disadvantage horizontal analysis,horizontal analysis disadvantage,advantages horizontal analysis" metadescription="Horizontal analysis, also known as trend analysis, is a financial analysis technique used to compare financial data over a period of time."/>
 ===Introduction to Horizontal Analysis===
+
 Horizontal analysis, also known as [[Trend Analysis|trend analysis]], is a [[Financial Analysis|financial analysis]] technique used to compare financial data over a period of time. It is used to identify trends in a company’s [[Financial Performance|financial performance]] and to compare the performance of a company to that of its competitors. The analysis is performed by comparing the financial data of a company over a period of time, usually two or more years. This comparison is done by calculating the [[Percentage Change|percentage change]] in the financial data from one period to the next.
 ===Uses of Horizontal Analysis===
+
 Horizontal analysis is used to identify trends in a company’s financial performance. It can be used to compare the performance of a company to that of its competitors. It can also be used to identify areas of improvement or areas of concern. For example, if a company’s sales have been declining over the past few years, a horizontal analysis can be used to identify the cause of the decline.
 ===Advantages of Horizontal Analysis===
+
 One of the main advantages of horizontal analysis is that it is relatively easy to perform. All that is required is the financial data of a company over a period of time. This data can be easily obtained from the company’s [[Financial Statements|financial statements]]. Another advantage of horizontal analysis is that it can be used to identify trends in a company’s financial performance. This can be useful in making decisions about the future of the company.
 ===Disadvantages of Horizontal Analysis===
+
 One of the main disadvantages of horizontal analysis is that it does not take into account the effects of inflation. Inflation can have a significant effect on a company’s financial performance, and this effect is not taken into account in a horizontal analysis. Another disadvantage of horizontal analysis is that it does not take into account the effects of changes in the economy. For example, if the economy is in a recession, this could have a significant effect on a company’s financial performance, and this effect is not taken into account in a horizontal analysis.
 ===Conclusion===
+
 Horizontal analysis is a financial analysis technique used to compare financial data over a period of time. It is used to identify trends in a company’s financial performance and to compare the performance of a company to that of its competitors. The analysis is relatively easy to perform and can be useful in making decisions about the future of the company. However, it does not take into account the effects of inflation or changes in the economy, which can have a significant effect on a company’s financial performance

@@ -1,11 +1,16 @@
 <seo title="Deferred Income Tax" metakeywords="deferred income tax,deferred tax liability,deferred tax,tax liability deferred" metadescription="Deferred income tax is a type of tax that is not paid immediately, but rather is paid at a later date.It is typically used when a company has income that is."/>
 ===Introduction to Deferred Income Tax===
+
 Deferred [[Income Tax|income tax]] is a type of tax that is not paid immediately, but rather is paid at a later date. This type of tax is typically used when a company has income that is not taxable in the current year, but will be taxable in a future year. Deferred income tax is also known as [[Deferred Tax Liability|deferred tax liability]] or [[Deferred Tax Asset|deferred tax asset]].
 ===Accounting Treatment of Deferred Income Tax===
+
 The accounting treatment of deferred income tax is based on the concept of matching income and expenses in the same period. When a company has income that is not taxable in the current year, but will be taxable in a future year, the company must recognize the deferred income tax liability in the current year. This is done by recording the deferred income tax liability as an expense in the current year, and then recording the deferred income tax asset in the future year when the income is taxable.
 ===Calculation of Deferred Income Tax===
+
 The calculation of deferred income tax is based on the difference between the current year’s [[Taxable Income|taxable income]] and the future year’s taxable income. The deferred income tax liability is calculated by multiplying the difference between the two taxable incomes by the applicable tax rate. For example, if a company has income of $100,000 in the current year and $120,000 in the future year, the deferred income tax liability would be calculated as follows: ($120,000 - $100,000) x applicable tax rate = deferred income tax liability.
 ===Advantages and Disadvantages of Deferred Income Tax===
+
 The primary advantage of deferred income tax is that it allows companies to defer the payment of taxes until a future date. This can be beneficial for companies that have income that is not taxable in the current year, but will be taxable in a future year. The primary disadvantage of deferred income tax is that it can create a [[Cash Flow|cash flow]] issue for companies that are unable to pay the deferred income tax liability when it is due.
 ===Conclusion===
+
 Deferred income tax is a type of tax that is not paid immediately, but rather is paid at a later date. This type of tax is typically used when a company has income that is not taxable in the current year, but will be taxable in a future year. The accounting treatment of deferred income tax is based on the concept of matching income and expenses in the same period. The calculation of deferred income tax is based on the difference between the current year’s taxable income and the future year’s taxable income. The primary advantage of deferred income tax is that it allows companies to defer the payment of taxes until a future date, while the primary disadvantage is that it can create a cash flow issue for companies that are unable to pay the deferred income tax liability when it is due

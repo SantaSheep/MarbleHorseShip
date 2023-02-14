@@ -1,0 +1,28 @@
+<seo title="Cross Elasticity Demand" metakeywords="demand cross elasticity,cross elasticity demand,elasticity demand cross,elasticity demand ced" metadescription="Cross elasticity of demand (CED) is a measure of the responsiveness of the quantity demanded of one good to a change in the price of another good."/>
+===Introduction to Cross Elasticity of Demand===
+
+Cross elasticity of demand (CED) is a measure of the responsiveness of the quantity demanded of one good to a change in the price of another good. It is used to measure the degree of substitution between two goods. CED is an important concept in economics and is used to measure the degree of competition between two goods.
+===Factors Affecting Cross Elasticity of Demand===
+
+The cross elasticity of demand is affected by a number of factors. These include the availability of substitutes, the price of the goods, the income of the consumer, and the tastes and preferences of the consumer. The availability of substitutes is an important factor in determining the cross elasticity of demand. If there are many substitutes available, then the cross elasticity of demand will be higher. The price of the goods is also an important factor in determining the cross elasticity of demand. If the price of one good increases, then the demand for the other good will decrease. The income of the consumer is also an important factor in determining the cross elasticity of demand. If the consumer’s income increases, then the demand for the other good will increase. The tastes and preferences of the consumer are also an important factor in determining the cross elasticity of demand. If the consumer’s tastes and preferences change, then the demand for the other good will also change.
+===Calculating Cross Elasticity of Demand===
+
+The cross elasticity of demand can be calculated using the following formula:
+
+CED = (ΔQ1/Q1) / (ΔP2/P2)
+
+Where:
+
+Q1 = Quantity demanded of good 1
+
+P2 = Price of good 2
+
+ΔQ1 = Change in quantity demanded of good 1
+
+ΔP2 = Change in price of good 2
+===Examples of Cross Elasticity of Demand===
+
+One example of cross elasticity of demand is the relationship between the demand for apples and the demand for oranges. If the price of oranges increases, then the demand for apples will increase as consumers substitute apples for oranges. Another example of cross elasticity of demand is the relationship between the demand for cars and the demand for gasoline. If the price of gasoline increases, then the demand for cars will decrease as consumers substitute other forms of transportation for cars.
+===Conclusion===
+
+Cross elasticity of demand is an important concept in economics and is used to measure the degree of competition between two goods. It is affected by a number of factors, including the availability of substitutes, the price of the goods, the income of the consumer, and the tastes and preferences of the consumer. The cross elasticity of demand can be calculated using the formula provided. Examples of cross elasticity of demand include the relationship between the demand for apples and the demand for oranges, and the relationship between the demand for cars and the demand for gasoline

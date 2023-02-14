@@ -1,13 +1,19 @@
 <seo title="Per Capita" metakeywords="percapita defined average,percapita gdp,percapita concept percapita,economic conclusion percapita" metadescription="Percapita is a term used in economics to refer to the average amount of money or resources available to each person in a given population."/>
 ===Introduction to Percapita===
+
 Percapita is a term used in economics and finance to refer to the average amount of money or resources available to each person in a given population. It is a measure of the average income or wealth of a population, and is often used to compare the economic well-being of different countries or regions. Percapita is also used to measure the economic development of a country or region over time.
 ===Definition of Percapita===
+
 Percapita is defined as the average amount of money or resources available to each person in a given population. It is calculated by dividing the total amount of money or resources available in a population by the total number of people in that population. For example, if a country has a population of 10 million people and a total GDP of $1 trillion, then the percapita GDP of that country would be $100,000.
 ===History of Percapita===
+
 The concept of percapita has been around since the early 19th century, when it was first used to measure the economic development of countries. Since then, it has become an important tool for economists and policy makers to measure the economic well-being of different countries and regions.
 ===Uses of Percapita===
+
 Percapita is used to measure the economic well-being of a population. It is often used to compare the economic development of different countries or regions, as well as to measure the economic development of a country or region over time. It is also used to measure the economic inequality between different groups within a population.
 ===Advantages and Disadvantages of Percapita===
+
 Percapita is a useful tool for measuring the economic well-being of a population, as it takes into account the total amount of money or resources available in a population, as well as the total number of people in that population. However, it does not take into account the distribution of wealth or resources within a population, which can be an important factor in determining economic well-being.
 ===Conclusion===
+
 Percapita is a term used in economics and finance to refer to the average amount of money or resources available to each person in a given population. It is a useful tool for measuring the economic well-being of a population, as it takes into account the total amount of money or resources available in a population, as well as the total number of people in that population. However, it does not take into account the distribution of wealth or resources within a population, which can be an important factor in determining economic well-being

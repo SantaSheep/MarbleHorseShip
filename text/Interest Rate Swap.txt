@@ -1,11 +1,16 @@
 <seo title="Interest Rate Swap" metakeywords="rate rate swaps,rates rate swaps,swaps financial instruments,rate swaps beneficial" metadescription="Interest rate swaps are financial instruments used to exchange one type of interest rate for another."/>
 ===Introduction to Interest Rate Swaps===
+
 [[Interest Rate|Interest rate]] swaps are [[Financial Instrument|financial instrument]]s used to exchange one type of interest rate for another. They are used to hedge against interest rate risk, to manage [[Cash Flow|cash flow]], and to speculate on the direction of interest rates. Interest rate swaps are a type of derivative, meaning that their value is derived from the underlying asset, which in this case is an interest rate. Interest rate swaps are used by a variety of entities, including corporations, governments, and [[Financial Institution|financial institution]]s.
 ===Types of Interest Rate Swaps===
+
 There are two main types of interest rate swaps: fixed-for-floating and basis swaps. In a fixed-for-floating swap, one party agrees to pay a fixed rate of interest, while the other party agrees to pay a floating rate of interest. The floating rate is usually based on a benchmark rate, such as LIBOR. In a basis swap, both parties agree to pay a floating rate of interest, but the two rates are based on different benchmarks. For example, one party may agree to pay a rate based on LIBOR, while the other party agrees to pay a rate based on the Eurodollar rate.
 ===Benefits of Interest Rate Swaps===
+
 Interest rate swaps can be beneficial for both parties involved. For the party receiving the fixed rate of interest, the swap provides a hedge against rising interest rates. This can be beneficial for entities that have large amounts of debt, as they can lock in a fixed rate of interest and avoid the risk of rising rates. For the party receiving the floating rate of interest, the swap provides an opportunity to benefit from falling interest rates. This can be beneficial for entities that have large amounts of cash, as they can take advantage of lower rates.
 ===Risks of Interest Rate Swaps===
+
 Interest rate swaps can also be risky for both parties involved. For the party receiving the fixed rate of interest, the swap provides a hedge against falling interest rates. This can be risky for entities that have large amounts of debt, as they can be locked into a fixed rate of interest and be exposed to the risk of falling rates. For the party receiving the floating rate of interest, the swap provides an opportunity to benefit from rising interest rates. This can be risky for entities that have large amounts of cash, as they can be exposed to the risk of higher rates.
 ===Conclusion===
+
 Interest rate swaps are a type of derivative that can be used to hedge against interest rate risk, to manage cash flow, and to speculate on the direction of interest rates. They can be beneficial for both parties involved, but they can also be risky. It is important to understand the risks and benefits of interest rate swaps before entering into a swap agreement

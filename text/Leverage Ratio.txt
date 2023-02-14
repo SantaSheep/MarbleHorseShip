@@ -1,13 +1,19 @@
 <seo title="Leverage Ratio" metakeywords="leverage ratios used,leverage ratio financial,leverage ratios debt,leverage ratios leverage" metadescription="Leverage ratio is a financial metric used to measure the amount of debt a company has relative to its equity."/>
 ===Introduction to Leverage Ratio===
+
 The leverage ratio is a financial metric used to measure the amount of debt a company has relative to its equity. It is a measure of a company’s [[Financial Risk|financial risk]] and is used to assess the company’s ability to meet its financial obligations. The leverage ratio is an important tool for investors and creditors to assess the financial health of a company.
 ===Types of Leverage Ratios===
+
 There are several different types of leverage ratios that can be used to measure a company’s financial risk. The most common leverage ratios are the debt-to-equity ratio, the debt-to-assets ratio, and the [[Interest Coverage Ratio|interest coverage ratio]]. The debt-to-equity ratio measures the amount of debt a company has relative to its equity. The debt-to-assets ratio measures the amount of debt a company has relative to its total assets. The interest coverage ratio measures the ability of a company to meet its interest payments.
 ===Calculating Leverage Ratios===
+
 The leverage ratio is calculated by dividing the total amount of debt by the total amount of equity. For example, if a company has $100,000 in debt and $200,000 in equity, the leverage ratio would be 0.5. This means that the company has $0.50 of debt for every $1.00 of equity.
 ===Benefits of Leverage Ratios===
+
 The leverage ratio is a useful tool for investors and creditors to assess the financial health of a company. It provides an indication of the company’s ability to meet its financial obligations and can be used to compare the financial risk of different companies.
 ===Risks of Leverage Ratios===
+
 The leverage ratio is a useful tool for assessing the financial risk of a company, but it is important to remember that it is only one measure of financial risk. A company with a high leverage ratio may be at risk of defaulting on its debt if it is unable to generate sufficient [[Cash Flow|cash flow]] to meet its financial obligations.
 ===Conclusion===
+
 The leverage ratio is an important financial metric used to measure the amount of debt a company has relative to its equity. It is a useful tool for investors and creditors to assess the financial health of a company, but it is important to remember that it is only one measure of financial risk. A company with a high leverage ratio may be at risk of defaulting on its debt if it is unable to generate sufficient cash flow to meet its financial obligations

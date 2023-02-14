@@ -1,11 +1,16 @@
 <seo title="Write Down" metakeywords="accounting treatment writedowns,permanent temporary writedowns,balance sheet writedown,income statement writedown" metadescription="A writedown is a reduction in the value of an asset or liability that is recorded on a company’s balance sheet."/>
 ===Introduction to Writedown===
+
 A writedown is a reduction in the value of an asset or liability that is recorded on a company’s [[Balance Sheet|balance sheet]]. It is a way for a company to recognize a decrease in the value of an asset or liability due to a variety of factors, such as market conditions, technological obsolescence, or changes in the company’s business model. A writedown is also known as a write-off or impairment.
 ===Types of Writedowns===
+
 There are two types of writedowns: permanent and temporary. A permanent writedown is a reduction in the value of an asset or liability that is expected to remain at the reduced value for the foreseeable future. A temporary writedown is a reduction in the value of an asset or liability that is expected to recover in value over time.
 ===Reasons for Writedowns===
+
 Writedowns can be caused by a variety of factors, including market conditions, technological obsolescence, or changes in the company’s business model. For example, a company may need to write down the value of its inventory if the market price of the inventory has decreased. Similarly, a company may need to write down the value of its equipment if the equipment has become obsolete due to advances in technology. Finally, a company may need to write down the value of its assets if the company has changed its business model and the assets are no longer necessary.
 ===Accounting Treatment of Writedowns===
+
 When a writedown is recorded, the value of the asset or liability is reduced on the company’s balance sheet. The amount of the writedown is recorded as an expense on the company’s [[Income Statement|income statement]]. The writedown is also recorded as a contra-asset on the balance sheet, which is an asse[[T Account|t account]] that is offset against the value of the asset or liability that was written down.
 ===Conclusion===
+
 A writedown is a reduction in the value of an asset or liability that is recorded on a company’s balance sheet. There are two types of writedowns: permanent and temporary. Writedowns can be caused by a variety of factors, including market conditions, technological obsolescence, or changes in the company’s business model. When a writedown is recorded, the value of the asset or liability is reduced on the company’s balance sheet and the amount of the writedown is recorded as an expense on the company’s income statement

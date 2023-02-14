@@ -1,13 +1,19 @@
 <seo title="Shareholders Equity" metakeywords="accounting shareholder equity,introduction shareholder equity,stock shareholder equity,shareholder equity difficult" metadescription="Shareholder equity, also known as shareholders’ equity, is the difference between a company’s total assets and its total liabilities."/>
 ===Introduction to Shareholder Equity===
+
 Shareholder equity, also known as shareholders’ equity, is the difference between a company’s total assets and its [[Total Liabilities|total liabilities]]. It is the amount of money that would be returned to shareholders if all of the assets of the company were liquidated and all of its debts were paid off. Shareholder equity is an important measure of a company’s financial health and is used to evaluate the company’s performance.
 ===Components of Shareholder Equity===
+
 Shareholder equity is composed of two main components: [[Contributed Capital|contributed capital]] and [[Retained Earnings|retained earnings]]. Contributed capital is the amount of money that shareholders have invested in the company, either through the purchase of stock or through other investments. Retained earnings are the profits that the company has earned and retained over time.
 ===Accounting for Shareholder Equity===
+
 Shareholder equity is recorded on the company’s [[Balance Sheet|balance sheet]]. The balance sheet is a financial statement that shows the company’s assets, liabilities, and shareholder equity. The balance sheet is used to calculate the company’s [[Net Worth|net worth]], which is the difference between its total assets and its total liabilities.
 ===Advantages of Shareholder Equity===
+
 Shareholder equity is an important measure of a company’s financial health. It is used to evaluate the company’s performance and to determine the value of the company’s stock. Shareholder equity also provides the company with a source of capital that can be used to finance new projects or to pay off existing debts.
 ===Disadvantages of Shareholder Equity===
+
 The main disadvantage of shareholder equity is that it can be difficult to calculate. The value of the company’s assets and liabilities can fluctuate over time, making it difficult to accurately calculate the company’s net worth. Additionally, the value of the company’s stock can also fluctuate, making it difficult to accurately calculate the company’s shareholder equity.
 ===Conclusion===
+
 Shareholder equity is an important measure of a company’s financial health. It is composed of two main components: contributed capital and retained earnings. Shareholder equity is recorded on the company’s balance sheet and is used to evaluate the company’s performance and to determine the value of the company’s stock. While shareholder equity can be a valuable source of capital for the company, it can be difficult to calculate due to fluctuations in the value of the company’s assets and liabilities

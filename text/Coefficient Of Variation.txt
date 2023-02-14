@@ -1,13 +1,19 @@
 <seo title="Coefficient Of Variation" metakeywords="definition coefficient variation,coefficient variation defined,calculating coefficient variation,variation coefficient" metadescription="The Coefficient of Variation is a measure of the relative variability of a set of data points."/>
 ===Introduction to Coefficient of Variation===
+
 The Coefficient of Variation () is a statistical measure used to compare the variability of different sets of data. It is a measure of the relative variability of a set of data points, and is calculated by dividing the [[Standard Deviation|standard deviation]] of the data by the mean of the data. The  is a useful tool for investors and analysts to compare the risk of different investments, as it provides a measure of the relative risk of each investment.
 ===Definition of Coefficient of Variation===
+
 The Coefficient of Variation is defined as the ratio of the standard deviation of a set of data points to the mean of the data points. It is expressed as a percentage, and is calculated by dividing the standard deviation of the data by the mean of the data and multiplying the result by 100. The  is a measure of the relative variability of a set of data points, and is used to compare the variability of different sets of data.
 ===Uses of Coefficient of Variation===
+
 The Coefficient of Variation is used to compare the variability of different sets of data. It is a useful tool for investors and analysts to compare the risk of different investments, as it provides a measure of the relative risk of each investment. The  can also be used to compare the performance of different investments over time, as it provides a measure of the relative variability of the investments.
 ===Calculating Coefficient of Variation===
+
 The Coefficient of Variation is calculated by dividing the standard deviation of the data by the mean of the data and multiplying the result by 100. The standard deviation is calculated by taking the square root of the sum of the squares of the differences between each data point and the mean of the data. The mean of the data is calculated by adding all of the data points together and dividing by the number of data points.
 ===Advantages and Disadvantages of Coefficient of Variation===
+
 The Coefficient of Variation is a useful tool for investors and analysts to compare the risk of different investments, as it provides a measure of the relative risk of each investment. The  can also be used to compare the performance of different investments over time, as it provides a measure of the relative variability of the investments. However, the  does not take into account the magnitude of the data points, and therefore may not be an accurate measure of the risk of an investment.
 ===Conclusion===
+
 The Coefficient of Variation is a useful tool for investors and analysts to compare the risk of different investments, as it provides a measure of the relative risk of each investment. The  can also be used to compare the performance of different investments over time, as it provides a measure of the relative variability of the investments. However, the  does not take into account the magnitude of the data points, and therefore may not be an accurate measure of the risk of an investment

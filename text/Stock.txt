@@ -1,13 +1,19 @@
 <seo title="Stock" metakeywords="basics investing stocks,stock market basics,basics stock investing,basics stock market" metadescription="The stock market is a place where stocks are bought and sold.There are two main types of stock: common stock and preferred stock."/>
 ===Introduction to Stock===
+
 Stock is a type of security that represents ownership in a company. It is one of the most common investments, and it is a key component of the [[Stock Market|stock market]]. Stock can be bought and sold on the stock market, and it is a popular way for investors to diversify their portfolios. Stock can be a great way to make money, but it is important to understand the risks associated with investing in stock.
 ===Types of Stock===
+
 There are two main types of stock: common stock and [[Preferred Stock|preferred stock]]. Common stock is the most common type of stock and it gives the holder voting rights in the company. Preferred stock does not give the holder voting rights, but it does give the holder a higher claim on the company’s assets and earnings.
 ===Stock Market Basics===
+
 The stock market is a place where stocks are bought and sold. It is made up of exchanges, such as the New York Stock Exchange (NYSE) and the Nasdaq, where stocks are traded. The stock market is a complex system, and it is important to understand the basics before investing in stocks.
 ===Stock Valuation===
+
 Stock valuation is the process of determining the value of a stock. It is important to understand the fundamentals of stock valuation before investing in stocks. Stock valuation is based on a variety of factors, including the company’s [[Financial Performance|financial performance]], the industry it operates in, and the overall market conditions.
 ===Stock Trading Strategies===
+
 Stock trading strategies are used by investors to maximize their returns. There are many different strategies that can be used, such as buying and holding, day trading, and swing trading. It is important to understand the risks associated with each strategy before investing in stocks.
 ===Conclusion===
+
 Stock is a popular investment that can be a great way to make money. It is important to understand the basics of stock investing, including the types of stock, stock market basics, stock valuation, and stock trading strategies. With the right knowledge and strategy, stock can be a great way to diversify your portfolio and make money

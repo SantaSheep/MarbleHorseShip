@@ -1,13 +1,19 @@
 <seo title="Financial Statement Analysis" metakeywords="analyzing financial statements,financial statement analysis,analysis financial statement,statement analysis financial" metadescription=""/>
 ===Introduction to Financial Statement Analysis===
+
 Financial statement analysis is the process of analyzing a company’s [[Financial Statements|financial statements]] in order to assess its financial health and performance. Financial statement analysis involves examining a company’s [[Income Statement|income statement]], [[Balance Sheet|balance sheet]], and [[[[Cash Flow|Cash Flow]] Statement|cash flow statement]] in order to gain insight into its financial position and performance. Financial statement analysis can be used to assess a company’s liquidity, solvency, profitability, and efficiency.
 ===Types of Financial Statements===
+
 Financial statements are documents that provide information about a company’s financial position and performance. The three main types of financial statements are the income statement, balance sheet, and cash flow statement. The income statement provides information about a company’s revenues, expenses, and profits over a given period of time. The balance sheet provides information about a company’s assets, liabilities, and equity. The cash flow statement provides information about a company’s cash inflows and outflows over a given period of time.
 ===Analyzing Financial Statements===
+
 Financial statement analysis involves examining a company’s financial statements in order to assess its financial health and performance. Financial statement analysis involves analyzing a company’s income statement, balance sheet, and cash flow statement in order to gain insight into its financial position and performance. Financial statement analysis can be used to assess a company’s liquidity, solvency, profitability, and efficiency.
 ===Interpreting Financial Ratios===
+
 Financial ratios are numerical values that are derived from a company’s financial statements. Financial ratios are used to compare a company’s performance to that of its peers or to industry averages. Financial ratios can be used to assess a company’s liquidity, solvency, profitability, and efficiency.
 ===Common Financial Ratios===
+
 Some of the most commonly used financial ratios include the [[Current Ratio|current ratio]], [[Quick Ratio|quick ratio]], debt-to-equity ratio, [[Return On Assets|return on assets]], and [[Return On Equity|return on equity]]. The current ratio is a measure of a company’s liquidity and is calculated by dividing a company’s [[Current Assets|current assets]] by its [[Current Liabilities|current liabilities]]. The quick ratio is a measure of a company’s liquidity and is calculated by dividing a company’s current assets minus its inventory by its current liabilities. The debt-to-equity ratio is a measure of a company’s financial leverage and is calculated by dividing a company’s [[Total Liabilities|total liabilities]] by its total equity. The return on assets is a measure of a company’s profitability and is calculated by dividing a company’s [[Net Income|net income]] by its total assets. The return on equity is a measure of a company’s profitability and is calculated by dividing a company’s net income by its total equity.
 ===Conclusion===
+
 Financial statement analysis is the process of analyzing a company’s financial statements in order to assess its financial health and performance. Financial s

@@ -1,13 +1,19 @@
 <seo title="Sma" metakeywords="moving average sma,sma technical analysis,moving average,calculating sma" metadescription="Simple Moving Average (SMA) is a technical analysis tool used to identify trends in financial markets."/>
 ===Introduction to SMA===
+
 Simple [[Moving Average|Moving Average]] (SMA) is a [[Technical Analysis|technical analysis]] tool used to identify trends in [[Financial Market|financial market]]s. It is a widely used indicator that is used to measure the average price of a security over a given period of time. The SMA is calculated by taking the average of the closing prices of a security over a certain number of periods. The SMA is a lagging indicator, meaning that it is based on past data and is not predictive of future price movements.
 ===Definition of SMA===
+
 The Simple Moving Average (SMA) is a technical analysis tool used to identify trends in financial markets. It is calculated by taking the average of the closing prices of a security over a certain number of periods. The SMA is a lagging indicator, meaning that it is based on past data and is not predictive of future price movements.
 ===Uses of SMA===
+
 The SMA is used to identify trends in financial markets. It is used to measure the average price of a security over a given period of time. The SMA is also used to identify support and resistance levels, as well as to identify potential buy and sell signals.
 ===Calculating SMA===
+
 The SMA is calculated by taking the average of the closing prices of a security over a certain number of periods. For example, if you wanted to calculate the 10-day SMA of a security, you would take the average of the closing prices of the security over the last 10 days.
 ===Advantages and Disadvantages of SMA===
+
 The main advantage of the SMA is that it is a simple and easy to use indicator. It is also a lagging indicator, meaning that it is based on past data and is not predictive of future price movements. The main disadvantage of the SMA is that it is a lagging indicator and is not predictive of future price movements.
 ===Conclusion===
+
 The Simple Moving Average (SMA) is a widely used technical analysis tool used to identify trends in financial markets. It is calculated by taking the average of the closing prices of a security over a certain number of periods. The SMA is a lagging indicator, meaning that it is based on past data and is not predictive of future price movements. The SMA is used to identify support and resistance levels, as well as to identify potential buy and sell signals. The main advantage of the SMA is that it is a simple and easy to use indicator, while the main disadvantage is that it is a lagging indicator and is not predictive of future price movements

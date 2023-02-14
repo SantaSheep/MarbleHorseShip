@@ -1,0 +1,20 @@
+<seo title="Vertical Analysis" metakeywords="definition vertical analysis,vertical analysis used,vertical analysis,vertical analysis allows" metadescription="Vertical analysis is a financial analysis technique used to compare different financial statements of a company over a period of time."/>
+===Introduction to Vertical Analysis===
+
+Vertical analysis is a [[Financial Analysis|financial analysis]] technique used to compare different [[Financial Statements|financial statements]] of a company over a period of time. It is a type of comparative analysis that looks at the relative size of different line items on a financial statement. Vertical analysis is also known as common-size analysis because it expresses each item on the financial statement as a percentage of a base figure. This base figure is usually the total assets or total sales of the company.
+===Definition of Vertical Analysis===
+
+Vertical analysis is a financial analysis technique used to compare different financial statements of a company over a period of time. It is a type of comparative analysis that looks at the relative size of different line items on a financial statement. Vertical analysis is also known as common-size analysis because it expresses each item on the financial statement as a percentage of a base figure. This base figure is usually the total assets or total sales of the company.
+===Uses of Vertical Analysis===
+
+Vertical analysis is used to compare the financial statements of a company over a period of time. It is also used to compare the financial statements of different companies in the same industry. Vertical analysis can be used to identify trends in a company’s [[Financial Performance|financial performance]], such as increasing or decreasing sales or expenses. It can also be used to identify potential problems in a company’s financial statements, such as an increase in liabilities or a decrease in assets.
+===Advantages of Vertical Analysis===
+
+One of the main advantages of vertical analysis is that it allows for easy comparison of different financial statements. By expressing each item on the financial statement as a percentage of a base figure, it is easy to compare the relative size of different line items. This makes it easier to identify trends in a company’s financial performance.
+
+Another advantage of vertical analysis is that it can be used to compare the financial statements of different companies in the same industry. By expressing each item on the financial statement as a percentage of a base figure, it is easy to compare the relative size of different line items across different companies. This makes it easier to identify potential problems in a company’s financial statements.
+===Disadvantages of Vertical Analysis===
+
+One of the main disadvantages of vertical analysis is that it does not take into account the absolute size of the items on the financial statement. By expressing each item on the financial statement as a percentage of a base figure, it is difficult to compare the absolute size of different line items. This can make it difficult to identify potential problems in a company’s financial statements.
+
+Another disadvantage of vertical analysis is that it does not take into account the [[Time Value Of Money|time value of money]]. By expressing each item on the financial statement as a percentage of a base figure, it is diffi

@@ -1,11 +1,16 @@
 <seo title="Servicenow" metakeywords="business model servicenow,servicenow publicly traded,introduction servicenow,servicenow servicenow cloud" metadescription="ServiceNow is a cloud-based platform that provides a suite of services to help organizations manage their IT operations."/>
 ===Introduction to Servicenow===
+
 ServiceNow is a cloud-based platform that provides a suite of services to help organizations manage their IT operations. The company was founded in 2004 and is headquartered in Santa Clara, California. ServiceNow offers a range of services, including IT service management, IT [[Operations Management|operations management]], IT [[Asset Management|asset management]], and IT security management. The company also provides a range of services for [[Customer Service|customer service]], [[Human Resources|human resources]], and other business processes. ServiceNow is a publicly traded company and is listed on the New York Stock Exchange.
 ===History of Servicenow===
+
 ServiceNow was founded in 2004 by Fred Luddy, a former executive at Peregrine Systems. The company was initially focused on providing IT service management solutions, but has since expanded its offerings to include a range of services for customer service, human resources, and other business processes. In 2012, ServiceNow went public and is now listed on the New York Stock Exchange. Since then, the company has grown rapidly and is now one of the leading providers of cloud-based services.
 ===Business Model of Servicenow===
+
 ServiceNow operates on a subscription-based business model. Customers pay a monthly or annual fee for access to the company’s services. The company also offers a range of additional services, such as consulting and training, for an additional fee. ServiceNow also offers a range of products, such as software and hardware, for customers to purchase.
 ===Financial Performance of Servicenow===
+
 ServiceNow has seen strong [[Financial Performance|financial performance]] in recent years. In 2020, the company reported revenue of $3.3 billion, a year-over-year increase of 24%. The company’s [[Net Income|net income]] for the year was $1.1 billion, a year-over-year increase of 28%. The company’s stock price has also seen strong growth, increasing from $90.00 per share in January 2020 to $280.00 per share in January 2021.
 ===Conclusion===
+
 ServiceNow is a cloud-based platform that provides a suite of services to help organizations manage their IT operations. The company has seen strong financial performance in recent years, with revenue and net income increasing year-over-year. The company’s stock price has also seen strong growth, increasing from $90.00 per share in January 2020 to $280.00 per share in January 2021. ServiceNow is a publicly traded company and is listed on the New York Stock Exchange

@@ -1,0 +1,18 @@
+<seo title="Otc" metakeywords="traders otc markets,exchanges otc markets,markets otc markets,exchange otc markets" metadescription="Over-the-counter (OTC) markets are financial markets that are not organized or regulated by a central exchange."/>
+===Introduction to OTC===
+
+Over-the-counter (OTC) markets are [[Financial Market|financial market]]s that are not organized or regulated by a central exchange. OTC markets are decentralized and are typically used for trading securities that are not listed on a formal exchange. OTC markets are also known as off-exchange trading, dealer markets, or broker markets. OTC markets are used to facilitate the trading of a wide variety of [[Financial Instrument|financial instrument]]s, including stocks, bonds, derivatives, commodities, and currencies.
+===Types of OTC Markets===
+
+OTC markets can be divided into two main categories: dealer markets and broker markets. Dealer markets are markets in which buyers and sellers are matched by a dealer or [[Market Maker|market maker]]. The dealer acts as a middleman between the buyer and seller and is responsible for setting the price of the security. Broker markets are markets in which buyers and sellers are matched by a broker. The broker acts as an intermediary between the buyer and seller and is responsible for executing the trade.
+===Advantages and Disadvantages of OTC Markets===
+
+OTC markets offer several advantages over traditional exchanges. OTC markets are more flexible than traditional exchanges, as they allow for the trading of a wide variety of financial instruments. OTC markets also provide greater liquidity than traditional exchanges, as they allow for the trading of securities that are not listed on a formal exchange. Additionally, OTC markets are less regulated than traditional exchanges, which can provide greater freedom for traders.
+
+However, OTC markets also have several disadvantages. OTC markets are less transparent than traditional exchanges, as there is no central exchange to provide pricing information. Additionally, OTC markets are more susceptible to manipulation and fraud, as there is no central authority to monitor the market. Finally, OTC markets are more expensive than traditional exchanges, as traders must pay a fee to the dealer or broker for each trade.
+===Regulatory Framework of OTC Markets===
+
+OTC markets are subject to a variety of regulations. In the United States, OTC markets are regulated by the Securities and Exchange Commission (SEC). The SEC is responsible for ensuring that OTC markets are fair and transparent. Additionally, the SEC is responsible for enforcing rules and regulations that protect investors from fraud and manipulation.
+===Conclusion===
+
+Over-the-counter (OTC) markets are financial markets that are not organized or regulated by a central exchange. OTC markets are used to facilitate the trading of a wide variety of financial instruments, including stocks, bonds, derivatives, commodities, and currencies. OTC markets can be divided into two main categories: dealer markets and broker markets. OTC markets offer several advantages over traditional exchanges, such as greater flexibility and liquidity. However, OTC markets also have several disadvantages, such as lack of transparency and susceptibility to manipulation and

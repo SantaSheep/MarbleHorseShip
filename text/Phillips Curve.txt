@@ -1,13 +1,19 @@
 <seo title="Phillips Curve" metakeywords="phillips curve economic,phillips curve important,phillips curve suggests,inflation conversely unemployment" metadescription="The Phillips curve is an economic concept that describes the relationship between inflation and unemployment.It was first proposed by economist A.W."/>
 ===Introduction to Phillipscurve===
+
 The Phillips curve is an economic concept that describes the relationship between inflation and unemployment. It was first proposed by economist A.W. Phillips in 1958 and has since become a cornerstone of macroeconomic theory. The Phillips curve suggests that there is an inverse relationship between inflation and unemployment, meaning that when one increases, the other decreases. This relationship has been used to explain the trade-off between inflation and unemployment in the short-term, and has been used to inform economic policy decisions.
 ===Historical Development of Phillipscurve===
+
 The Phillips curve was first proposed by A.W. Phillips in 1958 in a paper titled “The Relationship between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861-1957”. In this paper, Phillips examined the relationship between unemployment and wage inflation in the United Kingdom over a 96-year period. He found that there was an inverse relationship between the two, meaning that when unemployment increased, wage inflation decreased, and vice versa. This relationship became known as the Phillips curve.
 ===Theoretical Framework of Phillipscurve===
+
 The Phillips curve is based on the idea that there is a trade-off between inflation and unemployment. This trade-off is based on the idea that when unemployment is low, workers have more bargaining power and can demand higher wages, which leads to higher inflation. Conversely, when unemployment is high, workers have less bargaining power and wages remain low, leading to lower inflation. This trade-off is known as the Phillips curve.
 ===Empirical Evidence of Phillipscurve===
+
 The Phillips curve has been tested empirically in numerous studies. These studies have generally found that there is an inverse relationship between inflation and unemployment, as predicted by the Phillips curve. For example, a study by Blanchard and Summers (1986) found that a 1% increase in unemployment was associated with a 0.5% decrease in inflation. Similarly, a study by Ball and Mankiw (1994) found that a 1% increase in unemployment was associated with a 0.3% decrease in inflation.
 ===Implications of Phillipscurve===
+
 The Phillips curve has important implications for economic policy. In particular, it suggests that policymakers can use monetary and [[Fiscal Policy|fiscal policy]] to influence the trade-off between inflation and unemployment. For example, if policymakers want to reduce unemployment, they can use expansionary fiscal and [[Monetary Policy|monetary policy]] to stimulate the economy. Conversely, if policymakers want to reduce inflation, they can use contractionary fiscal and monetary policy to slow the economy.
 ===Conclusion===
+
 The Phillips curve is an important economic concept that describes the relationship between inflation and unemployment. It suggests that there is a trade-off between the two, meaning that when one increases, the other decreases. This trade-off has been tested empirical

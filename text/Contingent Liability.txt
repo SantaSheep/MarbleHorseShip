@@ -1,11 +1,16 @@
 <seo title="Contingent Liability" metakeywords="liabilities contingent liabilities,examples contingent liabilities,contingent liabilities examples,types contingent liabilities" metadescription="Contingent liability is a type of liability that is not recognized in the financial statements of a company until certain conditions are met."/>
 ===Introduction to Contingent Liability===
+
 Contingent liability is a type of liability that is not recognized in the [[Financial Statements|financial statements]] of a company until certain conditions are met. It is a potential liability that may or may not be realized depending on the outcome of a future event. Contingent liabilities are not recorded in the [[Balance Sheet|balance sheet]] of a company until they become actual liabilities. This means that the company does not recognize the liability until it is certain that the liability will be incurred.
 ===Types of Contingent Liabilities===
+
 Contingent liabilities can be divided into two main categories: legal liabilities and commercial liabilities. Legal liabilities are those that arise from legal proceedings, such as lawsuits or judgments. Commercial liabilities are those that arise from contractual obligations, such as warranties or guarantees.
 ===Accounting for Contingent Liabilities===
+
 When accounting for contingent liabilities, companies must use the accrual method of accounting. This means that the company must record the liability when it is probable that the liability will be incurred. The company must also estimate the amount of the liability and record it in the financial statements.
 ===Examples of Contingent Liabilities===
+
 Some examples of contingent liabilities include product warranties, legal proceedings, and guarantees. Product warranties are promises made by a company to repair or replace a product if it fails to meet certain standards. Legal proceedings are lawsuits or judgments that may result in a company having to pay damages or other costs. Guarantees are promises made by a company to pay a certain amount of money if a certain event occurs.
 ===Conclusion===
+
 In conclusion, contingent liabilities are potential liabilities that may or may not be realized depending on the outcome of a future event. They are not recorded in the balance sheet of a company until they become actual liabilities. Companies must use the accrual method of accounting when accounting for contingent liabilities and must estimate the amount of the liability. Examples of contingent liabilities include product warranties, legal proceedings, and guarantees

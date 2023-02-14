@@ -1,13 +1,19 @@
 <seo title="Shareholder Value Added" metakeywords="sva financial metric,value added sva,shareholder value added,shareholders sva calculated" metadescription="Shareholder Value Added (SVA) is a financial metric used to measure the value created by a company for its shareholders."/>
 ===Introduction to Shareholder Value Added===
+
 Shareholder [[Value Added|Value Added]] (SVA) is a financial metric used to measure the value created by a company for its shareholders. It is a measure of the [[Return On Investment|return on investment]] (ROI) that shareholders receive from their investments in the company. SVA is calculated by subtracting the [[Cost Of Capital|cost of capital]] from the company’s [[Operating Profit|operating profit]]. The cost of capital is the amount of money that the company must pay to borrow money or to issue equity. SVA is a useful metric for investors to evaluate the performance of a company and to compare it to other companies in the same industry.
 ===Definition of Shareholder Value Added===
+
 Shareholder Value Added (SVA) is defined as the difference between the return on investment (ROI) and the cost of capital. It is a measure of the value created by a company for its shareholders. SVA is calculated by subtracting the cost of capital from the company’s operating profit. The cost of capital is the amount of money that the company must pay to borrow money or to issue equity.
 ===Benefits of Shareholder Value Added===
+
 Shareholder Value Added (SVA) is a useful metric for investors to evaluate the performance of a company and to compare it to other companies in the same industry. It is a measure of the return on investment (ROI) that shareholders receive from their investments in the company. SVA is also a useful tool for management to assess the performance of the company and to identify areas for improvement.
 ===Calculating Shareholder Value Added===
+
 Shareholder Value Added (SVA) is calculated by subtracting the cost of capital from the company’s operating profit. The cost of capital is the amount of money that the company must pay to borrow money or to issue equity. The cost of capital can be calculated by taking the [[Weighted Average|weighted average]] cost of capital (WACC) and subtracting the company’s tax rate.
 ===Examples of Shareholder Value Added===
+
 Shareholder Value Added (SVA) can be used to compare the performance of a company to other companies in the same industry. For example, if Company A has an SVA of 10% and Company B has an SVA of 5%, then Company A is creating more value for its shareholders than Company B. SVA can also be used to compare the performance of a company over time. For example, if Company A had an SVA of 10% in 2018 and an SVA of 15% in 2019, then the company has increased its value for shareholders over the past year.
 ===Conclusion===
+
 Shareholder Value Added (SVA) is a financial metric used to measure the value created by a company for its shareholders. It is a measure of the return on investment (ROI) that shareholders receive from their investments in the company. SVA is calculated by subtracting the cost of capital from the company’s operating profit. SVA is a useful metric for investors to evaluate the performance of a company and to compare it to other companies in the same industry. It is also a useful tool for management to assess the performance of the c

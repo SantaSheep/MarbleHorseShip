@@ -1,0 +1,18 @@
+<seo title="Activity Ratio" metakeywords="activity ratio financial,activity ratio means,ratios activity ratios,activity ratio used" metadescription="Activity ratio is a financial metric used to measure the efficiency of a company’s operations.Activity ratio is also known as turnover ratio or asset turnover ratio."/>
+===Introduction to Activity Ratio===
+
+Activity ratio is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing a company’s total assets by its total sales. Activity ratio is used to measure the efficiency of a company’s operations and to compare the performance of different companies in the same industry. Activity ratio is also known as turnover ratio or [[Asset Turnover|asset turnover]] ratio.
+===Types of Activity Ratios===
+
+There are several types of activity ratios that can be used to measure the efficiency of a company’s operations. These include [[Inventory Turnover|inventory turnover]] ratio, [[Accounts Receivable|accounts receivable]] turnover ratio, [[[[Fixed Asset|Fixed Asset]] Turnover|fixed asset turnover]] ratio, and total asset turnover ratio.
+
+Inventory turnover ratio measures the number of times a company’s inventory is sold and replaced over a given period of time. Accounts [[Receivable Turnover Ratio|receivable turnover ratio]] measures the number of times a company’s accounts receivable are collected over a given period of time. Fixed asset turnover ratio measures the number of times a company’s fixed assets are used to generate sales over a given period of time. Total asset turnover ratio measures the number of times a company’s total assets are used to generate sales over a given period of time.
+===Calculating Activity Ratios===
+
+Activity ratios are calculated by dividing a company’s total assets by its total sales. For example, if a company has total assets of $100,000 and total sales of $50,000, its activity ratio would be 2.0. This means that the company’s total assets are used to generate sales twice as often as its total sales.
+===Interpreting Activity Ratios===
+
+Activity ratios can be used to compare the performance of different companies in the same industry. A higher activity ratio indicates that a company is more efficient in using its assets to generate sales. A lower activity ratio indicates that a company is less efficient in using its assets to generate sales.
+===Conclusion===
+
+Activity ratio is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing a company’s total assets by its total sales. There are several types of activity ratios that can be used to measure the efficiency of a company’s operations. Activity ratios can be used to compare the performance of different companies in the same industry. A higher activity ratio indicates that a company is more efficient in using its assets to generate sales

@@ -1,13 +1,19 @@
 <seo title="Accounting Principles" metakeywords="principles gaap accounting,gaap accounting principles,accounting principles gaap,principles gaap financial" metadescription="Accounting principles are the fundamental concepts and rules that guide the preparation of financial statements."/>
 ===Introduction to Accounting Principles===
+
 Accounting principles are the fundamental concepts and rules that guide the preparation of [[Financial Statements|financial statements]]. These principles are used to ensure that financial statements are prepared in a consistent and reliable manner. Accounting principles are based on the Generally Accepted Accounting Principles (GAAP), which are the standards and guidelines that govern the preparation of financial statements. Accounting principles are also used to ensure that financial statements are prepared in accordance with applicable laws and regulations.
 ===Overview of Generally Accepted Accounting Principles (GAAP)===
+
 Generally Accepted Accounting Principles (GAAP) are the standards and guidelines that govern the preparation of financial statements. These principles are based on the concept of [[Accrual Accounting|accrual accounting]], which is the process of recording transactions when they occur, rather than when cash is exchanged. GAAP is used to ensure that financial statements are prepared in a consistent and reliable manner. GAAP is also used to ensure that financial statements are prepared in accordance with applicable laws and regulations.
 ===Accounting Principles and Practices===
+
 Accounting principles and practices are the rules and procedures that are used to prepare financial statements. These principles and practices are based on the Generally Accepted Accounting Principles (GAAP). Accounting principles and practices are used to ensure that financial statements are prepared in a consistent and reliable manner. Accounting principles and practices are also used to ensure that financial statements are prepared in accordance with applicable laws and regulations.
 ===Financial Reporting Standards===
+
 Financial reporting standards are the standards and guidelines that govern the preparation of financial statements. These standards are based on the Generally Accepted Accounting Principles (GAAP). Financial reporting standards are used to ensure that financial statements are prepared in a consistent and reliable manner. Financial reporting standards are also used to ensure that financial statements are prepared in accordance with applicable laws and regulations.
 ===Accounting for Assets and Liabilities===
+
 Accounting for assets and liabilities is the process of recording transactions related to assets and liabilities. This process is based on the Generally Accepted Accounting Principles (GAAP). Accounting for assets and liabilities is used to ensure that financial statements are prepared in a consistent and reliable manner. Accounting for assets and liabilities is also used to ensure that financial statements are prepared in accordance with applicable laws and regulations.
 ===Accounting for Revenue and Expenses===
+
 Accounting for revenue and expenses is the process of recording transactions related to revenue and expenses. This process is based on the Generally Accepted Accounting Principles (GAAP). Accounting for revenue and 

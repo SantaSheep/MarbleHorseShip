@@ -1,0 +1,23 @@
+<seo title="Eps" metakeywords="eps financial metric,companies calculation eps,earnings ratio eps,earnings share eps" metadescription="EPS is a financial metric used to measure the profitability of a company."/>
+===Introduction to EPS===
+
+Earnings per share (EPS) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s [[Net Income|net income]] by the number of outstanding shares of common stock. EPS is a key indicator of a company’s [[Financial Performance|financial performance]] and is used by investors to evaluate the potential return on their investment.
+===Definition of EPS===
+
+Earnings per share (EPS) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s net income by the number of outstanding shares of common stock. EPS is expressed as a dollar amount per share and is used to compare the profitability of different companies.
+===Calculation of EPS===
+
+EPS is calculated by dividing the company’s net income by the number of outstanding shares of common stock. The formula for calculating EPS is:
+
+EPS = (Net Income – Preferred Dividends) / Average Outstanding Shares
+
+Net income is the total amount of money a company earns after subtracting expenses from revenue. Preferred dividends are payments made to preferred shareholders. Average outstanding shares is the average number of shares of common stock outstanding during the period.
+===Uses of EPS===
+
+EPS is used by investors to evaluate the potential return on their investment. It is also used by analysts to compare the profitability of different companies. EPS is also used to calculate the price-to-earnings ratio (P/E ratio), which is a measure of a company’s stock price relative to its earnings.
+===Advantages and Disadvantages of EPS===
+
+The main advantage of EPS is that it is a simple and straightforward measure of a company’s profitability. It is also easy to compare the EPS of different companies. The main disadvantage of EPS is that it does not take into account the company’s debt or other factors that may affect its profitability.
+===Conclusion===
+
+Earnings per share (EPS) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s net income by the number of outstanding shares of common stock. EPS is a key indicator of a company’s financial performance and is used by investors to evaluate the potential return on their investment. It is also used by analysts to compare the profitability of different companies and to calculate the price-to-earnings ratio. While EPS is a simple and straightforward measure of a company’s profitability, it does not take into account the company’s debt or other factors that may affect its profitability

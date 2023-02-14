@@ -1,11 +1,16 @@
 <seo title="Earnings Report" metakeywords="earnings report typically,earnings reports types,introduction earnings report,types earnings reports" metadescription="An earnings report is a financial document that provides information about a company's financial performance."/>
 ===Introduction to Earnings Report===
+
 An earnings report is a financial document that provides information about a company's [[Financial Performance|financial performance]]. It is typically released quarterly by publicly traded companies and is used to inform investors and other stakeholders about the company's financial health. The report includes information about the company's revenue, expenses, profits, and losses. It also provides insight into the company's financial position and future prospects.
 ===Components of an Earnings Report===
+
 An earnings report typically includes several components. These include a summary of the company's financial performance, a breakdown of the company's revenue and expenses, and a discussion of the company's financial position. The report also includes information about the company's assets and liabilities, as well as any changes in the company's financial position.
 ===Types of Earnings Reports===
+
 There are several types of earnings reports. The most common type is the quarterly earnings report, which is released every three months. Other types of earnings reports include [[Annual Report|annual report]]s, which are released once a year, and interim reports, which are released between quarterly reports.
 ===Benefits of an Earnings Report===
+
 An earnings report provides investors and other stakeholders with valuable information about a company's financial performance. It can help investors make informed decisions about whether to invest in a company or not. The report also provides insight into the company's financial position and future prospects.
 ===Conclusion===
+
 An earnings report is an important financial document that provides investors and other stakeholders with valuable information about a company's financial performance. It includes information about the company's revenue, expenses, profits, and losses, as well as its financial position and future prospects. There are several types of earnings reports, including quarterly, annual, and interim reports. The report provides investors with valuable information that can help them make informed decisions about whether to invest in a company or not

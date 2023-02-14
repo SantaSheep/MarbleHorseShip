@@ -1,0 +1,18 @@
+<seo title="T Test" metakeywords="statistical test used,test statistical,statistical test,test statistical test" metadescription="The T Test is used to determine if there is a statistically significant difference between the means of two groups."/>
+===Introduction to T Test===
+
+The T Test is a statistical test used to compare the means of two independent samples. It is used to determine if there is a [[Statistically Significant|statistically significant]] difference between the means of two groups. The T Test is a parametric test, meaning that it assumes that the data follows a [[Normal Distribution|normal distribution]]. It is also a two-tailed test, meaning that it tests for differences in both directions.
+===Types of T Tests===
+
+There are two types of T Tests: the one-sample T Test and the two-sample T Test. The one-sample T Test is used to compare the mean of a single sample to a known value. The two-sample T Test is used to compare the means of two independent samples.
+===Uses of T Tests===
+
+T Tests are used in a variety of fields, including psychology, economics, and medicine. In psychology, T Tests are used to compare the means of two groups on a particular measure. In economics, T Tests are used to compare the means of two groups on a particular economic variable. In medicine, T Tests are used to compare the means of two groups on a particular medical measure.
+===Advantages and Disadvantages of T Tests===
+
+The T Test has several advantages. It is a relatively simple test to perform and interpret. It is also a powerful test, meaning that it can detect small differences between the means of two groups. Additionally, it is a robust test, meaning that it is not affected by outliers or non-normal distributions.
+
+The T Test also has some disadvantages. It assumes that the data follows a normal distribution, which may not always be the case. Additionally, it is a two-tailed test, meaning that it tests for differences in both directions. This can lead to an increase in the Type  error rate, meaning that the test may incorrectly reject the [[Null Hypothesis|null hypothesis]].
+===Conclusion===
+
+The T Test is a statistical test used to compare the means of two independent samples. It is a parametric test, meaning that it assumes that the data follows a normal distribution. It is also a two-tailed test, meaning that it tests for differences in both directions. The T Test has several advantages, including its simplicity and power, but it also has some disadvantages, such as its assumption of normality and its increased Type  error rate

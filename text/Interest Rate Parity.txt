@@ -1,11 +1,16 @@
 <seo title="Interest Rate Parity" metakeywords="rate parity countries,parity irp economic,rate parity important,rate parity rate" metadescription=""/>
 ===Introduction to Interest Rate Parity===
+
 [[Interest Rate|Interest rate]] parity (IRP) is an economic concept that states that the difference in the interest rates between two countries should be equal to the difference in the [[Expected Return|expected return]]s of a currency pair. In other words, the interest rate differential between two countries should be equal to the expected return of a currency pair. This concept is important for investors and traders who are looking to take advantage of the differences in interest rates between two countries.
 ===Theories of Interest Rate Parity===
+
 The theory of interest rate parity is based on the idea that the expected return of a currency pair should be equal to the difference in the interest rates between two countries. This theory is based on the assumption that investors and traders will take advantage of the differences in interest rates between two countries in order to make a profit. This theory is also based on the idea that investors and traders will be able to take advantage of the differences in interest rates in order to hedge their investments.
 ===Factors Affecting Interest Rate Parity===
+
 There are several factors that can affect the interest rate parity between two countries. These factors include the level of economic activity in each country, the level of inflation in each country, the level of government intervention in each country, and the level of risk in each country. All of these factors can have an effect on the interest rate parity between two countries.
 ===Empirical Evidence of Interest Rate Parity===
+
 There have been several studies that have looked at the empirical evidence of interest rate parity. These studies have found that the interest rate parity between two countries is affected by the level of economic activity in each country, the level of inflation in each country, the level of government intervention in each country, and the level of risk in each country. These studies have also found that the interest rate parity between two countries is affected by the level of liquidity in each country.
 ===Conclusion===
+
 In conclusion, interest rate parity is an important concept for investors and traders who are looking to take advantage of the differences in interest rates between two countries. The theory of interest rate parity is based on the idea that the expected return of a currency pair should be equal to the difference in the interest rates between two countries. There are several factors that can affect the interest rate parity between two countries, including the level of economic activity in each country, the level of inflation in each country, the level of government intervention in each country, and the level of risk in each country. There have been several studies that have looked at the empirical evidence of interest rate parity, which have found that the interest rate parity between two countries is affected by the level of economic activity in each country, the level of inflation in each co

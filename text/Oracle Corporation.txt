@@ -1,13 +1,19 @@
 <seo title="Oracle Corporation" metakeywords="introduction oracle corporation,oracle corporation business,software companies oracle,industry oracle corporation" metadescription="Oracle Corporation is a multinational computer technology corporation headquartered in Redwood Shores, California."/>
 ===Introduction to Oracle Corporation===
+
 Oracle Corporation is a multinational computer technology corporation headquartered in Redwood Shores, California. Founded in 1977 by Larry Ellison, Bob Miner, and Ed Oates, Oracle is one of the world’s largest software companies. Oracle specializes in developing and marketing enterprise software products, including database management systems, cloud solutions, and enterprise resource planning (ERP) software. Oracle also provides services such as consulting, training, and support. Oracle’s products and services are used by businesses of all sizes, from small businesses to large enterprises.
 ===History of Oracle Corporation===
+
 Oracle Corporation was founded in 1977 by Larry Ellison, Bob Miner, and Ed Oates. The company was initially called Software Development Laboratories (SDL) and was focused on developing software for the nascent relational database market. In 1979, SDL changed its name to Relational Software Inc. (RSI) and released its first commercial product, Oracle Version 2. In 1982, RSI changed its name to Oracle Corporation and released Oracle Version 3. Oracle quickly became the leading database provider in the market and has since become one of the world’s largest software companies.
 ===Oracle Corporation’s Business Model===
+
 Oracle’s business model is based on providing software and services to businesses of all sizes. Oracle’s software products include database management systems, cloud solutions, and enterprise resource planning (ERP) software. Oracle also provides services such as consulting, training, and support. Oracle’s products and services are sold through a network of partners, including resellers, distributors, and system integrators. Oracle also sells its products and services directly to customers.
 ===Oracle Corporation’s Financial Performance===
+
 Oracle Corporation is a publicly traded company and its [[Financial Performance|financial performance]] is reported in its quarterly and annual [[Financial Statements|financial statements]]. Oracle’s revenue for the [[[[Fiscal Year|Fiscal Year]] End|fiscal year end]]ing May 31, 2020 was $39.5 billion, an increase of 4.3% from the previous year. Oracle’s [[Net Income|net income]] for the same period was $13.2 billion, an increase of 8.3% from the previous year. Oracle’s total assets as of May 31, 2020 were $112.3 billion, an increase of 8.2% from the previous year.
 ===Oracle Corporation’s Impact on the Technology Industry===
+
 Oracle Corporation has had a significant impact on the technology industry. Oracle’s database management systems are widely used by businesses of all sizes, from small businesses to large enterprises. Oracle’s cloud solutions are used by businesses to store and manage data in the cloud. Oracle’s enterprise resource planning (ERP) software is used by businesses to manage their operations. Oracle’s products and services have enabled businesses to become more efficient and productive.
 ===Conclusion===
+
 Oracle Corporation is a multinational computer technology corporation that specializes in developing and ma

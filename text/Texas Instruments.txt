@@ -1,11 +1,16 @@
 <seo title="Texas Instruments" metakeywords="introduction texas instruments,history texas instruments,texas instruments ti,texas instruments founded" metadescription="Texas Instruments (TI) is a global semiconductor design and manufacturing company based in Dallas, Texas."/>
 ===Introduction to Texas Instruments===
+
 Texas Instruments (TI) is a global semiconductor design and manufacturing company based in Dallas, Texas. Founded in 1930, TI is one of the world’s largest semiconductor companies and is a leader in the development of analog and embedded processing technologies. TI’s products are used in a wide range of applications, including automotive, industrial, medical, and consumer electronics. TI’s products are sold in more than 100 countries and are used in a variety of industries, including automotive, industrial, medical, and consumer electronics.
 ===History of Texas Instruments===
+
 Texas Instruments was founded in 1930 by J. Erik Jonsson and Eugene McDermott. The company was initially focused on producing electronic components for the oil and gas industry. In the 1950s, TI began to focus [[On Semiconductor|on semiconductor]] technology and developed the first commercial silicon transistor. In the 1960s, TI developed the first integrated circuit and the first single-chip microprocessor. In the 1970s, TI developed the first digital signal processor and the first single-chip calculator. In the 1980s, TI developed the first single-chip digital signal processor and the first single-chip microcontroller. In the 1990s, TI developed the first digital signal processor for cellular phones and the first single-chip digital signal processor for digital cameras.
 ===Products and Services Offered by Texas Instruments===
+
 Texas Instruments offers a wide range of products and services, including analog and embedded processing technologies, digital signal processors, microcontrollers, and application-specific integrated circuits. TI also offers a range of software and development tools, including Code Composer Studio, Code Generation Tools, and Code Composer Studio IDE. TI also provides a range of services, including design services, engineering services, and technical support.
 ===Financial Performance of Texas Instruments===
+
 Texas Instruments has a strong [[Financial Performance|financial performance]]. In 2020, TI reported revenue of $14.7 billion, up from $13.6 billion in 2019. TI’s [[Net Income|net income]] was $3.2 billion in 2020, up from $2.9 billion in 2019. TI’s [[Gross Margin|gross margin]] was 54.2% in 2020, up from 53.2% in 2019. TI’s [[Operating Margin|operating margin]] was 28.2% in 2020, up from 27.2% in 2019. TI’s [[Return On Equity|return on equity]] was 28.2% in 2020, up from 27.2% in 2019.
 ===Conclusion===
+
 Texas Instruments is a global semiconductor design and manufacturing company that has been in business for over 90 years. TI is a leader in the development of analog and embedded processing technologies and offers a wide range of products and services. TI has a strong financial performance, with revenue and net income increasing in 2020. TI’s gross margin, operating margin, and return on equity all increased in 2020. TI is well-positioned to continue to be a leader in the semiconductor industry

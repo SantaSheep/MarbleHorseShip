@@ -1,13 +1,19 @@
 <seo title="Broadcom Inc." metakeywords="broadcom business,broadcom business model,broadcom broadcom business,business model broadcom" metadescription="Broadcom Inc. designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions."/>
 ===Introduction to Broadcom Inc.===
+
 Broadcom Inc. is a global technology leader in semiconductor solutions for wired and wireless communications. The company designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions. Broadcom Inc. is headquartered in San Jose, California and has operations in more than 25 countries. The company is listed on the NASDAQ stock exchange and is a component of the S&P 500 index.
 ===History of Broadcom Inc.===
+
 Broadcom Inc. was founded in 1991 by Henry Nicholas and Henry Samueli. The company was initially focused on the development of semiconductor solutions for the cable television industry. In 1998, the company went public and began to expand its product portfolio to include solutions for the networking, storage, and wireless markets. In 2016, Broadcom Inc. acquired Brocade Communications Systems, Inc., a provider of storage networking solutions.
 ===Business Model of Broadcom Inc.===
+
 Broadcom Inc.’s business model is based on the design, development, and supply of semiconductor and infrastructure software solutions. The company’s products are used in a variety of applications, including wired and wireless communications, networking, storage, and consumer electronics. Broadcom Inc.’s customers include original equipment manufacturers, distributors, and system integrators.
 ===Financial Performance of Broadcom Inc.===
+
 Broadcom Inc.’s [[Financial Performance|financial performance]] has been strong in recent years. In the [[[[Fiscal Year|Fiscal Year]] End|fiscal year end]]ed October 31, 2020, the company reported total revenue of $21.2 billion, an increase of 8.3% compared to the prior year. [[Net Income|Net income]] for the year was $4.3 billion, an increase of 11.3% compared to the prior year. The company’s total assets as of October 31, 2020 were $37.2 billion, an increase of 8.2% compared to the prior year.
 ===Recent Developments of Broadcom Inc.===
+
 Broadcom Inc. has made several strategic acquisitions in recent years. In 2019, the company acquired CA Technologies, a provider of software solutions for the enterprise market. In 2020, the company acquired Symantec Corporation, a provider of cybersecurity solutions. In 2021, the company acquired Symantec’s enterprise security business.
 ===Conclusion===
+
 Broadcom Inc. is a global technology leader in semiconductor solutions for wired and wireless communications. The company has a strong financial performance and has made several strategic acquisitions in recent years. The company’s products are used in a variety of applications, including wired and wireless communications, networking, storage, and consumer electronics

@@ -1,13 +1,19 @@
 <seo title="Net Cash" metakeywords="net cash defined,definition net cash,calculating net cash,net cash calculated" metadescription="Net cash is a financial term that refers to the amount of cash available to a company or individual after all liabilities and expenses have been paid."/>
 ===Introduction to Net Cash===
+
 Net cash is a financial term that refers to the amount of cash available to a company or individual after all liabilities and expenses have been paid. It is an important measure of a company's financial health and is used to assess the company's ability to pay its bills and meet its obligations. Net cash is also used to evaluate the company's liquidity and its ability to generate [[Cash Flow|cash flow]].
 ===Definition of Net Cash===
+
 Net cash is defined as the amount of cash available to a company or individual after all liabilities and expenses have been paid. It is calculated by subtracting [[Total Liabilities|total liabilities]] from total assets. Net cash is also referred to as net liquidity or net [[Working Capital|working capital]].
 ===Components of Net Cash===
+
 Net cash is composed of two components: [[Current Assets|current assets]] and [[Current Liabilities|current liabilities]]. Current assets are assets that can be converted into cash within one year, such as cash, [[Accounts Receivable|accounts receivable]], and inventory. Current liabilities are obligations that must be paid within one year, such as [[Accounts Payable|accounts payable]], taxes, and wages.
 ===Calculating Net Cash===
+
 Net cash is calculated by subtracting total liabilities from total assets. The formula for calculating net cash is: Net Cash = Total Assets - Total Liabilities. For example, if a company has total assets of $100,000 and total liabilities of $50,000, then the net cash would be $50,000.
 ===Uses of Net Cash===
+
 Net cash is used to assess a company's financial health and its ability to pay its bills and meet its obligations. It is also used to evaluate the company's liquidity and its ability to generate cash flow. Net cash can also be used to determine the company's ability to invest in new projects or expand its operations.
 ===Conclusion===
+
 Net cash is an important financial term that is used to assess a company's financial health and its ability to pay its bills and meet its obligations. It is calculated by subtracting total liabilities from total assets and is composed of two components: current assets and current liabilities. Net cash is used to evaluate the company's liquidity and its ability to generate cash flow, as well as its ability to invest in new projects or expand its operations

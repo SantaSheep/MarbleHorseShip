@@ -1,13 +1,19 @@
 <seo title="General Ledger" metakeywords="general ledger important,create general ledger,creating general ledger,general ledger creating" metadescription="A general ledger is a record of all financial transactions that occur within a business."/>
 ===Introduction to General Ledger===
+
 A general ledger is a record of all financial transactions that occur within a business. It is the main accounting record of a company, and it is used to track the [[Financial Performance|financial performance]] of the business. The general ledger is the foundation of the accounting system, and it is used to create [[Financial Statements|financial statements]] and other reports. The general ledger is also used to track the assets, liabilities, and equity of the business.
 ===Components of a General Ledger===
+
 The components of a general ledger include accounts, transactions, and journals. Accounts are the individual records of each financial transaction. Transactions are the actual financial transactions that occur within the business. Journals are the records of the transactions that are used to create the financial statements.
 ===Benefits of a General Ledger===
+
 The benefits of a general ledger include providing a comprehensive view of the financial performance of the business, providing a record of all financial transactions, and providing a basis for creating financial statements. The general ledger also provides a way to track the assets, liabilities, and equity of the business.
 ===How to Create a General Ledger===
+
 Creating a general ledger is a process that involves setting up the accounts, recording the transactions, and creating the journals. The first step is to set up the accounts, which includes creating the accounts for each type of transaction. The next step is to record the transactions in the accounts. The third step is to create the journals, which are the records of the transactions.
 ===Common Mistakes to Avoid When Creating a General Ledger===
+
 When creating a general ledger, it is important to avoid common mistakes. One of the most common mistakes is not recording all of the transactions. It is also important to ensure that the accounts are set up correctly and that the transactions are recorded accurately. Additionally, it is important to ensure that the journals are created correctly and that the financial statements are accurate.
 ===Conclusion===
+
 A general ledger is an important part of the accounting system of a business. It is used to track the financial performance of the business and to create financial statements. The components of a general ledger include accounts, transactions, and journals. The benefits of a general ledger include providing a comprehensive view of the financial performance of the business and providing a basis for creating financial statements. When creating a general ledger, it is important to avoid common mistakes such as not recording all of the transactions and ensuring that the accounts and journals are set up correctly

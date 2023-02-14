@@ -1,13 +1,19 @@
 <seo title="Altman" metakeywords="altman financial metric,company altman score,altman score useful,altman score developed" metadescription="Altman is a financial metric used to measure the financial health of a company.It was developed by Edward  Altman in 1968."/>
 ===Introduction to Altman===
+
 Altman is a financial metric used to measure the financial health of a company. It was developed by Edward  Altman in 1968 and is used to assess the probability of a company going bankrupt. The Altman Z-score is a combination of five financial ratios that measure a company’s liquidity, profitability, leverage, and activity. It is used to determine the likelihood of a company defaulting on its debt obligations.
 ===History of Altman===
+
 The Altman Z-score was developed by Edward  Altman, a professor at New York University’s Stern School of Business. He developed the metric in 1968 as a way to measure the financial health of a company. The Altman Z-score is a combination of five financial ratios that measure a company’s liquidity, profitability, leverage, and activity. It is used to determine the likelihood of a company defaulting on its debt obligations.
 ===Uses of Altman===
+
 The Altman Z-score is used by investors, creditors, and analysts to assess the financial health of a company. It is used to determine the likelihood of a company defaulting on its debt obligations. The Altman Z-score is also used to identify companies that may be undervalued or overvalued. It can also be used to compare companies in the same industry.
 ===Calculating Altman===
+
 The Altman Z-score is calculated using five financial ratios: [[Working Capital|working capital]]/total assets, [[Retained Earnings|retained earnings]]/total assets, earnings before interest and taxes/total assets, market value of equity/[[Total Liabilities|total liabilities]], and sales/total assets. The ratios are weighted and then added together to calculate the Altman Z-score. The score is then used to determine the likelihood of a company defaulting on its debt obligations.
 ===Advantages and Disadvantages of Altman===
+
 The Altman Z-score is a useful tool for assessing the financial health of a company. It is easy to calculate and can be used to compare companies in the same industry. However, the Altman Z-score does not take into account other factors such as the company’s management or its competitive position. Additionally, the Altman Z-score does not take into account the company’s future prospects.
 ===Conclusion===
+
 The Altman Z-score is a useful tool for assessing the financial health of a company. It is a combination of five financial ratios that measure a company’s liquidity, profitability, leverage, and activity. The Altman Z-score is used by investors, creditors, and analysts to assess the financial health of a company and determine the likelihood of a company defaulting on its debt obligations. However, the Altman Z-score does not take into account other factors such as the company’s management or its competitive position

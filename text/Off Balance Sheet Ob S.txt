@@ -1,0 +1,21 @@
+<seo title="Off Balance Sheet Ob S" metakeywords="balance sheet obs,obs balance sheet,examples balance sheet,obs items financial" metadescription="Off balance sheet (OBS) items are financial instruments or transactions that are not reported on a company’s balance sheet."/>
+===Introduction to Off Balance Sheet Obs===
+
+Off [[Balance Sheet|balance sheet]] (OBS) items are [[Financial Instrument|financial instrument]]s or transactions that are not reported on a company’s balance sheet. OBS items are typically used to reduce a company’s reported liabilities and assets, and can be used to manage a company’s [[Financial Risk|financial risk]]. OBS items are often used to manage a company’s debt-to-equity ratio, which is a measure of a company’s financial leverage. OBS items can also be used to manage a company’s liquidity, which is the ability of a company to meet its short-term financial obligations.
+===Definition of Off Balance Sheet Obs===
+
+Off balance sheet (OBS) items are financial instruments or transactions that are not reported on a company’s balance sheet. OBS items are typically used to reduce a company’s reported liabilities and assets, and can be used to manage a company’s financial risk. OBS items are often used to manage a company’s debt-to-equity ratio, which is a measure of a company’s financial leverage. OBS items can also be used to manage a company’s liquidity, which is the ability of a company to meet its short-term financial obligations.
+===Examples of Off Balance Sheet Obs===
+
+Common examples of OBS items include [[Operating Lease|operating lease]]s, special purpose entities (SPEs), and derivatives. Operating leases are agreements between a company and a lessor that allow the company to use an asset without having to record it on its balance sheet. SPEs are entities that are created to hold assets or liabilities that are not reported on the company’s balance sheet. Derivatives are financial instruments that are used to manage a company’s exposure to financial risk.
+===Advantages and Disadvantages of Off Balance Sheet Obs===
+
+The primary advantage of OBS items is that they can be used to reduce a company’s reported liabilities and assets, which can help to improve a company’s financial ratios. OBS items can also be used to manage a company’s financial risk, which can help to protect the company from potential losses.
+
+The primary disadvantage of OBS items is that they can be used to manipulate a company’s [[Financial Statements|financial statements]], which can lead to inaccurate financial reporting. OBS items can also be difficult to value, which can lead to inaccurate financial reporting.
+===Regulatory Requirements for Off Balance Sheet Obs===
+
+The use of OBS items is regulated by the Financial [[Accounting Standard|Accounting Standard]]s Board (FASB). The FASB has established rules and regulations that must be followed when using OBS items. These rules and regulations are designed to ensure that OBS items are used in a manner that is consistent with Generally Accepted [[Accounting Principles|Accounting Principles]] (GAAP).
+===Conclusion===
+
+Off balance sheet (OBS) items are financial instruments or transactions that are not reported on a company’s balance sheet. OBS items are typically used to reduce a company’s reported liabilities and assets, and can be used to manage a company’s financial risk. OBS items can be used to manage a company’s de

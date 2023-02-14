@@ -1,11 +1,16 @@
 <seo title="Financial Performance" metakeywords="financial performance measuring,financial performance measured,measure financial performance,measuring financial performance" metadescription="Financial performance is a measure of the financial health of a company or organization.Financial performance can be divided into two main categories: short-term and long-term."/>
 ===Introduction to Financial Performance===
+
 Financial performance is a measure of the financial health of a company or organization. It is used to assess the overall financial health of a company or organization and to compare it to other companies or organizations. Financial performance is typically measured by analyzing [[Financial Statements|financial statements]] such as [[Income Statement|income statement]]s, [[Balance Sheet|balance sheet]]s, and [[[[Cash Flow|Cash Flow]] Statement|cash flow statement]]s. Financial performance can also be measured by analyzing ratios such as [[Return On Assets|return on assets]], [[Return On Equity|return on equity]], and debt-to-equity ratio.
 ===Types of Financial Performance===
+
 Financial performance can be divided into two main categories: short-term and long-term. Short-term financial performance is typically measured over a period of one year or less. It is used to assess the current financial health of a company or organization. Long-term financial performance is typically measured over a period of more than one year. It is used to assess the long-term financial health of a company or organization.
 ===Factors Influencing Financial Performance===
+
 There are several factors that can influence a company or organization’s financial performance. These factors include economic conditions, industry trends, competitive environment, management decisions, and financial policies. Economic conditions can have a significant impact on a company or organization’s financial performance. Industry trends can also have an impact on a company or organization’s financial performance. The competitive environment can also have an impact on a company or organization’s financial performance. Management decisions and financial policies can also have an impact on a company or organization’s financial performance.
 ===Measuring Financial Performance===
+
 Financial performance can be measured in several ways. Financial statements such as income statements, balance sheets, and cash flow statements can be used to measure financial performance. Ratios such as return on assets, return on equity, and debt-to-equity ratio can also be used to measure financial performance. Other measures such as [[Market Capitalization|market capitalization]], stock price, and earnings per share can also be used to measure financial performance.
 ===Conclusion===
+
 Financial performance is an important measure of the financial health of a company or organization. It is used to assess the overall financial health of a company or organization and to compare it to other companies or organizations. Financial performance can be divided into two main categories: short-term and long-term. There are several factors that can influence a company or organization’s financial performance. Financial performance can be measured in several ways including financial statements, ratios, and other measures

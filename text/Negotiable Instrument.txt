@@ -1,11 +1,16 @@
 <seo title="Negotiable Instrument" metakeywords="negotiable instrument law,negotiable instruments governed,negotiable instruments legally,introduction negotiable instruments" metadescription="A negotiable instrument is a document that serves as a written agreement between two parties."/>
 ===Introduction to Negotiable Instruments===
+
 A negotiable instrument is a document that serves as a written agreement between two parties, typically involving the transfer of money or goods. Negotiable instruments are used in a variety of financial transactions, including loans, investments, and payments. Negotiable instruments are legally binding documents that can be transferred from one party to another, and they are recognized by law as having a certain value.
 ===Types of Negotiable Instruments===
+
 There are several different types of negotiable instruments, including [[Promissory Note|promissory note]]s, bills of exchange, checks, and certificates of deposit. Promissory notes are written promises to pay a certain amount of money at a specified time. Bills of exchange are written orders from one party to another to pay a certain amount of money at a specified time. Checks are written orders from one party to another to pay a certain amount of money on demand. Certificates of deposit are written promises to pay a certain amount of money at a specified time, usually with interest.
 ===Negotiable Instrument Law===
+
 Negotiable instruments are governed by a variety of laws, including the Uniform Commercial Code (UCC). The UCC is a set of laws that govern the sale and transfer of goods and services. The UCC also governs the transfer of negotiable instruments, including the rights and obligations of the parties involved. In addition, the UCC sets forth the rules for the enforcement of negotiable instruments, including the rights of the parties to sue for breach of contract.
 ===Negotiable Instrument Process===
+
 The process of transferring a negotiable instrument involves several steps. First, the parties must agree to the terms of the instrument. This includes the amount of money to be transferred, the date of transfer, and any other terms that may be included in the instrument. Once the terms are agreed upon, the instrument must be signed by both parties. The instrument is then transferred to the other party, who must accept the instrument in order for it to be valid.
 ===Conclusion===
+
 Negotiable instruments are legally binding documents that are used in a variety of financial transactions. There are several different types of negotiable instruments, including promissory notes, bills of exchange, checks, and certificates of deposit. Negotiable instruments are governed by the Uniform Commercial Code, which sets forth the rules for the enforcement of negotiable instruments. The process of transferring a negotiable instrument involves several steps, including agreement to the terms of the instrument, signing of the instrument, and acceptance of the instrument by the other party

@@ -1,13 +1,19 @@
 <seo title="Gross National Income Gni" metakeywords="gdp gni measures,national income gni,gni gdp gross,income gni measure" metadescription="Gross National Income (GNI) is a measure of the total income earned by a nation’s citizens and businesses, including income from abroad."/>
 ===Introduction to Gross National Income (GNI)===
+
 Gross National Income (GNI) is a measure of the total income earned by a nation’s citizens and businesses, including income from abroad. It is a measure of the total economic output of a country, and is used to compare the economic performance of different countries. GNI is also used to measure the economic progress of a country over time. GNI is calculated by adding up the total income earned by citizens and businesses, including income from abroad, and subtracting any taxes paid to foreign governments.
 ===Components of GNI===
+
 GNI is composed of four main components: wages and salaries, profits, interest, and dividends. Wages and salaries are the income earned by workers for their labor. Profits are the income earned by businesses from their operations. Interest is the income earned by lenders from lending money. Dividends are the income earned by shareholders from their investments.
 ===GNI and GDP===
+
 Gross National Income (GNI) is closely related to Gross Domestic Product (GDP). GDP is the total value of all goods and services produced within a country’s borders. GNI is the total income earned by a nation’s citizens and businesses, including income from abroad. GDP and GNI are both measures of a country’s economic output, but they measure different things. GDP measures the total value of goods and services produced, while GNI measures the total income earned by citizens and businesses.
 ===GNI and National Accounts===
+
 GNI is an important component of a country’s national accounts. National accounts are a set of economic indicators that measure the performance of a country’s economy. GNI is used to measure the total income earned by a nation’s citizens and businesses, including income from abroad. It is also used to measure the economic progress of a country over time.
 ===GNI and International Comparisons===
+
 GNI is used to compare the economic performance of different countries. GNI is a measure of the total income earned by a nation’s citizens and businesses, including income from abroad. It is used to compare the economic performance of different countries by taking into account the different levels of economic development and the different levels of taxation.
 ===Conclusion===
+
 Gross National Income (GNI) is a measure of the total income earned by a nation’s citizens and businesses, including income from abroad. It is used to compare the economic performance of different countries and to measure the economic progress of a country over time. GNI is composed of four main components: wages and salaries, profits, interest, and dividends. GNI is an important component of a country’s national accounts and is used to measure the total income earned by a nation’s citizens and businesses, including income from abroad

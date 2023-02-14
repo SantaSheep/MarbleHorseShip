@@ -1,11 +1,16 @@
 <seo title="Escrow" metakeywords="escrow commonly used,escrow main benefits,benefits escrow provides,introduction escrow" metadescription=""/>
 ===Introduction to Escrow===
+
 Escrow is a financial term that refers to a contractual arrangement in which a third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are met as overseen by the escrow company. Escrow is commonly used in [[Real Estate|real estate]] transactions, but it can also be used in other types of transactions such as online purchases, business mergers, and even international trade.
 ===Types of Escrow===
+
 There are two main types of escrow: real estate escrow and commercial escrow. Real estate escrow is used in the purchase and sale of real estate, and it involves the buyer and seller agreeing to the terms of the sale and placing the funds in an escrow account. The escrow company then holds the funds until all of the conditions of the sale are met, at which point the funds are released to the seller. Commercial escrow is used in other types of transactions, such as business mergers, online purchases, and international trade. In these cases, the escrow company holds the funds until all of the conditions of the agreement are met, and then releases the funds to the appropriate parties.
 ===Benefits of Escrow===
+
 One of the main benefits of escrow is that it provides a secure way to transfer funds between two parties. By placing the funds in an escrow account, both parties can be assured that the funds will be released only when all of the conditions of the agreement are met. This helps to protect both parties from fraud or other issues that could arise during the transaction. Additionally, escrow can help to speed up the process of completing a transaction, as the escrow company can act as a neutral third party to ensure that all of the conditions of the agreement are met in a timely manner.
 ===Drawbacks of Escrow===
+
 One of the drawbacks of escrow is that it can be expensive. The escrow company will typically charge a fee for their services, which can add to the overall cost of the transaction. Additionally, if the transaction is not completed for any reason, the escrow company may not be able to return the funds to the appropriate parties, which can lead to further complications.
 ===Conclusion===
+
 Escrow is a financial term that refers to a contractual arrangement in which a third party holds and regulates payment of the funds required for two parties involved in a given transaction. It is commonly used in real estate transactions, but it can also be used in other types of transactions such as online purchases, business mergers, and even international trade. Escrow can provide a secure way to transfer funds between two parties, but it can also be expensive and may not be able to return the funds if the transaction is not completed

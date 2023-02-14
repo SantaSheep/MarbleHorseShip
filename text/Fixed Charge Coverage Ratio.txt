@@ -1,0 +1,20 @@
+<seo title="Fixed Charge Coverage Ratio" metakeywords="fixed charge coverage,coverage ratio fccr,fixed charges ebitda,fccr financial ratio" metadescription="The Fixed Charge Coverage Ratio (FCCR) is a financial ratio used to measure a company’s ability to meet its fixed financial obligations."/>
+===Introduction to Fixed Charge Coverage Ratio===
+
+The Fixed Charge Coverage Ratio (FCCR) is a financial ratio used to measure a company’s ability to meet its fixed financial obligations. It is calculated by dividing a company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its fixed charges. The fixed charges include interest payments, lease payments, and other debt payments. The higher the ratio, the better the company’s ability to meet its fixed financial obligations.
+===Calculation of Fixed Charge Coverage Ratio===
+
+The Fixed Charge Coverage Ratio is calculated by dividing a company’s EBITDA by its fixed charges. The formula is as follows:
+
+FCCR = EBITDA / Fixed Charges
+
+The EBITDA is calculated by subtracting a company’s operating expenses from its total revenue. The fixed charges include interest payments, lease payments, and other debt payments.
+===Uses of Fixed Charge Coverage Ratio===
+
+The Fixed Charge Coverage Ratio is used to measure a company’s ability to meet its fixed financial obligations. It is a useful tool for investors and creditors to assess the financial health of a company. It is also used by lenders to determine whether a company is able to repay its loans.
+===Limitations of Fixed Charge Coverage Ratio===
+
+The Fixed Charge Coverage Ratio is a useful tool for assessing a company’s financial health, but it has some limitations. It does not take into account the company’s [[Cash Flow|cash flow]], which is an important factor in determining a company’s ability to meet its financial obligations. Additionally, the ratio does not take into account the company’s current debt levels, which can affect its ability to meet its financial obligations.
+===Conclusion===
+
+The Fixed Charge Coverage Ratio is a useful tool for assessing a company’s ability to meet its fixed financial obligations. It is calculated by dividing a company’s EBITDA by its fixed charges. The ratio is used by investors and creditors to assess the financial health of a company, and by lenders to determine whether a company is able to repay its loans. However, the ratio has some limitations, as it does not take into account the company’s cash flow or current debt levels

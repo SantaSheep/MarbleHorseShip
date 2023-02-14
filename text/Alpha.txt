@@ -1,13 +1,19 @@
 <seo title="Alpha" metakeywords="portfolios calculating alpha,alpha portfolio means,portfolio definition alpha,alpha measure portfolio" metadescription="Alpha is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index."/>
 ===Introduction to Alpha===
+
 Alpha is a measure of a portfolio’s performance relative to a benchmark index. It is used to measure the [[Excess Return|excess return]] of a portfolio over the return of a benchmark index. Alpha is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index. Alpha is an important measure of a portfolio manager’s skill in selecting investments and managing a portfolio.
 ===Definition of Alpha===
+
 Alpha is a measure of a portfolio’s performance relative to a benchmark index. It is calculated by subtracting the return of the benchmark index from the return of the portfolio. The result is the excess return of the portfolio over the return of the benchmark index. Alpha is expressed as a percentage and is a measure of the active return of a portfolio.
 ===Uses of Alpha===
+
 Alpha is used to measure the performance of a portfolio relative to a benchmark index. It is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index. Alpha is used to measure the skill of a portfolio manager in selecting investments and managing a portfolio. It is also used to compare the performance of different portfolios.
 ===Calculating Alpha===
+
 Alpha is calculated by subtracting the return of the benchmark index from the return of the portfolio. The result is the excess return of the portfolio over the return of the benchmark index. Alpha is expressed as a percentage and is a measure of the active return of a portfolio.
 ===Examples of Alpha===
+
 For example, if a portfolio has a return of 10% and the benchmark index has a return of 8%, the alpha of the portfolio is 2%. This means that the portfolio has outperformed the benchmark index by 2%. Another example is if a portfolio has a return of 5% and the benchmark index has a return of 10%, the alpha of the portfolio is -5%. This means that the portfolio has underperformed the benchmark index by 5%.
 ===Conclusion===
+
 In conclusion, alpha is a measure of a portfolio’s performance relative to a benchmark index. It is used to measure the excess return of a portfolio over the return of a benchmark index. Alpha is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index. Alpha is calculated by subtracting the return of the benchmark index from the return of the portfolio. Alpha is an important measure of a portfolio manager’s skill in selecting investments and managing a portfolio

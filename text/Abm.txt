@@ -1,13 +1,19 @@
 <seo title="Abm" metakeywords="based management abm,abm management approach,introduction abm activity,management abm management" metadescription="Activity-based management (ABM) is a management approach that focuses on activities within an organization."/>
 ===Introduction to Abm===
+
 Activity-based management (ABM) is a management approach that focuses on activities within an organization to improve the efficiency and effectiveness of the organization. It is a process that helps organizations identify, measure, and manage activities that are essential to the success of the organization. ABM is used to identify and eliminate non-value-added activities, improve the efficiency of existing activities, and create new activities that will add value to the organization. ABM is a comprehensive approach to managing an organization's resources and activities to achieve its goals.
 ===History of Abm===
+
 Activity-based management was first developed in the 1980s by Robert S. Kaplan and David P. Norton. They developed the concept of ABM as a way to improve the efficiency and effectiveness of organizations. The concept of ABM was based on the idea that organizations should focus on activities rather than outputs. This was a radical departure from traditional management approaches, which focused on outputs rather than activities. ABM was initially used in manufacturing and service organizations, but it has since been applied to a wide range of organizations.
 ===Types of Abm===
+
 There are three main types of ABM: strategic, operational, and tactical. Strategic ABM focuses on the long-term goals of the organization and how to achieve them. Operational ABM focuses on the day-to-day activities of the organization and how to improve them. Tactical ABM focuses on the short-term goals of the organization and how to achieve them.
 ===Benefits of Abm===
+
 ABM has many benefits for organizations. It can help organizations identify and eliminate non-value-added activities, improve the efficiency of existing activities, and create new activities that will add value to the organization. ABM can also help organizations identify and reduce costs, improve [[Customer Service|customer service]], and increase profits. Additionally, ABM can help organizations become more agile and responsive to changing market conditions.
 ===Challenges of Abm===
+
 Although ABM has many benefits, it also has some challenges. One of the main challenges is that it requires a significant amount of time and resources to implement. Additionally, ABM requires a high level of commitment from all levels of the organization. Finally, ABM can be difficult to measure and evaluate, which can make it difficult to determine if it is having a positive impact on the organization.
 ===Conclusion===
+
 Activity-based management is a comprehensive approach to managing an organization's resources and activities to achieve its goals. It can help organizations identify and eliminate non-value-added activities, improve the efficiency of existing activities, and create new activities that will add value to the organization. However, ABM requires a significant amount of time and resources to implement and can be difficult to measure and evaluate. Despite these challenges, ABM can be a powerfu

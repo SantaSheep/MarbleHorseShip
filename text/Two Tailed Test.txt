@@ -1,11 +1,16 @@
 <seo title="Two Tailed Test" metakeywords="types tailed tests,tailed tests types,advantages tailed tests,disadvantages tailed test" metadescription="A two-tailed test is a statistical test used to determine whether a given set of data is significantly different from a given population mean."/>
 ===Introduction to Two Tailed Test===
+
 A two-tailed test is a statistical test used to determine whether a given set of data is significantly different from a given population mean. It is a type of hypothesis test that is used to compare two means or proportions. The two-tailed test is used to determine if the difference between two means or proportions is [[Statistically Significant|statistically significant]]. It is also used to test for differences in the variance of two populations. The two-tailed test is a powerful tool for testing hypotheses and making decisions about data.
 ===Types of Two Tailed Tests===
+
 There are two types of two-tailed tests: the one-tailed test and the two-tailed test. The one-tailed test is used when the researcher is looking for a difference in one direction only. For example, if the researcher is looking to see if a drug is more effective than a placebo, the one-tailed test would be used. The two-tailed test is used when the researcher is looking for a difference in both directions. For example, if the researcher is looking to see if a drug is more effective than a placebo, the two-tailed test would be used.
 ===Advantages of Two Tailed Tests===
+
 The two-tailed test has several advantages over other types of tests. First, it is more powerful than the one-tailed test. This means that it is more likely to detect a difference between two means or proportions. Second, it is more flexible than the one-tailed test. This means that it can be used to test for differences in both directions. Finally, it is more reliable than the one-tailed test. This means that it is less likely to produce false positives or false negatives.
 ===Disadvantages of Two Tailed Tests===
+
 The two-tailed test also has some disadvantages. First, it is more difficult to interpret than the one-tailed test. This means that it can be difficult to determine whether the difference between two means or proportions is statistically significant. Second, it is more likely to produce false positives or false negatives than the one-tailed test. This means that it is more likely to produce results that are not statistically significant. Finally, it is more expensive than the one-tailed test. This means that it can be more costly to use the two-tailed test.
 ===Conclusion===
+
 The two-tailed test is a powerful tool for testing hypotheses and making decisions about data. It is more powerful than the one-tailed test and more flexible than the one-tailed test. However, it is also more difficult to interpret and more likely to produce false positives or false negatives. It is also more expensive than the one-tailed test. Therefore, it is important to consider the advantages and disadvantages of the two-tailed test before using it

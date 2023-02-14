@@ -1,11 +1,16 @@
 <seo title="Eva" metakeywords="eva financial performance,eva economic value,business eva measure,value shareholders eva" metadescription="Economic Value Added (EVA) is a financial performance metric used to measure the economic value created by a company."/>
 ===Introduction to EVA===
+
 Economic [[Value Added|Value Added]] (EVA) is a [[Financial Performance|financial performance]] metric used to measure the economic value created by a company. It is a measure of a company’s financial performance that takes into account the [[Cost Of Capital|cost of capital]] and the amount of capital invested in the business. EVA is a measure of the amount of value created by a company in excess of the cost of capital. It is a measure of the company’s ability to generate returns above the cost of capital.
 ===EVA Calculation===
+
 EVA is calculated by subtracting the cost of capital from the company’s [[Operating Profit|operating profit]]. The cost of capital is the amount of money that the company must pay to borrow money or to raise equity capital. The operating profit is the amount of money that the company earns from its operations. The difference between the two is the EVA.
 ===EVA Benefits===
+
 EVA is a useful tool for measuring the financial performance of a company. It takes into account the cost of capital and the amount of capital invested in the business. It is a measure of the company’s ability to generate returns above the cost of capital. It is also a measure of the company’s ability to create value for its shareholders.
 ===EVA Limitations===
+
 EVA is not a perfect measure of a company’s financial performance. It does not take into account the company’s risk profile or the quality of its management. It also does not take into account the company’s competitive position or its ability to generate future [[Cash Flow|cash flow]]s.
 ===Conclusion===
+
 EVA is a useful tool for measuring the financial performance of a company. It takes into account the cost of capital and the amount of capital invested in the business. It is a measure of the company’s ability to generate returns above the cost of capital. However, it is not a perfect measure of a company’s financial performance and does not take into account the company’s risk profile or the quality of its management

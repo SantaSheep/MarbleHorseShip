@@ -1,11 +1,16 @@
 <seo title="Non Monetary Assets" metakeywords="valuation nonmonetary assets,nonmonetary assets valuation,intangible nonmonetary assets,introduction nonmonetary assets" metadescription="Nonmonetary assets are assets that are not denominated in a currency, such as stocks, bonds, and other financial instruments."/>
 ===Introduction to Nonmonetary Assets===
+
 Nonmonetary assets are assets that are not denominated in a currency, such as stocks, bonds, and other [[Financial Instrument|financial instrument]]s. They are also known as non-cash assets, and they are used to measure the value of a company or organization. Nonmonetary assets are important for businesses and organizations because they provide a way to measure the value of the company or organization without having to rely on cash. Nonmonetary assets can also be used to provide liquidity to a company or organization, as they can be sold or exchanged for cash.
 ===Types of Nonmonetary Assets===
+
 Nonmonetary assets can be divided into two main categories: tangible and intangible. Tangible nonmonetary assets are physical assets such as land, buildings, equipment, and inventory. Intangible nonmonetary assets are non-physical assets such as patents, copyrights, trademarks, and goodwill.
 ===Accounting for Nonmonetary Assets===
+
 Nonmonetary assets are accounted for in the same way as other assets. They are recorded at their [[Historical Cost|historical cost]], which is the amount paid for the asset at the time of purchase. The value of the asset is then adjusted for any changes in market value or other factors. Nonmonetary assets are also subject to depreciation, which is the process of reducing the value of an asset over time due to wear and tear or obsolescence.
 ===Valuation of Nonmonetary Assets===
+
 The valuation of nonmonetary assets is a complex process that requires the use of specialized techniques. The most common method of valuation is the discounted [[Cash Flow|cash flow]] (DCF) method, which takes into account the expected future cash flows of the asset. Other methods of valuation include the market approach, which uses the market value of similar assets, and the cost approach, which uses the cost of replacing the asset.
 ===Conclusion===
+
 Nonmonetary assets are an important part of any business or organization. They provide a way to measure the value of the company or organization without having to rely on cash. Nonmonetary assets can also be used to provide liquidity to a company or organization, as they can be sold or exchanged for cash. The valuation of nonmonetary assets is a complex process that requires the use of specialized techniques. Understanding the different types of nonmonetary assets and how to account for and value them is essential for any business or organization

@@ -1,13 +1,19 @@
 <seo title="E Commerce" metakeywords="introduction ecommerce ecommerce,ecommerce electronic commerce,introduction ecommerce,different types ecommerce" metadescription="Ecommerce, or electronic commerce, is the buying and selling of goods and services over the internet."/>
 ===Introduction to Ecommerce===
+
 Ecommerce, or electronic commerce, is the buying and selling of goods and services over the internet. It is a form of business that has grown rapidly in recent years, and is now a major part of the global economy. Ecommerce is used by businesses of all sizes, from small mom-and-pop shops to large [[Multinational Corporation|multinational corporation]]s. It is also used by consumers to purchase goods and services from online retailers.
 ===History of Ecommerce===
+
 The history of ecommerce dates back to the early days of the internet. In the early 1990s, the first online stores began to appear, allowing consumers to purchase goods and services from the comfort of their own homes. Since then, ecommerce has grown exponentially, with more and more businesses and consumers taking advantage of the convenience and cost savings that ecommerce offers.
 ===Types of Ecommerce===
+
 There are several different types of ecommerce. Business-to-consumer (B2C) ecommerce involves the sale of goods and services from businesses to consumers. Business-to-business (B2B) ecommerce involves the sale of goods and services from one business to another. Consumer-to-consumer (C2C) ecommerce involves the sale of goods and services from one consumer to another. Finally, there is mobile ecommerce, which involves the sale of goods and services through mobile devices such as smartphones and tablets.
 ===Benefits of Ecommerce===
+
 Ecommerce offers a number of benefits to businesses and consumers alike. For businesses, ecommerce can reduce costs associated with traditional brick-and-mortar stores, such as rent, utilities, and staffing. It can also increase sales by making it easier for customers to find and purchase products. For consumers, ecommerce offers convenience, as they can shop from the comfort of their own homes. It also offers a wider selection of products, as well as lower prices due to the lack of overhead costs associated with traditional stores.
 ===Challenges of Ecommerce===
+
 Despite the many benefits of ecommerce, there are also some challenges that businesses and consumers must face. For businesses, the biggest challenge is the risk of fraud and security breaches. As more and more transactions are conducted online, the risk of fraud increases. Additionally, businesses must also ensure that their websites are secure and that customer data is protected. For consumers, the biggest challenge is the lack of [[Customer Service|customer service]]. When shopping online, customers cannot speak directly to a salesperson or get help with their purchases.
 ===Conclusion===
+
 Ecommerce is a rapidly growing form of business that offers a number of benefits to businesses and consumers alike. It can reduce costs for businesses and offer convenience and a wider selection of products for consumers. However, there are also some challenges associated with ecommerce, such as the risk of fraud and the lack of customer service. Despite these challenges, ecommerce is likely to continue to grow in the f

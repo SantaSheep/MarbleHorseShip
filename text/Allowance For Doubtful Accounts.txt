@@ -1,0 +1,22 @@
+<seo title="Allowance For Doubtful Accounts" metakeywords="doubtful accounts afda,accounts afda accounting,accounts estimating afda,accounting treatment afda" metadescription=""/>
+===Introduction to Allowance for Doubtful Accounts===
+
+Allowance for Doubtful Accounts (AFDA) is an accounting term used to describe the amount of money set aside to cover potential losses from customer accounts that may not be collected. This allowance is used to reduce the amount of [[Accounts Receivable|accounts receivable]] reported on the [[Balance Sheet|balance sheet]]. AFDA is also known as [[Bad Debt|bad debt]] allowance, allowance for bad debts, or allowance for uncollectible accounts.
+===Accounting Treatment of Allowance for Doubtful Accounts===
+
+The accounting treatment of AFDA is based on the matching principle, which states that expenses should be matched with the revenue they generate. When a company records a sale, it also records an accounts receivable. When the customer pays, the accounts receivable is removed from the balance sheet. If the customer does not pay, the accounts receivable remains on the balance sheet. To account for this, the company sets aside an AFDA to cover the potential losses from uncollectible accounts.
+
+The AFDA is recorded as a contra-asse[[T Account|t account]], which means it is reported as a negative balance on the balance sheet. The AFDA is then subtracted from the accounts receivable balance to arrive at the net accounts receivable balance. This net balance is the amount that the company expects to collect from its customers.
+===Estimating the Allowance for Doubtful Accounts===
+
+Estimating the AFDA is an important part of the accounting process. Companies typically use one of two methods to estimate the AFDA: the percentage of sales method or the aging of accounts receivable method.
+
+The percentage of sales method involves estimating the AFDA as a percentage of total sales. This method is based on the company’s historical experience with bad debts. The aging of accounts receivable method involves estimating the AFDA based on the age of the accounts receivable. This method is based on the assumption that the longer an account is outstanding, the more likely it is to become uncollectible.
+===Advantages and Disadvantages of Allowance for Doubtful Accounts===
+
+The primary advantage of AFDA is that it allows companies to accurately report their accounts receivable balance. By setting aside an AFDA, companies can ensure that their accounts receivable balance is not overstated. This helps to ensure that the company’s [[Financial Statements|financial statements]] are accurate and reliable.
+
+The primary disadvantage of AFDA is that it can be difficult to estimate accurately. If the AFDA is too low, the company’s accounts receivable balance will be overstated. If the AFDA is too high, the company’s profits will be reduced.
+===Conclusion===
+
+Allowance for Doubtful Accounts is an important accounting term used to describe the amount of money set aside to cover potential losses from customer accounts that may not be collected. The AFDA is recorded as a contra-asset account and is used to reduce the amount of accounts receivable reported on the balance sheet. Companies typically use one of two meth

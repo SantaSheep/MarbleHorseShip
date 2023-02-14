@@ -1,13 +1,19 @@
 <seo title="Multiple" metakeywords="market multiples,market multiples used,multiples used finance,financial metrics multiple" metadescription="Multiple is a term used in finance to describe a ratio or measure of a company’s value relative to its earnings or other financial metrics."/>
 ===Introduction to Multiple===
+
 Multiple is a term used in finance to describe a ratio or measure of a company’s value relative to its earnings or other financial metrics. It is used to compare the value of a company to its peers or to the market as a whole. Multiples are used to assess the relative value of a company and can be used to make investment decisions.
 ===Definition of Multiple===
+
 A multiple is a ratio or measure of a company’s value relative to its earnings or other financial metrics. It is calculated by dividing the company’s [[Market Capitalization|market capitalization]] or [[Enterprise Value|enterprise value]] by its earnings or other financial metrics. The multiple is used to compare the value of a company to its peers or to the market as a whole.
 ===Types of Multiples===
+
 There are several types of multiples used in finance. The most common are the price-to-earnings (P/E) ratio, the price-to-sales (P/S) ratio, the price-to-book (P/B) ratio, the enterprise value-to-EBITDA (EV/EBITDA) ratio, and the price-to-[[Cash Flow|cash flow]] (P/CF) ratio. Each of these multiples is used to compare the value of a company to its peers or to the market as a whole.
 ===Uses of Multiples===
+
 Multiples are used to assess the relative value of a company and can be used to make investment decisions. They can be used to compare the value of a company to its peers or to the market as a whole. Multiples can also be used to identify potential takeover targets, as companies with lower multiples may be seen as undervalued and attractive targets for acquisition.
 ===Limitations of Multiples===
+
 Multiples are useful tools for assessing the relative value of a company, but they have their limitations. Multiples do not take into account the company’s future prospects or potential risks. They also do not take into account the company’s competitive position or its ability to generate future cash flows. As such, multiples should be used in conjunction with other [[Financial Analysis|financial analysis]] tools to make informed investment decisions.
 ===Conclusion===
+
 Multiple is a term used in finance to describe a ratio or measure of a company’s value relative to its earnings or other financial metrics. There are several types of multiples used in finance, such as the price-to-earnings (P/E) ratio, the price-to-sales (P/S) ratio, the price-to-book (P/B) ratio, the enterprise value-to-EBITDA (EV/EBITDA) ratio, and the price-to-cash flow (P/CF) ratio. Multiples are used to assess the relative value of a company and can be used to make investment decisions. However, multiples have their limitations and should be used in conjunction with other financial analysis tools to make informed investment decisions

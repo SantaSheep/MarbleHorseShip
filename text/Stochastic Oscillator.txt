@@ -1,0 +1,26 @@
+<seo title="Stochastic Oscillator" metakeywords="applications stochastic oscillator,stochastic oscillator used,oscillator technical indicator,stochastic oscillator technical" metadescription="The Stochastic Oscillator is a technical indicator used in the analysis of financial markets."/>
+===Introduction to Stochastic Oscillator===
+
+The Stochastic Oscillator is a technical indicator used in the analysis of [[Financial Market|financial market]]s. It is used to measure the momentum of price movements and to identify potential overbought and oversold conditions. The Stochastic Oscillator was developed by George Lane in the 1950s and is one of the most widely used technical indicators in the world.
+===History of Stochastic Oscillator===
+
+The Stochastic Oscillator was developed by George Lane in the 1950s. Lane was a technical analyst who believed that the price of a security was influenced by the emotions of traders. He developed the Stochastic Oscillator to measure the momentum of price movements and to identify potential overbought and oversold conditions. The Stochastic Oscillator has since become one of the most widely used technical indicators in the world.
+===How to Calculate Stochastic Oscillator===
+
+The Stochastic Oscillator is calculated using the following formula:
+
+%K = (Current Close - Lowest Low)/(Highest High - Lowest Low) * 100
+
+The %K is then smoothed using a [[Moving Average|moving average]] to create the % line.
+===Interpretation of Stochastic Oscillator===
+
+The Stochastic Oscillator is used to measure the momentum of price movements and to identify potential overbought and oversold conditions. When the %K line crosses above the % line, it is a signal that the security is becoming overbought and may be due for a pullback. Conversely, when the %K line crosses below the % line, it is a signal that the security is becoming oversold and may be due for a rally.
+===Applications of Stochastic Oscillator===
+
+The Stochastic Oscillator is used by traders to identify potential entry and exit points in the market. It can also be used to identify potential trend reversals and to confirm existing trends.
+===Limitations of Stochastic Oscillator===
+
+The Stochastic Oscillator is not a perfect indicator and can produce false signals. It is also subject to whipsaws, which can lead to losses if the trader is not careful.
+===Conclusion===
+
+The Stochastic Oscillator is a widely used technical indicator that is used to measure the momentum of price movements and to identify potential overbought and oversold conditions. It can be used to identify potential entry and exit points in the market, as well as to confirm existing trends. However, it is not a perfect indicator and can produce false signals. As such, it is important for traders to use the Stochastic Oscillator in conjunction with other technical indicators and to use [[Risk Management|risk management]] techniques to protect their capital

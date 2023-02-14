@@ -1,11 +1,16 @@
 <seo title="Operating Leverage" metakeywords="leverage operating leverage,disadvantages operating leverage,introduction operating leverage,operating leverage" metadescription="Operating leverage is a financial term used to describe the degree to which a company’s operations are leveraged, or financed, by debt."/>
 ===Introduction to Operating Leverage===
+
 Operating leverage is a financial term used to describe the degree to which a company’s operations are leveraged, or financed, by debt. Operating leverage is a measure of how much a company’s profits are affected by changes in its [[Operating Cost|operating cost]]s. It is calculated by dividing a company’s total operating costs by its total sales. The higher the operating leverage, the more sensitive a company’s profits are to changes in its operating costs.
 ===Types of Operating Leverage===
+
 There are two types of operating leverage: fixed operating leverage and variable operating leverage. Fixed operating leverage is the degree to which a company’s operating costs are fixed, meaning that they do not change with changes in sales. Variable operating leverage is the degree to which a company’s operating costs are variable, meaning that they do change with changes in sales.
 ===Calculating Operating Leverage===
+
 Operating leverage can be calculated by dividing a company’s total operating costs by its total sales. The higher the operating leverage, the more sensitive a company’s profits are to changes in its operating costs.
 ===Advantages and Disadvantages of Operating Leverage===
+
 The main advantage of operating leverage is that it allows a company to increase its profits by increasing its sales without having to increase its operating costs. This can be beneficial for companies that are looking to increase their profits without having to invest in additional resources. However, the downside of operating leverage is that it can also increase a company’s risk. If a company’s sales decrease, its profits will also decrease, which can lead to financial difficulties.
 ===Conclusion===
+
 Operating leverage is a financial term used to describe the degree to which a company’s operations are leveraged, or financed, by debt. It is calculated by dividing a company’s total operating costs by its total sales. Operating leverage can be beneficial for companies that are looking to increase their profits without having to invest in additional resources. However, it can also increase a company’s risk if its sales decrease

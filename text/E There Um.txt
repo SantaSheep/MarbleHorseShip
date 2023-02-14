@@ -1,17 +1,25 @@
 <seo title="E There Um" metakeywords="introduction ethereum,introduction ethereum ethereum,ethereum mining,mining ethereum" metadescription="Ethereum is a decentralized platform that runs smart contracts.It is powered by a global network of computers, called nodes, that are connected to each other."/>
 ===Introduction to Ethereum===
+
 Ethereum is a decentralized platform that runs [[Smart Contracts|smart contracts]]: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. Ethereum is a public blockchain-based distributed computing platform, featuring smart contract functionality. It provides a decentralized virtual machine, the Ethereum Virtual Machine (EVM), which can execute scripts using an international network of public nodes. Ethereum also provides a cryptocurrency token called "ether", which can be transferred between accounts and used to compensate participant nodes for computations performed.
 ===History of Ethereum===
+
 Ethereum was proposed in late 2013 by Vitalik Buterin, a cryptocurrency researcher and programmer. Development was funded by an online crowdsale that took place between July and August 2014. The system went live on 30 July 2015, with 11.9 million coins "premined" for the crowdsale. This accounts for about 13 percent of the total circulating supply.
 ===Ethereum Network===
+
 The Ethereum network is powered by a global network of computers, called nodes, that are connected to each other. Each node runs the Ethereum software and has a copy of the entire blockchain, which contains a record of all the transactions that have ever been processed. The nodes are responsible for validating and relaying transactions, and for maintaining the consensus rules of the Ethereum network.
 ===Ethereum Mining===
+
 Ethereum mining is the process of using computing power to verify transactions on the Ethereum blockchain and to add new blocks to the blockchain. Miners are rewarded with ether for each block they successfully mine. Ethereum mining is done using specialized hardware called ASICs (Application-Specific Integrated Circuits).
 ===Ethereum Wallets===
+
 Ethereum wallets are software programs that store your private keys and allow you to interact with the Ethereum blockchain. They come in a variety of forms, including desktop, mobile, web, and hardware wallets. Each type of wallet has its own set of features and security measures, so itâ€™s important to choose the right one for your needs.
 ===Ethereum Smart Contracts===
+
 Ethereum smart contracts are self-executing contracts written in code that run on the Ethereum blockchain. They are used to facilitate, verify, and enforce the negotiation or performance of a contract. Smart contracts are immutable, meaning they cannot be changed once they are deployed to the blockchain.
 ===Ethereum Price and Market===
+
 The price of Ethereum is determined by the supply and demand of the cryptocurrency on the open market. Ethereum is traded on a variety of cryptocurrency exchanges, and its price can be affected by a number of factors, including news events, government regulations, and market sentiment.
 ===Conclusion===
+
 In conclusion, Ethereum is a decentralized platform that runs smart contracts and provides a cryptocurrency token called "ether

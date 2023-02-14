@@ -1,13 +1,19 @@
 <seo title="Quart Ile" metakeywords="quartiles used measure,quartiles quartiles used,quartile statistical measure,quartiles useful" metadescription="Quartiles are a type of statistical measure used to divide a set of data into four equal parts."/>
 ===Introduction to Quartiles===
+
 Quartiles are a type of statistical measure used to divide a set of data into four equal parts. Quartiles are used to measure the spread of a data set and to compare different sets of data. Quartiles are also used to identify outliers in a data set. Quartiles are a useful tool for financial analysts, as they can be used to identify trends in a data set and to compare different sets of data.
 ===Definition of Quartiles===
+
 A quartile is a statistical measure that divides a set of data into four equal parts. The first quartile (Q1) is the value that divides the lowest 25% of the data from the highest 75%. The second quartile (Q2) is the median of the data set, which is the value that divides the data set into two equal parts. The third quartile (Q3) is the value that divides the highest 25% of the data from the lowest 75%. The fourth quartile (Q4) is the highest value in the data set.
 ===Uses of Quartiles===
+
 Quartiles are used to measure the spread of a data set and to compare different sets of data. Quartiles can be used to identify outliers in a data set, as values that are outside of the quartiles are considered outliers. Quartiles can also be used to identify trends in a data set, as values that are close to the quartiles are considered to be part of the trend.
 ===Calculating Quartiles===
+
 Quartiles can be calculated by first sorting the data set in ascending order. The first quartile (Q1) is then calculated by finding the median of the lower half of the data set. The second quartile (Q2) is the median of the entire data set. The third quartile (Q3) is calculated by finding the median of the upper half of the data set. The fourth quartile (Q4) is the highest value in the data set.
 ===Examples of Quartiles===
+
 For example, consider a data set of 10 numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. The first quartile (Q1) is the median of the lower half of the data set, which is 3. The second quartile (Q2) is the median of the entire data set, which is 5. The third quartile (Q3) is the median of the upper half of the data set, which is 7. The fourth quartile (Q4) is the highest value in the data set, which is 10.
 ===Conclusion===
+
 In conclusion, quartiles are a type of statistical measure used to divide a set of data into four equal parts. Quartiles are used to measure the spread of a data set and to compare different sets of data. Quartiles can also be used to identify outliers in a data set and to identify trends in a data set. Quartiles can be calculated by first sorting the data set in ascending order and then finding the median of the lower and upper halves of the data set

@@ -1,0 +1,18 @@
+<seo title="Amortization Schedule" metakeywords="amortization schedules amortization,amortization schedules,schedules amortization schedules,schedule amortization schedule" metadescription="An amortization schedule is a table that outlines the periodic payments made on a loan or other type of debt."/>
+===Introduction to Amortization Schedule===
+
+An amortization schedule is a table that outlines the periodic payments made on a loan or other type of debt. It shows the amount of principal and interest paid each period, as well as the remaining balance of the loan. An amortization schedule is typically used to calculate the repayment of a loan over a period of time. It is also used to determine the amount of interest paid on a loan over its lifetime.
+===Types of Amortization Schedules===
+
+There are two main types of amortization schedules: fixed and adjustable. A fixed amortization schedule is one in which the payments remain the same throughout the life of the loan. An adjustable amortization schedule is one in which the payments can change over time.
+===Calculating an Amortization Schedule===
+
+An amortization schedule can be calculated using a variety of methods. The most common method is to use a loan calculator. This calculator will take into account the loan amount, [[Interest Rate|interest rate]], and loan term to calculate the periodic payments. It will also calculate the total amount of interest paid over the life of the loan.
+===Advantages and Disadvantages of Amortization Schedules===
+
+Amortization schedules can be beneficial for both borrowers and lenders. For borrowers, an amortization schedule can help them plan their budget and make sure they are able to make their payments on time. For lenders, an amortization schedule can help them track the progress of the loan and ensure that they are receiving the payments they are owed.
+
+However, there are some drawbacks to amortization schedules. For example, if the interest rate on the loan changes, the payments may need to be adjusted. Additionally, if the borrower is unable to make the payments, the lender may be forced to take legal action to collect the debt.
+===Conclusion===
+
+An amortization schedule is a useful tool for both borrowers and lenders. It can help borrowers plan their budget and make sure they are able to make their payments on time. For lenders, an amortization schedule can help them track the progress of the loan and ensure that they are receiving the payments they are owed. However, there are some drawbacks to amortization schedules, such as the potential for changes in the interest rate or the need for legal action if the borrower is unable to make the payments

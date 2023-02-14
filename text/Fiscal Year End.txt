@@ -1,11 +1,16 @@
 <seo title="Fiscal Year End" metakeywords="end fiscal year,fiscal year end,year end fiscal,statements end fiscal" metadescription="Fiscal year end (FYE) is an important concept in accounting and finance."/>
 ===Introduction to Fiscal Year End===
+
 [[Fiscal Year|Fiscal year]] end (FYE) is an important concept in accounting and finance. It is the date at which a company's [[Financial Statements|financial statements]] are prepared and the end of the company's fiscal year. The fiscal year end is used to determine the company's [[Financial Performance|financial performance]] for the year and to calculate taxes. It is also used to compare the company's performance to other companies in the same industry.
 ===Definition of Fiscal Year End===
+
 Fiscal year end is the date at which a company's financial statements are prepared and the end of the company's fiscal year. It is typically the last day of the company's fiscal year, but it can also be the last day of the month or the last day of the quarter. The fiscal year end is used to determine the company's financial performance for the year and to calculate taxes.
 ===Accounting Implications of Fiscal Year End===
+
 The fiscal year end has important implications for accounting. Companies must prepare their financial statements at the end of the fiscal year, which includes the [[Balance Sheet|balance sheet]], [[Income Statement|income statement]], and statement of [[Cash Flow|cash flow]]s. These statements are used to determine the company's financial performance for the year and to compare the company's performance to other companies in the same industry.
 ===Tax Implications of Fiscal Year End===
+
 The fiscal year end also has important implications for taxes. Companies must calculate their taxes at the end of the fiscal year, which includes [[Income Tax|income tax]]es, sales taxes, and other taxes. The taxes are based on the company's financial performance for the year and must be paid by the due date.
 ===Conclusion===
+
 Fiscal year end is an important concept in accounting and finance. It is the date at which a company's financial statements are prepared and the end of the company's fiscal year. The fiscal year end is used to determine the company's financial performance for the year and to calculate taxes. It is also used to compare the company's performance to other companies in the same industry. The fiscal year end has important implications for accounting and taxes, and companies must be aware of these implications when preparing their financial statements and calculating their taxes

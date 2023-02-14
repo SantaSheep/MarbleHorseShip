@@ -1,11 +1,16 @@
 <seo title="Stop Limit Order" metakeywords="stop limit orders,disadvantages stop limit,advantages stop limit,orders stop limit" metadescription="A stop limit order is a type of order used in the financial markets to buy or sell a security at a specified price or better."/>
 ===Introduction to Stop Limit Orders===
+
 A stop [[Limit Order|limit order]] is a type of order used in the [[Financial Market|financial market]]s to buy or sell a security at a specified price or better. It combines the features of a stop order, which triggers a market order when a certain price is reached, and a limit order, which only executes at a specified price or better. Stop limit orders are used to limit losses or protect profits on a security.
 ===Advantages of Stop Limit Orders===
+
 Stop limit orders offer investors several advantages. First, they allow investors to set a maximum price they are willing to pay for a security. This helps to protect investors from paying too much for a security. Second, stop limit orders can be used to limit losses on a security. By setting a stop limit order, investors can ensure that they will not lose more than a certain amount on a security. Finally, stop limit orders can be used to protect profits on a security. By setting a stop limit order, investors can ensure that they will not sell a security for less than a certain amount.
 ===Disadvantages of Stop Limit Orders===
+
 Stop limit orders also have several disadvantages. First, they may not be filled if the security does not reach the specified price. This means that investors may not be able to buy or sell the security at the desired price. Second, stop limit orders may be filled at a price worse than the specified price. This means that investors may end up paying more or receiving less than they had hoped for. Finally, stop limit orders may be subject to slippage, which is the difference between the expected price and the actual price at which the order is filled.
 ===How to Place a Stop Limit Order===
+
 To place a stop limit order, investors must first decide on the price at which they want to buy or sell the security. This is known as the limit price. They must then decide on the price at which they want the order to be triggered. This is known as the stop price. Once these two prices have been determined, investors can place the order with their broker.
 ===Conclusion===
+
 Stop limit orders are a type of order used in the financial markets to buy or sell a security at a specified price or better. They offer investors several advantages, such as the ability to limit losses and protect profits, but they also have several disadvantages, such as the possibility of not being filled or being filled at a worse price than expected. To place a stop limit order, investors must first decide on the limit price and the stop price, and then place the order with their broker

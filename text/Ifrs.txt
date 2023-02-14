@@ -1,13 +1,19 @@
 <seo title="Ifrs" metakeywords="reporting standards ifrs,ifrs financial reporting,companies use ifrs,financial performance ifrs" metadescription="IFRS are used by companies in more than 120 countries around the world.The standards are designed to provide a consistent and transparent framework for financial reporting."/>
 ===Introduction to IFRS===
+
 International Financial Reporting Standards (IFRS) are a set of [[Accounting Standard|accounting standard]]s developed by the International Accounting Standards Board (IASB) to provide a common language for businesses to report their [[Financial Performance|financial performance]]. IFRS are used by companies in more than 120 countries around the world, including the European Union, Australia, Canada, India, Japan, and South Africa. The standards are designed to provide a consistent and transparent framework for financial reporting, allowing investors and other stakeholders to make informed decisions.
 ===History of IFRS===
+
 The IASB was established in 2001 as a successor to the International Accounting Standards Committee (IASC). The IASC was formed in 1973 to develop a set of international accounting standards that could be used by companies around the world. The IASC issued its first set of standards in 1989, and these standards were revised and updated over the years. In 2001, the IASB was established to take over the responsibility of developing and maintaining the standards.
 ===Adoption of IFRS===
+
 The adoption of IFRS has been a gradual process. In 2005, the European Union adopted IFRS as its official accounting standards, and many other countries have followed suit. In the United States, the Securities and Exchange Commission (SEC) has allowed companies to use IFRS for their financial reporting since 2007. The SEC has also proposed a roadmap for the full adoption of IFRS in the United States by 2020.
 ===Benefits of IFRS===
+
 The adoption of IFRS has several benefits. First, it provides a common language for financial reporting, allowing investors and other stakeholders to make informed decisions. Second, it reduces the cost of preparing [[Financial Statements|financial statements]], as companies no longer need to prepare multiple sets of financial statements for different countries. Third, it increases the comparability of financial statements, as companies are required to follow the same set of standards. Finally, it increases the transparency of financial reporting, as companies are required to disclose more information about their financial performance.
 ===Challenges of IFRS===
+
 Despite the benefits of IFRS, there are also some challenges associated with its adoption. First, the cost of implementing IFRS can be significant, as companies need to invest in training and software to ensure compliance. Second, the standards can be complex and difficult to understand, making it difficult for companies to comply with them. Third, the standards are constantly changing, making it difficult for companies to keep up with the latest developments. Finally, the standards are not always applied consistently, making it difficult to compare financial statements across different companies.
 ===Conclusion===
+
 In conclusion, IFRS provide a common language for financial reporting, allowing investors and other stakeholders to make informed decisions. The adoption of IFRS has several benefits, inc

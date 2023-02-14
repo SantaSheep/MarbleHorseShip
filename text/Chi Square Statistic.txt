@@ -1,15 +1,22 @@
 <seo title="Chi Square Statistic" metakeywords="introduction chi square,chi square statistic,applications chi square,calculating chi square" metadescription="The chi-square statistic is a widely used statistical tool that is used to test the relationship between two variables."/>
 ===Introduction to Chi Square Statistic===
+
 The chi-square statistic is a widely used statistical tool that is used to test the relationship between two variables. It is a measure of the difference between observed and expected frequencies in a given sample. The chi-square statistic is used to determine if there is a [[Statistically Significant|statistically significant]] difference between two variables. It is also used to test the independence of two variables.
 ===Definition of Chi Square Statistic===
+
 The chi-square statistic is a measure of the difference between observed and expected frequencies in a given sample. It is calculated by subtracting the expected frequency from the observed frequency and then squaring the result. The chi-square statistic is then calculated by summing the squared differences for all the categories in the sample.
 ===Applications of Chi Square Statistic===
+
 The chi-square statistic is used to test the relationship between two variables. It is used to determine if there is a statistically significant difference between two variables. It is also used to test the independence of two variables. It can be used to test the goodness of fit of a model to a set of data. It can also be used to test the homogeneity of a population.
 ===Calculating Chi Square Statistic===
+
 The chi-square statistic is calculated by subtracting the expected frequency from the observed frequency and then squaring the result. The chi-square statistic is then calculated by summing the squared differences for all the categories in the sample.
 ===Interpreting Chi Square Statistic===
+
 The chi-square statistic is used to determine if there is a statistically significant difference between two variables. The chi-square statistic is calculated by subtracting the expected frequency from the observed frequency and then squaring the result. The chi-square statistic is then calculated by summing the squared differences for all the categories in the sample. The chi-square statistic is then compared to a critical value to determine if the difference between the observed and expected frequencies is statistically significant.
 ===Limitations of Chi Square Statistic===
+
 The chi-square statistic is limited in that it is only applicable to categorical data. It is also limited in that it assumes that the data is normally distributed. Additionally, the chi-square statistic is sensitive to sample size, so it is important to ensure that the sample size is large enough to be meaningful.
 ===Conclusion===
+
 The chi-square statistic is a widely used statistical tool that is used to test the relationship between two variables. It is a measure of the difference between observed and expected frequencies in a given sample. The chi-square statistic is used to determine if there is a statistically significant difference between two variables. It is also used to test the independence of two variables. However, it is limited in that it is only applicable to categorical data and assumes that the data is norma

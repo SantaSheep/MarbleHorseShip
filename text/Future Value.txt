@@ -1,11 +1,16 @@
 <seo title="Future Value" metakeywords="introduction future value,future value,factors future value,future value fv" metadescription="Future value (FV) is a financial concept that refers to the value of an asset or cash flow at a future date."/>
 ===Introduction to Future Value===
+
 Future value (FV) is a financial concept that refers to the value of an asset or [[Cash Flow|cash flow]] at a future date. It is used to estimate the potential return on an investment or to calculate the amount of money that will be needed to meet a future financial goal. Future value is calculated by taking the [[Present Value|present value]] of an asset or cash flow and adjusting it for the [[Time Value Of Money|time value of money]], inflation, and other factors.
 ===Calculating Future Value===
+
 The formula for calculating future value is: FV = PV x (1 + r)^n, where PV is the present value, r is the [[Rate Of Return|rate of return]], and n is the number of periods. The rate of return can be the [[Interest Rate|interest rate]], the rate of inflation, or the rate of appreciation of an asset. The number of periods is the number of years or months that the investment will be held.
 ===Factors Affecting Future Value===
+
 There are several factors that can affect the future value of an asset or cash flow. These include the rate of return, the rate of inflation, the rate of appreciation of an asset, and the length of time the investment is held. The rate of return is the rate of interest or return that an investor can expect to earn on their investment. The rate of inflation is the rate at which prices for goods and services increase over time. The rate of appreciation of an asset is the rate at which the value of an asset increases over time. The length of time the investment is held is also important, as the longer the investment is held, the more time there is for the rate of return, inflation, and appreciation to affect the future value.
 ===Applications of Future Value===
+
 Future value is used in a variety of financial applications. It can be used to estimate the potential return on an investment, to calculate the amount of money that will be needed to meet a future financial goal, or to compare the potential returns of different investments. It can also be used to determine the amount of money that will be needed to pay off a loan or to calculate the amount of money that will be needed to fund a retirement plan.
 ===Conclusion===
+
 Future value is an important concept in finance that is used to estimate the potential return on an investment or to calculate the amount of money that will be needed to meet a future financial goal. It is calculated by taking the present value of an asset or cash flow and adjusting it for the time value of money, inflation, and other factors. Future value is used in a variety of financial applications, such as estimating the potential return on an investment, calculating the amount of money that will be needed to meet a future financial goal, or comparing the potential returns of different investments

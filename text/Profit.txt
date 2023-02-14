@@ -1,13 +1,19 @@
 <seo title="Profit" metakeywords="profit defined difference,profit defined,profit profit defined,definition profit" metadescription="Profit is defined as the difference between the total revenue of a business and the total expenses of the business.Profit is also known as net income or net profit."/>
 ===Introduction to Profit===
+
 Profit is a financial term that is used to describe the amount of money that a business earns after subtracting all of its expenses. It is an important concept in business and economics, as it is used to measure the success of a business. Profit is also used to determine the value of a business, as it is a measure of the company's ability to generate income. Profit is also used to determine the amount of taxes that a business must pay.
 ===Definition of Profit===
+
 Profit is defined as the difference between the total revenue of a business and the total expenses of the business. It is the amount of money that a business earns after subtracting all of its expenses. Profit is also known as [[Net Income|net income]] or net profit.
 ===Components of Profit===
+
 Profit is composed of two components: [[Gross Profit|gross profit]] and net profit. Gross profit is the total revenue of a business minus the cost of goods sold. Net profit is the total revenue of a business minus all of its expenses, including taxes, interest, and other costs.
 ===Types of Profit===
+
 There are two types of profit: [[Operating Profit|operating profit]] and non-operating profit. Operating profit is the amount of money that a business earns from its core operations. Non-operating profit is the amount of money that a business earns from activities that are not related to its core operations.
 ===Calculating Profit===
+
 Profit can be calculated by subtracting the total expenses of a business from its total revenue. This calculation can be done on a monthly, quarterly, or annual basis. It is important to note that profit is not the same as [[Cash Flow|cash flow]], as cash flow is the amount of money that a business has available to spend.
 ===Conclusion===
+
 In conclusion, profit is an important concept in business and economics. It is used to measure the success of a business and to determine the value of a business. Profit is composed of two components: gross profit and net profit. There are two types of profit: operating profit and non-operating profit. Profit can be calculated by subtracting the total expenses of a business from its total revenue

@@ -1,0 +1,20 @@
+<seo title="Preference Shares" metakeywords="introduction preference shares,stock preference shares,preference shares preference,preference shares drawbacks" metadescription="Preference shares, also known as preferred stock, are a type of security that provides certain rights and privileges to the holder."/>
+===Introduction to Preference Shares===
+
+Preference shares, also known as [[Preferred Stock|preferred stock]], are a type of security that provides certain rights and privileges to the holder. Preference shares are a hybrid between common stock and debt, as they provide the holder with a fixed dividend and priority in the event of liquidation, but do not have voting rights like common stock. Preference shares are typically issued by companies to raise capital and are often used as a form of long-term financing.
+===Types of Preference Shares===
+
+There are several different types of preference shares, each with its own set of rights and privileges. The most common types of preference shares are cumulative preference shares, non-cumulative preference shares, participating preference shares, and convertible preference shares.
+
+Cumulative preference shares are those that entitle the holder to receive a fixed dividend each year, and if the dividend is not paid in any given year, the unpaid amount accumulates and must be paid in the future. Non-cumulative preference shares do not accumulate unpaid dividends, and the holder is only entitled to receive the fixed dividend in the year it is declared. Participating preference shares entitle the holder to receive a fixed dividend, as well as a portion of any additional profits the company may make. Convertible preference shares can be converted into common stock at the holderâ€™s discretion.
+===Advantages and Disadvantages of Preference Shares===
+
+Preference shares offer several advantages to both the issuer and the holder. For the issuer, preference shares provide a source of long-term financing that does not require the company to take on additional debt. For the holder, preference shares provide a fixed dividend and priority in the event of liquidation.
+
+However, preference shares also have some drawbacks. For the issuer, preference shares can be expensive to issue and may require the company to pay a higher dividend than it would with other forms of financing. For the holder, preference shares do not provide voting rights, and the dividend is not guaranteed.
+===Taxation of Preference Shares===
+
+The taxation of preference shares depends on the type of preference shares and the jurisdiction in which they are issued. Generally, the dividends paid on preference shares are taxed as ordinary income, while the [[Capital Gain|capital gain]]s from the sale of preference shares are taxed as capital gains.
+===Conclusion===
+
+Preference shares are a type of security that provide the holder with a fixed dividend and priority in the event of liquidation. There are several different types of preference shares, each with its own set of rights and privileges. Preference shares offer several advantages to both the issuer and the holder, but also have some drawbacks. The taxation of preference shares depends on the type of preference shares and the jurisdiction in which they are issued

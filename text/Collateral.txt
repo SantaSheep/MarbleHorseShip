@@ -1,11 +1,16 @@
 <seo title="Collateral" metakeywords="collateral provides lenders,financial instruments collateral,collateral provides borrowers,collateral types collateral" metadescription="Collateral is a form of asset pledged by a borrower to a lender as a guarantee of repayment of a loan."/>
 ===Introduction to Collateral===
+
 Collateral is a form of security used by lenders to protect themselves from potential losses in the event of a borrower’s default. It is a form of asset that is pledged by a borrower to a lender as a guarantee of repayment of a loan. Collateral can be any type of asset, such as cash, [[Real Estate|real estate]], stocks, bonds, or other [[Financial Instrument|financial instrument]]s. The lender holds the collateral until the loan is repaid in full. If the borrower fails to repay the loan, the lender can seize the collateral and use it to cover the loan amount.
 ===Types of Collateral===
+
 There are several types of collateral that can be used to secure a loan. Cash is the most common form of collateral, as it is easy to liquidate and can be used to cover the loan amount in the event of a default. Real estate is another common form of collateral, as it is a valuable asset that can be used to secure a loan. Stocks, bonds, and other financial instruments can also be used as collateral.
 ===Benefits of Collateral===
+
 Collateral provides lenders with a measure of protection against potential losses in the event of a borrower’s default. It also allows lenders to offer lower [[Interest Rate|interest rate]]s to borrowers, as they are less likely to suffer losses if the borrower defaults. Collateral also provides borrowers with access to funds that they may not otherwise be able to obtain.
 ===Risks of Collateral===
+
 While collateral can provide lenders with a measure of protection, it also carries certain risks. If the borrower defaults on the loan, the lender may not be able to recover the full amount of the loan from the collateral. Additionally, if the value of the collateral decreases, the lender may not be able to recover the full amount of the loan.
 ===Conclusion===
+
 Collateral is a form of security used by lenders to protect themselves from potential losses in the event of a borrower’s default. It can be any type of asset, such as cash, real estate, stocks, bonds, or other financial instruments. Collateral provides lenders with a measure of protection against potential losses, but it also carries certain risks. It is important for borrowers and lenders to understand the risks associated with collateral before entering into a loan agreement

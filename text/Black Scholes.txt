@@ -1,0 +1,22 @@
+<seo title="Black Scholes" metakeywords="blackscholes model developed,options blackscholes model,blackscholes model known,blackscholes model" metadescription="The Blackscholes model is a mathematical model used to price options.It was developed by Fischer Black, Myron Scholes, and Robert Merton in 1973."/>
+===Introduction to Blackscholes===
+
+The Blackscholes model, also known as the Black-Scholes-[[Merton Model|Merton model]], is a mathematical model used to price options. It was developed by Fischer Black, Myron Scholes, and Robert Merton in 1973 and is widely used in the financial industry. The model is used to calculate the theoretical value of a call or [[Put Option|put option]], taking into account the current price of the underlying asset, the [[Strike Price|strike price]], the time to expiration, the volatility of the underlying asset, and the risk-free [[Rate Of Return|rate of return]]. The Blackscholes model is a cornerstone of modern finance and is used by traders, investors, and [[Financial Institution|financial institution]]s to price options and other derivatives.
+===History of Blackscholes===
+
+The Blackscholes model was developed by Fischer Black, Myron Scholes, and Robert Merton in 1973. The model was the result of a collaboration between the three economists, who sought to develop a model that could accurately price options. The model was based on the work of Louis Bachelier, who developed the first mathematical model for pricing options in 1900. The Blackscholes model was the first to incorporate the concept of volatility, which is a key factor in option pricing. The model was revolutionary at the time and has since become the standard for pricing options.
+===Blackscholes Model===
+
+The Blackscholes model is a mathematical model used to price options. The model takes into account the current price of the underlying asset, the strike price, the time to expiration, the volatility of the underlying asset, and the risk-free rate of return. The model is based on the assumption that the underlying asset follows a log[[Normal Distribution|normal distribution]], which means that the price of the asset follows a normal distribution over time. The model also assumes that the underlying asset does not pay dividends and that the option is European-style, meaning that it can only be exercised at expiration.
+===Blackscholes Formula===
+
+The Blackscholes formula is used to calculate the theoretical value of a call or put option. The formula takes into account the current price of the underlying asset, the strike price, the time to expiration, the volatility of the underlying asset, and the risk-free rate of return. The formula is as follows:
+
+[[Call Option|Call Option]] Value = S * N(d1) -  * e^(-rT) * N(d2)
+
+Put Option Value =  * e^(-rT) * N(-d2) - S * N(-d1)
+
+Where S is the current price of the underlying asset,  is the strike price, T is the time to expiration, r is the risk-free rate of return, and N(x) is the cumulative normal distribution function.
+===Applications of Blackscholes===
+
+The Blackscholes model is widely used in the financial industry. The model is used by traders, investors, and financial institutions to price options and other derivatives. The model is also used to calculate the implied volatility of an option, which is the volatility that is implied by the current market price of the option. The model is also used to calculate the delta of an option,

@@ -1,13 +1,19 @@
 <seo title="Covered Call" metakeywords="covered calls,types covered calls,coveredcall covered options,coveredcall covered strategy" metadescription="A covered call is an options strategy that involves the simultaneous purchase of a stock and the sale of a call option on the same stock."/>
 ===Introduction to Coveredcall===
+
 A covered call is an options strategy that involves the simultaneous purchase of a stock and the sale of a [[Call Option|call option]] on the same stock. The strategy is used to generate income from the stock while limiting the potential for [[Capital Gain|capital gain]]s. The strategy is also known as a buy-write, as it involves buying the stock and writing a call option on the same stock. The strategy is popular among investors who are looking to generate income from their investments while limiting their risk.
 ===History of Coveredcall===
+
 The covered call strategy has been around for many years, but it has become increasingly popular in recent years as investors have become more aware of the potential benefits of the strategy. The strategy was first developed in the early 1970s by a group of investors who wanted to generate income from their investments while limiting their risk. Since then, the strategy has become increasingly popular among investors who are looking to generate income from their investments while limiting their risk.
 ===Types of Coveredcall===
+
 There are two main types of covered calls: the long covered call and the short covered call. The long covered call involves buying the underlying stock and then selling a call option on the same stock. The short covered call involves selling the underlying stock and then buying a call option on the same stock. Both strategies are used to generate income from the stock while limiting the potential for capital gains.
 ===Benefits of Coveredcall===
+
 The covered call strategy offers a number of benefits to investors. First, it allows investors to generate income from their investments while limiting their risk. The strategy also allows investors to take advantage of market volatility, as they can sell call options when the market is volatile and buy them back when the market is more stable. Finally, the strategy can be used to hedge against losses, as the investor can buy back the call option if the stock price falls.
 ===Risks of Coveredcall===
+
 The covered call strategy also carries some risks. First, the investor may be exposed to the risk of the stock price falling, as the investor will be obligated to sell the stock at the [[Strike Price|strike price]] of the call option. Second, the investor may be exposed to the risk of the stock price rising, as the investor will not be able to benefit from the increase in the stock price. Finally, the investor may be exposed to the risk of the option expiring worthless, as the investor will not be able to benefit from the increase in the optionâ€™s value.
 ===Conclusion===
+
 The covered call strategy is a popular options strategy that can be used to generate income from a stock while limiting the potential for capital gains. The strategy offers a number of benefits to investors, including the ability to generate income from their investments while limiting their risk. However, the strategy also carries some risks, including the risk of the stock price fa

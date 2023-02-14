@@ -1,11 +1,16 @@
 <seo title="Vix" metakeywords="volatility vix,vix measure,market volatility vix,vix used measure" metadescription="The VIX is a measure of the implied volatility of the S&P 500 index options."/>
 ===Introduction to VIX===
+
 The VIX, or the Chicago Board Options Exchange Volatility Index, is a measure of the implied volatility of the S&P 500 index options. It is often referred to as the “fear index” because it is used to gauge investor sentiment and market volatility. The VIX is calculated and published by the Chicago Board Options Exchange (CBOE) and is widely used by investors and traders to gauge market sentiment and to make investment decisions.
 ===History of VIX===
+
 The VIX was first introduced in 1993 by the CBOE as a way to measure the implied volatility of the S&P 500 index options. The VIX is calculated using a formula that takes into account the prices of the S&P 500 index options. The VIX is calculated on a daily basis and is published by the CBOE.
 ===How VIX is Calculated===
+
 The VIX is calculated using a formula that takes into account the prices of the S&P 500 index options. The formula takes into account the prices of the S&P 500 index options for the next 30 days. The formula also takes into account the implied volatility of the S&P 500 index options. The VIX is calculated on a daily basis and is published by the CBOE.
 ===Uses of VIX===
+
 The VIX is used by investors and traders to gauge market sentiment and to make investment decisions. The VIX is often used as a measure of market volatility and is used to gauge investor sentiment. The VIX is also used to measure the implied volatility of the S&P 500 index options. The VIX is also used by traders to make investment decisions.
 ===Conclusion===
+
 The VIX is a measure of the implied volatility of the S&P 500 index options. It is often referred to as the “fear index” because it is used to gauge investor sentiment and market volatility. The VIX is calculated and published by the Chicago Board Options Exchange (CBOE) and is widely used by investors and traders to gauge market sentiment and to make investment decisions. The VIX is used to measure the implied volatility of the S&P 500 index options and is also used by traders to make investment decisions

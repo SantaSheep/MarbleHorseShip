@@ -1,0 +1,18 @@
+<seo title="Ptc" metakeywords="ptc products services,iot markets ptc,markets ptc products,things markets ptc" metadescription="PTC has grown to become a leader in the product lifecycle management (PLM) and Internet of Things (IoT) markets."/>
+===Introduction to PTC===
+
+PTC (formerly Parametric Technology Corporation) is a global provider of technology solutions for product development, manufacturing, and service. Founded in 1985, PTC has grown to become a leader in the product lifecycle management (PLM) and Internet of Things (IoT) markets. PTC’s products and services are used by companies in a variety of industries, including automotive, aerospace, [[Consumer Goods|consumer goods]], medical devices, and industrial machinery. PTC’s headquarters are located in Needham, Massachusetts, and the company has offices in more than 20 countries around the world.
+===History of PTC===
+
+PTC was founded in 1985 by Dr. Samuel  Geisberg and Dr. Richard  Harrison. The company’s first product was Pro/ENGINEER, a 3D CAD software package that allowed engineers to design and simulate products in a virtual environment. Pro/ENGINEER quickly became a popular product and was adopted by many of the world’s leading manufacturers.
+
+In the 1990s, PTC began to expand its product portfolio to include PLM solutions. The company acquired several companies, including Windchill, a PLM software provider, and Arbortext, a provider of technical documentation solutions. In the 2000s, PTC began to focus on the IoT market, launching its ThingWorx platform in 2013.
+===Financial Performance of PTC===
+
+PTC has experienced strong [[Financial Performance|financial performance]] in recent years. In 2019, the company reported total revenue of $1.3 billion, a 7% increase from the previous year. The company’s [[Net Income|net income]] for the year was $179 million, a 10% increase from 2018. PTC’s stock price has also been on the rise, increasing from $50 per share in January 2019 to $90 per share in January 2020.
+===Products and Services Offered by PTC===
+
+PTC offers a wide range of products and services for product development, manufacturing, and service. The company’s flagship product is Pro/ENGINEER, a 3D CAD software package. PTC also offers a suite of PLM solutions, including Windchill, a product data management system, and Arbortext, a technical documentation solution. The company’s ThingWorx platform is used for IoT applications, such as predictive maintenance and asset tracking.
+===Conclusion===
+
+PTC is a global provider of technology solutions for product development, manufacturing, and service. The company has experienced strong financial performance in recent years and its stock price has been on the rise. PTC offers a wide range of products and services, including Pro/ENGINEER, Windchill, Arbortext, and ThingWorx. With its focus on the product lifecycle management and Internet of Things markets, PTC is well-positioned for continued success in the future

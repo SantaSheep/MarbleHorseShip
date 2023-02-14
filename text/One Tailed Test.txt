@@ -1,11 +1,16 @@
 <seo title="One Tailed Test" metakeywords="types tailed tests,tailed tests provide,advantages tailed tests,different tailed test" metadescription="A one-tailed test is a statistical test used to determine the probability of a given outcome."/>
 ===Introduction to One Tailed Test===
+
 A one-tailed test is a statistical test used to determine the probability of a given outcome. It is used to compare two sets of data and determine if one set is significantly different from the other. The one-tailed test is also known as a directional test, as i[[T Test|t test]]s for a specific direction of difference between the two sets of data. The one-tailed test is used in many different fields, including finance, economics, and medicine.
 ===Types of One Tailed Tests===
+
 There are two types of one-tailed tests: the z-test and the t-test. The z-test is used when the sample size is large and the population [[Standard Deviation|standard deviation]] is known. The t-test is used when the sample size is small and the population standard deviation is unknown. Both tests are used to compare two sets of data and determine if one set is significantly different from the other.
 ===Advantages of One Tailed Tests===
+
 One of the main advantages of one-tailed tests is that they are more powerful than two-tailed tests. This means that they can detect smaller differences between two sets of data. Additionally, one-tailed tests are more efficient than two-tailed tests, as they require fewer calculations. Finally, one-tailed tests are easier to interpret than two-tailed tests, as they provide a clear direction of difference between the two sets of data.
 ===Disadvantages of One Tailed Tests===
+
 One of the main disadvantages of one-tailed tests is that they are more prone to Type  errors. This means that they are more likely to reject the [[Null Hypothesis|null hypothesis]] when it is actually true. Additionally, one-tailed tests are more difficult to interpret than two-tailed tests, as they require more complex calculations. Finally, one-tailed tests are less powerful than two-tailed tests, as they can only detect larger differences between two sets of data.
 ===Conclusion===
+
 In conclusion, one-tailed tests are a powerful statistical tool used to compare two sets of data and determine if one set is significantly different from the other. They are more powerful than two-tailed tests, more efficient, and easier to interpret. However, they are also more prone to Type  errors and require more complex calculations. Ultimately, the choice of which type of test to use depends on the specific situation and the desired outcome

@@ -1,11 +1,16 @@
 <seo title="Shares" metakeywords="shares investing,investments shares provide,shares provide investors,risks investing shares" metadescription="Shares are a financial instrument that represent ownership in a company."/>
 ===Introduction to Shares===
+
 Shares are a type of [[Financial Instrument|financial instrument]] that represent ownership in a company. They are also known as stocks or equity. When a company issues shares, it is essentially selling a portion of the company to investors. The investors then become shareholders, and they are entitled to a portion of the company’s profits and assets. Shares are traded on stock exchanges, and their prices are determined by the forces of supply and demand.
 ===Types of Shares===
+
 There are two main types of shares: common shares and preferred shares. Common shares are the most common type of share and represent the most basic form of ownership in a company. They give shareholders the right to vote on certain matters, such as the election of directors, and they also entitle shareholders to a portion of the company’s profits, known as dividends. Preferred shares are a type of share that gives shareholders priority over common shareholders when it comes to receiving dividends and other distributions.
 ===Benefits of Investing in Shares===
+
 Investing in shares can be a great way to diversify your portfolio and potentially earn a higher return than other investments. Shares can also provide investors with a steady stream of income in the form of dividends. Additionally, shares can be a great way to gain exposure to a particular industry or sector.
 ===Risks of Investing in Shares===
+
 Investing in shares carries certain risks. The price of shares can be volatile, and investors can lose money if the price of the shares they own falls. Additionally, there is no guarantee that a company’s profits will increase, which could lead to a decrease in the value of the shares. Finally, there is always the risk of fraud or mismanagement, which could lead to a loss of capital.
 ===Conclusion===
+
 Shares are a type of financial instrument that represent ownership in a company. They can be a great way to diversify your portfolio and potentially earn a higher return than other investments. However, investing in shares carries certain risks, such as volatility and the risk of fraud or mismanagement. It is important for investors to understand the risks associated with investing in shares before making any decisions

@@ -1,13 +1,19 @@
 <seo title="Equilibrium" metakeywords="equilibrium concept,equilibrium equilibrium concept,equilibrium types equilibrium,equilibrium concept used" metadescription="Equilibrium is a concept used in a variety of fields, including economics, finance, and game theory."/>
 ===Introduction to Equilibrium===
+
 Equilibrium is a concept used in a variety of fields, including economics, finance, and [[Game Theory|game theory]]. It is a state of balance between two or more forces, where the forces are equal and opposite. In economics, equilibrium is a state of balance between supply and demand, where the quantity of goods supplied is equal to the quantity of goods demanded. In finance, equilibrium is a state of balance between the supply and demand of a security, where the price of the security is stable. In game theory, equilibrium is a state of balance between two or more players, where each player's strategy is optimal given the strategies of the other players.
 ===Types of Equilibrium===
+
 There are several types of equilibrium, including static equilibrium, dynamic equilibrium, and [[Nash Equilibrium|Nash equilibrium]]. Static equilibrium is a state of balance between two or more forces, where the forces are equal and opposite. Dynamic equilibrium is a state of balance between two or more forces, where the forces are changing over time. Nash equilibrium is a state of balance between two or more players, where each player's strategy is optimal given the strategies of the other players.
 ===Equilibrium in Financial Markets===
+
 In [[Financial Market|financial market]]s, equilibrium is a state of balance between the supply and demand of a security, where the price of the security is stable. This state of balance is achieved when the quantity of the security supplied is equal to the quantity of the security demanded. When the quantity of the security supplied is greater than the quantity of the security demanded, the price of the security will decrease. Conversely, when the quantity of the security supplied is less than the quantity of the security demanded, the price of the security will increase.
 ===Equilibrium in Economics===
+
 In economics, equilibrium is a state of balance between supply and demand, where the quantity of goods supplied is equal to the quantity of goods demanded. This state of balance is achieved when the price of the good is such that the quantity of the good supplied is equal to the quantity of the good demanded. When the price of the good is too high, the quantity of the good supplied will be greater than the quantity of the good demanded, and the price of the good will decrease. Conversely, when the price of the good is too low, the quantity of the good supplied will be less than the quantity of the good demanded, and the price of the good will increase.
 ===Equilibrium in Game Theory===
+
 In game theory, equilibrium is a state of balance between two or more players, where each player's strategy is optimal given the strategies of the other players. This state of balance is achieved when each player's strategy is such that it cannot be improved upon given the strategies of the other players. This means that each player's strategy is the best possible strategy given the strategies of the other players.
 ===Conclusion===
+
 Equilibrium is a concept used in a va

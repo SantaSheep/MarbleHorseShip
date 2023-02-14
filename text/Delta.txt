@@ -1,13 +1,19 @@
 <seo title="Delta" metakeywords="option position delta,delta defined,delta option calculated,delta delta defined" metadescription="Delta is a financial term that is used to measure the rate of change in the price of an option or other derivative security."/>
 ===Introduction to Delta===
+
 Delta is a financial term that is used to measure the rate of change in the price of an option or other derivative security. It is a measure of the sensitivity of the option's price to changes in the underlying asset's price. Delta is an important concept in options trading, as it helps traders to understand how changes in the underlying asset's price will affect the option's price. Delta is also used to measure the risk associated with an option position, as it can be used to calculate the potential profit or loss from a given position.
 ===Definition of Delta===
+
 Delta is defined as the ratio of the change in the price of an option to the change in the price of the underlying asset. It is expressed as a number between 0 and 1, with 0 representing no change in the option's price and 1 representing a one-to-one change in the option's price. For example, if the underlying asset's price increases by $1, and the option's price increases by $0.50, then the delta of the option is 0.50.
 ===Uses of Delta===
+
 Delta is used by traders to measure the sensitivity of an option's price to changes in the underlying asset's price. It is also used to measure the risk associated with an option position, as it can be used to calculate the potential profit or loss from a given position. Delta is also used to determine the optimal [[Strike Price|strike price]] for an option position, as it can be used to determine the break-even point for a given position.
 ===Calculating Delta===
+
 Delta can be calculated using the Black-Scholes option pricing model. This model takes into account the underlying asset's price, the option's strike price, the time to expiration, the volatility of the underlying asset, and the risk-free [[Rate Of Return|rate of return]]. By plugging these values into the model, the delta of the option can be calculated.
 ===Examples of Delta===
+
 One example of delta is the delta of a [[Call Option|call option]]. A call option is an option that gives the holder the right to buy the underlying asset at a predetermined price. The delta of a call option is the ratio of the change in the option's price to the change in the underlying asset's price. For example, if the underlying asset's price increases by $1, and the option's price increases by $0.50, then the delta of the call option is 0.50.
 ===Conclusion===
+
 In conclusion, delta is an important financial term that is used to measure the rate of change in the price of an option or other derivative security. It is a measure of the sensitivity of the option's price to changes in the underlying asset's price, and is used to measure the risk associated with an option position. Delta can be calculated using the Black-Scholes option pricing model, and is an important concept for traders to understand when trading options

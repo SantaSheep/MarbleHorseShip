@@ -1,11 +1,16 @@
 <seo title="Agency Theory" metakeywords="agency theory corporate,agency theory principal,agency theory important,agency theory based" metadescription="Agency theory is a branch of economics that studies the relationship between principals and agents."/>
 ===Introduction to Agency Theory===
+
 Agency theory is a branch of economics that studies the relationship between principals and agents. It is based on the idea that agents, such as managers, are hired by principals, such as shareholders, to act on their behalf. The theory seeks to explain how the interests of the principal and the agent can be aligned in order to maximize the principalâ€™s objectives.
 ===Agency Theory and the Principal-Agent Relationship===
+
 The principal-agent relationship is the cornerstone of agency theory. It is based on the idea that the principal hires an agent to act on their behalf. The agent is expected to act in the best interests of the principal, but may have different objectives. This creates a [[Conflict Of Interest|conflict of interest]] between the two parties. To address this, the principal must provide incentives for the agent to act in their best interests.
 ===Agency Costs and Conflicts of Interest===
+
 [[Agency Costs|Agency costs]] are the costs associated with the principal-agent relationship. These costs can arise from conflicts of interest between the principal and the agent. For example, the agent may have an incentive to act in their own interests rather than the interests of the principal. To address this, the principal must provide incentives for the agent to act in their best interests.
 ===Agency Theory and Corporate Governance===
+
 Agency theory has important implications for [[Corporate Governance|corporate governance]]. It suggests that the [[Board Of Directors|board of directors]] should be independent and have the authority to monitor and control the actions of management. This helps to ensure that management is acting in the best interests of the shareholders. Additionally, the board should provide incentives for management to act in the best interests of the shareholders.
 ===Conclusion===
+
 Agency theory is an important branch of economics that studies the relationship between principals and agents. It is based on the idea that agents are hired by principals to act on their behalf. Agency theory has important implications for corporate governance, as it suggests that the board of directors should be independent and have the authority to monitor and control the actions of management. Additionally, the board should provide incentives for management to act in the best interests of the shareholders

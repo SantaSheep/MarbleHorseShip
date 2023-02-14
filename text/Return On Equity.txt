@@ -1,0 +1,21 @@
+<seo title="Return On Equity" metakeywords="roe financial metric,return equity roe,equity roe useful,equity roe financial" metadescription="Return on Equity (ROE) is a financial metric used to measure the profitability of a company.It is calculated by dividing the company’s net income by its total equity."/>
+===Introduction to Return on Equity===
+
+Return on Equity (ROE) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s [[Net Income|net income]] by its total equity. ROE is a key indicator of a company’s financial health and is used to compare the performance of different companies. It is also used to assess the efficiency of a company’s management in generating profits from its equity.
+===Definition of Return on Equity===
+
+Return on Equity (ROE) is a financial ratio that measures the profitability of a company by dividing its net income by its total equity. It is a measure of how well a company is using its equity to generate profits. It is also used to compare the performance of different companies.
+===Calculation of Return on Equity===
+
+Return on Equity (ROE) is calculated by dividing a company’s net income by its total equity. The formula for calculating ROE is:
+
+ROE = Net Income / Total Equity
+===Advantages of Return on Equity===
+
+Return on Equity (ROE) is a useful metric for assessing the financial health of a company. It is a measure of how well a company is using its equity to generate profits. It is also used to compare the performance of different companies.
+===Disadvantages of Return on Equity===
+
+Return on Equity (ROE) is not a perfect measure of a company’s financial health. It does not take into account the company’s debt or other liabilities, which can have a significant impact on the company’s profitability. It also does not take into account the company’s [[Cash Flow|cash flow]], which can be an important indicator of a company’s financial health.
+===Conclusion===
+
+Return on Equity (ROE) is a useful metric for assessing the financial health of a company. It is a measure of how well a company is using its equity to generate profits. It is also used to compare the performance of different companies. However, it is not a perfect measure of a company’s financial health and should be used in conjunction with other metrics to get a more complete picture of a company’s financial health

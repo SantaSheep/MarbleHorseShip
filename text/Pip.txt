@@ -1,0 +1,28 @@
+<seo title="Pip" metakeywords="currency pair pip,pip currency pair,pip currency,means pip currency" metadescription="Pips, or percentage in points, are a unit of measurement used in the foreign exchange (forex) market to denote the smallest change in the exchange rate of a currency pair."/>
+===Introduction to Pips===
+
+Pips, or percentage in points, are a unit of measurement used in the foreign exchange (forex) market to denote the smallest change in the [[Exchange Rate|exchange rate]] of a currency pair. A pip is the smallest unit of price movement in the forex market and is typically equal to one [[Basis Point|basis point]] or 0.0001. Pips are used to measure the amount of profit or loss in a trade, and are also used to calculate the value of a currency pair.
+===Definition of a Pip===
+
+A pip is the smallest unit of price movement in the forex market and is typically equal to one basis point or 0.0001. This means that a one pip move in a currency pair is equal to 0.0001 of the quote currency. For example, if the EUR/USD currency pair moves from 1.3000 to 1.3001, this would be considered a one pip move.
+===Calculating the Value of a Pip===
+
+The value of a pip can be calculated by multiplying the amount of the trade by the pi[[P Value|p value]]. For example, if a trader buys 10,000 units of a currency pair at a price of 1.3000, the value of the pip would be 10,000 x 0.0001 = 1.00. This means that the value of the pip is equal to 1.00.
+===Examples of Pip Calculations===
+
+To illustrate how to calculate the value of a pip, letâ€™s look at a few examples.
+
+Example 1:
+
+If a trader buys 10,000 units of the EUR/USD currency pair at a price of 1.3000, the value of the pip would be 10,000 x 0.0001 = 1.00.
+
+Example 2:
+
+If a trader buys 20,000 units of the GBP/USD currency pair at a price of 1.5000, the value of the pip would be 20,000 x 0.0001 = 2.00.
+
+Example 3:
+
+If a trader buys 30,000 units of the USD/JPY currency pair at a price of 110.00, the value of the pip would be 30,000 x 0.01 = 300.00.
+===Conclusion===
+
+In conclusion, pips are a unit of measurement used in the forex market to denote the smallest change in the exchange rate of a currency pair. The value of a pip can be calculated by multiplying the amount of the trade by the pip value. Examples of pip calculations can help traders understand how to calculate the value of a pip in different currency pairs

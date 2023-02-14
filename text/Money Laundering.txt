@@ -1,11 +1,16 @@
 <seo title="Money Laundering" metakeywords="money laundering techniques,money laundering process,money laundering measures,money laundering technique" metadescription="Money laundering is the process of concealing the source of illegally obtained money."/>
 ===Introduction to Money Laundering===
+
 Money laundering is the process of concealing the source of illegally obtained money. It is a criminal activity that is used to disguise the origin of money obtained through illegal activities such as drug trafficking, terrorism, and tax evasion. Money laundering is a global problem that has been around for centuries and is estimated to cost the global economy billions of dollars each year. Money laundering is a complex process that involves multiple steps and techniques to conceal the source of the money.
 ===Types of Money Laundering===
+
 There are three main types of money laundering: placement, layering, and integration. Placement is the first step [[In The Money|in the money]] laundering process and involves the introduction of illegally obtained money into the [[Financial System|financial system]]. Layering is the second step and involves the use of complex financial transactions to disguise the source of the money. Integration is the final step and involves the use of legitimate businesses to disguise the source of the money.
 ===Money Laundering Techniques===
+
 Money launderers use a variety of techniques to conceal the source of the money. These techniques include the use of shell companies, offshore accounts, and the use of cash. Shell companies are companies that are created to disguise the source of the money. Offshore accounts are accounts that are located in countries with lax financial regulations. The use of cash is also a common money laundering technique as it is difficult to trace the source of the money.
 ===Money Laundering Prevention===
+
 Money laundering is a global problem that requires a global response. Governments and [[Financial Institution|financial institution]]s have implemented a variety of measures to prevent money laundering. These measures include the implementation of anti-money laundering laws, the use of financial intelligence units, and the implementation of customer [[Due Diligence|due diligence]] measures. Anti-money laundering laws are laws that criminalize money laundering activities. Financial intelligence units are government agencies that are responsible for monitoring and investigating suspicious financial activities. Customer due diligence measures are measures that financial institutions must take to identify and verify the identity of their customers.
 ===Conclusion===
+
 Money laundering is a global problem that has been around for centuries and is estimated to cost the global economy billions of dollars each year. Money laundering is a complex process that involves multiple steps and techniques to conceal the source of the money. Governments and financial institutions have implemented a variety of measures to prevent money laundering, including the implementation of anti-money laundering laws, the use of financial intelligence units, and the implementation of customer due diligence measures. Money laundering is a serious crime that must be addressed in order to protect the global economy

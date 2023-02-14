@@ -1,0 +1,31 @@
+<seo title="Information Ratio" metakeywords="information ratio defined,definition information ratio,information ratio used,information ratio measure" metadescription="The Information Ratio is a measure of the performance of an investment portfolio relative to a benchmark.It is used to assess the risk-adjusted return of a portfolio."/>
+===Introduction to Information Ratio===
+
+The Information Ratio is a measure of the performance of an investment portfolio relative to a benchmark. It is used to assess the risk-adjusted return of a portfolio and is a key metric for evaluating the performance of a portfolio manager. The Information Ratio is a measure of the [[Excess Return|excess return]] of a portfolio relative to its benchmark, divided by the tracking error of the portfolio. It is a measure of the portfolio manager’s ability to generate alpha, or excess return, relative to the benchmark.
+===Definition of Information Ratio===
+
+The Information Ratio is defined as the excess return of a portfolio relative to its benchmark, divided by the tracking error of the portfolio. The excess return is the difference between the portfolio’s return and the benchmark’s return. The tracking error is the [[Standard Deviation|standard deviation]] of the difference between the portfolio’s return and the benchmark’s return. The higher the Information Ratio, the better the portfolio manager’s ability to generate alpha relative to the benchmark.
+===Calculation of Information Ratio===
+
+The Information Ratio is calculated as follows:
+
+Information Ratio = (Portfolio Return – Benchmark Return) / Tracking Error
+
+Where:
+
+Portfolio Return = The return of the portfolio
+
+Benchmark Return = The return of the benchmark
+
+Tracking Error = The standard deviation of the difference between the portfolio’s return and the benchmark’s return
+===Uses of Information Ratio===
+
+The Information Ratio is used to assess the risk-adjusted return of a portfolio. It is a measure of the portfolio manager’s ability to generate alpha, or excess return, relative to the benchmark. A higher Information Ratio indicates that the portfolio manager is able to generate higher returns with lower risk.
+
+The Information Ratio is also used to compare the performance of different portfolio managers. A higher Information Ratio indicates that the portfolio manager is able to generate higher returns with lower risk than other portfolio managers.
+===Limitations of Information Ratio===
+
+The Information Ratio is a useful measure of the performance of a portfolio relative to a benchmark, but it has some limitations. The Information Ratio does not take into account the risk of the benchmark, which may be different from the risk of the portfolio. Additionally, the Information Ratio does not take into account the costs associated with managing the portfolio, which may reduce the returns of the portfolio.
+===Conclusion===
+
+The Information Ratio is a measure of the performance of an investment portfolio relative to a benchmark. It is used to assess the risk-adjusted return of a portfolio and is a key metric for evaluating the performance of a portfolio manager. The Information Ratio is calculated as the excess return of a portfolio relative to its benchmark, divided by the tracking error of the portfolio. The Information Ratio is a useful measure of the performance of a portfolio relativ

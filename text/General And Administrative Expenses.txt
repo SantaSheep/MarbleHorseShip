@@ -1,13 +1,19 @@
 <seo title="General And Administrative Expenses" metakeywords="administrative expenses general,general administrative expenses,general expenses administrative,expenses general administrative" metadescription="General and administrative expenses (G&A) are a type of overhead cost that businesses incur in order to maintain their operations."/>
 ===Introduction to General and Administrative Expenses===
+
 General and [[Administrative Expenses|administrative expenses]] (G&A) are a type of overhead cost that businesses incur in order to maintain their operations. These expenses are necessary for the day-to-day running of the business, but they are not directly related to the production of goods or services. G&A expenses are typically divided into two categories: general expenses and administrative expenses. General expenses are those that are related to the general operations of the business, such as rent, utilities, and insurance. Administrative expenses are those that are related to the management of the business, such as salaries, office supplies, and professional fees.
 ===Types of General and Administrative Expenses===
+
 General and administrative expenses can be divided into two main categories: fixed and variable. Fixed expenses are those that remain the same regardless of the level of production or sales. Examples of fixed expenses include rent, insurance, and salaries. Variable expenses, on the other hand, are those that fluctuate with the level of production or sales. Examples of variable expenses include materials, supplies, and advertising.
 ===Examples of General and Administrative Expenses===
+
 Examples of general and administrative expenses include rent, utilities, insurance, salaries, office supplies, professional fees, materials, supplies, and advertising. Other examples include legal fees, accounting fees, travel expenses, and depreciation.
 ===Accounting for General and Administrative Expenses===
+
 General and administrative expenses are typically recorded in the companyâ€™s [[General Ledger|general ledger]]. These expenses are typically recorded as a debit to the G&A expense account and a credit to the cash account. The G&A expense account is then used to track the total amount of G&A expenses incurred by the company.
 ===Benefits of Tracking General and Administrative Expenses===
+
 Tracking general and administrative expenses is important for businesses because it allows them to monitor their overhead costs and ensure that they are not spending more than necessary. Tracking G&A expenses also helps businesses identify areas where they can reduce costs and increase efficiency.
 ===Conclusion===
+
 General and administrative expenses are a type of overhead cost that businesses incur in order to maintain their operations. These expenses are necessary for the day-to-day running of the business, but they are not directly related to the production of goods or services. Tracking G&A expenses is important for businesses because it allows them to monitor their overhead costs and ensure that they are not spending more than necessary. It also helps businesses identify areas where they can reduce costs and increase efficiency

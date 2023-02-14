@@ -1,11 +1,16 @@
 <seo title="Translation Exposure" metakeywords="accounting translation exposure,denominated translation exposure,currency exposure,economic exposure currency" metadescription=" translation exposure is a type of financial risk that arises from changes in exchange rates."/>
 ===Introduction to Translation Exposure===
+
 Translation exposure is a type of [[Financial Risk|financial risk]] that arises from changes in [[Exchange Rate|exchange rate]]s. It is the risk that a company’s [[Financial Statements|financial statements]] will be affected by changes in the exchange rate between the company’s functional currency and the currency in which its assets and liabilities are denominated. Translation exposure is also known as accounting exposure, economic exposure, or currency exposure. It is an important risk for companies that operate in multiple countries and have assets and liabilities denominated in different currencies.
 ===Types of Translation Exposure===
+
 Translation exposure can be divided into two types: transaction exposure and translation exposure. Transaction exposure arises from the risk of changes in exchange rates between the time a transaction is entered into and the time it is settled. Translation exposure arises from the risk of changes in exchange rates between the time a transaction is entered into and the time it is reported in the company’s financial statements.
 ===Accounting for Translation Exposure===
+
 Translation exposure is accounted for using the current rate method or the temporal method. Under the current rate method, assets and liabilities are translated at the current exchange rate. Under the temporal method, assets and liabilities are translated at the exchange rate that was in effect when the transaction was entered into.
 ===Hedging Strategies for Translation Exposure===
+
 Companies can use a variety of hedging strategies to manage translation exposure. These strategies include [[Forward Contract|forward contract]]s, currency swaps, and options. Forward contracts are agreements to buy or sell a currency at a predetermined exchange rate at a future date. Currency swaps are agreements to exchange one currency for another at a predetermined exchange rate. Options are contracts that give the holder the right, but not the obligation, to buy or sell a currency at a predetermined exchange rate.
 ===Conclusion===
+
 Translation exposure is a type of financial risk that arises from changes in exchange rates. It is an important risk for companies that operate in multiple countries and have assets and liabilities denominated in different currencies. Companies can use a variety of hedging strategies to manage translation exposure, including forward contracts, currency swaps, and options. Understanding and managing translation exposure is essential for companies that operate in multiple countries and have assets and liabilities denominated in different currencies

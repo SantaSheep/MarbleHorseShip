@@ -1,13 +1,19 @@
 <seo title="Asset Coverage" metakeywords="assetcoverage assetcoverage measure,assetcoverage important measure,definition assetcoverage assetcoverage,assetcoverage financial term" metadescription=" Assetcoverage is a financial term that refers to the amount of assets a company has relative to its liabilities."/>
 ===Introduction to Assetcoverage===
+
 Assetcoverage is a financial term that refers to the amount of assets a company has relative to its liabilities. It is a measure of a company's financial health and is used to assess the risk of a company defaulting on its debt. Assetcoverage is an important concept for investors and creditors alike, as it provides an indication of the company's ability to meet its financial obligations.
 ===Definition of Assetcoverage===
+
 Assetcoverage is a measure of a company's financial health and is calculated by dividing the total assets of a company by its [[Total Liabilities|total liabilities]]. The higher the assetcoverage ratio, the better the company's financial position. A ratio of 1.0 or higher indicates that the company has sufficient assets to cover its liabilities. A ratio of less than 1.0 indicates that the company does not have enough assets to cover its liabilities.
 ===Types of Assetcoverage===
+
 There are two main types of assetcoverage: current assetcoverage and total assetcoverage. Current assetcoverage is calculated by dividing the [[Current Assets|current assets]] of a company by its [[Current Liabilities|current liabilities]]. Total assetcoverage is calculated by dividing the total assets of a company by its total liabilities.
 ===Benefits of Assetcoverage===
+
 Assetcoverage is an important measure of a company's financial health and is used to assess the risk of a company defaulting on its debt. It provides investors and creditors with an indication of the company's ability to meet its financial obligations. A high assetcoverage ratio indicates that the company has sufficient assets to cover its liabilities and is less likely to default on its debt.
 ===Risks of Assetcoverage===
+
 Although assetcoverage is an important measure of a company's financial health, it is not a perfect measure. A high assetcoverage ratio does not guarantee that the company will not default on its debt. A company may have a high assetcoverage ratio but still be at risk of defaulting on its debt due to other factors such as poor management or a weak economy.
 ===Conclusion===
+
 Assetcoverage is an important measure of a company's financial health and is used to assess the risk of a company defaulting on its debt. It provides investors and creditors with an indication of the company's ability to meet its financial obligations. A high assetcoverage ratio indicates that the company has sufficient assets to cover its liabilities and is less likely to default on its debt. However, it is not a perfect measure and a company may still be at risk of defaulting on its debt due to other factors

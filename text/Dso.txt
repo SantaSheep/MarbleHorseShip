@@ -1,13 +1,19 @@
 <seo title="Dso" metakeywords="sales outstanding dso,dso days sales,dso financial metric,dso accounts receivable" metadescription="Days Sales Outstanding (DSO) is a financial metric used to measure the average number of days it takes a company to collect payment from its customers after a sale has been made."/>
 ===Introduction to DSO===
+
 Days Sales Outstanding (DSO) is a financial metric used to measure the average number of days it takes a company to collect payment from its customers after a sale has been made. It is an important metric for businesses to track, as it can provide insight into the effectiveness of a company’s credit and collection policies. DSO is also used to measure the liquidity of a company’s [[Accounts Receivable|accounts receivable]], as it indicates how quickly a company can convert its receivables into cash.
 ===Definition of DSO===
+
 Days Sales Outstanding (DSO) is a financial metric used to measure the average number of days it takes a company to collect payment from its customers after a sale has been made. It is calculated by dividing the total amount of accounts receivable by the total amount of sales for a given period, and then multiplying the result by the number of days in the period. For example, if a company has $100,000 in accounts receivable and $1,000,000 in sales for a period of 30 days, its DSO would be 30 days.
 ===Calculation of DSO===
+
 The formula for calculating DSO is as follows: DSO = (Accounts Receivable / Sales) x Number of Days in the Period. For example, if a company has $100,000 in accounts receivable and $1,000,000 in sales for a period of 30 days, its DSO would be 30 days.
 ===Factors Affecting DSO===
+
 There are several factors that can affect a company’s DSO. These include the terms of the sale, the creditworthiness of the customer, the effectiveness of the company’s credit and collection policies, and the overall economic environment. For example, if a company offers more generous payment terms to its customers, its DSO will likely increase. Similarly, if the economic environment is weak, customers may be less likely to pay their bills on time, resulting in an increase in DSO.
 ===Benefits of DSO===
+
 DSO is an important metric for businesses to track, as it can provide insight into the effectiveness of a company’s credit and collection policies. By tracking DSO, companies can identify areas where they can improve their credit and collection policies, such as offering more generous payment terms or tightening their credit standards. Additionally, DSO can be used to measure the liquidity of a company’s accounts receivable, as it indicates how quickly a company can convert its receivables into cash.
 ===Conclusion===
+
 In conclusion, Days Sales Outstanding (DSO) is an important financial metric used to measure the average number of days it takes a company to collect payment from its customers after a sale has been made. It is calculated by dividing the total amount of accounts receivable by the total amount of sales for a given period, and then multiplying the result by the number of days in the period. DSO is an important metric for businesses to track, as it can provide insight into the effectiveness of a company’s credit and collection policies, as well as the liquidity of a company’s accounts receivable

@@ -1,0 +1,21 @@
+<seo title="Non Current Assets" metakeywords="noncurrent assets depreciated,noncurrent assets assets,accounting noncurrent assets,types noncurrent assets" metadescription="Noncurrent assets are assets that are not expected to be converted into cash within one year."/>
+===Introduction to Noncurrent Assets===
+
+Non[[Current Assets|current assets]] are long-term assets that are not expected to be converted into cash within one year. These assets are also known as long-term assets or [[Fixed Asset|fixed asset]]s. Noncurrent assets are used to generate income over a long period of time and are not intended for immediate sale or use. Examples of noncurrent assets include property, plant, and equipment; [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s; and long-term investments.
+===Types of Noncurrent Assets===
+
+Noncurrent assets can be divided into three main categories: property, plant, and equipment; intangible assets; and long-term investments. Property, plant, and equipment are physical assets that are used in the production of goods and services. Examples of property, plant, and equipment include buildings, machinery, vehicles, and furniture. Intangible assets are non-physical assets that have value but cannot be seen or touched. Examples of intangible assets include patents, copyrights, trademarks, and goodwill. Long-term investments are investments that are held for more than one year. Examples of long-term investments include stocks, bonds, and [[Real Estate|real estate]].
+===Accounting for Noncurrent Assets===
+
+Noncurrent assets are recorded on the [[Balance Sheet|balance sheet]] at their [[Historical Cost|historical cost]]. Historical cost is the amount paid for the asset at the time of purchase. Noncurrent assets are depreciated over their [[Useful Life|useful life]]. Depreciation is the process of allocating the cost of an asset over its useful life. The depreciation expense is recorded on the [[Income Statement|income statement]] and reduces the [[Net Income|net income]] of the company.
+===Reporting Noncurrent Assets===
+
+Noncurrent assets are reported on the balance sheet as either current or noncurrent. Current assets are assets that are expected to be converted into cash within one year. Noncurrent assets are assets that are not expected to be converted into cash within one year. Noncurrent assets are further divided into property, plant, and equipment; intangible assets; and long-term investments.
+===Advantages and Disadvantages of Noncurrent Assets===
+
+Noncurrent assets have several advantages. They provide a company with the resources necessary to generate income over a long period of time. Noncurrent assets also provide a company with a competitive advantage by allowing them to produce goods and services more efficiently than their competitors.
+
+However, noncurrent assets also have some disadvantages. Noncurrent assets are expensive to purchase and maintain. Additionally, noncurrent assets can become obsolete over time, resulting in a loss of value.
+===Conclusion===
+
+Noncurrent assets are long-term assets that are not expected to be converted into cash within one year. Noncurrent assets can be divided into three main categories: property, plant, and equipment; intangible assets; and long-term investments. Noncurrent assets are recorded on the balance sheet at their historical cost and are depreciated over their useful life. Noncurrent assets have several a

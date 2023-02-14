@@ -1,15 +1,22 @@
 <seo title="Gdp" metakeywords="gdp measurement,gdp used measure,gdp measure,gdp measured ways" metadescription="Gross Domestic Product (GDP) is a measure of the total value of all goods and services produced in a country."/>
 ===Introduction to GDP===
+
 Gross Domestic Product (GDP) is a measure of the total value of all goods and services produced in a country over a given period of time. It is the most widely used measure of economic activity and is used to compare the economic performance of different countries. GDP is also used to measure the size of a country’s economy and to assess the overall health of an economy.
 ===Components of GDP===
+
 GDP is composed of four main components: consumption, investment, government spending, and net exports. Consumption is the largest component of GDP and includes spending by households on goods and services. Investment includes spending by businesses on [[Capital Goods|capital goods]] such as machinery and equipment. Government spending includes spending by federal, state, and local governments on goods and services. Net exports are the difference between exports and imports.
 ===GDP Measurement===
+
 GDP is measured in three ways: the expenditure approach, the income approach, and the output approach. The expenditure approach measures GDP by adding up all spending on final goods and services. The income approach measures GDP by adding up all incomes earned from production. The output approach measures GDP by adding up the value of all goods and services produced.
 ===GDP and Economic Growth===
+
 GDP is used to measure [[Economic Growth|economic growth]], which is the increase in the total value of goods and services produced in an economy over time. GDP growth is an important indicator of economic health and is used to assess the performance of an economy.
 ===GDP and the Business Cycle===
+
 GDP is also used to measure the [[Business Cycle|business cycle]], which is the alternating periods of economic expansion and contraction. During an economic expansion, GDP increases, while during an economic contraction, GDP decreases. The business cycle is an important indicator of economic health and is used to assess the performance of an economy.
 ===GDP and International Comparisons===
+
 GDP is also used to compare the economic performance of different countries. GDP [[Per Capita|per capita]] is a measure of the average income of a country’s citizens and is used to compare the economic performance of different countries.
 ===Conclusion===
+
 Gross Domestic Product (GDP) is a measure of the total value of all goods and services produced in a country over a given period of time. It is the most widely used measure of economic activity and is used to compare the economic performance of different countries. GDP is composed of four main components: consumption, investment, government spending, and net exports. GDP is measured in three ways: the expenditure approach, the income approach, and the output approach. GDP is used to measure economic growth and the business cycle, and to compare the economic performance of different countries

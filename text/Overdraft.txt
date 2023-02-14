@@ -1,13 +1,19 @@
 <seo title="Overdraft" metakeywords="overdraft financial term,risks overdrafts,overdrafts help customers,overdrafts" metadescription="Overdraft is a financial term that refers to a situation in which a person or business withdraws more money from their bank account than they have available."/>
 ===Introduction to Overdraft===
+
 Overdraft is a financial term that refers to a situation in which a person or business withdraws more money from their bank account than they have available. This can happen when a person or business writes a check for more money than they have in their account, or when they use their [[Debit Card|debit card]] to make a purchase that exceeds their available balance. When this happens, the bank will typically cover the difference, but the customer will be charged an overdraft fee. Overdrafts can be a useful tool for managing [[Cash Flow|cash flow]], but they can also be costly if not managed properly.
 ===Types of Overdrafts===
+
 There are two main types of overdrafts: overdraft protection and non-sufficient funds (NSF). Overdraft protection is a service offered by some banks that allows customers to overdraw their accounts up to a certain limit without incurring an overdraft fee. Non-sufficient funds (NSF) is when a customer attempts to withdraw more money than they have available in their account, and the bank charges them an overdraft fee.
 ===Benefits of Overdrafts===
+
 Overdrafts can be a useful tool for managing cash flow. They can help customers avoid bounced checks or declined debit card transactions, which can be embarrassing and costly. Overdrafts can also help customers avoid late fees on bills, as they can use the overdraft to cover the cost of the bill until they have the funds available to pay it off.
 ===Risks of Overdrafts===
+
 The main risk of overdrafts is the cost. Banks typically charge an overdraft fee for each transaction that exceeds the available balance in the account. These fees can add up quickly, and can be difficult to pay off. Additionally, overdrafts can damage a customerâ€™s credit score if they are unable to pay off the overdraft fees in a timely manner.
 ===How to Avoid Overdrafts===
+
 The best way to avoid overdrafts is to keep track of your spending and make sure you have enough money in your account to cover all of your transactions. Additionally, you can set up overdraft protection with your bank, which will allow you to overdraw your account up to a certain limit without incurring an overdraft fee.
 ===Conclusion===
+
 Overdrafts can be a useful tool for managing cash flow, but they can also be costly if not managed properly. It is important to keep track of your spending and make sure you have enough money in your account to cover all of your transactions. Additionally, you can set up overdraft protection with your bank to help avoid overdraft fees

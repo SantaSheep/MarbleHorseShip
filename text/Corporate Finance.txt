@@ -1,13 +1,19 @@
 <seo title="Corporate Finance" metakeywords="corporate finance concerned,corporate finance involves,introduction corporate finance,corporate finance" metadescription="Corporate finance is the area of finance that deals with the financial decisions of a corporation."/>
 ===Introduction to Corporate Finance===
+
 Corporate finance is the area of finance that deals with the financial decisions of a corporation. It is concerned with the sources of funding and the [[Capital Structure|capital structure]] of corporations, the actions that managers take to increase the value of the firm to the shareholders, and the tools and analysis used to allocate financial resources. Corporate finance is also concerned with the decisions related to the acquisition and allocation of resources that have an effect on a firm’s value.
 ===Overview of Corporate Finance===
+
 Corporate finance is a broad field that encompasses a variety of topics. It includes the analysis of [[Financial Statements|financial statements]], the assessment of risk, the evaluation of investment opportunities, the management of [[Working Capital|working capital]], and the development of financial strategies. Corporate finance also involves the management of capital structure, the determination of the [[Optimal Capital Structure|optimal capital structure]], and the management of [[Capital Budgeting|capital budgeting]] decisions. Corporate finance is also concerned with the management of mergers and acquisitions, the management of [[Corporate Governance|corporate governance]], and the management of corporate [[Social Responsibility|social responsibility]].
 ===Corporate Finance Strategies===
+
 Corporate finance strategies are the strategies used by a corporation to maximize its value. These strategies include the selection of the optimal capital structure, the management of working capital, the evaluation of investment opportunities, and the development of financial strategies. Corporate finance strategies also involve the management of mergers and acquisitions, the management of corporate governance, and the management of corporate social responsibility.
 ===Corporate Finance Tools===
+
 Corporate finance tools are the tools used to analyze and manage the financial decisions of a corporation. These tools include [[Financial Statement Analysis|financial statement analysis]], risk analysis, capital budgeting, and financial forecasting. Corporate finance tools also include the use of financial models, such as discounted [[Cash Flow|cash flow]] analysis, and the use of financial software, such as spreadsheets and databases.
 ===Corporate Finance Regulations===
+
 Corporate finance regulations are the laws and regulations that govern the financial decisions of a corporation. These regulations include the Sarbanes-Oxley Act, the Dodd-Frank Wall Street Reform and Consumer Protection Act, and the Basel Accords. Corporate finance regulations also include the rules and regulations of the Securities and Exchange Commission, the Financial Industry Regulatory Authority, and other regulatory bodies.
 ===Corporate Finance and Risk Management===
+
 Corporate finance and [[Risk Management|risk management]] are closely related. Risk management is the process of identifying, assessing, and managing the risks associated with a corporation’s financial decisions. Corporate finance and risk management involve the assessment of risk, the development of risk management strategies, and the implementation of risk management p

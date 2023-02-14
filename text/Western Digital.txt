@@ -1,11 +1,16 @@
 <seo title="Western Digital" metakeywords="history western digital,introduction western digital,data storage industry,storage solutions western" metadescription="Western Digital Corporation is a leading provider of data storage solutions."/>
 ===Introduction===
+
 Western Digital Corporation is a leading provider of data storage solutions. Founded in 1970, the company has grown to become one of the world’s largest suppliers of hard disk drives, solid-state drives, and other storage solutions. Western Digital’s products and services are used in a variety of applications, including consumer electronics, enterprise storage, and [[Cloud Computing|cloud computing]]. In this article, we will discuss the history of Western Digital, its products and services, and its [[Financial Performance|financial performance]].
 ===History of Western Digital===
+
 Western Digital was founded in 1970 by Alvin B. Phillips and Kenneth H. Olsen. The company initially focused on the development of memory chips for the burgeoning personal computer market. In the 1980s, Western Digital began to focus on the development of hard disk drives, which quickly became the company’s primary product. In the 1990s, Western Digital began to expand its [[Product Line|product line]] to include solid-state drives, flash memory, and other storage solutions.
 ===Products and Services===
+
 Western Digital offers a wide range of products and services for both consumer and enterprise customers. The company’s consumer products include hard disk drives, solid-state drives, and flash memory. Western Digital also offers a variety of enterprise storage solutions, including network-attached storage, storage area networks, and cloud storage. In addition, the company provides data recovery services and software solutions.
 ===Financial Performance===
+
 Western Digital has experienced strong financial performance in recent years. In the [[[[Fiscal Year|Fiscal Year]] End|fiscal year end]]ing June 30, 2020, the company reported total revenue of $19.3 billion, a 5.3% increase from the previous year. [[Net Income|Net income]] for the year was $1.7 billion, a 7.3% increase from the previous year. The company’s stock price has also increased significantly over the past five years, rising from $45.50 per share in 2015 to $90.50 per share in 2020.
 ===Conclusion===
+
 Western Digital is a leading provider of data storage solutions. The company has a long history of innovation and has experienced strong financial performance in recent years. Western Digital’s products and services are used in a variety of applications, including consumer electronics, enterprise storage, and cloud computing. With its strong financial performance and wide range of products and services, Western Digital is well-positioned to continue to be a leader in the data storage industry

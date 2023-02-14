@@ -1,0 +1,21 @@
+<seo title="Market Failure" metakeywords="market failure externalities,market failure example,types market failure,market failure examples" metadescription="Market failure is a situation in which the free market fails to allocate resources efficiently."/>
+===Introduction to Market Failure===
+
+Market failure is a term used to describe a situation in which the [[Free Market|free market]] fails to allocate resources efficiently. This can occur when the market does not produce the desired outcome, or when the market does not produce the most efficient outcome. Market failure can be caused by a variety of factors, including externalities, imperfect information, [[Public Good|public good]]s, and natural monopolies. Market failure can lead to inefficient outcomes, such as overproduction or underproduction of goods and services, or misallocation of resources.
+===Types of Market Failure===
+
+There are several different types of market failure. The most common types of market failure are externalities, imperfect information, public goods, and natural monopolies.
+
+Externalities occur when the production or consumption of a good or service has an effect on a third party that is not taken into account by the market. For example, when a factory produces pollution, the cost of the pollution is not taken into account by the market, and the factory is able to produce more than is socially optimal.
+
+Imperfect information occurs when the market does not have perfect information about the costs and benefits of a good or service. This can lead to inefficient outcomes, such as overproduction or underproduction of goods and services.
+
+Public goods are goods or services that are non-excludable and non-rivalrous. This means that it is impossible to exclude people from consuming the good or service, and that one personâ€™s consumption of the good or service does not reduce the amount available for others. This can lead to underproduction of public goods, as the market does not take into account the benefits of the good or service to society.
+
+Natural monopolies occur when a single firm is able to produce a good or service at a lower cost than any other firm. This can lead to inefficient outcomes, as the firm is able to charge higher prices than would be socially optimal.
+===Causes of Market Failure===
+
+The causes of market failure can vary depending on the type of market failure. Externalities can be caused by a variety of factors, including government regulations, technological advances, and changes in consumer preferences. Imperfect information can be caused by a lack of information about the costs and benefits of a good or service, or by asymmetric information, where one party has more information than the other. Public goods can be underproduced due to the free-rider problem, where people are able to consume the good or service without paying for it. Natural monopolies can be caused by [[Economies Of Scale|economies of scale]], where a single firm is able to produce a good or service at a lower cost than any other firm.
+===Examples of Market Failure===
+
+There are many examples of market failure. One example is the overproduction of carbon dioxide, which is a pollutant that contributes to global warming. The market does not take into account the cost of the pollution,

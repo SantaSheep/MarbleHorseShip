@@ -1,11 +1,16 @@
 <seo title="Interest Expense" metakeywords="loan expense deducted,rate loan expense,incurred business borrowing,loan expense" metadescription="Interest expense is the cost incurred by a business for borrowing money."/>
 ===Introduction to Interest Expense===
+
 Interest expense is the cost incurred by a business for borrowing money. It is the amount of money that a business must pay to its creditors for the use of borrowed funds. Interest expense is typically a non-operating expense, meaning it is not directly related to the production of goods or services. Interest expense is typically recorded as an expense on the [[Income Statement|income statement]] and is used to calculate the [[Net Income|net income]] of a business.
 ===Types of Interest Expense===
+
 Interest expense can be divided into two main categories: short-term and long-term. Short-term interest expense is typically associated with short-term loans, such as [[Credit Card|credit card]]s and lines of credit. Long-term interest expense is associated with long-term loans, such as mortgages and car loans. Interest expense can also be divided into fixed and variable [[Interest Rate|interest rate]]s. Fixed interest rates are set at a certain rate for the duration of the loan, while variable interest rates can fluctuate over time.
 ===Accounting Treatment of Interest Expense===
+
 Interest expense is typically recorded as an expense on the income statement. The amount of interest expense is calculated by multiplying the interest rate by the amount of the loan. The interest expense is then deducted from the company’s revenue to calculate the net income.
 ===Tax Treatment of Interest Expense===
+
 Interest expense is generally tax deductible for businesses. The amount of the deduction is limited to the amount of interest paid during the tax year. The deduction is taken as an itemized deduction on the company’s tax return.
 ===Conclusion===
+
 Interest expense is the cost incurred by a business for borrowing money. It is typically a non-operating expense and is recorded as an expense on the income statement. Interest expense can be divided into short-term and long-term, as well as fixed and variable interest rates. Interest expense is generally tax deductible for businesses, with the amount of the deduction limited to the amount of interest paid during the tax year

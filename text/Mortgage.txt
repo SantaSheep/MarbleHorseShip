@@ -1,13 +1,19 @@
 <seo title="Mortgage" metakeywords="mortgage process,different types mortgages,property mortgages typically,process mortgage process" metadescription="Mortgages are typically long-term loans, with repayment periods ranging from 10 to 30 years."/>
 ===Introduction to Mortgage===
+
 A mortgage is a loan that is secured by [[Real Estate|real estate]]. It is a loan that is used to purchase a home or other real estate property. The loan is secured by the property itself, meaning that if the borrower fails to make payments, the lender can take possession of the property. Mortgages are typically long-term loans, with repayment periods ranging from 10 to 30 years. The [[Interest Rate|interest rate]] on a mortgage is typically lower than other types of loans, making it an attractive option for many borrowers.
 ===Types of Mortgages===
+
 There are several different types of mortgages available. The most common type is a fixed-rate mortgage, which has a fixed interest rate for the life of the loan. Adjustable-rate mortgages (ARMs) have an interest rate that can change over time. Other types of mortgages include jumbo mortgages, which are larger loans that exceed the conforming loan limit, and government-backed mortgages, such as those offered by the Federal Housing Administration (FHA) and the Department of Veterans Affairs (VA).
 ===Mortgage Process===
+
 The mortgage process begins with the borrower applying for a loan. The lender will review the borrower’s credit history, income, and other financial information to determine if they are eligible for a loan. If the borrower is approved, the lender will provide them with a loan estimate, which outlines the terms of the loan, including the interest rate, monthly payment, and other costs. The borrower then has the option to accept or reject the loan. If the loan is accepted, the lender will order an appraisal of the property to ensure that it is worth the amount of the loan. Once the appraisal is complete, the lender will issue a loan commitment, which outlines the terms of the loan and the closing costs. The borrower then has the option to close on the loan or walk away.
 ===Mortgage Rates===
+
 Mortgage rates are determined by a variety of factors, including the borrower’s credit score, the size of the down payment, and the type of loan. Generally, the higher the credit score, the lower the interest rate. The size of the down payment also affects the interest rate, with larger down payments resulting in lower rates. The type of loan also affects the interest rate, with fixed-rate mortgages typically having lower rates than adjustable-rate mortgages.
 ===Mortgage Insurance===
+
 Mortgage insurance is an additional cost that is typically required for borrowers who make a down payment of less than 20%. Mortgage insurance protects the lender in the event that the borrower defaults on the loan. The cost of mortgage insurance is typically added to the monthly payment.
 ===Mortgage Refinancing===
+
 Mortgage refinancing is the process of taking out a new loan to pay off an existing loan. Refinancing can be a good option for borrowers who want to lower their monthly payments, reduce their interest rate, or access the equity in their home. However, it is important to consider the costs associated 

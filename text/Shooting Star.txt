@@ -1,13 +1,19 @@
 <seo title="Shooting Star" metakeywords="shooting star pattern,shooting star characterized,shooting star chart,shooting star patterns" metadescription="Shootingstar is a chart pattern that is formed when a security’s price rises quickly, reaches a peak, and then falls rapidly."/>
 ===Introduction to Shootingstar===
+
 Shootingstar is a [[Technical Analysis|technical analysis]] tool used by traders to identify potential reversals in the market. It is a chart pattern that is formed when a security’s price rises quickly, reaches a peak, and then falls rapidly. The pattern is characterized by a long upper shadow, a small real body, and a long lower shadow. The pattern is considered to be a bearish reversal pattern, as it indicates that the security’s price is likely to fall after the pattern is formed.
 ===Definition of Shootingstar===
+
 A shooting star is a chart pattern that is formed when a security’s price rises quickly, reaches a peak, and then falls rapidly. The pattern is characterized by a long upper shadow, a small real body, and a long lower shadow. The upper shadow is the highest point of the pattern, while the lower shadow is the lowest point. The real body is the difference between the opening and closing prices. The pattern is considered to be a bearish reversal pattern, as it indicates that the security’s price is likely to fall after the pattern is formed.
 ===History of Shootingstar===
+
 The shooting star pattern was first described by Charles Dow in his book, The [[Dow Theory|Dow Theory]]. Dow was a pioneer in the field of technical analysis and is credited with developing the Dow Jones Industrial Average. The shooting star pattern was later popularized by William O’Neil in his book, How to Make Money in Stocks. O’Neil was a successful investor and founder of the investment research firm, Investor’s Business Daily.
 ===Types of Shootingstar===
+
 There are two types of shooting star patterns: the classic shooting star and the inverted shooting star. The classic shooting star is characterized by a long upper shadow, a small real body, and a long lower shadow. The inverted shooting star is characterized by a long lower shadow, a small real body, and a long upper shadow. Both patterns are considered to be bearish reversal patterns.
 ===Advantages and Disadvantages of Shootingstar===
+
 The shooting star pattern is a useful tool for traders who are looking to identify potential reversals in the market. The pattern is easy to identify and can be used to identify potential entry and exit points in the market. However, the pattern is not always reliable and can be subject to false signals. Additionally, the pattern is not always easy to interpret and can be difficult to distinguish from other chart patterns.
 ===Conclusion===
+
 In conclusion, the shooting star pattern is a useful tool for traders who are looking to identify potential reversals in the market. The pattern is characterized by a long upper shadow, a small real body, and a long lower shadow. The pattern is considered to be a bearish reversal pattern, as it indicates that the security’s price is likely to fall after the pattern is formed. However, the pattern is not always reliable and can be subject to false signals

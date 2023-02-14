@@ -1,11 +1,16 @@
 <seo title="Goodwill Impairment" metakeywords="impairment example goodwill,impairment goodwill impairment,example goodwill impairment,introduction goodwill impairment" metadescription="Goodwill impairment occurs when the fair value of a company’s assets is less than the carrying value of the assets."/>
 ===Introduction to Goodwill Impairment===
+
 Goodwill impairment is an accounting term that refers to the reduction in the value of a company’s [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s, such as its brand name, customer relationships, and reputation. Goodwill impairment occurs when the [[Fair Value|fair value]] of a company’s assets is less than the carrying value of the assets on the company’s [[Balance Sheet|balance sheet]]. This can happen when a company’s performance deteriorates or when the market value of the company’s assets declines. Goodwill impairment is a non-cash expense, meaning that it does not involve the exchange of cash.
 ===Accounting Treatment of Goodwill Impairment===
+
 Goodwill impairment is recorded as an expense on the company’s [[Income Statement|income statement]]. The amount of the impairment is the difference between the carrying value of the assets and the fair value of the assets. The impairment is recorded as a non-cash expense, meaning that it does not involve the exchange of cash. The impairment is also recorded as a reduction in the company’s equity.
 ===Factors Affecting Goodwill Impairment===
+
 There are several factors that can affect the amount of goodwill impairment that a company records. These include the company’s performance, the market value of the company’s assets, and the company’s ability to generate future [[Cash Flow|cash flow]]s. Additionally, the [[Accounting Standard|accounting standard]]s that a company follows can also affect the amount of goodwill impairment that is recorded.
 ===Examples of Goodwill Impairment===
+
 One example of goodwill impairment is when a company’s performance deteriorates and the market value of its assets declines. In this case, the company would record an impairment expense on its income statement for the difference between the carrying value of the assets and the fair value of the assets. Another example of goodwill impairment is when a company acquires another company and the fair value of the acquired company’s assets is less than the carrying value of the assets. In this case, the company would record an impairment expense for the difference between the carrying value of the assets and the fair value of the assets.
 ===Conclusion===
+
 Goodwill impairment is an accounting term that refers to the reduction in the value of a company’s intangible assets. Goodwill impairment is recorded as an expense on the company’s income statement and is a non-cash expense. There are several factors that can affect the amount of goodwill impairment that a company records, including the company’s performance, the market value of the company’s assets, and the accounting standards that the company follows. Examples of goodwill impairment include when a company’s performance deteriorates and when a company acquires another company and the fair value of the acquired company’s assets is less than the carrying value of the assets

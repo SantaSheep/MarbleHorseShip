@@ -1,0 +1,18 @@
+<seo title="Return On Investment" metakeywords="investment roi useful,return investment roi,roi financial metric,calculating roi" metadescription="Return on Investment (ROI) is a financial metric used to measure the profitability of an investment."/>
+===Introduction to Return on Investment===
+
+Return on Investment (ROI) is a financial metric used to measure the profitability of an investment. It is calculated by dividing the net gain or loss of an investment by the total amount invested. ROI is a useful tool for investors to evaluate the performance of their investments and compare them to other investments. It is also used by businesses to measure the efficiency of their investments in terms of the returns they generate.
+===Calculating Return on Investment===
+
+The formula for calculating ROI is simple: ROI = (Gain from Investment – Cost of Investment) / Cost of Investment. The gain from an investment can be either a positive or negative number, depending on the performance of the investment. The cost of an investment is the amount of money that was initially invested.
+
+For example, if an investor invests $100 in a stock and the stock increases in value to $150, the gain from the investment is $50. The ROI in this case would be (50 – 100) / 100 = -0.5, or a 50% loss.
+===Benefits of Return on Investment===
+
+ROI is a useful tool for investors to evaluate the performance of their investments. It allows investors to compare the performance of different investments and make informed decisions about where to invest their money. ROI also helps businesses measure the efficiency of their investments and determine whether they are getting a good return on their investments.
+===Risks of Return on Investment===
+
+While ROI can be a useful tool for investors and businesses, it is important to remember that it is not a perfect measure of performance. ROI does not take into account the [[Time Value Of Money|time value of money]], which means that it does no[[T Account|t account]] for the fact that money invested today is worth more than money invested in the future. Additionally, ROI does not take into account the risk associated with an investment, which can have a significant impact on the performance of an investment.
+===Conclusion===
+
+Return on Investment (ROI) is a financial metric used to measure the profitability of an investment. It is calculated by dividing the net gain or loss of an investment by the total amount invested. ROI is a useful tool for investors to evaluate the performance of their investments and compare them to other investments. It is also used by businesses to measure the efficiency of their investments in terms of the returns they generate. However, it is important to remember that ROI does not take into account the time value of money or the risk associated with an investment, which can have a significant impact on the performance of an investment

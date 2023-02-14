@@ -1,11 +1,16 @@
 <seo title="Merton Model" metakeywords="merton model used,overview merton model,merton model based,introduction merton model" metadescription="The Merton Model is a financial model developed by Robert Merton in 1974."/>
 ===Introduction to the Merton Model===
+
 The Merton Model, also known as the Merton Model of [[Structured Finance|Structured Finance]], is a financial model developed by Robert  Merton in 1974. It is a mathematical model used to analyze the risk of a [[Financial Instrument|financial instrument]] or portfolio of financial instruments. The model is based on the idea that the value of a financial instrument is determined by the expected future [[Cash Flow|cash flow]]s of the instrument. The model is used to calculate the [[Expected Return|expected return]] of a financial instrument, as well as the risk associated with the instrument.
 ===Overview of the Merton Model===
+
 The Merton Model is a mathematical model used to analyze the risk of a financial instrument or portfolio of financial instruments. The model is based on the idea that the value of a financial instrument is determined by the expected future cash flows of the instrument. The model is used to calculate the expected return of a financial instrument, as well as the risk associated with the instrument. The model is based on the assumption that the expected return of a financial instrument is equal to the expected return of the market portfolio. The model also assumes that the expected return of the market portfolio is equal to the risk-free rate plus a risk premium.
 ===Assumptions of the Merton Model===
+
 The Merton Model is based on several assumptions. First, it assumes that the expected return of a financial instrument is equal to the expected return of the market portfolio. Second, it assumes that the expected return of the market portfolio is equal to the risk-free rate plus a risk premium. Third, it assumes that the risk premium is a function of the volatility of the market portfolio. Finally, it assumes that the volatility of the market portfolio is a function of the volatility of the individual financial instruments in the portfolio.
 ===Applications of the Merton Model===
+
 The Merton Model is used to calculate the expected return of a financial instrument, as well as the risk associated with the instrument. The model is used by [[Financial Institution|financial institution]]s to assess the risk of a financial instrument or portfolio of financial instruments. The model is also used by investors to assess the risk of a financial instrument or portfolio of financial instruments.
 ===Limitations of the Merton Model===
+
 The Merton Model has several limitations. First, the model assumes that the expected return of a financial instrument is equal to the expected return of the market portfolio. This assumption may not be accurate in all cases. Second, the model assumes that the expected return of the market portfolio is equal to the risk-free rate plus a risk premium. This assumption may not be accurate in all cases. Third, the model assumes that the risk premium is a function of the volatility of the market portfolio. This assumption may not be accurate in all cases. Finally, the model assumes that the volatility of the market portfolio is a function of the volatility of the individual financia

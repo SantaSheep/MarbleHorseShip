@@ -1,15 +1,22 @@
 <seo title="Jensen S Measure" metakeywords="definition jensensmeasure,jensensmeasure financial measure,definition jensensmeasure jensensmeasure,jensensmeasure jensensmeasure measure" metadescription="Jensensmeasure is a financial measure used to evaluate the performance of a portfolio or fund relative to a benchmark.It is also known as the Jensen Index or the Jensen Alpha."/>
 ===Introduction to Jensensmeasure===
+
 Jensensmeasure is a financial measure used to evaluate the performance of a portfolio or fund relative to a benchmark. It is a measure of the risk-adjusted return of a portfolio or fund, and is used to compare the performance of different investments. It is also known as the Jensen Index or the Jensen Alpha.
 ===Definition of Jensensmeasure===
+
 Jensensmeasure is a measure of the [[Excess Return|excess return]] of a portfolio or fund relative to the return of a benchmark. It is calculated by subtracting the return of the benchmark from the return of the portfolio or fund, and then dividing the result by the [[Standard Deviation|standard deviation]] of the portfolio or fund. The result is expressed as a percentage.
 ===History of Jensensmeasure===
+
 Jensensmeasure was developed by Michael Jensen in 1968. It was originally used to measure the performance of [[Mutual Fund|mutual fund]]s, but has since been used to measure the performance of other investments, such as stocks, bonds, and commodities.
 ===Uses of Jensensmeasure===
+
 Jensensmeasure is used to evaluate the performance of a portfolio or fund relative to a benchmark. It is used to compare the performance of different investments, and to determine whether a portfolio or fund is outperforming or underperforming its benchmark.
 ===Calculating Jensensmeasure===
+
 Jensensmeasure is calculated by subtracting the return of the benchmark from the return of the portfolio or fund, and then dividing the result by the standard deviation of the portfolio or fund. The result is expressed as a percentage.
 ===Advantages and Disadvantages of Jensensmeasure===
+
 The main advantage of Jensensmeasure is that it is a measure of the risk-adjusted return of a portfolio or fund. It takes into account the risk associated with the portfolio or fund, and provides a more accurate measure of performance than other measures, such as the [[Sharpe Ratio|Sharpe ratio]]. The main disadvantage of Jensensmeasure is that it does not take into account the costs associated with the portfolio or fund.
 ===Conclusion===
+
 Jensensmeasure is a measure of the risk-adjusted return of a portfolio or fund relative to a benchmark. It is used to compare the performance of different investments, and to determine whether a portfolio or fund is outperforming or underperforming its benchmark. It is a useful measure for evaluating the performance of a portfolio or fund, but it does not take into account the costs associated with the portfolio or fund

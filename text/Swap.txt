@@ -1,11 +1,16 @@
 <seo title="Swap" metakeywords="swaps commodity swaps,currency swaps,commodity swaps involve,commodity swaps" metadescription="Swaps are used to hedge against risk, to speculate on the direction of interest rates or other financial instruments, and to manage liquidity."/>
 ===Introduction to Swaps===
+
 A swap is a [[Financial Instrument|financial instrument]] that involves two parties exchanging [[Cash Flow|cash flow]]s or other financial instruments over a period of time. Swaps are used to hedge against risk, to speculate on the direction of [[Interest Rate|interest rate]]s or other financial instruments, and to manage liquidity. Swaps are typically used by large [[Financial Institution|financial institution]]s, such as banks, [[Hedge Fund|hedge fund]]s, and insurance companies, but they can also be used by individual investors.
 ===Types of Swaps===
+
 There are several different types of swaps, including [[Interest Rate Swap|interest rate swap]]s, currency swaps, commodity swaps, and [[Credit Default Swap|credit default swap]]s. Interest rate swaps involve exchanging fixed and floating interest rate payments. Currency swaps involve exchanging two different currencies at a predetermined [[Exchange Rate|exchange rate]]. Commodity swaps involve exchanging two different commodities at a predetermined price. Credit default swaps involve exchanging a fixed payment in exchange for a payment if a borrower defaults on a loan.
 ===Advantages and Disadvantages of Swaps===
+
 Swaps can be beneficial for both parties involved in the transaction. For example, a company may use a swap to hedge against interest rate risk, or to speculate on the direction of interest rates. Swaps can also be used to manage liquidity, as they can be used to exchange cash flows over a period of time. However, swaps can also be risky, as they involve the exchange of financial instruments, and can be subject to counterparty risk.
 ===Regulatory Environment of Swaps===
+
 The regulatory environment for swaps has become increasingly stringent in recent years. The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 established the Office of the Comptroller of the Currency (OCC) to oversee the regulation of swaps. The OCC has implemented a number of regulations to ensure that swaps are traded in a fair and transparent manner. These regulations include the requirement that all swap transactions be reported to a swap data repository, and that all swap transactions be cleared through a central clearinghouse.
 ===Conclusion===
+
 Swaps are a popular financial instrument used by large financial institutions and individual investors alike. Swaps can be used to hedge against risk, to speculate on the direction of interest rates or other financial instruments, and to manage liquidity. However, swaps can also be risky, and the regulatory environment for swaps has become increasingly stringent in recent years. It is important for investors to understand the risks associated with swaps before entering into any swap transactions

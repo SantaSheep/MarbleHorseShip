@@ -1,0 +1,23 @@
+<seo title="Atr" metakeywords="market atr measure,atr technical indicator,atr measure,average atr interpretation" metadescription="Average True Range (ATR) is a technical indicator used in the analysis of financial markets."/>
+===Introduction to ATR===
+
+Average True Range (ATR) is a technical indicator used in the analysis of [[Financial Market|financial market]]s. It was developed by J. Welles Wilder Jr. in 1978 and is used to measure the volatility of a security or market. ATR is a measure of the degree of price movement over a given period of time, and is often used to identify potential entry and exit points in the market. ATR is a popular indicator among traders and investors, as it can provide insight into the strength of a trend and the potential for future price movements.
+===History of ATR===
+
+ATR was developed by J. Welles Wilder Jr. in 1978 and was first introduced in his book, New Concepts in Technical Trading Systems. In the book, Wilder outlined the concept of ATR and how it could be used to measure the volatility of a security or market. Since its introduction, ATR has become a popular indicator among traders and investors, as it can provide insight into the strength of a trend and the potential for future price movements.
+===ATR Calculation===
+
+ATR is calculated by taking the average of the absolute values of the differences between the current period's high and low prices, and the previous period's closing price. The formula for ATR is as follows:
+
+ATR = (High - Low + |Close - Previous Close|) / 3
+
+The ATR is then smoothed using a [[Moving Average|moving average]] of the results. The most common moving average used is a 14-period simple moving average.
+===ATR Interpretation===
+
+ATR is used to measure the volatility of a security or market. A higher ATR indicates a higher degree of volatility, while a lower ATR indicates a lower degree of volatility. Traders and investors use ATR to identify potential entry and exit points in the market. A high ATR indicates that the market is volatile and that there is potential for large price movements. A low ATR indicates that the market is less volatile and that there is less potential for large price movements.
+===ATR in Trading Strategies===
+
+ATR can be used in a variety of trading strategies. For example, traders may use ATR to identify potential entry and exit points in the market. A high ATR indicates that the market is volatile and that there is potential for large price movements. A low ATR indicates that the market is less volatile and that there is less potential for large price movements. Traders may also use ATR to set stop-loss orders, as a high ATR indicates that the market is more volatile and that there is a greater risk of large price movements.
+===Conclusion===
+
+In conclusion, ATR is a technical indicator used in the analysis of financial markets. It was developed by J. Welles Wilder Jr. in 1978 and is used to measure the volatility of a security or market. ATR is a measure of the degree of price movement over a given period of time, and is often used to identify potential entry and exit points in the market. ATR is a popular indicator among traders and investors, as it can provide insight into the strength of a trend and the 

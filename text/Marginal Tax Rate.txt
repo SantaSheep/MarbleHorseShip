@@ -1,13 +1,19 @@
 <seo title="Marginal Tax Rate" metakeywords="marginal tax rates,concept marginal tax,marginal tax rate,tax rate marginal" metadescription="Marginal tax rate is the rate of taxation applied to an individualâ€™s income or profits."/>
 ===Introduction to Marginal Tax Rate===
+
 Marginal tax rate is a term used to describe the rate of taxation applied to an individualâ€™s income or profits. It is the rate of tax applied to the last dollar earned by an individual or business. It is important to understand the concept of marginal tax rate in order to make informed decisions about taxes and investments.
 ===History of Marginal Tax Rate===
+
 The concept of marginal tax rate has been around since the early 20th century. In the United States, the first marginal tax rate was introduced in 1913 with the passage of the 16th Amendment to the Constitution. This amendment allowed the federal government to impose an [[Income Tax|income tax]] on individuals and corporations. Since then, the marginal tax rate has been adjusted numerous times to reflect changes in the economy and the political climate.
 ===Types of Marginal Tax Rates===
+
 There are several different types of marginal tax rates. The most common type is the progressive tax rate, which is based on the amount of income earned. This type of tax rate increases as income increases, meaning that those with higher incomes pay a higher rate of tax. Other types of marginal tax rates include the flat tax rate, which is a single rate applied to all income levels, and the regressive tax rate, which is a rate that decreases as income increases.
 ===Calculating Marginal Tax Rate===
+
 Calculating marginal tax rate is relatively simple. The rate is determined by taking the total amount of taxes owed and dividing it by the total amount of [[Taxable Income|taxable income]]. This calculation will give you the marginal tax rate for the individual or business. It is important to note that the marginal tax rate is not the same as the [[Effective Tax Rate|effective tax rate]], which is the average rate of tax paid on all income.
 ===Impact of Marginal Tax Rate===
+
 The marginal tax rate has a significant impact on individuals and businesses. It affects the amount of money that can be saved or invested, as well as the amount of money that can be spent on goods and services. It also affects the amount of money that can be donated to charity or used to pay for education. The marginal tax rate can also have an impact on the overall economy, as it affects the amount of money that is available for investment and consumption.
 ===Conclusion===
+
 Marginal tax rate is an important concept to understand when it comes to taxes and investments. It is the rate of tax applied to the last dollar earned by an individual or business. There are several different types of marginal tax rates, including progressive, flat, and regressive. Calculating marginal tax rate is relatively simple and it has a significant impact on individuals and businesses. Understanding the concept of marginal tax rate is essential for making informed decisions about taxes and investments

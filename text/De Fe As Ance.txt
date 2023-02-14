@@ -1,13 +1,19 @@
 <seo title="De Fe As Ance" metakeywords="finance definition defeasance,defeasance financial term,defeasance defeasance defined,defeasance defined" metadescription="Defeasance is a financial term that refers to the process of replacing a debt obligation with a different security."/>
 ===Introduction to Defeasance===
+
 Defeasance is a financial term that refers to the process of replacing a debt obligation with a different security. It is a way for a borrower to reduce their debt burden without having to pay off the entire loan. Defeasance is often used in the context of [[Corporate Finance|corporate finance]], but it can also be used in other areas such as [[Real Estate|real estate]] and government finance.
 ===Definition of Defeasance===
+
 Defeasance is defined as the substitution of a debt obligation with a different security. This process is used to reduce the debt burden of a borrower without having to pay off the entire loan. The new security is usually a bond or other type of investment that is backed by the borrower’s assets. The new security is typically less risky than the original loan and may have a lower [[Interest Rate|interest rate]].
 ===Types of Defeasance===
+
 There are two main types of defeasance: cash defeasance and synthetic defeasance. Cash defeasance involves the borrower replacing the loan with cash or cash equivalents. Synthetic defeasance involves the borrower replacing the loan with a different security, such as a bond or other investment.
 ===Benefits of Defeasance===
+
 Defeasance can be beneficial for borrowers because it allows them to reduce their debt burden without having to pay off the entire loan. It can also be beneficial for lenders because it allows them to receive a different security that is backed by the borrower’s assets. This can provide them with more security and a higher return on their investment.
 ===Risks of Defeasance===
+
 Defeasance can be risky for both borrowers and lenders. For borrowers, there is the risk that the new security may not perform as expected and may not provide the desired return. For lenders, there is the risk that the new security may not be as secure as the original loan and may not provide the desired return.
 ===Conclusion===
+
 Defeasance is a financial term that refers to the process of replacing a debt obligation with a different security. It can be beneficial for both borrowers and lenders, but there are also risks associated with it. It is important for borrowers and lenders to understand the risks and benefits of defeasance before entering into any agreement

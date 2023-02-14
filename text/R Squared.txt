@@ -1,0 +1,21 @@
+<seo title="R Squared" metakeywords="correlation uses squared,squared used assess,data calculating squared,square correlation coefficient" metadescription="R Squared is a measure of how well a regression model fits the data."/>
+===Introduction to R Squared===
+
+R Squared is a statistical measure that is used to assess the goodness of fit of a regression model. It is also known as the [[Coefficient Of Determination|coefficient of determination]] and is used to measure the strength of the relationship between the independent and dependent variables in a regression model. It is a measure of how well the regression model fits the data.
+===Definition of R Squared===
+
+R Squared is a measure of how well a regression model fits the data. It is calculated by taking the square of the [[Correlation Coefficient|correlation coefficient]] between the independent and dependent variables. The value of R Squared ranges from 0 to 1, with 0 indicating no correlation and 1 indicating a perfect correlation.
+===Uses of R Squared===
+
+R Squared is used to assess the goodness of fit of a regression model. It is used to measure the strength of the relationship between the independent and dependent variables in a regression model. It is also used to compare different regression models and to determine which model is the best fit for the data.
+===Calculating R Squared===
+
+R Squared is calculated by taking the square of the correlation coefficient between the independent and dependent variables. The correlation coefficient is calculated by dividing the covariance of the two variables by the product of their [[Standard Deviation|standard deviation]]s. The formula for calculating R Squared is as follows:
+
+R Squared = (Covariance of  and Y) / (Standard Deviation of  * Standard Deviation of Y)
+===Limitations of R Squared===
+
+R Squared is a measure of how well a regression model fits the data, but it does not tell us anything about the accuracy of the model. It is also not a measure of the predictive power of the model. Additionally, R Squared does not take into account the presence of outliers or other factors that may affect the accuracy of the model.
+===Conclusion===
+
+R Squared is a statistical measure that is used to assess the goodness of fit of a regression model. It is a measure of how well the regression model fits the data and is calculated by taking the square of the correlation coefficient between the independent and dependent variables. It is used to measure the strength of the relationship between the independent and dependent variables in a regression model and to compare different regression models. However, it does not tell us anything about the accuracy of the model or its predictive power

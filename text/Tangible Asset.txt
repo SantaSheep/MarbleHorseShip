@@ -1,13 +1,19 @@
 <seo title="Tangible Asset" metakeywords="tangible assets typically,introduction tangible asset,assets accounting tangible,tangible assets accounting" metadescription="A tangible asset is a physical asset that has a measurable value and can be used to generate income."/>
 ===Introduction to Tangible Asset===
+
 A tangible asset is a physical asset that has a measurable value and can be used to generate income. Tangible assets are typically used in business operations and can include items such as buildings, equipment, inventory, and land. Tangible assets are also known as [[Fixed Asset|fixed asset]]s or long-term assets. They are distinct from [[Intangible Asset|intangible asset]]s, which are non-physical assets such as intellectual property, goodwill, and brand recognition.
 ===Types of Tangible Assets===
+
 Tangible assets can be divided into two main categories: [[Real Asset|real asset]]s and personal assets. Real assets are physical assets that are used in the production of goods and services, such as land, buildings, and equipment. Personal assets are items that are used for personal use, such as furniture, vehicles, and jewelry.
 ===Accounting for Tangible Assets===
+
 When accounting for tangible assets, businesses must record the cost of the asset, any associated costs, and any depreciation or amortization. The cost of the asset is the amount paid for the asset, including any taxes or fees. Associated costs are any additional costs incurred in acquiring the asset, such as installation or delivery fees. Depreciation or amortization is the process of allocating the cost of the asset over its [[Useful Life|useful life]].
 ===Valuation of Tangible Assets===
+
 The value of a tangible asset is determined by its market value, which is the amount that a willing buyer would pay for the asset. The market value of a tangible asset can be determined by appraising the asset or by comparing it to similar assets that have recently been sold.
 ===Taxation of Tangible Assets===
+
 The taxation of tangible assets depends on the type of asset and the jurisdiction in which it is located. In some jurisdictions, tangible assets may be subject to property taxes, while in others they may be exempt. In addition, some jurisdictions may impose [[Capital Gain|capital gain]]s taxes on the sale of tangible assets.
 ===Conclusion===
+
 Tangible assets are physical assets that have a measurable value and can be used to generate income. They are divided into two main categories: real assets and personal assets. When accounting for tangible assets, businesses must record the cost of the asset, any associated costs, and any depreciation or amortization. The value of a tangible asset is determined by its market value, and the taxation of tangible assets depends on the type of asset and the jurisdiction in which it is located

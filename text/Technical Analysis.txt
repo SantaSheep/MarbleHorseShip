@@ -1,11 +1,16 @@
 <seo title="Technical Analysis" metakeywords="technical analysis method,market technical analysis,securities technical analysis,technical analysis" metadescription="Technical analysis is a form of market analysis that uses charts and other tools to identify patterns and trends in the market."/>
 ===Introduction to Technical Analysis===
+
 Technical analysis is a method of analyzing [[Financial Market|financial market]]s and securities by studying past price movements and trading volume. It is a form of market analysis that uses charts and other tools to identify patterns and trends in the market. Technical analysis is used by traders and investors to make decisions about when to buy and sell securities. Technical analysis is based on the idea that prices move in trends and that past price movements can be used to predict future price movements.
 ===Types of Technical Analysis===
+
 There are several different types of technical analysis. These include chart patterns, trend lines, support and resistance levels, [[Moving Average|moving average]]s, and oscillators. Chart patterns are used to identify patterns in the [[Price Action|price action]] of a security. Trend lines are used to identify the direction of a trend. Support and resistance levels are used to identify areas where the price of a security may find support or resistance. Moving averages are used to identify the average price of a security over a period of time. Oscillators are used to identify overbought and oversold conditions in the market.
 ===Benefits of Technical Analysis===
+
 Technical analysis can be a useful tool for traders and investors. It can help identify potential entry and exit points in the market. It can also help identify potential trends and reversals in the market. Technical analysis can also be used to identify areas of support and resistance in the market. This can help traders and investors make more informed decisions about when to buy and sell securities.
 ===Limitations of Technical Analysis===
+
 Although technical analysis can be a useful tool, it is not without its limitations. Technical analysis is based on the assumption that past price movements can be used to predict future price movements. This is not always the case, as market conditions can change quickly and unexpectedly. Technical analysis is also subject to interpretation, which can lead to different interpretations of the same data. Finally, technical analysis does not take into account fundamental factors such as economic news and company earnings.
 ===Conclusion===
+
 Technical analysis is a method of analyzing financial markets and securities by studying past price movements and trading volume. It can be a useful tool for traders and investors, but it is not without its limitations. Technical analysis is based on the assumption that past price movements can be used to predict future price movements, but this is not always the case. Technical analysis is also subject to interpretation, which can lead to different interpretations of the same data. Finally, technical analysis does not take into account fundamental factors such as economic news and company earnings

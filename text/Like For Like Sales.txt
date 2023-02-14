@@ -1,13 +1,19 @@
 <seo title="Like For Like Sales" metakeywords="like sales compare,like like sales,lfl financial metric,sales compare" metadescription="Like-for-Like Sales (LFL) is a financial metric used to measure the performance of a company’s sales over a given period of time."/>
 ===Introduction to Like-for-Like Sales===
+
 Like-for-Like Sales (LFL) is a financial metric used to measure the performance of a company’s sales over a given period of time. It is a measure of the company’s sales growth, excluding any new stores or outlets that have been opened during the period. This metric is used to compare the performance of a company’s existing stores or outlets to its overall sales performance. It is a useful tool for investors and analysts to assess the performance of a company’s existing stores or outlets and to identify potential areas of improvement.
 ===Definition of Like-for-Like Sales===
+
 Like-for-Like Sales is a financial metric that measures the performance of a company’s sales over a given period of time, excluding any new stores or outlets that have been opened during the period. It is calculated by taking the total sales of a company’s existing stores or outlets and subtracting any sales from new stores or outlets that have been opened during the period. The resulting figure is then compared to the total sales of the same period in the previous year. This comparison allows investors and analysts to assess the performance of a company’s existing stores or outlets and to identify potential areas of improvement.
 ===Examples of Like-for-Like Sales===
+
 A company that has opened two new stores in the past year may use Like-for-Like Sales to compare the performance of its existing stores to its overall sales performance. The company would calculate its Like-for-Like Sales by subtracting the sales from the two new stores from its total sales. This figure would then be compared to the total sales of the same period in the previous year. This comparison would allow the company to assess the performance of its existing stores and identify potential areas of improvement.
 ===Advantages of Like-for-Like Sales===
+
 Like-for-Like Sales is a useful tool for investors and analysts to assess the performance of a company’s existing stores or outlets. It allows them to compare the performance of a company’s existing stores or outlets to its overall sales performance, excluding any new stores or outlets that have been opened during the period. This comparison allows investors and analysts to identify potential areas of improvement and to make informed decisions about the company’s future performance.
 ===Disadvantages of Like-for-Like Sales===
+
 Like-for-Like Sales does not take into account any new stores or outlets that have been opened during the period. This means that the performance of a company’s existing stores or outlets may be overstated or understated, depending on the performance of the new stores or outlets. Additionally, Like-for-Like Sales does not take into account any changes in the company’s pricing or product mix, which may also affect the performance of the company’s existing stores or outlets.
 ===Conclusion===
+
 Like-for-Like Sales is a financial metric used to measure the performance of a company’s sales ov

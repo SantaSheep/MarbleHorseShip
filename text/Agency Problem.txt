@@ -1,11 +1,16 @@
 <seo title="Agency Problem" metakeywords="agency problem concept,agency problem principal,agency problem common,principal agency problem" metadescription="The agency problem is a concept in finance that describes the conflict of interest between two parties, the principal and the agent."/>
 ===Introduction to Agency Problem===
+
 The agency problem is a concept in finance that describes the [[Conflict Of Interest|conflict of interest]] between two parties, the principal and the agent, when the agent is acting on behalf of the principal. The principal is the party that has hired the agent to act on their behalf, while the agent is the party that is hired to act on behalf of the principal. The agency problem arises when the interests of the principal and the agent are not aligned, and the agent acts in their own self-interest instead of the principal’s. This can lead to a situation where the agent’s actions are not in the best interest of the principal, and can result in a loss of value for the principal.
 ===Causes of Agency Problem===
+
 The agency problem can arise from a variety of causes. One of the most common causes is the lack of information asymmetry between the principal and the agent. When the principal does not have access to the same information as the agent, the agent can take advantage of this information asymmetry and act in their own self-interest instead of the principal’s. Additionally, the agency problem can arise from the principal’s lack of control over the agent’s actions. If the principal does not have the ability to monitor or control the agent’s actions, the agent can act in their own self-interest instead of the principal’s.
 ===Types of Agency Problem===
+
 The agency problem can take on a variety of forms. One of the most common types of agency problem is the principal-agent problem, which occurs when the interests of the principal and the agent are not aligned. Another type of agency problem is the principal-principal problem, which occurs when two principals have conflicting interests. Additionally, the agency problem can also take the form of the principal-third party problem, which occurs when the interests of the principal and a third party are not aligned.
 ===Solutions to Agency Problem===
+
 There are a variety of solutions to the agency problem. One of the most common solutions is to ensure that the interests of the principal and the agent are aligned. This can be done by providing incentives to the agent that are aligned with the interests of the principal. Additionally, the principal can also monitor and control the actions of the agent to ensure that they are acting in the best interest of the principal. Finally, the principal can also use contracts and other legal instruments to ensure that the agent is acting in the best interest of the principal.
 ===Conclusion===
+
 The agency problem is a concept in finance that describes the conflict of interest between two parties, the principal and the agent, when the agent is acting on behalf of the principal. The agency problem can arise from a variety of causes, such as information asymmetry and lack of control over the agent’s actions. Additionally, the agency problem can take on a variety of forms, such as the principal-agent problem, the principal-principal problem, and the pr

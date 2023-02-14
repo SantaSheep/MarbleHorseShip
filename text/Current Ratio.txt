@@ -1,0 +1,18 @@
+<seo title="Current Ratio" metakeywords="current ratio financial,ratio current assets,liabilities current ratio,obligations current ratio" metadescription="The current ratio is a financial metric used to measure a company’s liquidity and ability to pay short-term obligations."/>
+===Introduction to Current Ratio===
+
+The current ratio is a financial metric used to measure a company’s liquidity and ability to pay short-term obligations. It is calculated by dividing a company’s [[Current Assets|current assets]] by its [[Current Liabilities|current liabilities]]. The current ratio is an important indicator of a company’s financial health and is used by investors and creditors to assess the company’s ability to meet its short-term obligations.
+===Formula for Calculating Current Ratio===
+
+The current ratio is calculated by dividing a company’s current assets by its current liabilities. The formula is as follows:
+
+Current Ratio = Current Assets / Current Liabilities
+===Significance of Current Ratio===
+
+The current ratio is an important indicator of a company’s financial health and is used by investors and creditors to assess the company’s ability to meet its short-term obligations. A higher current ratio indicates that the company has sufficient liquidity to meet its short-term obligations. A lower current ratio indicates that the company may not have sufficient liquidity to meet its short-term obligations.
+===Limitations of Current Ratio===
+
+The current ratio is a useful tool for assessing a company’s liquidity, but it has some limitations. For example, the current ratio does not take into account the quality of the assets or the timing of the liabilities. Additionally, the current ratio does not take into account the company’s long-term debt or other long-term obligations.
+===Conclusion===
+
+The current ratio is a useful tool for assessing a company’s liquidity and ability to pay short-term obligations. It is calculated by dividing a company’s current assets by its current liabilities. A higher current ratio indicates that the company has sufficient liquidity to meet its short-term obligations. However, the current ratio has some limitations and should not be used as the sole indicator of a company’s financial health

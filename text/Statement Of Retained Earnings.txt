@@ -1,13 +1,19 @@
 <seo title="Statement Of Retained Earnings" metakeywords="disadvantages retained earnings,retained earnings statement,retained earnings financial,statement retained earnings" metadescription="Statement of retained earnings is a financial statement that provides a summary of the changes in a company’s retained earnings over a period of time."/>
 ===Introduction to Statement of Retained Earnings===
+
 The statement of [[Retained Earnings|retained earnings]] is a financial statement that provides a summary of the changes in a company’s retained earnings over a period of time. It is used to track the amount of money that a company has earned and retained from its operations. The statement of retained earnings is an important financial statement for investors and creditors to understand the financial health of a company.
 ===Components of a Statement of Retained Earnings===
+
 The statement of retained earnings includes several components. The first component is the beginning retained earnings balance. This is the amount of retained earnings that the company had at the beginning of the period. The second component is the [[Net Income|net income]] or loss for the period. This is the amount of money that the company earned or lost during the period. The third component is the dividends paid out during the period. This is the amount of money that the company paid out to its shareholders as dividends. The fourth component is the ending retained earnings balance. This is the amount of retained earnings that the company had at the end of the period.
 ===How to Calculate Retained Earnings===
+
 Retained earnings can be calculated by subtracting the dividends paid out during the period from the net income or loss for the period. The resulting number is then added to the beginning retained earnings balance to get the ending retained earnings balance.
 ===Advantages of Retained Earnings===
+
 Retained earnings can be used to finance a company’s operations and growth. This can be done without having to take on additional debt or issue more equity. Retained earnings can also be used to pay dividends to shareholders, which can be beneficial for investors.
 ===Disadvantages of Retained Earnings===
+
 Retained earnings can be a source of [[Financial Risk|financial risk]] for a company. If a company has too much retained earnings, it can lead to a decrease in the company’s stock price. Additionally, if a company has too little retained earnings, it can lead to a decrease in the company’s [[Credit Rating|credit rating]].
 ===Conclusion===
+
 The statement of retained earnings is an important financial statement for investors and creditors to understand the financial health of a company. It provides a summary of the changes in a company’s retained earnings over a period of time. Retained earnings can be used to finance a company’s operations and growth, but it can also be a source of financial risk. It is important for investors and creditors to understand the components of a statement of retained earnings and how to calculate retained earnings in order to make informed decisions

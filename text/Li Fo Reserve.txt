@@ -1,9 +1,13 @@
 <seo title="Li Fo Reserve" metakeywords="lifo reserve accounting,lifo reserve difference,lifo reserve calculated,lifo reserve balance" metadescription="The LIFO Reserve is an accounting term used to describe the difference between the cost of inventory under the Last-In-First-Out (LIFO) and the First-in-first-out (FIFo) method."/>
 ===Introduction to Lifo Reserve===
+
 LIFO Reserve is an accounting term used to describe the difference between the cost of inventory under the Last-In-First-Out (LIFO) method and the cost of inventory under the First-In-First-Out (FIFO) method. The LIFO Reserve is the difference between the two costs and is used to adjust the cost of goods sold and the ending inventory balance. The LIFO Reserve is also known as the LIFO Layer or the LIFO Reserve Balance.
 ===Accounting Treatment of Lifo Reserve===
+
 The LIFO Reserve is calculated by subtracting the cost of inventory under the FIFO method from the cost of inventory under the LIFO method. The LIFO Reserve is then used to adjust the cost of goods sold and the ending inventory balance. The cost of goods sold is increased by the amount of the LIFO Reserve, and the ending inventory balance is decreased by the same amount. This adjustment is necessary because the cost of goods sold under the LIFO method is lower than the cost of goods sold under the FIFO method.
 ===Advantages and Disadvantages of Lifo Reserve===
+
 The primary advantage of the LIFO Reserve is that it allows companies to reduce their [[Taxable Income|taxable income]] by reducing the cost of goods sold. This is because the cost of goods sold under the LIFO method is lower than the cost of goods sold under the FIFO method. The disadvantage of the LIFO Reserve is that it can create an inaccurate picture of a company’s financial position. This is because the LIFO Reserve does not reflect the true cost of inventory and can lead to an overstatement of profits.
 ===Conclusion===
+
 The LIFO Reserve is an accounting term used to describe the difference between the cost of inventory under the Last-In-First-Out (LIFO) method and the cost of inventory under the First-In-First-Out (FIFO) method. The LIFO Reserve is used to adjust the cost of goods sold and the ending inventory balance. The primary advantage of the LIFO Reserve is that it allows companies to reduce their taxable income by reducing the cost of goods sold. The disadvantage of the LIFO Reserve is that it can create an inaccurate picture of a company’s financial position

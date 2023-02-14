@@ -1,11 +1,16 @@
 <seo title="Hierarchy Of Gaap" metakeywords="gaap hierarchy gaap,hierarchy gaap accounting,hierarchy gaap important,introduction hierarchy gaap" metadescription="GAAP stands for Generally Accepted Accounting Principles."/>
 ===Introduction to Hierarchy of GAAP===
+
 The Hierarchy of GAAP is a set of [[Accounting Standard|accounting standard]]s that are used to ensure the accuracy and consistency of financial reporting. GAAP stands for Generally Accepted [[Accounting Principles|Accounting Principles]] and is a set of rules and regulations that must be followed by all companies in order to produce accurate [[Financial Statements|financial statements]]. The Hierarchy of GAAP is a way of organizing the various accounting standards into a logical order, making it easier for companies to understand and adhere to the rules.
 ===Levels of GAAP===
+
 The Hierarchy of GAAP is divided into four levels. The first level is the highest and most authoritative level, and consists of the [[Financial Accounting|Financial Accounting]] Standards Board (FASB) Accounting Standards Codification (ASC). This level includes the most authoritative accounting standards, such as the Generally Accepted Accounting Principles (GAAP). The second level consists of the FASB Statements of Financial Accounting Standards (SFAS). This level includes the more specific accounting standards, such as the Statement of Financial Accounting Concepts (SFAC). The third level consists of the FASB Interpretations, which are interpretations of the SFAS. The fourth and lowest level consists of the FASB Technical Bulletins, which are the least authoritative of the four levels.
 ===Examples of GAAP Hierarchy===
+
 An example of the Hierarchy of GAAP is the accounting for inventory. The highest level of the Hierarchy of GAAP is the FASB Accounting Standards Codification (ASC), which states that inventory should be valued at the lower of cost or market. The second level of the Hierarchy of GAAP is the FASB Statements of Financial Accounting Standards (SFAS), which states that inventory should be valued at the lower of cost or net realizable value. The third level of the Hierarchy of GAAP is the FASB Interpretations, which states that inventory should be valued at the lower of cost or net realizable value, less a normal [[Profit Margin|profit margin]]. The fourth and lowest level of the Hierarchy of GAAP is the FASB Technical Bulletins, which states that inventory should be valued at the lower of cost or net realizable value, less a normal profit margin, plus a reasonable allowance for obsolescence.
 ===Benefits of Adhering to GAAP Hierarchy===
+
 Adhering to the Hierarchy of GAAP has many benefits. First, it ensures that financial statements are accurate and consistent. This helps to ensure that investors and other stakeholders have a clear understanding of a company’s financial position. Second, it helps to ensure that companies are in compliance with the various accounting standards. This helps to ensure that companies are not subject to penalties or other sanctions for non-compliance. Finally, it helps to ensure that companies are able to make informed decisions based on accurate and consistent financial information.
 ===Conclusion===
+
 The Hierarchy of GAAP is an important tool for ensuring the accuracy and consistency of financial repo

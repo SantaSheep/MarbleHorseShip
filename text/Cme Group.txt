@@ -1,11 +1,16 @@
 <seo title="Cme Group" metakeywords="mercantile exchange cme,chicago mercantile exchange,exchange cme,cme group provides" metadescription="CME Group was founded in 1898 as the Chicago Butter and Egg Board."/>
 ===Introduction to Cme Group===
+
 CME Group is a global [[Financial Market|financial market]]s company that operates the world’s largest derivatives marketplace. It is the world’s leading and most diverse derivatives marketplace, offering the widest range of futures and options products for [[Risk Management|risk management]]. CME Group provides products and services to customers in more than 100 countries around the world. It is headquartered in Chicago, Illinois, and is listed on the New York Stock Exchange.
 ===History of Cme Group===
+
 CME Group was founded in 1898 as the Chicago Butter and Egg Board, a commodity exchange for the trading of butter and eggs. In 1919, the exchange was renamed the Chicago Mercantile Exchange (CME). Over the years, the exchange has grown and evolved to become the world’s largest derivatives marketplace. In 2007, CME Group merged with the Chicago Board of Trade (CBOT) to form the world’s largest derivatives marketplace.
 ===Products and Services Offered by Cme Group===
+
 CME Group offers a wide range of products and services to its customers. These include futures and options on [[Futures Contract|futures contract]]s, as well as other derivatives products such as [[[[Interest Rate|Interest Rate]] Swap|interest rate swap]]s, foreign exchange, and energy products. CME Group also offers clearing services, market data, and technology solutions.
 ===Financial Performance of Cme Group===
+
 CME Group has seen strong [[Financial Performance|financial performance]] in recent years. In 2020, the company reported total revenue of $4.3 billion, up from $3.9 billion in 2019. [[Net Income|Net income]] for 2020 was $1.7 billion, up from $1.5 billion in 2019. The company’s total assets as of December 31, 2020 were $14.3 billion, up from $13.2 billion in 2019.
 ===Conclusion===
+
 CME Group is a global financial markets company that operates the world’s largest derivatives marketplace. It offers a wide range of products and services to its customers, including futures and options on futures contracts, as well as other derivatives products. The company has seen strong financial performance in recent years, with total revenue and net income increasing in 2020. CME Group is well-positioned to continue to be a leader in the global derivatives marketplace

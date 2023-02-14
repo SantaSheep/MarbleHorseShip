@@ -1,15 +1,22 @@
 <seo title="Nasdaq" metakeywords="market nasdaq trading,introduction nasdaq,nasdaq trading,nasdaq market" metadescription="Nasdaq is a global electronic marketplace for buying and selling securities.It is the second-largest stock exchange in the world by market capitalization."/>
 ===Introduction to Nasdaq===
+
 Nasdaq is a global electronic marketplace for buying and selling securities. It is the second-largest stock exchange in the world by [[Market Capitalization|market capitalization]], behind only the New York Stock Exchange (NYSE). Nasdaq is home to more than 3,000 companies, including some of the world’s most recognizable brands. It is also the home of the world’s first electronic [[Stock Market|stock market]], which was launched in 1971.
 ===History of Nasdaq===
+
 Nasdaq was founded in 1971 as the National Association of Securities Dealers Automated Quotations (NASDAQ). It was created to provide a more efficient way for investors to buy and sell securities. The NASDAQ was the first electronic stock market, and it revolutionized the way stocks were traded. The NASDAQ was initially a dealer-based market, meaning that investors had to go through a broker to buy and sell stocks. In 1997, the NASDAQ became a fully automated market, allowing investors to buy and sell stocks directly from the exchange.
 ===Nasdaq Market Structure===
+
 Nasdaq is a [[Market Maker|market maker]]-driven market, meaning that market makers are responsible for providing liquidity to the market. Market makers are firms that buy and sell securities on the exchange. They are required to maintain two-sided quotes, meaning they must be willing to buy and sell a security at any given time. Nasdaq also has a system of market makers that are responsible for providing liquidity to the market.
 ===Nasdaq Trading Rules===
+
 Nasdaq has a set of rules and regulations that govern the trading of securities on the exchange. These rules are designed to ensure fair and orderly trading. Some of the rules include the minimum tick size, which is the smallest increment that a stock can move in price, and the maximum order size, which is the maximum number of shares that can be traded in a single order. Other rules include the minimum price variation, which is the smallest amount that a stock can move in price, and the maximum order value, which is the maximum dollar value of a single order.
 ===Nasdaq Listing Requirements===
+
 In order to be listed on the Nasdaq, a company must meet certain requirements. These requirements include having a minimum market capitalization of $50 million, a minimum of 400 round lot shareholders, and a minimum of 400,000 publicly held shares. Companies must also have a minimum of three market makers and must meet certain financial requirements.
 ===Nasdaq Market Indices===
+
 Nasdaq has several market indices that track the performance of the stocks listed on the exchange. The most well-known index is the Nasdaq Composite, which tracks the performance of all stocks listed on the exchange. Other indices include the Nasdaq 100, which tracks the performance of the largest 100 stocks on the exchange, and the Nasdaq Biotechnology Index, which tracks the performance of biotechnology stocks.
 ===Conclusion===
+
 Nasdaq is a global electronic marketplace for buying and selling securities. It is the second-largest s

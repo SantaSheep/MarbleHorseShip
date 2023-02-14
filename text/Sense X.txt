@@ -1,0 +1,21 @@
+<seo title="Sense X" metakeywords="introduction sensex sensex,introduction sensex,indian economy sensex,sensex indian economy" metadescription=""/>
+===Introduction to Sensex===
+
+The Sensex, also known as the Bombay Stock Exchange Sensitive Index, is a [[Stock Market|stock market]] index that tracks the performance of 30 of the largest and most actively traded stocks on the Bombay Stock Exchange (BSE). It is one of the oldest and most widely followed stock market indices in India and is considered to be a barometer of the Indian economy. The Sensex is a free-float [[Market Capitalization|market capitalization]]-weighted index, meaning that the stocks included in the index are weighted according to their market capitalization. The index is calculated using a base value of 100, which was set on April 1, 1979.
+===History of Sensex===
+
+The Sensex was first introduced in 1986 as a tool to measure the performance of the Bombay Stock Exchange. The index was created by the BSE in collaboration with the National Stock Exchange of India (NSE) and the Financial Times Stock Exchange (FTSE). The index was initially composed of 30 stocks, which were selected based on their market capitalization and liquidity. The index was initially calculated using a base value of 100, which was set on April 1, 1979. Since then, the index has been adjusted several times to reflect changes in the composition of the index.
+===Components of Sensex===
+
+The Sensex is composed of 30 stocks from different sectors of the Indian economy. The stocks included in the index are selected based on their market capitalization and liquidity. The stocks are weighted according to their market capitalization, meaning that the larger the market capitalization of a stock, the greater its weight in the index. The stocks included in the index are from the following sectors: banking, [[Consumer Goods|consumer goods]], energy, finance, healthcare, industrials, information technology, materials, [[Real Estate|real estate]], and telecommunications.
+===Calculation of Sensex===
+
+The Sensex is calculated using a free-float market capitalization-weighted index. This means that the stocks included in the index are weighted according to their market capitalization. The index is calculated using a base value of 100, which was set on April 1, 1979. The index is calculated using the following formula:
+
+Index Value = (Sum of Market Capitalization of All Stocks in the Index) / (Base Value of the Index)
+===Impact of Sensex on Indian Economy===
+
+The Sensex is considered to be a barometer of the Indian economy and is widely followed by investors, analysts, and economists. The index is used to measure the performance of the Indian stock market and is used as a benchmark for the performance of the Indian economy. The Sensex is also used to gauge investor sentiment and to assess the performance of the Indian stock market.
+===Conclusion===
+
+The Sensex is one of the oldest and most widely followed stock market indices in India and is considered to be a barometer of the Indian economy. The index is composed of 30 stocks from different sectors of the Indian economy and is calculated using a free-float market capitalization-weighted ind

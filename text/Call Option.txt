@@ -1,11 +1,16 @@
 <seo title="Call Option" metakeywords="advantages calloptions options,introduction calloption option,disadvantages calloptions,advantages calloptions" metadescription="A call option is a financial derivative that gives the holder the right, but not the obligation, to buy an underlying asset at a predetermined price."/>
 ===Introduction to Calloption===
+
 A call option is a type of financial derivative that gives the holder the right, but not the obligation, to buy an underlying asset at a predetermined price on or before a specified date. Call options are typically used by investors to speculate on the future price of an asset or to hedge against potential losses. They are also used by companies to raise capital and to manage risk.
 ===Types of Calloptions===
+
 There are two main types of call options: American-style and European-style. American-style call options can be exercised at any time before the expiration date, while European-style call options can only be exercised on the expiration date. Additionally, there are two types of call options based on the underlying asset: equity call options and index call options. Equity call options are based on the price of a single stock, while index call options are based on the price of a stock index, such as the S&P 500.
 ===Advantages of Calloptions===
+
 Call options offer several advantages to investors. First, they provi[[De Leverage|de leverage]], meaning that investors can control a large amount of an underlying asset with a relatively small investment. Second, they provide the potential for large profits with limited risk. Third, they can be used to hedge against potential losses. Finally, they can be used to speculate on the future price of an asset.
 ===Disadvantages of Calloptions===
+
 Despite the advantages of call options, there are also some potential drawbacks. First, they can be expensive to purchase, as the cost of the option is determined by the underlying assetâ€™s volatility. Second, they can be difficult to understand, as the pricing of options is complex. Third, they can be risky, as the potential for large losses is always present. Finally, they can be difficult to sell, as the market for options is often illiquid.
 ===Conclusion===
+
 Call options are a type of financial derivative that can be used by investors to speculate on the future price of an asset or to hedge against potential losses. They offer several advantages, such as leverage, potential for large profits, and the ability to hedge against losses. However, they can also be expensive, difficult to understand, and risky. As such, investors should carefully consider the risks and rewards before investing in call options

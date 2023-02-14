@@ -1,13 +1,19 @@
 <seo title="Cogs" metakeywords="cogs cost goods,goods sold cogs,cogs defined cost,goods cogs used" metadescription="Cogs is an important concept in accounting and finance.It is a measure of the cost of goods that have been sold during a given period of time."/>
 ===Introduction to Cogs===
+
 Cogs, or cost of goods sold, is an important concept in accounting and finance. It is a measure of the cost of goods that have been sold during a given period of time. Cogs is used to calculate the [[Gross Profit|gross profit]] of a business, which is the difference between the total revenue and the cost of goods sold. Cogs is also used to measure the efficiency of a business in terms of its ability to generate profits from the sale of goods.
 ===Definition of Cogs===
+
 Cogs is defined as the cost of goods sold during a given period of time. This includes the cost of materials, labor, and overhead associated with the production of the goods. Cogs is calculated by subtracting the cost of goods available for sale from the cost of goods sold. This calculation is used to determine the gross profit of a business.
 ===Examples of Cogs===
+
 Cogs can be used to measure the cost of goods sold in a variety of industries. For example, in the retail industry, cogs can be used to measure the cost of goods sold in a store. In the manufacturing industry, cogs can be used to measure the cost of materials, labor, and overhead associated with the production of goods. In the service industry, cogs can be used to measure the [[Cost Of Labor|cost of labor]] and overhead associated with providing services.
 ===Accounting Treatment of Cogs===
+
 Cogs is typically recorded as an expense on the [[Income Statement|income statement]]. This expense is then subtracted from the total revenue to calculate the gross profit of a business. The gross profit is then used to calculate the net profit of a business.
 ===Advantages and Disadvantages of Cogs===
+
 Cogs is a useful tool for measuring the efficiency of a business in terms of its ability to generate profits from the sale of goods. Cogs can also be used to compare the cost of goods sold in different industries. However, cogs can be difficult to calculate accurately, as it requires an accurate accounting of the cost of materials, labor, and overhead associated with the production of goods.
 ===Conclusion===
+
 Cogs is an important concept in accounting and finance. It is a measure of the cost of goods that have been sold during a given period of time. Cogs is used to calculate the gross profit of a business, which is the difference between the total revenue and the cost of goods sold. Cogs is also used to measure the efficiency of a business in terms of its ability to generate profits from the sale of goods. Cogs can be a useful tool for measuring the efficiency of a business, but it can also be difficult to calculate accurately

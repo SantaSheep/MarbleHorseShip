@@ -1,13 +1,19 @@
 <seo title="Effective Duration" metakeywords="effective duration defined,effective duration important,effective duration relatively,calculation effective duration" metadescription="Effective duration is a measure of the average life of a bond’s cash flows."/>
 ===Introduction to Effective Duration===
+
 Effective duration is a measure of the sensitivity of a bond’s price to changes in [[Interest Rate|interest rate]]s. It is a measure of the average life of a bond’s [[Cash Flow|cash flow]]s, taking into account the [[Present Value|present value]] of each cash flow and the timing of the cash flows. Effective duration is an important tool for investors and financial professionals to understand the risk of a bond portfolio and to make decisions about how to manage the portfolio.
 ===Definition of Effective Duration===
+
 Effective duration is defined as the [[Percentage Change|percentage change]] in the price of a bond for a given change in interest rates. It is calculated by taking the present value of each cash flow from the bond and weighting it by the time until the cash flow is received. The weighted present value of each cash flow is then summed to calculate the effective duration.
 ===Calculation of Effective Duration===
+
 The calculation of effective duration is relatively straightforward. First, the present value of each cash flow from the bond is calculated. This is done by discounting each cash flow by the current interest rate. The present value of each cash flow is then weighted by the time until the cash flow is received. The weighted present value of each cash flow is then summed to calculate the effective duration.
 ===Uses of Effective Duration===
+
 Effective duration is a useful tool for investors and financial professionals to understand the risk of a bond portfolio. It can be used to compare the sensitivity of different bonds to changes in interest rates. It can also be used to estimate the potential impact of changes in interest rates on the value of a bond portfolio.
 ===Limitations of Effective Duration===
+
 Effective duration is a useful tool, but it has some limitations. It does not take into account the potential impact of changes in credit quality or other factors that may affect the price of a bond. It also does not take into account the potential impact of changes in the [[Yield Curve|yield curve]].
 ===Conclusion===
+
 Effective duration is a useful tool for investors and financial professionals to understand the risk of a bond portfolio. It is a measure of the sensitivity of a bond’s price to changes in interest rates and can be used to compare the sensitivity of different bonds to changes in interest rates. However, it has some limitations and does not take into account the potential impact of changes in credit quality or other factors that may affect the price of a bond

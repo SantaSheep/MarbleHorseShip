@@ -1,11 +1,16 @@
 <seo title="Adr" metakeywords="foreign companies adrs,adrs investing,associated adrs investing,adrs listed exchanges" metadescription="American Depositary Receipts (ADRs) are a type of financial instrument that allows foreign companies to list their shares on U.S. stock exchanges."/>
 ===Introduction to ADR===
+
 American Depositary Receipts (ADRs) are a type of [[Financial Instrument|financial instrument]] that allows foreign companies to list their shares on U.S. stock exchanges. ADRs are created when a [[U.s. Bank|U.S. bank]] purchases shares of a foreign company and issues receipts for those shares. The ADRs are then listed on U.S. exchanges, allowing investors to buy and sell the foreign companyâ€™s shares without having to purchase the actual shares. ADRs are denominated in U.S. dollars and are traded in the same manner as domestic stocks.
 ===Types of ADR===
+
 There are two types of ADRs: sponsored and unsponsored. A sponsored ADR is issued by a foreign company that has a relationship with a U.S. bank. The bank acts as the depositary for the ADRs and is responsible for handling the paperwork associated with the ADRs. An unsponsored ADR is issued by a foreign company that does not have a relationship with a U.S. bank. In this case, the ADRs are issued by a third-party depositary.
 ===Benefits of ADR===
+
 ADRs offer a number of benefits to both foreign companies and investors. For foreign companies, ADRs provide access to the U.S. [[Capital Markets|capital markets]], allowing them to raise capital and increase their visibility in the U.S. For investors, ADRs provide an easy way to invest in foreign companies without having to purchase the actual shares. Additionally, ADRs are denominated in U.S. dollars, making them easier to understand and trade.
 ===Risks of ADR===
+
 ADRs also carry a number of risks. For foreign companies, there is the risk that the ADRs will not be successful and the company will not be able to raise the capital it needs. Additionally, there is the risk that the ADRs will be subject to greater volatility than the underlying shares. For investors, there is the risk that the ADRs will not perform as expected and the investor will lose money. Additionally, there is the risk that the ADRs will be subject to currency fluctuations, which can affect the value of the ADRs.
 ===Conclusion===
+
 ADRs are a useful financial instrument that can provide foreign companies with access to the U.S. capital markets and provide investors with an easy way to invest in foreign companies. However, ADRs also carry a number of risks that should be considered before investing. It is important to understand the risks associated with ADRs before investing in them

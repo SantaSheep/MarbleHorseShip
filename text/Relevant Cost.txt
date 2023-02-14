@@ -1,13 +1,19 @@
 <seo title="Relevant Cost" metakeywords="definition relevant cost,relevant cost defined,relevant cost concept,relevant costs costs" metadescription="Relevant cost is a cost that is relevant to a particular decision and can be used to determine the best course of action."/>
 ===Introduction to Relevant Cost===
+
 Relevant cost is a concept used in [[Managerial Accounting|managerial accounting]] and decision-making. It is a cost that is relevant to a particular decision and can be used to determine the best course of action. Relevant cost is a tool used to help managers make decisions that are in the best interest of the company. It is important to understand the concept of relevant cost in order to make the best decisions for the company.
 ===Definition of Relevant Cost===
+
 Relevant cost is defined as a cost that is relevant to a particular decision and can be used to determine the best course of action. It is a cost that is expected to change as a result of a decision. Relevant costs are those costs that are expected to be incurred in the future and are directly related to the decision being made. Relevant costs are also known as differential costs or [[Incremental Cost|incremental cost]]s.
 ===Examples of Relevant Cost===
+
 One example of a relevant cost is the cost of materials for a new product. If a company is considering producing a new product, the cost of the materials needed to produce the product is a relevant cost. Another example of a relevant cost is the [[Cost Of Labor|cost of labor]] for a new project. If a company is considering taking on a new project, the cost of labor needed to complete the project is a relevant cost.
 ===Advantages of Relevant Cost===
+
 The main advantage of relevant cost is that it helps managers make decisions that are in the best interest of the company. By considering only the costs that are relevant to the decision, managers can make decisions that are more informed and that will have the best outcome for the company. Relevant cost also helps managers to identify opportunities for cost savings. By considering only the relevant costs, managers can identify areas where costs can be reduced or eliminated.
 ===Disadvantages of Relevant Cost===
+
 One disadvantage of relevant cost is that it can be difficult to identify all of the relevant costs associated with a decision. It can be difficult to determine which costs are relevant and which are not. Additionally, relevant cost does not take into account the long-term effects of a decision. While relevant cost can help managers make decisions that are in the best interest of the company in the short-term, it does not take into account the long-term effects of a decision.
 ===Conclusion===
+
 Relevant cost is a concept used in managerial accounting and decision-making. It is a cost that is relevant to a particular decision and can be used to determine the best course of action. Relevant cost is a tool used to help managers make decisions that are in the best interest of the company. The main advantage of relevant cost is that it helps managers make decisions that are in the best interest of the company. However, it can be difficult to identify all of the relevant costs associated with a decision and it does not take into account the long-term effects of a decision

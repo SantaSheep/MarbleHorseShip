@@ -1,0 +1,24 @@
+<seo title="Accrual Accounting" metakeywords="disadvantages accrual accounting,advantages accrual accounting,accrual accounting advantages,disadvantage accrual accounting" metadescription="Accrual accounting records economic events as they occur, regardless of when cash is exchanged."/>
+===Introduction to Accrual Accounting===
+
+Accrual accounting is an [[Accounting Method|accounting method]] that records economic events as they occur, regardless of when cash is exchanged. This method of accounting is used to match revenues and expenses to the period in which they were incurred, rather than when they were paid or received. Accrual accounting is the most commonly used accounting method in the United States and is required for companies that are publicly traded.
+===Advantages of Accrual Accounting===
+
+Accrual accounting has several advantages over cash-based accounting. First, it provides a more accurate picture of a company’s financial position. By recording transactions as they occur, accrual accounting allows companies to better track their income and expenses. This helps them make more informed decisions about their finances. Additionally, accrual accounting allows companies to better plan for future expenses and income.
+
+Accrual accounting also allows companies to better manage their taxes. By recording transactions as they occur, companies can better track their [[Taxable Income|taxable income]] and expenses. This helps them to better plan for their taxes and ensure that they are paying the correct amount.
+
+Finally, accrual accounting allows companies to better track their inventory. By recording transactions as they occur, companies can better track their inventory levels and ensure that they have enough inventory to meet customer demand.
+===Disadvantages of Accrual Accounting===
+
+Accrual accounting does have some disadvantages. First, it can be more complicated than cash-based accounting. Accrual accounting requires companies to track multiple transactions and accounts, which can be time-consuming and difficult to manage. Additionally, accrual accounting can be more difficult to understand for those who are not familiar with [[Accounting Principles|accounting principles]].
+
+Another disadvantage of accrual accounting is that it can be more difficult to track [[Cash Flow|cash flow]]. Since accrual accounting records transactions as they occur, it does not always provide an accurate picture of a company’s cash flow. This can make it difficult for companies to manage their cash flow and make informed decisions about their finances.
+===Examples of Accrual Accounting===
+
+Accrual accounting is used in a variety of situations. For example, companies use accrual accounting to record the sale of goods and services. When a customer purchases a product or service, the company records the sale as a receivable. When the customer pays for the product or service, the company records the payment as a revenue.
+
+Accrual accounting is also used to record the purchase of inventory. When a company purchases inventory, it records the purchase as an expense. When the inventory is sold, the company records the sale as a revenue.
+===Conclusion===
+
+Accrual accounting is an importan[[T Account|t account]]ing method that is used by companies to better track their income and expenses. It provides a more accurate picture of a company’s fi

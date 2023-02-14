@@ -1,13 +1,19 @@
 <seo title="Acquisition Accounting" metakeywords="accounting acquisition accounting,acquisition accounting used,acquisition accounting,acquisition accounting involves" metadescription="Acquisition accounting is used to record the purchase of a business or assets by another business."/>
 ===Introduction to Acquisition Accounting===
+
 Acquisiti[[On Account|on account]]ing is a type of accounting that is used to record the purchase of a business or assets by another business. It is a specialized form of accounting that is used to record the purchase of a business or assets, and the subsequent changes in the [[Financial Statements|financial statements]] of the acquiring company. Acquisition accounting is used to ensure that the financial statements of the acquiring company accurately reflect the purchase of the business or assets.
 ===Overview of Acquisition Accounting===
+
 Acquisition accounting is a specialized form of accounting that is used to record the purchase of a business or assets by another business. It is used to ensure that the financial statements of the acquiring company accurately reflect the purchase of the business or assets. The process of acquisition accounting involves the recording of the purchase price, the [[Fair Value|fair value]] of the assets acquired, and the liabilities assumed. The purchase price is the amount paid for the business or assets, and the fair value of the assets is the estimated value of the assets at the time of purchase. The liabilities assumed are the liabilities that the acquiring company assumes as a result of the purchase.
 ===Types of Acquisition Accounting===
+
 There are two main types of acquisition accounting: purchase accounting and pooling of interests accounting. Purchase accounting is used when the purchase price of the business or assets is greater than the fair value of the assets. In this case, the difference between the purchase price and the fair value of the assets is recorded as goodwill. Pooling of interests accounting is used when the purchase price of the business or assets is equal to the fair value of the assets. In this case, the purchase price is recorded as the cost of the assets and the liabilities assumed are recorded as the liabilities of the acquiring company.
 ===Benefits of Acquisition Accounting===
+
 Acquisition accounting provides a number of benefits to the acquiring company. It ensures that the financial statements of the acquiring company accurately reflect the purchase of the business or assets. It also allows the acquiring company to record the purchase price, the fair value of the assets acquired, and the liabilities assumed. This information is important for the acquiring company to assess the financial impact of the purchase.
 ===Challenges of Acquisition Accounting===
+
 Acquisition accounting can be a complex process and can be challenging for the acquiring company. It requires the acquiring company to accurately record the purchase price, the fair value of the assets acquired, and the liabilities assumed. It also requires the acquiring company to assess the financial impact of the purchase and to ensure that the financial statements accurately reflect the purchase.
 ===Conclusion===
+
 Acquisition accounting is a specialized form of accounting that is used to record the purchase of a business or ass

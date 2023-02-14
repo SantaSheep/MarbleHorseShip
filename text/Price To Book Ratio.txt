@@ -1,11 +1,16 @@
 <seo title="Price To Book Ratio" metakeywords="price book ratio,book ratio price,ratio price book,book ratio ratio" metadescription="Price to book ratio (P/B ratio) is a financial ratio used to compare a company’s current market price to its book value."/>
 ===Introduction to Price To Book Ratio===
+
 Price to book ratio (P/B ratio) is a financial ratio used to compare a company’s current market price to its [[Book Value|book value]]. It is calculated by dividing the current market price of a company’s stock by its book value per share. The P/B ratio is used to assess the value of a company’s stock and to compare it to other companies in the same industry. It is also used to determine whether a company is undervalued or overvalued.
 ===Calculation of Price To Book Ratio===
+
 The P/B ratio is calculated by dividing the current market price of a company’s stock by its book value per share. The book value per share is calculated by subtracting the company’s [[Total Liabilities|total liabilities]] from its total assets and then dividing the result by the number of outstanding shares. For example, if a company has a market price of $50 per share and a book value per share of $20, the P/B ratio would be 2.5 ($50/$20).
 ===Uses of Price To Book Ratio===
+
 The P/B ratio is used to assess the value of a company’s stock and to compare it to other companies in the same industry. It is also used to determine whether a company is undervalued or overvalued. A P/B ratio of less than 1 indicates that the stock is undervalued, while a P/B ratio of greater than 1 indicates that the stock is overvalued. Investors can use the P/B ratio to identify potential investments that may be undervalued.
 ===Limitations of Price To Book Ratio===
+
 The P/B ratio is a useful tool for assessing the value of a company’s stock, but it has some limitations. For example, the P/B ratio does not take into account the company’s future earnings potential or its competitive position in the industry. Additionally, the P/B ratio does not take into account the company’s debt or other liabilities.
 ===Conclusion===
+
 The P/B ratio is a useful tool for assessing the value of a company’s stock. It is calculated by dividing the current market price of a company’s stock by its book value per share. The P/B ratio is used to assess the value of a company’s stock and to compare it to other companies in the same industry. It is also used to determine whether a company is undervalued or overvalued. However, the P/B ratio has some limitations and should not be used as the sole basis for making an investment decision

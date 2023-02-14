@@ -1,13 +1,19 @@
 <seo title="Simple Random Sample" metakeywords="simple random sample,random sample study,random sample simple,sample definition simple" metadescription="Simple random sampling is a sampling method used in statistical analysis."/>
 ===Introduction to Simple Random Sample===
+
 A simple random sample is a type of sampling method used in statistical analysis. It is a method of selecting a subset of individuals from a larger population in order to study the characteristics of the population as a whole. This type of sampling is used in a variety of fields, including economics, sociology, psychology, and marketing. The goal of a simple random sample is to ensure that each individual in the population has an equal chance of being selected for the sample.
 ===Definition of Simple Random Sample===
+
 A simple random sample is a type of sampling method in which each individual in the population has an equal chance of being selected for the sample. This type of sampling is used to study the characteristics of a population as a whole. The sample size is typically determined by the researcher, and the individuals are selected randomly from the population.
 ===Examples of Simple Random Sample===
+
 Simple random sampling is used in a variety of fields, including economics, sociology, psychology, and marketing. For example, a researcher may use a simple random sample to study the spending habits of a population. The researcher would select a sample size and then randomly select individuals from the population to be included in the sample.
 ===Advantages of Simple Random Sample===
+
 One of the main advantages of simple random sampling is that it ensures that each individual in the population has an equal chance of being selected for the sample. This helps to ensure that the sample is representative of the population as a whole. Additionally, simple random sampling is relatively easy to implement and does not require a large amount of resources.
 ===Disadvantages of Simple Random Sample===
+
 One of the main disadvantages of simple random sampling is that it can be difficult to obtain a representative sample. This is because the sample size is typically determined by the researcher, and the individuals are selected randomly from the population. Additionally, simple random sampling can be time-consuming and costly.
 ===Conclusion===
+
 In conclusion, simple random sampling is a type of sampling method used in statistical analysis. It is a method of selecting a subset of individuals from a larger population in order to study the characteristics of the population as a whole. This type of sampling is used in a variety of fields, including economics, sociology, psychology, and marketing. The main advantages of simple random sampling are that it ensures that each individual in the population has an equal chance of being selected for the sample and that it is relatively easy to implement. However, the main disadvantage of simple random sampling is that it can be difficult to obtain a representative sample

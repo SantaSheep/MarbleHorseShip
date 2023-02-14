@@ -1,13 +1,19 @@
 <seo title="Margin" metakeywords="margin financial markets,margin trading margin,margin trading,financial markets margin" metadescription="Margin is an important concept in finance because it helps to ensure that investors and lenders are protected from losses due to default or market volatility."/>
 ===Introduction to Margin===
+
 Margin is a term used in finance to refer to the amount of money that an investor must put up in order to purchase a security or other [[Financial Instrument|financial instrument]]. It is also used to refer to the amount of money that a lender requires a borrower to put up as collateral for a loan. Margin is an important concept in finance because it helps to ensure that investors and lenders are protected from losses due to default or market volatility.
 ===Margin in Financial Markets===
+
 In [[Financial Market|financial market]]s, margin is used to refer to the amount of money that an investor must put up in order to purchase a security or other financial instrument. This is known as the initial margin requirement. The initial margin requirement is typically set by the exchange or broker and is based on the volatility of the security or instrument being purchased. The initial margin requirement is designed to protect the investor from losses due to market volatility.
 ===Margin Requirements===
+
 In addition to the initial margin requirement, there are also other margin requirements that must be met in order to purchase a security or other financial instrument. These include maintenance margin requirements, which are designed to ensure that the investor has enough money in their account to cover any losses due to market volatility. There are also [[Margin Call|margin call]] requirements, which are designed to ensure that the investor has enough money in their account to cover any losses due to market volatility.
 ===Margin Trading===
+
 Margin trading is a type of trading that allows investors to purchase securities or other financial instruments with borrowed money. This type of trading is often used by investors who are looking to leverage their capital in order to increase their potential returns. However, margin trading can also be risky because it increases the potential for losses due to market volatility.
 ===Margin Call===
+
 A margin call is a demand from a broker or exchange for an investor to deposit additional funds into their account in order to cover any losses due to market volatility. If an investor does not meet the margin call, their position may be liquidated in order to cover the losses.
 ===Conclusion===
+
 Margin is an important concept in finance that is used to protect investors and lenders from losses due to default or market volatility. Margin is used to refer to the amount of money that an investor must put up in order to purchase a security or other financial instrument. There are also other margin requirements that must be met in order to purchase a security or other financial instrument. Margin trading is a type of trading that allows investors to purchase securities or other financial instruments with borrowed money. Finally, a margin call is a demand from a broker or exchange for an investor to deposit additional funds into their account in order to cover any losses due to market volatility

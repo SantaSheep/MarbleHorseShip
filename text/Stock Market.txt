@@ -1,13 +1,19 @@
 <seo title="Stock Market" metakeywords="introduction stockmarket,introduction stockmarket stock,investing stock market,markets stocks" metadescription="The stock market is a financial market where stocks, bonds, and other securities are bought and sold."/>
 ===Introduction to Stockmarket===
+
 The stock market is a [[Financial Market|financial market]] where stocks, bonds, and other securities are bought and sold. It is a place where investors can buy and sell shares of publicly traded companies. The stock market is a key component of the global economy, as it provides a platform for companies to raise capital and for investors to buy and sell shares of those companies. The stock market is also a source of liquidity for investors, as it allows them to quickly and easily buy and sell shares of companies.
 ===History of Stockmarket===
+
 The stock market has a long and storied history. The first stock exchange was established in Amsterdam in 1602, and the first stock exchange in the United States was established in Philadelphia in 1790. Since then, the stock market has grown to become a major part of the global economy. Today, there are stock exchanges all over the world, including the New York Stock Exchange, the London Stock Exchange, and the Tokyo Stock Exchange.
 ===Types of Stockmarket===
+
 There are several different types of stock markets. The most common type is the primary market, which is where companies issue new shares of stock to the public. The secondary market is where investors buy and sell existing shares of stock. There are also derivative markets, which are markets for derivatives such as futures and options. Finally, there are over-the-counter markets, which are markets for stocks that are not listed on any exchange.
 ===Benefits of Stockmarket===
+
 The stock market provides many benefits to investors and companies alike. For investors, the stock market provides an opportunity to make money by buying and selling shares of companies. It also provides a way to diversify their investments, as they can buy shares of many different companies. For companies, the stock market provides a way to raise capital to fund their operations.
 ===Risks of Stockmarket===
+
 The stock market is not without its risks. Investing in the stock market carries the risk of losing money, as the value of stocks can go down as well as up. Additionally, the stock market is subject to market volatility, which can cause prices to fluctuate rapidly. Finally, there is the risk of fraud, as there are always unscrupulous individuals looking to take advantage of unsuspecting investors.
 ===Conclusion===
+
 The stock market is a key component of the global economy, as it provides a platform for companies to raise capital and for investors to buy and sell shares of those companies. It provides many benefits to investors and companies alike, but it also carries risks. It is important for investors to understand the risks associated with investing in the stock market and to make informed decisions when investing

@@ -1,13 +1,19 @@
 <seo title="Debit Card" metakeywords="debit cards drawbacks,account drawbacks debitcards,debitcard using,drawbacks debitcards debit" metadescription="A debit card is a payment card that allows the user to access funds from their bank account."/>
 ===Introduction to Debitcard===
+
 A debit card is a payment card that allows the user to access funds from their bank account. It is similar to a [[Credit Card|credit card]], but instead of borrowing money from the bank, the user is spending their own money. Debit cards are accepted at most stores and online retailers, and can be used to make purchases, withdraw cash from ATMs, and transfer money between accounts. Debit cards are a convenient and secure way to manage finances, and are becoming increasingly popular.
 ===Types of Debitcards===
+
 There are two main types of debit cards: traditional debit cards and prepaid debit cards. Traditional debit cards are linked to a checking or savings account, and the user can spend up to the amount of money in the account. Prepaid debit cards are not linked to a bank account, and the user can only spend up to the amount of money that has been loaded onto the card.
 ===Benefits of Debitcards===
+
 Debit cards offer a number of benefits to users. They are convenient and easy to use, and can be used to make purchases anywhere that accepts debit cards. They are also secure, as the user’s bank account information is not shared with the merchant. Debit cards also offer users the ability to track their spending, as all transactions are recorded in the user’s bank account.
 ===Drawbacks of Debitcards===
+
 Debit cards do have some drawbacks. If the user’s card is lost or stolen, the user’s bank account can be accessed and funds can be withdrawn without the user’s permission. Additionally, if the user does not have enough money in their account to cover a purchase, the transaction may be declined.
 ===How to Use a Debitcard===
+
 Using a debit card is simple. To make a purchase, the user simply swipes their card at the [[Point Of Sale|point of sale]] and enters their PIN. The user can also use their card to withdraw cash from an ATM, or to transfer money between accounts.
 ===Conclusion===
+
 Debit cards are a convenient and secure way to manage finances. They are accepted at most stores and online retailers, and offer users the ability to track their spending. However, users should be aware of the potential risks associated with debit cards, such as the risk of fraud or theft. With proper use and security measures, debit cards can be a safe and effective way to manage finances

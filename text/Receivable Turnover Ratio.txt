@@ -1,0 +1,20 @@
+<seo title="Receivable Turnover Ratio" metakeywords="turnover ratio receivables,receivable turnover ratio,receivable turnover,introduction receivable turnover" metadescription="Receivable Turnover Ratio is a financial metric used to measure the efficiency of a company’s accounts receivable."/>
+===Introduction to Receivable Turnover Ratio===
+
+Receivable Turnover Ratio is a financial metric used to measure the efficiency of a company’s [[Accounts Receivable|accounts receivable]]. It is calculated by dividing the total net credit sales of a company by its average accounts receivable. This ratio is used to measure the liquidity of a company’s accounts receivable and to assess the company’s ability to collect payments from its customers.
+===Calculation of Receivable Turnover Ratio===
+
+The Receivable Turnover Ratio is calculated by dividing the total net credit sales of a company by its average accounts receivable. The formula for calculating the Receivable Turnover Ratio is as follows:
+
+Receivable Turnover Ratio = Total Net Credit Sales / Average Accounts Receivable
+
+The total net credit sales are the total sales of a company minus any returns or discounts. The average accounts receivable is calculated by taking the total accounts receivable at the beginning of the period and the total accounts receivable at the end of the period and dividing them by two.
+===Significance of Receivable Turnover Ratio===
+
+The Receivable Turnover Ratio is an important financial metric for companies as it provides insight into the company’s ability to collect payments from its customers. A high Receivable Turnover Ratio indicates that the company is able to collect payments from its customers quickly and efficiently. On the other hand, a low Receivable Turnover Ratio indicates that the company is having difficulty collecting payments from its customers.
+===Limitations of Receivable Turnover Ratio===
+
+The Receivable Turnover Ratio is a useful financial metric, but it has some limitations. For example, the Receivable Turnover Ratio does not take into account the quality of the receivables. A company may have a high Receivable Turnover Ratio, but the receivables may be of poor quality. Additionally, the Receivable Turnover Ratio does not take into account the terms of the receivables. A company may have a high Receivable Turnover Ratio, but the terms of the receivables may be unfavorable.
+===Conclusion===
+
+The Receivable Turnover Ratio is a useful financial metric for companies as it provides insight into the company’s ability to collect payments from its customers. A high Receivable Turnover Ratio indicates that the company is able to collect payments from its customers quickly and efficiently. However, the Receivable Turnover Ratio has some limitations as it does not take into account the quality or terms of the receivables

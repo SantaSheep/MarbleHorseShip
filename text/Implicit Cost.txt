@@ -1,11 +1,16 @@
 <seo title="Implicit Cost" metakeywords="business implicit costs,implicit cost businesses,businesses implicit costs,costs implicit costs" metadescription="Implicit costs are not recorded in the books of accounts, but they still have an impact on the profitability of a business."/>
 ===Introduction to Implicit Cost===
+
 Implicit cost is a type of economic cost that is not directly associated with a monetary transaction. It is the cost of an opportunity that is not taken, or the cost of resources that are not used. Implicit costs are not recorded in the books of accounts, but they still have an impact on the profitability of a business. Implicit costs are also known as imputed costs, notional costs, or economic costs.
 ===Types of Implicit Cost===
+
 Implicit costs can be divided into two main categories: [[Opportunity Cost|opportunity cost]]s and [[Sunk Cost|sunk cost]]s. Opportunity costs are the costs associated with not taking advantage of an opportunity. For example, if a business decides not to invest in a new technology, the opportunity cost would be the potential profits that could have been earned from the investment. Sunk costs are costs that have already been incurred and cannot be recovered. For example, if a business has already invested in a new technology, the sunk cost would be the money that was spent on the investment.
 ===Examples of Implicit Cost===
+
 One example of an implicit cost is the cost of not taking advantage of an opportunity. For example, if a business decides not to invest in a new technology, the opportunity cost would be the potential profits that could have been earned from the investment. Another example of an implicit cost is the cost of not using resources. For example, if a business decides not to hire additional employees, the cost of not using the resources of those employees would be an implicit cost.
 ===Impact of Implicit Cost on Businesses===
+
 Implicit costs can have a significant impact on the profitability of a business. By not taking advantage of opportunities or not using resources, businesses can miss out on potential profits. Additionally, businesses can incur sunk costs that cannot be recovered. As a result, businesses must carefully consider the potential costs and benefits of any decision they make in order to maximize their profits.
 ===Conclusion===
+
 In conclusion, implicit cost is a type of economic cost that is not directly associated with a monetary transaction. It is the cost of an opportunity that is not taken, or the cost of resources that are not used. Implicit costs can be divided into two main categories: opportunity costs and sunk costs. Implicit costs can have a significant impact on the profitability of a business, and businesses must carefully consider the potential costs and benefits of any decision they make in order to maximize their profits

@@ -1,11 +1,16 @@
 <seo title="Stoch Rsi" metakeywords="stochrsi technical indicator,stochrsi value applications,market stochrsi used,applications stochrsi" metadescription="StochRSI was developed by Tushar Chande and Stanley Kroll in the early 1990s.It is used to identify overbought and oversold conditions in the market."/>
 ===Introduction to Stochrsi===
+
 StochRSI is a technical indicator used in the analysis of [[Financial Market|financial market]]s. It is a momentum oscillator that measures the level of the RSI (Relative Strength Index) relative to its historical range over a set period of time. The StochRSI was developed by Tushar Chande and Stanley Kroll in the early 1990s and is used to identify overbought and oversold conditions in the market.
 ===History of Stochrsi===
+
 The StochRSI was developed by Tushar Chande and Stanley Kroll in the early 1990s. The indicator was designed to measure the level of the RSI relative to its historical range over a set period of time. The StochRSI is a momentum oscillator that is used to identify overbought and oversold conditions in the market.
 ===Calculating Stochrsi===
+
 The StochRSI is calculated by taking the current RSI value and subtracting the lowest RSI value over the lookback period. This value is then divided by the difference between the highest and lowest RSI values over the lookback period. The result is then multiplied by 100 to give the StochRSI value.
 ===Applications of Stochrsi===
+
 The StochRSI is used to identify overbought and oversold conditions in the market. When the StochRSI is above 80, it is considered to be overbought, and when it is below 20, it is considered to be oversold. Traders can use this information to enter or exit positions in the market. The StochRSI can also be used to identify divergences between price and the indicator, which can be used to identify potential reversals in the market.
 ===Conclusion===
+
 The StochRSI is a technical indicator used to identify overbought and oversold conditions in the market. It is calculated by taking the current RSI value and subtracting the lowest RSI value over the lookback period. The StochRSI can be used to identify divergences between price and the indicator, which can be used to identify potential reversals in the market

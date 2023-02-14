@@ -1,0 +1,21 @@
+<seo title="Ibm" metakeywords="ibm history ibm,corporation ibm history,ibm business model,history ibm ibm" metadescription="International Business Machines Corporation (IBM) is a multinational technology and consulting corporation headquartered in Armonk, New York."/>
+===Introduction to IBM===
+
+International Business Machines Corporation (IBM) is a multinational technology and consulting corporation headquartered in Armonk, New York. Founded in 1911, IBM is one of the world’s largest technology companies, providing a wide range of products and services in the areas of [[Cloud Computing|cloud computing]], artificial intelligence, analytics, blockchain, and quantum computing. IBM is a leader in the development of innovative technologies and solutions that help businesses and organizations around the world to succeed.
+===History of IBM===
+
+IBM was founded in 1911 by Thomas J. Watson Sr. as the Computing-Tabulating-Recording Company (CTR). The company was formed by the merger of three companies: the Tabulating Machine Company, the International Time Recording Company, and the Computing Scale Company. In 1924, CTR was renamed International Business Machines Corporation (IBM).
+
+Throughout its history, IBM has been a leader in the development of innovative technologies and solutions. In the 1950s, IBM developed the first commercial computers, the IBM 701 and IBM 650. In the 1960s, IBM developed the System/360, the first family of computers that could be used for a variety of applications. In the 1970s, IBM developed the first personal computer, the IBM PC. In the 1980s, IBM developed the first relational database, the IBM DB2. In the 1990s, IBM developed the first e-commerce platform, the IBM WebSphere.
+===IBM’s Business Model===
+
+IBM’s business model is based on providing innovative solutions to its customers. IBM’s solutions are designed to help customers solve their business challenges and achieve their goals. IBM’s solutions are based on its core technologies, such as cloud computing, artificial intelligence, analytics, blockchain, and quantum computing. IBM also provides consulting services to help customers implement its solutions.
+===IBM’s Financial Performance===
+
+IBM’s [[Financial Performance|financial performance]] has been strong in recent years. In 2020, IBM reported revenue of $77.1 billion, up 4.2% from the previous year. IBM’s [[Net Income|net income]] was $7.7 billion, up 8.3% from the previous year. IBM’s total assets were $118.3 billion, up 4.3% from the previous year.
+===IBM’s Impact on the Economy===
+
+IBM has had a significant impact on the global economy. IBM’s products and services have helped businesses and organizations around the world to succeed. IBM’s solutions have enabled businesses to become more efficient and productive, and its consulting services have helped businesses to develop and implement innovative solutions. IBM’s technologies have also enabled businesses to develop new products and services, and its cloud computing solutions have enabled businesses to reduce costs and increase efficiency.
+===Conclusion===
+
+IBM is a global leader in the development of innovative technologies and solutions. IBM’s products and services have had a significant impact on the global economy, helping businesses and organizations around the world to s

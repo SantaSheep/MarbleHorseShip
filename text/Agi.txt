@@ -1,13 +1,19 @@
 <seo title="Agi" metakeywords="income agi calculated,income agi used,gross income agi,income agi" metadescription="Adjusted Gross Income (AGI) is an important financial term used to calculate an individual’s taxable income."/>
 ===Introduction to AGI===
+
 Adjusted [[Gross Income|Gross Income]] (AGI) is an important financial term used to calculate an individual’s [[Taxable Income|taxable income]]. AGI is used to determine the amount of taxes an individual owes to the government. It is also used to determine eligibility for certain tax credits and deductions. AGI is calculated by subtracting certain deductions from an individual’s gross income. This article will provide an overview of AGI, including its definition, components, calculation, and taxation.
 ===Definition of AGI===
+
 Adjusted Gross Income (AGI) is an individual’s total income minus certain deductions. It is the amount of income that is subject to taxation. AGI is used to calculate an individual’s taxable income and is used to determine eligibility for certain tax credits and deductions.
 ===Components of AGI===
+
 AGI is calculated by subtracting certain deductions from an individual’s gross income. These deductions include alimony payments, student loan interest, moving expenses, and certain business expenses. Other deductions may also be allowed depending on the individual’s situation.
 ===Calculating AGI===
+
 AGI is calculated by subtracting certain deductions from an individual’s gross income. The deductions that can be subtracted from gross income vary depending on the individual’s situation. It is important to note that AGI does not include Social Security benefits, [[Capital Gain|capital gain]]s, or other income that is not subject to taxation.
 ===AGI and Taxation===
+
 AGI is used to calculate an individual’s taxable income. It is used to determine the amount of taxes an individual owes to the government. AGI is also used to determine eligibility for certain tax credits and deductions.
 ===Conclusion===
+
 Adjusted Gross Income (AGI) is an important financial term used to calculate an individual’s taxable income. AGI is calculated by subtracting certain deductions from an individual’s gross income. It is used to determine the amount of taxes an individual owes to the government and to determine eligibility for certain tax credits and deductions. Understanding AGI is important for individuals who want to maximize their tax savings

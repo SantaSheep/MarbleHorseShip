@@ -1,0 +1,18 @@
+<seo title="Asset" metakeywords="term assets used,assets typically classified,intangible assets,asset valuation asset" metadescription="Assets can be divided into two broad categories: tangible and intangible.Intangible assets include patents, copyrights, and trademarks."/>
+===Introduction to Asset===
+
+An asset is a resource that has economic value and can be used to generate income or other economic benefits. Assets can be tangible, such as cash, land, buildings, and equipment, or intangible, such as patents, copyrights, and trademarks. Assets are typically classified as either [[Current Assets|current assets]] or long-term assets. Current assets are those that can be converted into cash within one year, while long-term assets are those that have a [[Useful Life|useful life]] of more than one year.
+===Types of Assets===
+
+Assets can be divided into two broad categories: tangible and intangible. [[Tangible Asset|Tangible asset]]s are physical items that have a measurable value, such as cash, land, buildings, and equipment. [[Intangible Asset|Intangible asset]]s are non-physical items that have a value, such as patents, copyrights, and trademarks.
+
+Within these two categories, there are several different types of assets. Cash is the most [[Liquid Asset|liquid asset]] and is used to purchase goods and services. [[Marketable Securities|Marketable securities]] are investments in stocks, bonds, and other [[Financial Instrument|financial instrument]]s that can be quickly converted into cash. [[Accounts Receivable|Accounts receivable]] are amounts owed to a company by its customers. Inventory is the goods and materials that a company has on hand for sale. Property, plant, and equipment are long-term assets that are used in the production of goods and services. Intangible assets include patents, copyrights, and trademarks.
+===Asset Valuation===
+
+Asset valuation is the process of determining the value of an asset. The value of an asset is determined by its market price, which is the amount that a buyer is willing to pay for it. The market price of an asset is determined by the supply and demand for the asset. The value of an asset can also be determined by its [[Intrinsic Value|intrinsic value]], which is the value of the asset based on its underlying fundamentals.
+===Asset Management===
+
+[[Asset Management|Asset management]] is the process of managing an organization’s assets in order to maximize their value. Asset management involves the identification, acquisition, maintenance, and disposal of assets in order to achieve the organization’s goals. Asset management includes the management of physical assets, such as buildings and equipment, as well as intangible assets, such as patents and copyrights. Asset management also includes the management of [[Financial Asset|financial asset]]s, such as stocks and bonds.
+===Conclusion===
+
+Asset is a resource that has economic value and can be used to generate income or other economic benefits. Assets can be tangible, such as cash, land, buildings, and equipment, or intangible, such as patents, copyrights, and trademarks. Asset valuation is the process of determining the value of an asset, and asset management is the process of managing an organization’s assets in order to maximize their value. Asset management is an important part of any organization’s financial strategy and can help to ensure that the organization’s assets are used in the most efficient and effective manner

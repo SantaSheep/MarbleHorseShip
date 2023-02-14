@@ -1,13 +1,19 @@
 <seo title="Djia" metakeywords="stocks make djia,djia stock market,djia dow jones,index djia" metadescription="The Dow Jones Industrial Average (DJIA) is a stock market index that tracks the performance of 30 large, publicly traded companies in the United States."/>
 ===Introduction to the Dow Jones Industrial Average (DJIA)===
+
 The Dow Jones Industrial Average (DJIA) is a [[Stock Market|stock market]] index that tracks the performance of 30 large, publicly traded companies in the United States. It is one of the oldest and most widely followed stock market indices in the world. The DJIA is a price-weighted index, meaning that the stocks with the highest prices have the greatest influence on the index. The DJIA is often used as a barometer of the overall health of the U.S. stock market and economy.
 ===History of the DJIA===
+
 The DJIA was created by Charles Dow and Edward Jones in 1896. The index was originally composed of 12 stocks, but it has since expanded to include 30 stocks. The stocks included in the index are chosen by the editors of the Wall Street Journal and are meant to represent the performance of the U.S. economy. The DJIA has been used as a benchmark for the stock market since its inception.
 ===Components of the DJIA===
+
 The 30 stocks that make up the DJIA are chosen by the editors of the Wall Street Journal. The stocks are chosen based on their [[Market Capitalization|market capitalization]], liquidity, and industry representation. The stocks are weighted according to their price, meaning that the stocks with the highest prices have the greatest influence on the index. The stocks included in the index are some of the largest and most well-known companies in the United States, such as Apple, Microsoft, and Walmart.
 ===Calculating the DJIA===
+
 The DJIA is calculated by taking the sum of the prices of the 30 stocks in the index and dividing it by a divisor. The divisor is adjusted periodically to account for [[Stock Split|stock split]]s, spin-offs, and other corporate actions. The DJIA is calculated and published by Dow Jones & Company.
 ===Advantages and Disadvantages of the DJIA===
+
 The DJIA is one of the oldest and most widely followed stock market indices in the world. It is a price-weighted index, meaning that the stocks with the highest prices have the greatest influence on the index. This makes the DJIA a good barometer of the overall health of the U.S. stock market and economy. However, the DJIA is limited in that it only tracks 30 stocks, which may not accurately reflect the performance of the entire stock market.
 ===Conclusion===
+
 The Dow Jones Industrial Average (DJIA) is a stock market index that tracks the performance of 30 large, publicly traded companies in the United States. It is one of the oldest and most widely followed stock market indices in the world. The DJIA is a price-weighted index, meaning that the stocks with the highest prices have the greatest influence on the index. The DJIA is often used as a barometer of the overall health of the U.S. stock market and economy. The DJIA has both advantages and disadvantages, but it remains one of the most widely followed stock market indices in the world

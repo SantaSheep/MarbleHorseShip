@@ -1,0 +1,22 @@
+<seo title="Out Of The Money" metakeywords="money otm term,money options means,disadvantages money options,money options advantages" metadescription="Out-of-the-money is a term used in the financial markets to describe an option contract that has no intrinsic value."/>
+===Definition of Out-of-the-Money===
+
+Out-of-the-money (OTM) is a term used in the [[Financial Market|financial market]]s to describe an option contract that has no [[Intrinsic Value|intrinsic value]]. An option is out-of-the-money when the [[Strike Price|strike price]] of the option is higher than the current market price of the underlying asset. In other words, the option is not [[In The Money|in the money]] and the option holder will not receive any money if the option is exercised.
+===How Out-of-the-Money Options Work===
+
+Out-of-the-money options are options contracts that have no intrinsic value. This means that the option holder will not receive any money if the option is exercised. The option holder will only receive the premium paid for the option. The option holder will not receive any money if the option is not exercised.
+
+The strike price of an out-of-the-money option is higher than the current market price of the underlying asset. This means that the option holder will not receive any money if the option is exercised. The option holder will only receive the premium paid for the option.
+===Advantages and Disadvantages of Out-of-the-Money Options===
+
+Out-of-the-money options have several advantages and disadvantages. The main advantage of out-of-the-money options is that they are cheaper than in-the-money options. This means that the option holder can purchase more contracts for the same amount of money.
+
+The main disadvantage of out-of-the-money options is that they have no intrinsic value. This means that the option holder will not receive any money if the option is exercised. The option holder will only receive the premium paid for the option.
+===Examples of Out-of-the-Money Options===
+
+An example of an out-of-the-money option is a [[Call Option|call option]] with a strike price of $50 and the current market price of the underlying asset is $45. In this case, the option is out-of-the-money because the strike price is higher than the current market price.
+
+Another example of an out-of-the-money option is a [[Put Option|put option]] with a strike price of $50 and the current market price of the underlying asset is $55. In this case, the option is out-of-the-money because the strike price is lower than the current market price.
+===Conclusion===
+
+Out-of-the-money options are options contracts that have no intrinsic value. The strike price of an out-of-the-money option is higher than the current market price of the underlying asset. The main advantage of out-of-the-money options is that they are cheaper than in-the-money options. The main disadvantage of out-of-the-money options is that they have no intrinsic value. Examples of out-of-the-money options include call options with a strike price higher than the current market price and put options with a strike price lower than the current market price

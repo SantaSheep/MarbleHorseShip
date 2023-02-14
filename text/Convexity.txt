@@ -1,11 +1,16 @@
 <seo title="Convexity" metakeywords="convexity concept finance,convexity help investors,investments understanding convexity,investments convexity used" metadescription="Convexity is defined as the degree to which the price of a security changes in response to changes in its yield."/>
 ===Introduction to Convexity===
+
 Convexity is a concept in finance that describes the relationship between the price of a security and its yield. It is an important concept for investors to understand, as it can help them make more informed decisions about their investments. Convexity can be used to measure the sensitivity of a security's price to changes in its yield. It is also used to measure the risk associated with a security, as well as the potential for return.
 ===Definition of Convexity===
+
 Convexity is defined as the degree to which the price of a security changes in response to changes in its yield. It is measured by the curvature of the security's price-yield relationship. A security with a higher convexity will have a more pronounced price-yield relationship, meaning that its price will be more sensitive to changes in its yield. Conversely, a security with a lower convexity will have a less pronounced price-yield relationship, meaning that its price will be less sensitive to changes in its yield.
 ===Types of Convexity===
+
 There are two main types of convexity: positive convexity and negative convexity. Positive convexity occurs when the price of a security increases more than proportionally with an increase in its yield. This type of convexity is beneficial to investors, as it can lead to higher returns. Negative convexity occurs when the price of a security decreases more than proportionally with an increase in its yield. This type of convexity is detrimental to investors, as it can lead to lower returns.
 ===Applications of Convexity===
+
 Convexity is used in a variety of applications in finance. It is used to measure the sensitivity of a security's price to changes in its yield, as well as the risk associated with a security. It is also used to measure the potential for return. Additionally, convexity can be used to determine the optimal portfolio mix for a given set of investments.
 ===Conclusion===
+
 Convexity is an important concept in finance that describes the relationship between the price of a security and its yield. It is used to measure the sensitivity of a security's price to changes in its yield, as well as the risk associated with a security. Additionally, convexity can be used to determine the optimal portfolio mix for a given set of investments. Understanding convexity can help investors make more informed decisions about their investments

@@ -1,11 +1,16 @@
 <seo title="Underwriting Expenses" metakeywords="securities underwriting expenses,accounting underwriting expenses,underwriting expenses costs,introduction underwriting expenses" metadescription="Underwriting expenses are costs associated with the issuance of securities, such as stocks and bonds."/>
 ===Introduction to Underwriting Expenses===
+
 Underwriting expenses are costs associated with the issuance of securities, such as stocks and bonds. These expenses are incurred by the issuer of the securities and are typically paid to the underwriter, who is the [[Financial Institution|financial institution]] that assists in the issuance of the securities. Underwriting expenses can include fees for legal services, accounting services, and other services related to the issuance of the securities.
 ===Types of Underwriting Expenses===
+
 Underwriting expenses can include a variety of different costs. These costs can include fees for legal services, accounting services, and other services related to the issuance of the securities. Additionally, underwriting expenses can include the cost of printing and distributing the prospectus, the cost of advertising the securities, and the cost of registering the securities with the appropriate regulatory authorities.
 ===Accounting for Underwriting Expenses===
+
 Underwriting expenses are typically recorded as a separate line item on the issuer’s [[Balance Sheet|balance sheet]]. The amount of the underwriting expenses is typically recorded as a debit to the issuer’s balance sheet and a credit to the underwriter’s balance sheet. The amount of the underwriting expenses is typically equal to the amount of the underwriter’s fee.
 ===Tax Implications of Underwriting Expenses===
+
 Underwriting expenses are typically tax deductible for the issuer of the securities. The amount of the deduction is typically equal to the amount of the underwriting expenses. Additionally, the underwriter is typically subject to taxation on the amount of the underwriting fee.
 ===Conclusion===
+
 Underwriting expenses are costs associated with the issuance of securities, such as stocks and bonds. These expenses are typically paid to the underwriter, who is the financial institution that assists in the issuance of the securities. Underwriting expenses can include fees for legal services, accounting services, and other services related to the issuance of the securities. Underwriting expenses are typically recorded as a separate line item on the issuer’s balance sheet and are typically tax deductible for the issuer of the securities. The underwriter is typically subject to taxation on the amount of the underwriting fee

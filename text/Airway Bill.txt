@@ -1,15 +1,22 @@
 <seo title="Airway Bill" metakeywords="types airway bills,airway document used,airway issued shipper,air consignment note" metadescription="An airway bill is a contract between the shipper and the airline that outlines the terms and conditions of the shipment."/>
 ===Introduction to Airway Bill===
+
 An airway bill is a document used in international air cargo shipments. It is a contract between the shipper and the airline that outlines the terms and conditions of the shipment. The airway bill is also known as an air consignment note, air cargo manifest, or air cargo [[Bill Of Lading|bill of lading]]. It is a legally binding document that serves as proof of ownership of the goods being shipped.
 ===Definition of Airway Bill===
+
 An airway bill is a document used in international air cargo shipments. It is a contract between the shipper and the airline that outlines the terms and conditions of the shipment. The airway bill is also known as an air consignment note, air cargo manifest, or air cargo bill of lading. It is a legally binding document that serves as proof of ownership of the goods being shipped. The airway bill contains information such as the shipper and consignee, the origin and destination of the shipment, the type of goods being shipped, the weight and dimensions of the shipment, and the value of the goods.
 ===History of Airway Bill===
+
 The airway bill was first developed in the early 20th century as a way to streamline the process of shipping goods by air. The first airway bill was created in the United States in 1921 by the International Air Transport Association (IATA). The IATA is an international trade organization that sets standards for the air transport industry. The airway bill was designed to provide a standardized document that could be used by all airlines to ensure the safe and efficient transport of goods.
 ===Types of Airway Bill===
+
 There are two types of airway bills: the master airway bill and the house airway bill. The master airway bill is issued by the airline and is used to track the shipment from origin to destination. The house airway bill is issued by the shipper and is used to track the shipment from the shipper to the airline.
 ===Benefits of Airway Bill===
+
 The airway bill provides a number of benefits to both the shipper and the airline. It serves as a legally binding document that outlines the terms and conditions of the shipment. It also provides a record of the shipment, which can be used for tracking and tracing purposes. The airway bill also helps to ensure that the goods are shipped in a safe and secure manner.
 ===Drawbacks of Airway Bill===
+
 The airway bill is not without its drawbacks. It can be difficult to track and trace shipments if the airway bill is not properly filled out or if the information is incorrect. Additionally, the airway bill can be expensive to produce and can add to the cost of the shipment.
 ===Conclusion===
+
 The airway bill is an important document used in international air cargo shipments. It is a legally binding document that outlines the terms and conditions of the shipment and serves as proof of ownership of the goods being shipped. The airway bill provides a number of benefits to both the shipper and the airline, but it can also be expensive t

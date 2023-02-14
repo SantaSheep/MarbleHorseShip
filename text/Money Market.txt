@@ -1,13 +1,19 @@
 <seo title="Money Market" metakeywords="moneymarket instruments typically,risk moneymarket instruments,moneymarket investments subject,debt instruments moneymarket" metadescription="Moneymarket is a financial market that deals with short-term borrowing and lending of funds."/>
 ===Introduction to Moneymarket===
+
 Moneymarket is a [[Financial Market|financial market]] that deals with short-term borrowing and lending of funds. It is a segment of the [[Financial System|financial system]] that provides liquidity to the economy by allowing investors to borrow and lend money for short-term periods. Moneymarket instruments are typically used by investors to manage their [[Cash Flow|cash flow]] and to hedge against [[Interest Rate|interest rate]] risk. Moneymarket instruments are also used by governments and corporations to raise short-term capital.
 ===Types of Moneymarket Instruments===
+
 Moneymarket instruments include certificates of deposit (CDs), [[Commercial Paper|commercial paper]], [[Repurchase Agreement|repurchase agreement]]s (repos), [[Treasury Bill|Treasury bill]]s, and money market [[Mutual Fund|mutual fund]]s. Certificates of deposit are short-term investments that are issued by banks and other [[Financial Institution|financial institution]]s. They typically have a fixed maturity date and a fixed interest rate. Commercial paper is a short-term [[Debt Instrument|debt instrument]] issued by corporations to raise capital. Repurchase agreements are short-term loans that are secured by collateral. Treasury bills are short-term debt instruments issued by the U.S. government. Money market mutual funds are mutual funds that invest in short-term debt instruments.
 ===Moneymarket Regulations===
+
 Moneymarket instruments are subject to various regulations. The Federal Reserve Board regulates the issuance of commercial paper and repurchase agreements. The Securities and Exchange Commission (SEC) regulates money market mutual funds. The SEC also regulates the sale of Treasury bills.
 ===Moneymarket Strategies===
+
 Investors use a variety of strategies to manage their moneymarket investments. Investors may choose to invest in a variety of instruments to diversify their portfolios and reduce risk. Investors may also choose to invest in instruments with different maturities to take advantage of changing interest rates. Investors may also use moneymarket instruments to hedge against interest rate risk.
 ===Moneymarket Risks===
+
 Moneymarket investments are subject to various risks. Interest rate risk is the risk that interest rates will change and cause the value of the investment to decline. [[Credit Risk|Credit risk]] is the risk that the issuer of the instrument will default on its obligations. [[Liquidity Risk|Liquidity risk]] is the risk that the investor will not be able to sell the instrument at a reasonable price.
 ===Conclusion===
+
 Moneymarket is an important segment of the financial system that provides liquidity to the economy. Moneymarket instruments are used by investors to manage their cash flow and to hedge against interest rate risk. Moneymarket instruments are subject to various regulations and investors must be aware of the risks associated with these investments. By using a variety of strategies, investors can manage their moneymarket investments and reduce their risk

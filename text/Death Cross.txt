@@ -1,15 +1,22 @@
 <seo title="Death Cross" metakeywords="deathcross technical analysis,stock market deathcross,market definition deathcross,definition deathcross" metadescription="Deathcross is a technical analysis term used to describe a situation in which a stock’s short-term moving average crosses below its long- term moving average."/>
 ===Introduction to Deathcross===
+
 Deathcross is a [[Technical Analysis|technical analysis]] term used to describe a situation in which a stock’s short-term [[Moving Average|moving average]] crosses below its long-term moving average. This is seen as a bearish signal, indicating that the stock’s price is likely to decline in the near future. Deathcross is a popular tool used by traders and investors to identify potential entry and exit points in the [[Stock Market|stock market]].
 ===Definition of Deathcross===
+
 Deathcross is a technical analysis term used to describe a situation in which a stock’s short-term moving average crosses below its long-term moving average. This is seen as a bearish signal, indicating that the stock’s price is likely to decline in the near future. Deathcross is a popular tool used by traders and investors to identify potential entry and exit points in the stock market.
 ===History of Deathcross===
+
 Deathcross has been used as a technical analysis tool since the early 1900s. It was first developed by Charles Dow, the founder of [[Dow Theory|Dow Theory]], who used it to identify potential bearish signals in the stock market. Since then, Deathcross has become a popular tool used by traders and investors to identify potential entry and exit points in the stock market.
 ===Types of Deathcross===
+
 There are two main types of Deathcross: the simple Deathcross and the exponential Deathcross. The simple Deathcross is the most common type and is calculated by taking the average of the closing prices of a stock over a certain period of time and then comparing it to the average of the closing prices of the same stock over a longer period of time. The exponential Deathcross is calculated by taking the exponential moving average of the closing prices of a stock over a certain period of time and then comparing it to the exponential moving average of the closing prices of the same stock over a longer period of time.
 ===Examples of Deathcross===
+
 An example of a Deathcross is when the 50-day moving average of a stock crosses below its 200-day moving average. This is seen as a bearish signal, indicating that the stock’s price is likely to decline in the near future. Another example of a Deathcross is when the 10-day exponential moving average of a stock crosses below its 30-day exponential moving average. This is also seen as a bearish signal, indicating that the stock’s price is likely to decline in the near future.
 ===Advantages and Disadvantages of Deathcross===
+
 The main advantage of Deathcross is that it can be used to identify potential entry and exit points in the stock market. By using Deathcross, traders and investors can identify potential bearish signals in the stock market and take advantage of them. The main disadvantage of Deathcross is that it is not always accurate. Since it is based on past data, it may not always be an accurate indicator of future price movements.
 ===Conclusion===
+
 Deathcross is a popular technical analysis tool used by traders and investors to identify potential ent

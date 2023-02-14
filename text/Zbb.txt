@@ -1,11 +1,16 @@
 <seo title="Zbb" metakeywords="zbb useful budgeting,zbb budgeting method,zbb budgeting,budgeting zbb budgeting" metadescription="Zero-based budgeting (ZBB) is a budgeting method that requires all expenses to be justified for each new period."/>
 ===Introduction to ZBB===
+
 Zero-based budgeting (ZBB) is a budgeting method that requires all expenses to be justified for each new period. This means that all expenses must be re-evaluated and approved for each budget period, rather than simply carrying over the previous period’s budget. ZBB is a popular budgeting method used by businesses and organizations to ensure that all expenses are necessary and that resources are being used efficiently.
 ===History of ZBB===
+
 ZBB was first developed in the 1970s by Peter Pyhrr, a former executive at [[Texas Instruments|Texas Instruments]]. Pyhrr was looking for a way to reduce costs and increase efficiency in the company’s budgeting process. He developed the concept of ZBB, which required all expenses to be justified for each budget period. This method quickly gained popularity and is now used by many businesses and organizations.
 ===Benefits of ZBB===
+
 The primary benefit of ZBB is that it helps organizations to ensure that all expenses are necessary and that resources are being used efficiently. By requiring all expenses to be justified for each budget period, organizations can identify and eliminate unnecessary expenses. This can help to reduce costs and increase efficiency. Additionally, ZBB can help organizations to identify areas where resources can be reallocated to more productive uses.
 ===Challenges of ZBB===
+
 While ZBB can be a useful budgeting tool, it can also be challenging to implement. The process of justifying all expenses for each budget period can be time-consuming and labor-intensive. Additionally, it can be difficult to identify and eliminate unnecessary expenses. Finally, ZBB can be difficult to implement in organizations with complex budgets or multiple departments.
 ===Conclusion===
+
 Zero-based budgeting (ZBB) is a popular budgeting method used by businesses and organizations to ensure that all expenses are necessary and that resources are being used efficiently. ZBB can help organizations to reduce costs and increase efficiency, but it can also be challenging to implement. Organizations should carefully consider the benefits and challenges of ZBB before deciding whether or not to use it

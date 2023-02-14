@@ -1,13 +1,19 @@
 <seo title="Key Ratio" metakeywords="company key ratios,key ratios calculated,introduction key ratios,calculating key ratios" metadescription="Key ratios are a set of financial metrics used to measure the performance of a company."/>
 ===Introduction to Key Ratios===
+
 Key ratios are a set of financial metrics used to measure the performance of a company. They are used to compare a company’s performance to that of its peers, industry averages, and other benchmarks. Key ratios are also used to assess the financial health of a company and to make decisions about investing in the company. Key ratios are an important tool for investors, analysts, and other stakeholders in understanding the [[Financial Performance|financial performance]] of a company.
 ===Types of Key Ratios===
+
 There are several types of key ratios that can be used to measure a company’s performance. These include [[Profitability Ratios|profitability ratios]], [[Liquidity Ratios|liquidity ratios]], [[Efficiency Ratio|efficiency ratio]]s, and [[Leverage Ratio|leverage ratio]]s. Profitability ratios measure a company’s ability to generate profits from its operations. Liquidity ratios measure a company’s ability to meet its short-term obligations. Efficiency ratios measure a company’s ability to use its resources efficiently. Leverage ratios measure a company’s ability to finance its operations with debt.
 ===Uses of Key Ratios===
+
 Key ratios are used to assess the financial health of a company and to make decisions about investing in the company. They can be used to compare a company’s performance to that of its peers, industry averages, and other benchmarks. Key ratios can also be used to identify potential problems in a company’s financial performance.
 ===Calculating Key Ratios===
+
 Key ratios are calculated by dividing one financial metric by another. For example, the [[Return On Assets|return on assets]] ratio is calculated by dividing [[Net Income|net income]] by total assets. The debt to equity ratio is calculated by dividing [[Total Liabilities|total liabilities]] by total equity. The [[Inventory Turnover|inventory turnover]] ratio is calculated by dividing cost of goods sold by [[Average Inventory|average inventory]].
 ===Interpreting Key Ratios===
+
 Once key ratios have been calculated, they must be interpreted in order to assess the financial health of a company. Generally, higher ratios are better than lower ratios. For example, a higher return on assets ratio indicates that a company is more profitable than one with a lower return on assets ratio. Similarly, a higher debt to equity ratio indicates that a company is more leveraged than one with a lower debt to equity ratio.
 ===Conclusion===
+
 Key ratios are an important tool for investors, analysts, and other stakeholders in understanding the financial performance of a company. They can be used to compare a company’s performance to that of its peers, industry averages, and other benchmarks. Key ratios are calculated by dividing one financial metric by another and must be interpreted in order to assess the financial health of a company

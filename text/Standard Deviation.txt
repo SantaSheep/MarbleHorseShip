@@ -1,11 +1,16 @@
 <seo title="Standard Deviation" metakeywords="standard deviation uses,standard deviation measure,standard deviation used,introduction standard deviation" metadescription="Standard deviation is a measure of how much the data points vary from the mean.It is used to measure the variability of a set of data points and is a key concept in statistics."/>
 ===Introduction to Standard Deviation===
+
 Standard deviation is a measure of the spread of a set of data points. It is a measure of how much the data points vary from the mean. It is used to measure the variability of a set of data points and is a key concept in statistics. Standard deviation is a measure of the amount of variation or dispersion of a set of data values from the mean. It is calculated as the square root of the variance.
 ===Calculating Standard Deviation===
+
 Standard deviation is calculated by taking the square root of the variance. The variance is calculated by subtracting the mean from each data point and then squaring the result. The sum of these squared differences is then divided by the number of data points minus one. The square root of this result is the standard deviation.
 ===Uses of Standard Deviation===
+
 Standard deviation is used to measure the variability of a set of data points. It is used to measure the spread of a set of data points and is a key concept in statistics. It is used to measure the risk of a portfolio of investments, to measure the volatility of a stock, and to measure the accuracy of a forecast.
 ===Limitations of Standard Deviation===
+
 Standard deviation is a measure of the spread of a set of data points. It is not a measure of the accuracy of the data points. It is also not a measure of the underlying distribution of the data points. It is also not a measure of the underlying relationship between the data points.
 ===Conclusion===
+
 Standard deviation is a measure of the spread of a set of data points. It is used to measure the variability of a set of data points and is a key concept in statistics. It is used to measure the risk of a portfolio of investments, to measure the volatility of a stock, and to measure the accuracy of a forecast. However, it is important to note that standard deviation is not a measure of the accuracy of the data points, the underlying distribution of the data points, or the underlying relationship between the data points

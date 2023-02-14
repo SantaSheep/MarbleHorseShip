@@ -1,13 +1,19 @@
 <seo title="Fundamental Analysis" metakeywords="fundamental analysis method,fundamental analysis benefits,use fundamental analysis,fundamental analysis despite" metadescription="Fundamental analysis is a long-term approach to investing.It focuses on the underlying factors that drive the value of a security or asset over time."/>
 ===Introduction to Fundamental Analysis===
+
 Fundamental analysis is a method of evaluating a security or asset by analyzing its underlying economic, financial, and other qualitative and quantitative factors. It is used to determine the [[Intrinsic Value|intrinsic value]] of a security or asset, and is often used by investors to make decisions about whether to buy, sell, or hold a security or asset. Fundamental analysis is a long-term approach to investing, as it focuses on the underlying factors that drive the value of a security or asset over time.
 ===History of Fundamental Analysis===
+
 Fundamental analysis has been used by investors for centuries. The earliest known use of fundamental analysis dates back to the 1700s, when Dutch traders used it to evaluate the value of tulip bulbs. In the late 1800s, Benjamin Graham and David Dodd developed the concept of fundamental analysis in their book, Security Analysis. Since then, fundamental analysis has been used by investors to evaluate the value of stocks, bonds, commodities, and other securities and assets.
 ===Types of Fundamental Analysis===
+
 There are two main types of fundamental analysis: quantitative and qualitative. Quantitative analysis involves analyzing a security or asset’s [[Financial Statements|financial statements]], such as its [[Income Statement|income statement]], [[Balance Sheet|balance sheet]], and [[[[Cash Flow|Cash Flow]] Statement|cash flow statement]]. Qualitative analysis involves analyzing a security or asset’s underlying economic, political, and social factors.
 ===Benefits of Fundamental Analysis===
+
 Fundamental analysis has several benefits. First, it can help investors identify undervalued securities or assets. By analyzing a security or asset’s underlying factors, investors can determine if it is trading at a discount to its intrinsic value. Second, it can help investors identify potential risks. By analyzing a security or asset’s underlying factors, investors can identify potential risks that may affect its value. Finally, it can help investors make long-term investment decisions. By analyzing a security or asset’s underlying factors, investors can make informed decisions about whether to buy, sell, or hold a security or asset over the long-term.
 ===Limitations of Fundamental Analysis===
+
 Despite its benefits, fundamental analysis has several limitations. First, it is a long-term approach to investing, as it focuses on the underlying factors that drive the value of a security or asset over time. Second, it is subjective, as different investors may interpret the same data differently. Finally, it is time-consuming, as it requires investors to analyze a security or asset’s underlying factors.
 ===Conclusion===
+
 Fundamental analysis is a method of evaluating a security or asset by analyzing its underlying economic, financial, and other qualitative and quantitative factors. It is used to determine the intrinsic value of a security or asset, and is often used by investors to make decisions about whether to buy, sell, or hold a security or asset. Despite its benefits, fundamental analys

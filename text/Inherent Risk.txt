@@ -1,11 +1,16 @@
 <seo title="Inherent Risk" metakeywords="inherent risk financial,introduction inherent risk,inherent risk term,inherent risk include" metadescription="Inherent risk is the risk that is present in any financial transaction regardless of the measures taken to reduce it."/>
 ===Introduction to Inherent Risk===
+
 Inherent risk is a term used in the financial industry to describe the risk of loss that is inherent in any financial transaction. It is the risk that is present in any financial transaction regardless of the measures taken to reduce it. Inherent risk is an important concept for [[Financial Institution|financial institution]]s to understand and manage, as it can have a significant impact on the success or failure of a financial transaction.
 ===Types of Inherent Risk===
+
 Inherent risk can be divided into two main categories: market risk and [[Credit Risk|credit risk]]. Market risk is the risk of loss due to changes in the market, such as changes in [[Interest Rate|interest rate]]s, [[Exchange Rate|exchange rate]]s, or commodity prices. Credit risk is the risk of loss due to a borrowerâ€™s inability to repay a loan or other debt.
 ===Assessing Inherent Risk===
+
 In order to assess inherent risk, financial institutions must first identify the potential risks associated with a particular transaction. This can be done by analyzing the [[Financial Statements|financial statements]] of the borrower, the market conditions, and the terms of the transaction. Once the potential risks have been identified, the financial institution can then assess the likelihood of those risks occurring and the potential impact they could have on the transaction.
 ===Mitigating Inherent Risk===
+
 Once the potential risks have been identified and assessed, financial institutions can take steps to mitigate the inherent risk. This can include diversifying investments, hedging against market risk, and implementing [[Risk Management|risk management]] strategies. Additionally, financial institutions can also require borrowers to provide collateral or other forms of security to reduce the risk of default.
 ===Conclusion===
+
 Inherent risk is an important concept for financial institutions to understand and manage. By identifying and assessing the potential risks associated with a transaction, financial institutions can take steps to mitigate the inherent risk and reduce the potential for loss. By doing so, financial institutions can ensure that their transactions are successful and profitable

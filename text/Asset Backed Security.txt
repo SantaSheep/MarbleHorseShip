@@ -1,11 +1,16 @@
 <seo title="Asset Backed Security" metakeywords="backed securities abs,asset backed securities,securities asset backed,securities abs type" metadescription="ABS are a type of debt security that is backed by a pool of assets.These assets can include mortgages, auto loans, credit card receivables, and other types of consumer debt."/>
 ===Introduction to Asset Backed Securities===
+
 Asset-backed securities (ABS) are a type of debt security that is backed by a pool of assets. These assets can include mortgages, auto loans, [[Credit Card|credit card]] receivables, and other types of consumer debt. ABS are typically issued by [[Financial Institution|financial institution]]s, such as banks, and are sold to investors in the form of bonds. ABS are attractive to investors because they offer higher yields than other types of debt securities, such as government bonds.
 ===Types of Asset Backed Securities===
+
 There are several different types of asset-backed securities. Mortgage-backed securities (MBS) are the most common type of ABS. MBS are backed by a pool of mortgages, and the payments from the mortgages are used to pay the interest and principal on the bonds. Other types of ABS include auto loan-backed securities, credit card receivables-backed securities, and student loan-backed securities.
 ===Benefits of Asset Backed Securities===
+
 Asset-backed securities offer several benefits to investors. First, they offer higher yields than other types of debt securities, such as government bonds. This makes them attractive to investors who are looking for higher returns. Second, ABS are typically less risky than other types of investments, such as stocks. This is because the assets that back the securities are typically of high quality and are less likely to default. Finally, ABS are highly liquid, meaning that they can be easily bought and sold in the secondary market.
 ===Risks of Asset Backed Securities===
+
 Although asset-backed securities offer several benefits to investors, they also carry some risks. First, the assets that back the securities may default, resulting in losses for investors. Second, the value of the securities may fluctuate due to changes in [[Interest Rate|interest rate]]s or other economic factors. Finally, ABS may be subject to prepayment risk, meaning that the underlying assets may be paid off early, resulting in lower returns for investors.
 ===Conclusion===
+
 Asset-backed securities are a type of debt security that is backed by a pool of assets. They offer higher yields than other types of debt securities, such as government bonds, and are typically less risky than other types of investments, such as stocks. However, they also carry some risks, such as default risk, interest rate risk, and prepayment risk. Investors should carefully consider these risks before investing in asset-backed securities

@@ -1,0 +1,23 @@
+<seo title="Modified Accrual Accounting" metakeywords="modified accrual accounting,accounting modified accrual,advantages modified accrual,introduction modified accrual" metadescription="Modified accrual accounting is used by governments and other public entities to record and report financial information."/>
+===Introduction to Modified Accrual Accounting===
+
+Modified [[Accrual Accounting|accrual accounting]] is a method of accounting that is used by governments and other public entities to record and report financial information. It is a hybrid of the cash and accrual [[Accounting Method|accounting method]]s, and is used to provide a more accurate picture of a government’s financial position. Modified accrual accounting is required by the Governmental [[Accounting Standard|Accounting Standard]]s Board (GASB) for all state and local governments.
+===Overview of Modified Accrual Accounting===
+
+Modified accrual accounting is a combination of the cash and accrual accounting methods. It is similar to the accrual method in that it records transactions when they occur, regardless of when cash is received or paid. However, it is different from the accrual method in that it only records transactions when they are expected to be realized or paid within the current [[Fiscal Year|fiscal year]]. This means that transactions that are expected to be realized or paid in the future are not recorded until they are actually realized or paid.
+
+The modified accrual method also requires that all assets and liabilities be reported at their current value. This means that assets and liabilities must be adjusted for inflation or deflation, and any changes in value must be reported. This provides a more accurate picture of a government’s financial position.
+===Advantages of Modified Accrual Accounting===
+
+The modified accrual method of accounting has several advantages. First, it provides a more accurate picture of a government’s financial position. By requiring that all assets and liabilities be reported at their current value, it ensures that the [[Financial Statements|financial statements]] are up to date and reflect the true financial position of the government.
+
+Second, it is easier to understand than the accrual method. The modified accrual method only requires that transactions be recorded when they are expected to be realized or paid within the current fiscal year. This makes it easier to understand and interpret the financial statements.
+
+Finally, it is more reliable than the cash method. By requiring that all assets and liabilities be reported at their current value, it ensures that the financial statements are more reliable and accurate.
+===Disadvantages of Modified Accrual Accounting===
+
+The modified accrual method of accounting also has several disadvantages. First, it is more complex than the cash method. The modified accrual method requires that all assets and liabilities be reported at their current value, which can be difficult to calculate.
+
+Second, it is more time consuming than the cash method. The modified accrual method requires that all transactions be recorded when they are expected to be realized or paid within the current fiscal year, which can be time consuming.
+
+Finally, it is more expensive than the cash method. The modified accrual method requires that all assets and liabilities be reported at their current value, which can be expensive to calculate

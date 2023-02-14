@@ -1,11 +1,16 @@
 <seo title="Deferred Revenue" metakeywords="examples deferred revenue,example deferred revenue,introduction deferred revenue,deferred revenue" metadescription="Deferred revenue is a type of accounting transaction that occurs when a company receives payment for goods or services that have not yet been delivered."/>
 ===Introduction to Deferred Revenue===
+
 Deferred revenue is a type of accounting transaction that occurs when a company receives payment for goods or services that have not yet been delivered. The payment is recorded as a liability on the company’s [[Balance Sheet|balance sheet]] until the goods or services are delivered. Deferred revenue is also known as [[Unearned Revenue|unearned revenue]], deferred income, or unearned income.
 ===Accounting Treatment of Deferred Revenue===
+
 When a company receives payment for goods or services that have not yet been delivered, the payment is recorded as a liability on the company’s balance sheet. This liability is known as deferred revenue. The amount of deferred revenue is equal to the amount of payment received. When the goods or services are delivered, the deferred revenue is recognized as revenue on the company’s [[Income Statement|income statement]].
 ===Examples of Deferred Revenue===
+
 One common example of deferred revenue is a subscription service. When a customer pays for a subscription, the payment is recorded as deferred revenue on the company’s balance sheet. When the customer receives the subscription service, the deferred revenue is recognized as revenue on the company’s income statement. Other examples of deferred revenue include prepaid [[Insurance Premium|insurance premium]]s, prepaid rent, and prepaid advertising.
 ===Advantages and Disadvantages of Deferred Revenue===
+
 Deferred revenue can be beneficial for companies because it allows them to recognize revenue in advance of delivering the goods or services. This can help to improve the company’s [[Cash Flow|cash flow]] and provide a more accurate picture of the company’s [[Financial Performance|financial performance]]. However, deferred revenue can also be risky for companies because it can lead to overstating revenue and understating expenses.
 ===Conclusion===
+
 Deferred revenue is a type of accounting transaction that occurs when a company receives payment for goods or services that have not yet been delivered. The payment is recorded as a liability on the company’s balance sheet until the goods or services are delivered. Deferred revenue can be beneficial for companies because it allows them to recognize revenue in advance of delivering the goods or services. However, deferred revenue can also be risky for companies because it can lead to overstating revenue and understating expenses

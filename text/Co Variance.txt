@@ -1,0 +1,23 @@
+<seo title="Co Variance" metakeywords="covariance statistical measure,covariance,covariance used,covariance covariance used" metadescription="Covariance is a statistical measure that is used to determine the degree to which two variables move together."/>
+===Introduction to Covariance===
+
+Covariance is a statistical measure that is used to determine the degree to which two variables move together. It is a measure of the degree to which two variables are linearly related. It is used to measure the correlation between two variables and is a measure of the degree to which changes in one variable are associated with changes in the other.
+===Definition of Covariance===
+
+Covariance is a measure of the degree to which two variables move together. It is a measure of the linear relationship between two variables. It is calculated by taking the product of the deviations of each variable from its mean and then dividing by the number of observations. The result is a number that indicates the degree to which the two variables move together.
+===Uses of Covariance===
+
+Covariance is used to measure the correlation between two variables. It is used to measure the degree to which changes in one variable are associated with changes in the other. It is also used to measure the degree of risk associated with a portfolio of investments.
+===Calculating Covariance===
+
+Covariance is calculated by taking the product of the deviations of each variable from its mean and then dividing by the number of observations. The formula for calculating covariance is as follows:
+
+Covariance = (Sum of (x - x mean) * (y - y mean)) / (n - 1)
+
+Where x and y are the two variables, x mean and y mean are the means of the two variables, and n is the number of observations.
+===Examples of Covariance===
+
+Covariance can be used to measure the correlation between two variables. For example, if the price of a stock is positively correlated with the price of another stock, then the covariance between the two stocks will be positive. Similarly, if the price of a stock is negatively correlated with the price of another stock, then the covariance between the two stocks will be negative.
+===Conclusion===
+
+Covariance is a measure of the degree to which two variables move together. It is a measure of the linear relationship between two variables and is used to measure the correlation between two variables. It is calculated by taking the product of the deviations of each variable from its mean and then dividing by the number of observations. Covariance is used to measure the degree to which changes in one variable are associated with changes in the other and is also used to measure the degree of risk associated with a portfolio of investments

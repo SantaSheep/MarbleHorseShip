@@ -1,15 +1,22 @@
 <seo title="Ultimate Mortality Table" metakeywords="ultimate mortality table,mortality table used,mortality table ultimate,mortality table developed" metadescription="The Ultimate Mortality Table is a statistical tool used to measure the mortality rate of a population."/>
 ===Introduction to Ultimate Mortality Table===
+
 The Ultimate [[Mortality Table|Mortality Table]] is a statistical tool used to measure the mortality rate of a population. It is used to calculate the probability of death for a given age group. The table is based on the mortality rates of a population over a period of time. It is used to estimate the life expectancy of a population and to calculate the expected number of deaths in a given year. The table is also used to calculate the expected number of survivors in a given year.
 ===History of Ultimate Mortality Table===
+
 The Ultimate Mortality Table was first developed in the late 19th century by the British actuary William Farr. Farr developed the table to calculate the mortality rate of a population. The table was later adopted by the United States and other countries. The table has been updated over the years to reflect changes in mortality rates.
 ===Uses of Ultimate Mortality Table===
+
 The Ultimate Mortality Table is used by actuaries, insurance companies, and other [[Financial Institution|financial institution]]s to calculate the probability of death for a given age group. It is also used to calculate the expected number of deaths in a given year. The table is used to estimate the life expectancy of a population and to calculate the expected number of survivors in a given year.
 ===Calculating Ultimate Mortality Table===
+
 The Ultimate Mortality Table is calculated using a variety of factors including age, gender, and health status. The table is based on the mortality rates of a population over a period of time. The table is updated periodically to reflect changes in mortality rates.
 ===Advantages of Ultimate Mortality Table===
+
 The Ultimate Mortality Table is a useful tool for actuaries, insurance companies, and other financial institutions. It is used to calculate the probability of death for a given age group. The table is also used to estimate the life expectancy of a population and to calculate the expected number of survivors in a given year.
 ===Disadvantages of Ultimate Mortality Table===
+
 The Ultimate Mortality Table is not a perfect tool. It is based on the mortality rates of a population over a period of time and is subject to change. The table does not take into account other factors such as lifestyle, diet, and environment which can affect mortality rates.
 ===Conclusion===
+
 The Ultimate Mortality Table is a useful tool for actuaries, insurance companies, and other financial institutions. It is used to calculate the probability of death for a given age group and to estimate the life expectancy of a population. The table is based on the mortality rates of a population over a period of time and is subject to change. The table does not take into account other factors such as lifestyle, diet, and environment which can affect mortality rates

@@ -1,13 +1,19 @@
 <seo title="Ddm" metakeywords="introduction ddm dividend,dividend discount model,dividend payments ddm,ddm dividend" metadescription="The Dividend Discount Model (DDM) is a financial valuation model used to estimate the intrinsic value of a stock.The DDM was first developed by John Burr Williams in 1938."/>
 ===Introduction to DDM===
+
 The Dividend Discount Model (DDM) is a financial valuation model used to estimate the [[Intrinsic Value|intrinsic value]] of a stock. It is based on the premise that the value of a stock is equal to the [[Present Value|present value]] of all future dividend payments. The DDM is a popular tool among investors and analysts for valuing stocks, as it takes into account the expected future [[Cash Flow|cash flow]]s of a company and the [[Time Value Of Money|time value of money]].
 ===History of DDM===
+
 The DDM was first developed by John Burr Williams in 1938. Williams was a professor of finance at Harvard University and is considered to be the father of modern finance. He developed the DDM as a way to value stocks based on their expected future dividend payments. Since then, the DDM has been widely used by investors and analysts to value stocks.
 ===Types of DDM===
+
 There are two main types of DDM: the [[Gordon Growth Model|Gordon Growth Model]] and the Two-Stage Dividend Discount Model. The Gordon Growth Model assumes that dividends will grow at a constant rate in perpetuity. The Two-Stage Dividend Discount Model assumes that dividends will grow at a constant rate for a certain period of time, and then will grow at a different rate after that period.
 ===Advantages and Disadvantages of DDM===
+
 The DDM is a popular tool for valuing stocks because it takes into account the expected future cash flows of a company and the time value of money. However, there are some drawbacks to using the DDM. One of the main drawbacks is that it relies heavily on assumptions about future dividend payments, which may not be accurate. Additionally, the DDM does not take into account other factors such as the companyâ€™s growth prospects or the current market conditions.
 ===Applications of DDM===
+
 The DDM is used by investors and analysts to value stocks. It can be used to compare the intrinsic value of a stock to its current market price, which can help investors make informed decisions about whether to buy or sell a stock. Additionally, the DDM can be used to compare the intrinsic value of different stocks, which can help investors identify stocks that are undervalued or overvalued.
 ===Conclusion===
+
 The Dividend Discount Model (DDM) is a financial valuation model used to estimate the intrinsic value of a stock. It is based on the premise that the value of a stock is equal to the present value of all future dividend payments. The DDM is a popular tool among investors and analysts for valuing stocks, as it takes into account the expected future cash flows of a company and the time value of money. The DDM can be used to compare the intrinsic value of a stock to its current market price, which can help investors make informed decisions about whether to buy or sell a stock. Additionally, the DDM can be used to compare the intrinsic value of different stocks, which can help investors identify stocks that are undervalued or overvalued

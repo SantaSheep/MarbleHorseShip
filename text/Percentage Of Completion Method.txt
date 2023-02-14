@@ -1,0 +1,20 @@
+<seo title="Percentage Of Completion Method" metakeywords="pcm accounting method,method pcm accounting,completion method pcm,percentage completion method" metadescription="The Percentage of Completion Method (PCM) is an accounting method used to recognize revenue from long-term contracts."/>
+===Introduction to Percentage of Completion Method===
+
+The Percentage of Completion Method (PCM) is an [[Accounting Method|accounting method]] used to recognize revenue from long-term contracts. It is used to recognize revenue from contracts that span multiple accounting periods. The PCM is based on the concept that revenue should be recognized in the period in which it is earned. This method is used to recognize revenue from contracts that are not completed in a single accounting period.
+
+The PCM is based on the concept that revenue should be recognized in the period in which it is earned. This method is used to recognize revenue from contracts that are not completed in a single accounting period. The PCM is based on the percentage of completion of the contract. The percentage of completion is determined by comparing the costs incurred to date to the estimated total costs of the contract. The percentage of completion is then used to calculate the amount of revenue to be recognized in the current period.
+===Advantages of Percentage of Completion Method===
+
+The PCM has several advantages. First, it allows for the recognition of revenue in the period in which it is earned. This is important because it allows companies to accurately reflect their [[Financial Performance|financial performance]] in the current period. Second, the PCM allows companies to recognize revenue from long-term contracts that span multiple accounting periods. This is important because it allows companies to recognize revenue from contracts that may not be completed in a single accounting period. Finally, the PCM allows companies to recognize revenue from contracts that may not be completed in a single accounting period.
+===Disadvantages of Percentage of Completion Method===
+
+The PCM also has several disadvantages. First, it can be difficult to accurately estimate the percentage of completion of a contract. This can lead to inaccurate [[Revenue Recognition|revenue recognition]]. Second, the PCM requires companies to estimate the total costs of a contract. This can be difficult to do accurately. Finally, the PCM requires companies to estimate the total costs of a contract. This can be difficult to do accurately and can lead to inaccurate revenue recognition.
+===Examples of Percentage of Completion Method===
+
+One example of the PCM is a construction contract. In this case, the contractor would estimate the total costs of the project and then compare the costs incurred to date to the estimated total costs. The percentage of completion is then used to calculate the amount of revenue to be recognized in the current period.
+
+Another example of the PCM is a software development contract. In this case, the software developer would estimate the total costs of the project and then compare the costs incurred to date to the estimated total costs. The percentage of completion is then used to calculate the amount of revenue to be recognized in the current period.
+===Conclusion===
+
+The Percentage of Completion Method (PCM) is an accounting method used to

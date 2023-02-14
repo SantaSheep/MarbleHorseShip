@@ -1,15 +1,22 @@
 <seo title="Risk Free Rate" metakeywords="risk free rate,rates risk free,rate risk free,free rate risk" metadescription="Risk free rate is a term used in finance to refer to the rate of return on an investment that is considered to be completely free of risk."/>
 ===Introduction to Risk Free Rate===
+
 Risk free rate is a term used in finance to refer to the [[Rate Of Return|rate of return]] on an investment that is considered to be completely free of risk. It is used as a benchmark for other investments, and is often used to compare the [[Expected Return|expected return]] of an investment to the risk free rate. The risk free rate is typically determined by the yield on government bonds, as these are considered to be the safest investments.
 ===Definition of Risk Free Rate===
+
 The risk free rate is defined as the rate of return on an investment that is considered to be completely free of risk. It is typically determined by the yield on government bonds, as these are considered to be the safest investments. The risk free rate is used as a benchmark for other investments, and is often used to compare the expected return of an investment to the risk free rate.
 ===Historical Context of Risk Free Rate===
+
 The concept of a risk free rate has been around for centuries, with the earliest recorded use of the term dating back to the 16th century. The risk free rate has been used as a benchmark for investments since then, and has been used to compare the expected return of an investment to the risk free rate. In modern times, the risk free rate is typically determined by the yield on government bonds, as these are considered to be the safest investments.
 ===Factors Influencing Risk Free Rate===
+
 The risk free rate is influenced by a variety of factors, including the economic environment, the level of inflation, and the level of [[Interest Rate|interest rate]]s. The risk free rate is also affected by the creditworthiness of the government issuing the bonds, as well as the liquidity of the market for the bonds.
 ===Calculating Risk Free Rate===
+
 The risk free rate is typically calculated by taking the yield on government bonds and subtracting the expected rate of inflation. This calculation is used to determine the real rate of return on an investment, which is then used as a benchmark for other investments.
 ===Applications of Risk Free Rate===
+
 The risk free rate is used in a variety of applications, including [[Portfolio Management|portfolio management]], asset allocation, and financial planning. It is also used to compare the expected return of an investment to the risk free rate, and to determine the real rate of return on an investment.
 ===Conclusion===
+
 In conclusion, the risk free rate is an important concept in finance that is used as a benchmark for other investments. It is typically determined by the yield on government bonds, and is influenced by a variety of factors, including the economic environment, the level of inflation, and the level of interest rates. The risk free rate is used in a variety of applications, including portfolio management, asset allocation, and financial planning

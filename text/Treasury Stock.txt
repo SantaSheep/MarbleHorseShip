@@ -1,13 +1,19 @@
 <seo title="Treasury Stock" metakeywords="stock disadvantages treasury,treasury stock advantages,treasury stock disadvantages,disadvantages treasury stock" metadescription="Treasury stock is a term used to describe the shares of a company that have been repurchased by the company itself."/>
 ===Introduction to Treasury Stock===
+
 Treasury stock is a term used to describe the shares of a company that have been repurchased by the company itself. These shares are not cancelled, but rather held in the company’s treasury. Treasury stock is also referred to as “treasury shares” or “reacquired stock”. Treasury stock is not considered to be outstanding stock, and therefore does not have voting rights or receive dividends.
 ===Definition of Treasury Stock===
+
 Treasury stock is defined as the shares of a company that have been repurchased by the company itself. These shares are not cancelled, but rather held in the company’s treasury. Treasury stock is also referred to as “treasury shares” or “reacquired stock”. Treasury stock is not considered to be outstanding stock, and therefore does not have voting rights or receive dividends.
 ===Accounting Treatment of Treasury Stock===
+
 The accounting treatment of treasury stock is based on the cost method. Under this method, the cost of the treasury stock is recorded as a reduction of the company’s equity. The cost of the treasury stock is the amount paid by the company to repurchase the shares. The cost of the treasury stock is not recorded as an asset on the company’s [[Balance Sheet|balance sheet]].
 ===Advantages of Treasury Stock===
+
 There are several advantages to holding treasury stock. First, it allows the company to reduce the number of outstanding shares, which can increase the value of the remaining shares. Second, it can be used to prevent [[Hostile Takeover|hostile takeover]]s by reducing the number of shares available to potential acquirers. Third, it can be used to reward employees through [[Stock Option|stock option]]s or other forms of compensation. Finally, it can be used to raise capital by selling the treasury stock.
 ===Disadvantages of Treasury Stock===
+
 There are also some disadvantages to holding treasury stock. First, it reduces the amount of capital available to the company for other investments. Second, it can reduce the liquidity of the company’s stock, making it more difficult to sell. Third, it can reduce the company’s earnings per share, which can have a negative impact on the company’s stock price. Finally, it can reduce the company’s ability to raise capital through the sale of new shares.
 ===Conclusion===
+
 Treasury stock is a term used to describe the shares of a company that have been repurchased by the company itself. These shares are not cancelled, but rather held in the company’s treasury. Treasury stock is not considered to be outstanding stock, and therefore does not have voting rights or receive dividends. The accounting treatment of treasury stock is based on the cost method. There are several advantages and disadvantages to holding treasury stock, and it is important for companies to consider these factors when deciding whether or not to repurchase their own shares

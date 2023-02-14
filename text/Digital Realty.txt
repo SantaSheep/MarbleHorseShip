@@ -1,11 +1,16 @@
 <seo title="Digital Realty" metakeywords="digital realty business,services digital realty,digital realty founded,realty digital realty" metadescription="Digital Realty is a leading global provider of data center, colocation, and interconnection solutions."/>
 ===Introduction to Digital Realty===
+
 Digital Realty is a leading global provider of data center, colocation, and interconnection solutions. The company was founded in 2004 and is headquartered in San Francisco, California. Digital Realty owns and operates more than 200 data centers in over 20 countries across the Americas, Europe, Asia, and Australia. The company provides a range of services, including colocation, cloud, and managed services, as well as interconnection solutions. Digital Realty is a publicly traded company listed on the New York Stock Exchange (NYSE: DLR).
 ===History of Digital Realty===
+
 Digital Realty was founded in 2004 by CEO William Stein and CFO A. William Stein. The company was initially focused on providing data center solutions to the financial services industry. In 2006, Digital Realty acquired Telx, a leading provider of interconnection solutions. This acquisition allowed Digital Realty to expand its services to include interconnection solutions. In 2011, Digital Realty acquired the data center business of Equinix, a leading provider of data center and colocation services. This acquisition allowed Digital Realty to expand its presence in the data center and colocation markets.
 ===Business Model of Digital Realty===
+
 Digital Realty’s business model is focused on providing data center, colocation, and interconnection solutions to customers. The company’s services are divided into three main categories: colocation, cloud, and managed services. Colocation services include the leasing of space in Digital Realty’s data centers for customers to house their own IT equipment. Cloud services include the provision of [[Cloud Computing|cloud computing]] services, such as Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS). Managed services include the provision of managed IT services, such as managed hosting and managed security.
 ===Financial Performance of Digital Realty===
+
 Digital Realty has experienced strong [[Financial Performance|financial performance]] in recent years. In 2020, the company reported total revenue of $2.3 billion, an increase of 8.3% from the previous year. [[Net Income|Net income]] for the year was $717 million, an increase of 11.3% from the previous year. The company’s total assets as of the end of 2020 were $17.3 billion, an increase of 8.2% from the previous year.
 ===Conclusion===
+
 Digital Realty is a leading global provider of data center, colocation, and interconnection solutions. The company has experienced strong financial performance in recent years, with total revenue and net income increasing in 2020. Digital Realty’s business model is focused on providing data center, colocation, and interconnection solutions to customers. The company’s services are divided into three main categories: colocation, cloud, and managed services. Digital Realty is a publicly traded company listed on the New York Stock Exchange (NYSE: DLR)

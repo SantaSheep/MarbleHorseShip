@@ -1,13 +1,19 @@
 <seo title="Total Liabilities" metakeywords="examples total liabilities,liabilities examples total,total liabilities examples,introduction total liabilities" metadescription="Total liabilities are a financial term used to describe the total amount of debt and other obligations that a company or individual owes to creditors."/>
 ===Introduction to Total Liabilities===
+
 Total liabilities are a financial term used to describe the total amount of debt and other obligations that a company or individual owes to creditors. It is an important concept in accounting and finance, as it provides a snapshot of the financial health of a company or individual. Total liabilities are typically reported on a company's [[Balance Sheet|balance sheet]], and are used to calculate a company's [[Net Worth|net worth]].
 ===Components of Total Liabilities===
+
 Total liabilities are composed of two main components: [[Current Liabilities|current liabilities]] and long-term liabilities. Current liabilities are obligations that are due within one year, such as [[Accounts Payable|accounts payable]], taxes, and short-term loans. Long-term liabilities are obligations that are due after one year, such as long-term loans, bonds, and leases.
 ===Calculating Total Liabilities===
+
 Total liabilities are calculated by adding together all of the current and long-term liabilities of a company or individual. This calculation is typically reported on a company's balance sheet. The total liabilities figure is then subtracted from the total assets figure to calculate the company's net worth.
 ===Examples of Total Liabilities===
+
 Examples of total liabilities include accounts payable, taxes, short-term loans, long-term loans, bonds, and leases.
 ===Advantages and Disadvantages of Total Liabilities===
+
 The main advantage of total liabilities is that it provides a snapshot of the financial health of a company or individual. It is also useful for calculating a company's net worth. The main disadvantage of total liabilities is that it does not take into account the value of assets, which can be difficult to accurately assess.
 ===Conclusion===
+
 Total liabilities are an important concept in accounting and finance, as they provide a snapshot of the financial health of a company or individual. Total liabilities are composed of two main components: current liabilities and long-term liabilities. Total liabilities are calculated by adding together all of the current and long-term liabilities of a company or individual. The main advantage of total liabilities is that it provides a snapshot of the financial health of a company or individual, while the main disadvantage is that it does not take into account the value of assets

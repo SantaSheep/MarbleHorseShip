@@ -1,13 +1,19 @@
 <seo title="Over The Counter Market" metakeywords="otc markets,otc markets used,market otc market,markets additionally otc" metadescription="Over The Counter (OTC) market is a decentralized market for trading securities that are not listed on a formal exchange."/>
 ===Introduction to Over The Counter Market===
+
 The Over The Counter (OTC) market is a decentralized market for trading securities that are not listed on a formal exchange. It is a type of market that is not regulated by a central authority, and instead is made up of a network of dealers who negotiate directly with each other. OTC markets are often used for trading securities that are not widely traded, such as [[Penny Stock|penny stock]]s, or for trading securities that are not listed on a formal exchange.
 ===History of Over The Counter Market===
+
 The OTC market has been around since the late 19th century, when it was used to trade stocks that were not listed on the New York Stock Exchange. Over the years, the OTC market has grown to include a variety of different types of securities, including bonds, derivatives, and foreign exchange. Today, the OTC market is one of the largest markets in the world, with an estimated daily trading volume of over $1 trillion.
 ===Types of Over The Counter Market===
+
 The OTC market is divided into two main categories: the dealer market and the broker market. In the dealer market, dealers act as intermediaries between buyers and sellers, and they are responsible for setting the prices of the securities they trade. In the broker market, brokers act as agents for buyers and sellers, and they are responsible for executing trades on behalf of their clients.
 ===Benefits of Over The Counter Market===
+
 The OTC market offers a number of benefits to investors. One of the main benefits is that it provides access to a wide range of securities that may not be available on a formal exchange. This can be especially beneficial for investors who are looking to invest in smaller companies or in more obscure markets. Additionally, the OTC market is often less regulated than formal exchanges, which can make it easier for investors to access certain types of securities.
 ===Risks of Over The Counter Market===
+
 Despite the benefits of the OTC market, there are also some risks associated with it. One of the main risks is that the OTC market is not as heavily regulated as formal exchanges, which can make it more difficult for investors to protect themselves from fraud or manipulation. Additionally, the OTC market can be more volatile than formal exchanges, which can make it riskier for investors.
 ===Conclusion===
+
 The Over The Counter (OTC) market is a decentralized market for trading securities that are not listed on a formal exchange. It is a type of market that is not regulated by a central authority, and instead is made up of a network of dealers who negotiate directly with each other. The OTC market offers a number of benefits to investors, including access to a wide range of securities that may not be available on a formal exchange. However, there are also some risks associated with the OTC market, including the lack of regulation and the potential for volatility

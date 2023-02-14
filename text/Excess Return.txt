@@ -1,15 +1,22 @@
 <seo title="Excess Return" metakeywords="definition excess return,investment excess return,excess return defined,introduction excess return" metadescription="Excess return is a financial term used to describe the return on an investment that exceeds the return of a benchmark index or other measure of performance."/>
 ===Introduction to Excess Return===
+
 Excess return is a financial term used to describe the return on an investment that exceeds the return of a benchmark index or other measure of performance. It is a measure of the performance of an investment relative to a benchmark, and is often used to evaluate the performance of a portfolio manager or [[Mutual Fund|mutual fund]]. Excess return is also known as alpha, which is the difference between the return of an investment and the return of a benchmark.
 ===Definition of Excess Return===
+
 Excess return is defined as the return on an investment that exceeds the return of a benchmark index or other measure of performance. It is a measure of the performance of an investment relative to a benchmark, and is often used to evaluate the performance of a portfolio manager or mutual fund.
 ===Components of Excess Return===
+
 Excess return is composed of two components: alpha and beta. Alpha is the difference between the return of an investment and the return of a benchmark. Beta is the measure of the volatility of an investment relative to the benchmark.
 ===Calculating Excess Return===
+
 Excess return is calculated by subtracting the return of the benchmark from the return of the investment. For example, if an investment has a return of 10% and the benchmark has a return of 8%, the excess return is 2%.
 ===Examples of Excess Return===
+
 Excess return can be used to evaluate the performance of a portfolio manager or mutual fund. For example, if a portfolio manager has a return of 10% and the benchmark has a return of 8%, the excess return is 2%. This indicates that the portfolio manager has outperformed the benchmark by 2%.
 ===Advantages and Disadvantages of Excess Return===
+
 The main advantage of using excess return is that it provides a measure of the performance of an investment relative to a benchmark. This can be useful for evaluating the performance of a portfolio manager or mutual fund. The main disadvantage of using excess return is that it does not take into account the risk associated with the investment.
 ===Conclusion===
+
 Excess return is a financial term used to describe the return on an investment that exceeds the return of a benchmark index or other measure of performance. It is composed of two components: alpha and beta, and is calculated by subtracting the return of the benchmark from the return of the investment. Excess return can be used to evaluate the performance of a portfolio manager or mutual fund, but does not take into account the risk associated with the investment

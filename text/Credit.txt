@@ -1,15 +1,22 @@
 <seo title="Credit" metakeywords="different types credit,types credit different,credit risk typically,credit scoring credit" metadescription="When a consumer takes out a loan or uses a credit card, they are taking on a certain amount of risk."/>
 ===Introduction to Credit===
+
 Credit is a form of financial transaction in which one party provides money, goods, or services to another party in exchange for a promise to repay the debt at a later date. Credit is an important part of the modern economy, allowing individuals and businesses to purchase goods and services without having to pay for them upfront. Credit can be used to purchase a variety of items, from cars and homes to everyday items such as groceries and clothing. Credit can also be used to finance investments, such as stocks and bonds.
 ===Types of Credit===
+
 There are several different types of credit available to consumers. The most common type of credit is revolving credit, which allows consumers to borrow a set amount of money and then repay it over time, with interest. Other types of credit include installment credit, which requires consumers to make regular payments over a set period of time, and open-ended credit, which allows consumers to borrow money up to a certain limit and then repay it as they wish.
 ===Credit Risk===
+
 When a consumer takes out a loan or uses a [[Credit Card|credit card]], they are taking on a certain amount of risk. [[Credit Risk|Credit risk]] is the risk that the borrower will not be able to repay the loan or credit card balance. Credit risk is typically assessed by lenders using a credit score, which is a numerical representation of a borrower’s creditworthiness. The higher the credit score, the lower the risk of default.
 ===Credit Scoring===
+
 Credit scoring is the process of assessing a borrower’s creditworthiness. Credit scores are calculated using a variety of factors, including payment history, credit utilization, and the length of the credit history. Credit scores range from 300 to 850, with higher scores indicating a lower risk of default.
 ===Credit Reporting===
+
 Credit reporting is the process of collecting and maintaining information about a consumer’s credit history. Credit reporting agencies, such as Equifax, Experian, and TransUnion, collect and maintain information about a consumer’s credit history, including payment history, credit utilization, and other factors. This information is then used to calculate a consumer’s credit score.
 ===Credit Card Regulations===
+
 Credit card regulations are laws and regulations that govern the use of credit cards. These regulations are designed to protect consumers from unfair or deceptive practices, such as hidden fees and [[Interest Rate|interest rate]] increases. Credit card regulations also require credit card companies to provide consumers with clear and understandable terms and conditions.
 ===Conclusion===
+
 Credit is an important part of the modern economy, allowing individuals and businesses to purchase goods and services without having to pay for them upfront. There are several different types of credit available to consumers, including revolving credit, installment credit, and open-ended credit. Credit risk is the risk that the borrower will not be able to repay the loan or credit ca

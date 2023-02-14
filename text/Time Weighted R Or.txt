@@ -1,13 +1,19 @@
 <seo title="Time Weighted R Or" metakeywords="time weightedror useful,definition time weightedror,time weightedror calculated,time weightedror measure" metadescription="Time Weightedror, also known as time-weighted rate of return (TWRR), is a measure of the performance of an investment portfolio over a given period of time."/>
 ===Introduction to Time Weightedror===
+
 Time Weightedror, also known as time-weighted [[Rate Of Return|rate of return]] (TWRR), is a measure of the performance of an investment portfolio over a given period of time. It is a measure of the rate of return on an investment portfolio that takes into account the effects of [[Cash Flow|cash flow]]s and changes in the value of the portfolio over time. TWRR is used to compare the performance of different portfolios and to measure the performance of a portfolio relative to a benchmark.
 ===Definition of Time Weightedror===
+
 Time Weightedror is a measure of the rate of return on an investment portfolio that takes into account the effects of cash flows and changes in the value of the portfolio over time. It is calculated by dividing the total return of the portfolio by the total amount of money invested in the portfolio over the period of time being measured. The TWRR is expressed as a percentage and is used to compare the performance of different portfolios and to measure the performance of a portfolio relative to a benchmark.
 ===Calculation of Time Weightedror===
+
 Time Weightedror is calculated by dividing the total return of the portfolio by the total amount of money invested in the portfolio over the period of time being measured. The total return of the portfolio is calculated by subtracting the initial value of the portfolio from the final value of the portfolio and then adding any cash flows that occurred during the period. The total amount of money invested in the portfolio is calculated by adding the initial value of the portfolio to any cash flows that occurred during the period. The TWRR is then expressed as a percentage.
 ===Advantages of Time Weightedror===
+
 Time Weightedror is a useful measure of the performance of an investment portfolio because it takes into account the effects of cash flows and changes in the value of the portfolio over time. This makes it a more accurate measure of performance than other measures such as the simple rate of return, which does not take into account the effects of cash flows. TWRR is also useful for comparing the performance of different portfolios and for measuring the performance of a portfolio relative to a benchmark.
 ===Disadvantages of Time Weightedror===
+
 The main disadvantage of Time Weightedror is that it does not take into account the risk associated with the investments in the portfolio. This means that a portfolio with a higher TWRR may actually be riskier than a portfolio with a lower TWRR. In addition, TWRR does not take into account the costs associated with managing the portfolio, such as transaction costs and management fees.
 ===Conclusion===
+
 Time Weightedror is a useful measure of the performance of an investment portfolio that takes into account the effects of cash flows and changes in the value of the portfolio over time. It is a more accurate measure of performance than other measures such as the simple rate of return, and it is useful for comparing the performa

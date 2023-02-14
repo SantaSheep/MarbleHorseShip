@@ -1,13 +1,19 @@
 <seo title="Index" metakeywords="market indexes,market index measures,investments indexes,index measures performance" metadescription="An index is a statistical measure of the relative level of a group of securities or other assets."/>
 ===Introduction to Index===
+
 An index is a statistical measure of the relative level of a group of securities or other assets. It is used to measure the performance of a particular market or sector, and is often used as a benchmark for investors to compare the performance of their investments against. An index can be composed of a variety of different assets, such as stocks, bonds, commodities, or currencies. The components of an index are weighted according to their importance in the overall market or sector, and the index is calculated by taking the [[Weighted Average|weighted average]] of the components.
 ===Types of Index===
+
 There are several different types of indexes, each of which is designed to measure the performance of a particular market or sector. The most common type of index is the [[Stock Market|stock market]] index, which measures the performance of a particular stock market. Other types of indexes include bond market indexes, commodity indexes, currency indexes, and sector indexes. Each type of index has its own set of components and weightings, and is calculated differently.
 ===Components of an Index===
+
 The components of an index are the individual assets that make up the index. These components can be stocks, bonds, commodities, or currencies, and are weighted according to their importance in the overall market or sector. The weightings of the components are determined by the index provider, and can be based on factors such as [[Market Capitalization|market capitalization]], liquidity, or other criteria.
 ===Calculating an Index===
+
 An index is calculated by taking the weighted average of the components. The weightings of the components are determined by the index provider, and can be based on factors such as market capitalization, liquidity, or other criteria. The index is then calculated by taking the weighted average of the components.
 ===Uses of an Index===
+
 Indexes are used to measure the performance of a particular market or sector, and are often used as a benchmark for investors to compare the performance of their investments against. Indexes can also be used to track the performance of a particular asset class, such as stocks, bonds, commodities, or currencies. Indexes are also used by financial professionals to make decisions about investments, and by governments to measure the performance of their economies.
 ===Conclusion===
+
 An index is a statistical measure of the relative level of a group of securities or other assets. It is used to measure the performance of a particular market or sector, and is often used as a benchmark for investors to compare the performance of their investments against. There are several different types of indexes, each of which is designed to measure the performance of a particular market or sector. The components of an index are the individual assets that make up the index, and are weighted according to their importance in the overall market or sector. An index is calculated by taking the weighted average of the components, and is used to meas

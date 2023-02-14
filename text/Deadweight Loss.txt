@@ -1,13 +1,19 @@
 <seo title="Deadweight Loss" metakeywords="deadweight loss economic,deadweight loss taxation,resources deadweight loss,deadweight loss creating" metadescription="Deadweight loss is the loss of economic efficiency that occurs when the market fails to allocate resources efficiently."/>
 ===Introduction to Deadweight Loss===
+
 Deadweight loss is an economic concept that refers to the loss of economic efficiency that occurs when the market fails to allocate resources efficiently. It is a measure of the cost to society of market inefficiency, and is calculated as the difference between the total benefit of a market transaction and the benefit that is actually achieved. Deadweight loss can be caused by a variety of factors, including taxes, subsidies, [[Price Ceiling|price ceiling]]s, price floors, and externalities.
 ===Causes of Deadweight Loss===
+
 Deadweight loss can be caused by a variety of factors, including taxes, subsidies, price ceilings, price floors, and externalities. Taxes, for example, can create deadweight loss by reducing the incentive to produce or consume a good or service. Subsidies, on the other hand, can create deadweight loss by creating an artificial incentive to produce or consume a good or service. Price ceilings and price floors can also create deadweight loss by preventing the market from reaching its equilibrium price. Finally, externalities, such as pollution, can create deadweight loss by creating costs or benefits that are not reflected in the market price.
 ===Examples of Deadweight Loss===
+
 One of the most common examples of deadweight loss is the taxation of goods and services. When a good or service is taxed, the price of the good or service increases, which reduces the incentive to produce or consume the good or service. This reduces the total benefit of the market transaction, resulting in deadweight loss. Another example of deadweight loss is the subsidization of certain goods and services. Subsidies create an artificial incentive to produce or consume a good or service, which can lead to an inefficient allocation of resources and deadweight loss.
 ===Impact of Deadweight Loss===
+
 Deadweight loss has a significant impact on the economy. It reduces the efficiency of the market, which can lead to higher prices, lower output, and fewer jobs. In addition, deadweight loss reduces the total benefit of a market transaction, which can lead to a decrease in consumer and producer surplus. Finally, deadweight loss can lead to an inefficient allocation of resources, which can lead to a decrease in [[Economic Growth|economic growth]].
 ===Strategies to Reduce Deadweight Loss===
+
 There are several strategies that can be used to reduce deadweight loss. One of the most effective strategies is to reduce taxes and subsidies. Reducing taxes and subsidies can reduce the incentive to produce or consume a good or service, which can reduce the amount of deadweight loss. In addition, reducing price ceilings and price floors can help to reduce deadweight loss by allowing the market to reach its equilibrium price. Finally, reducing externalities, such as pollution, can help to reduce deadweight loss by reducing the costs or benefits that are not reflected in the market price.
 ===Conclusion===
+
 Deadweight loss is an economic concept that refers to the loss of

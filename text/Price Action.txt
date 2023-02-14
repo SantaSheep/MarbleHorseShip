@@ -1,11 +1,16 @@
 <seo title="Price Action" metakeywords="price action analysis,price action indicators,analysis price action,price action term" metadescription="Price action is a term used in the financial markets to describe the movement of a security's price."/>
 ===Introduction to Price Action===
+
 Price action is a term used in the [[Financial Market|financial market]]s to describe the movement of a security's price. It is a [[Technical Analysis|technical analysis]] tool that uses past price movements to predict future price movements. Price action analysis is based on the idea that prices move in trends, and that these trends can be identified and used to make trading decisions. Price action analysis is used by traders to identify potential trading opportunities and to make informed decisions about when to enter and exit trades.
 ===Price Action Analysis===
+
 Price action analysis is a form of technical analysis that uses past price movements to predict future price movements. Price action analysis is based on the idea that prices move in trends, and that these trends can be identified and used to make trading decisions. Price action analysis is used by traders to identify potential trading opportunities and to make informed decisions about when to enter and exit trades. Price action analysis involves looking at the price movements of a security over time and identifying patterns that can be used to make trading decisions. Price action analysis can be used to identify support and resistance levels, trend lines, and other patterns that can be used to make trading decisions.
 ===Price Action Indicators===
+
 Price action indicators are tools used in price action analysis to identify potential trading opportunities. Price action indicators are used to identify support and resistance levels, trend lines, and other patterns that can be used to make trading decisions. Some of the most commonly used price action indicators include [[Moving Average|moving average]]s, [[Bollinger Bands|Bollinger Bands]], and the Relative Strength Index (RSI). Moving averages are used to identify support and resistance levels, while Bollinger Bands and the RSI are used to identify trend lines and other patterns.
 ===Price Action Strategies===
+
 Price action strategies are trading strategies that are based on price action analysis. Price action strategies involve looking at the price movements of a security over time and identifying patterns that can be used to make trading decisions. Price action strategies can be used to identify support and resistance levels, trend lines, and other patterns that can be used to make trading decisions. Some of the most commonly used price action strategies include trend following, range trading, and breakout trading.
 ===Conclusion===
+
 Price action is a term used in the financial markets to describe the movement of a security's price. Price action analysis is a form of technical analysis that uses past price movements to predict future price movements. Price action indicators and strategies are tools and strategies used in price action analysis to identify potential trading opportunities. Price action analysis is used by traders to identify potential trading opportunities and to make informed decisions about when to enter and exit trades

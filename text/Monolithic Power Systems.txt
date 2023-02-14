@@ -1,11 +1,16 @@
 <seo title="Monolithic Power Systems" metakeywords="systems monolithic power,monolithic power systems,performance monolithic power,introduction monolithic power" metadescription="Monolithic Power Systems (MPS) is a leading provider of high-performance analog and mixed-signal semiconductor solutions."/>
 ===Introduction to Monolithic Power Systems===
+
 Monolithic Power Systems (MPS) is a leading provider of high-performance analog and mixed-signal semiconductor solutions. Founded in 1997, MPS has grown to become a global leader in the power management and analog semiconductor markets. MPS designs, develops, and markets a wide range of power management and analog semiconductor solutions for a variety of applications, including consumer electronics, automotive, industrial, and medical. MPS’s products are used in a variety of applications, including power management, audio, video, and communications.
 ===History of Monolithic Power Systems===
+
 MPS was founded in 1997 by Michael Hsing and Shih-Wei Sun. The company was initially focused on developing power management solutions for the consumer electronics market. Over the years, MPS has expanded its product portfolio to include a wide range of power management and analog semiconductor solutions for a variety of applications. MPS has also grown to become a global leader in the power management and analog semiconductor markets.
 ===Financial Performance of Monolithic Power Systems===
+
 MPS has experienced strong [[Financial Performance|financial performance]] over the past several years. In 2020, MPS reported total revenue of $1.2 billion, up from $1.1 billion in 2019. The company’s [[Net Income|net income]] also increased from $128 million in 2019 to $145 million in 2020. MPS’s strong financial performance is driven by its focus on innovation and its ability to develop and market high-performance analog and mixed-signal semiconductor solutions.
 ===Products and Services Offered by Monolithic Power Systems===
+
 MPS offers a wide range of power management and analog semiconductor solutions for a variety of applications. The company’s products are used in consumer electronics, automotive, industrial, and medical applications. MPS’s products include power management ICs, audio ICs, video ICs, communications ICs, and other analog and mixed-signal semiconductor solutions. MPS also offers a range of services, including design, development, and manufacturing services.
 ===Conclusion===
+
 Monolithic Power Systems is a leading provider of high-performance analog and mixed-signal semiconductor solutions. The company has experienced strong financial performance over the past several years and offers a wide range of power management and analog semiconductor solutions for a variety of applications. MPS’s products and services are used in consumer electronics, automotive, industrial, and medical applications

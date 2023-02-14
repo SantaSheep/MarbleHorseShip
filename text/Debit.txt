@@ -1,13 +1,19 @@
 <seo title="Debit" metakeywords="debit orders convenient,introduction debit order,questions debit orders,debit orders" metadescription="A debit order is a payment method that allows a customer to authorize a merchant to withdraw a predetermined amount of money from their bank account on a regular basis."/>
 ===Introduction to Debit Order===
+
 A debit order is a payment method that allows a customer to authorize a merchant to withdraw a predetermined amount of money from their bank account on a regular basis. This type of payment is often used for recurring payments such as monthly bills, subscriptions, and loan payments. Debit orders are a convenient and secure way to make payments, as they are processed electronically and require no manual intervention.
 ===Types of Debit Orders===
+
 Debit orders come in two main types: pre-authorized and post-authorized. Pre-authorized debit orders are set up in advance and are processed on a regular basis, usually on a monthly or quarterly basis. Post-authorized debit orders are processed on an ad-hoc basis, meaning that the customer must authorize each payment individually.
 ===Benefits of Debit Orders===
+
 Debit orders offer a number of benefits to both customers and merchants. For customers, debit orders are a convenient and secure way to make payments, as they are processed electronically and require no manual intervention. Additionally, customers can set up recurring payments, which can help them stay on top of their bills and avoid late fees. For merchants, debit orders are a cost-effective way to collect payments, as they are processed quickly and securely.
 ===How to Set Up a Debit Order===
+
 Setting up a debit order is a simple process. Customers must first provide their bank details to the merchant, who will then set up the debit order. Customers can then choose the frequency of the payments, as well as the amount to be withdrawn. Once the debit order is set up, the customer will receive a confirmation email or SMS.
 ===Common Questions About Debit Orders===
+
 One of the most common questions about debit orders is how to cancel them. Customers can cancel a debit order at any time by contacting their bank or the merchant. Additionally, customers can also change the frequency or amount of the payments by contacting their bank or the merchant.
 ===Conclusion===
+
 Debit orders are a convenient and secure way to make payments, as they are processed electronically and require no manual intervention. Customers can set up recurring payments, which can help them stay on top of their bills and avoid late fees. Additionally, customers can cancel or change the frequency or amount of the payments at any time

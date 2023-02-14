@@ -1,13 +1,19 @@
 <seo title="Surety" metakeywords="project surety bond,surety bond requirements,types surety bonds,surety bond surety" metadescription="Surety is a form of financial assurance that is used to guarantee the performance of a contract or obligation."/>
 ===Introduction to Surety===
+
 Surety is a form of financial assurance that is used to guarantee the performance of a contract or obligation. It is a three-party agreement between a principal (the party who is obligated to perform the contract or obligation), an obligee (the party who is to be protected by the surety), and a surety (the party who guarantees the performance of the principal). Surety is often used in the construction industry, but it can also be used in other industries such as banking, insurance, and government contracts.
 ===Types of Surety Bonds===
+
 There are several different types of surety bonds, each of which is designed to meet the specific needs of the parties involved. The most common types of surety bonds are bid bonds, performance bonds, payment bonds, and supply bonds. Bid bonds are used to guarantee that the principal will enter into a contract if they are the successful bidder. Performance bonds guarantee that the principal will complete the contract in accordance with the terms of the agreement. Payment bonds guarantee that the principal will pay all subcontractors, suppliers, and laborers for their work on the project. Supply bonds guarantee that the principal will provide the materials and supplies necessary for the project.
 ===Surety Bond Requirements===
+
 In order to obtain a surety bond, the principal must meet certain requirements. These requirements vary depending on the type of bond and the amount of the bond. Generally, the principal must have a good [[Credit Rating|credit rating]], a history of successful projects, and sufficient assets to cover the bond amount. The surety company will also require the principal to provide [[Financial Statements|financial statements]], tax returns, and other documents to prove their financial stability.
 ===Surety Bond Cost===
+
 The cost of a surety bond is typically a percentage of the bond amount. The exact percentage varies depending on the type of bond and the creditworthiness of the principal. Generally, the higher the bond amount, the lower the percentage rate. The surety company may also require the principal to pay an additional fee for the bond.
 ===Surety Bond Claims===
+
 If the principal fails to fulfill their obligations under the contract, the obligee can make a claim against the surety bond. The surety company will then investigate the claim and determine whether or not the principal is liable for the damages. If the principal is found to be liable, the surety company will pay the obligee the amount of the bond.
 ===Conclusion===
+
 Surety is a form of financial assurance that is used to guarantee the performance of a contract or obligation. It is a three-party agreement between a principal, an obligee, and a surety. There are several different types of surety bonds, each of which is designed to meet the specific needs of the parties involved. In order to obtain a surety bond, the principal must meet certain requirements, and the cost of the bond is typically a percentage of the bond amount. If the p

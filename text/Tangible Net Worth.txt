@@ -1,13 +1,19 @@
 <seo title="Tangible Net Worth" metakeywords="net tangible assets,tangible assets net,company tangible net,tangible net worth" metadescription="Tangible net worth is a financial term that refers to the total value of a company’s assets minus its liabilities."/>
 ===Introduction to Tangible Net Worth===
+
 Tangible [[Net Worth|net worth]] is a financial term that refers to the total value of a company’s assets minus its liabilities. It is also known as “[[Net [[Tangible Asset|Tangible Asset]]s|net tangible assets]]” or “net tangible equity” and is a measure of a company’s financial health. Tangible net worth is an important metric for investors and creditors, as it provides an indication of the company’s ability to pay its debts and meet its obligations.
 ===Components of Tangible Net Worth===
+
 Tangible net worth is calculated by subtracting a company’s liabilities from its assets. Assets include cash, [[Accounts Receivable|accounts receivable]], inventory, investments, and property, plant, and equipment. Liabilities include [[Accounts Payable|accounts payable]], short-term debt, long-term debt, and other obligations.
 ===Calculating Tangible Net Worth===
+
 To calculate a company’s tangible net worth, the total value of its assets must be determined. This can be done by adding up the current market value of all of the company’s assets. Then, the total value of the company’s liabilities must be determined. This can be done by adding up the current market value of all of the company’s liabilities. Finally, the total value of the company’s assets must be subtracted from the total value of its liabilities. The resulting figure is the company’s tangible net worth.
 ===Advantages of Tangible Net Worth===
+
 Tangible net worth is an important metric for investors and creditors, as it provides an indication of the company’s ability to pay its debts and meet its obligations. It is also useful for assessing the financial health of a company, as it provides an indication of the company’s liquidity and solvency.
 ===Disadvantages of Tangible Net Worth===
+
 The main disadvantage of tangible net worth is that it does not take into account [[Intangible Asset|intangible asset]]s, such as intellectual property, brand value, and goodwill. These intangible assets can have a significant impact on a company’s value, but they are not included in the calculation of tangible net worth.
 ===Conclusion===
+
 Tangible net worth is an important financial metric that provides an indication of a company’s financial health. It is calculated by subtracting a company’s liabilities from its assets. Tangible net worth is useful for assessing the financial health of a company, as it provides an indication of the company’s liquidity and solvency. However, it does not take into account intangible assets, such as intellectual property, brand value, and goodwill

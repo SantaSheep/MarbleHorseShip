@@ -1,13 +1,19 @@
 <seo title="Expected Value" metakeywords="expected value concept,definition expected value,expected value useful,value expected value" metadescription="Expected value is a concept used in finance and economics to measure the average outcome of a given situation."/>
 ===Introduction to Expected Value===
+
 Expected value is a concept used in finance and economics to measure the average outcome of a given situation. It is used to determine the [[Expected Return|expected return]] on an investment or the expected outcome of a decision. It is a useful tool for investors and decision makers to assess the potential risks and rewards of a given situation.
 ===Definition of Expected Value===
+
 Expected value is defined as the sum of all possible outcomes of a given situation multiplied by the probability of each outcome occurring. It is a measure of the average outcome of a given situation. It is calculated by multiplying the probability of each outcome by its associated value and then summing the results.
 ===Calculation of Expected Value===
+
 Expected value is calculated by multiplying the probability of each outcome by its associated value and then summing the results. For example, if there are two possible outcomes with a probability of 0.5 each, the expected value would be the sum of the two outcomes multiplied by their respective probabilities.
 ===Applications of Expected Value===
+
 Expected value is used in a variety of applications, including investment decisions, [[Risk Management|risk management]], and decision making. It is used to assess the potential risks and rewards of a given situation. It is also used to determine the expected return on an investment or the expected outcome of a decision.
 ===Limitations of Expected Value===
+
 Expected value is not a perfect measure of the average outcome of a given situation. It does not take into account the possibility of extreme outcomes or the effects of uncertainty. It is also limited by the accuracy of the probabilities used in the calculation.
 ===Conclusion===
+
 Expected value is a useful tool for investors and decision makers to assess the potential risks and rewards of a given situation. It is calculated by multiplying the probability of each outcome by its associated value and then summing the results. However, it is not a perfect measure of the average outcome of a given situation and is limited by the accuracy of the probabilities used in the calculation

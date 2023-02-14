@@ -1,0 +1,18 @@
+<seo title="Zero Sum Game" metakeywords="zero sum games,games zero sum,zero sum game,advantage zero sum" metadescription="A zero sum game is a type of game in which the total gains and losses of all players in the game are equal to zero."/>
+===Introduction to Zero Sum Game===
+
+A zero sum game is a type of game in which the total gains and losses of all players in the game are equal to zero. This means that for every gain made by one player, there must be an equal loss made by another player. Zero sum games are used in economics, [[Game Theory|game theory]], and other fields to analyze the behavior of players in a given situation.
+===Types of Zero Sum Games===
+
+Zero sum games can be divided into two main categories: cooperative and non-cooperative. In cooperative zero sum games, all players must cooperate in order to achieve a successful outcome. Non-cooperative zero sum games involve players competing against each other in order to achieve a successful outcome.
+===Examples of Zero Sum Games===
+
+One of the most common examples of a zero sum game is the game of chess. In chess, each player has a set number of pieces and the goal is to capture the opponentâ€™s pieces. If one player captures more pieces than the other, then the player with the most pieces wins the game. Another example of a zero sum game is the game of poker. In poker, each player is dealt a hand of cards and the goal is to make the best hand possible. If one player has a better hand than the other, then that player wins the game.
+===Advantages and Disadvantages of Zero Sum Games===
+
+Zero sum games have both advantages and disadvantages. One of the main advantages of zero sum games is that they provide a way for players to compete against each other in a fair and balanced way. This means that each player has an equal chance of winning the game. Another advantage of zero sum games is that they can be used to analyze the behavior of players in a given situation.
+
+On the other hand, one of the main disadvantages of zero sum games is that they can be difficult to win. This is because the gains and losses of all players in the game are equal to zero, so it can be difficult to gain an advantage over the other players. Additionally, zero sum games can be time consuming and require a lot of strategy and skill in order to be successful.
+===Conclusion===
+
+Zero sum games are a type of game in which the total gains and losses of all players in the game are equal to zero. These games can be divided into two main categories: cooperative and non-cooperative. Examples of zero sum games include chess and poker. Zero sum games have both advantages and disadvantages, such as providing a way for players to compete against each other in a fair and balanced way, but they can also be difficult to win

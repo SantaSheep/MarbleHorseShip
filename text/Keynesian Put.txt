@@ -1,0 +1,20 @@
+<seo title="Keynesian Put" metakeywords="keynesian financial term,options keynesian,offering options keynesian,keynesian provides protection" metadescription="Keynesian Put is a financial term that refers to a type of put option that is used to protect against a decline in the value of a portfolio."/>
+===Introduction to Keynesian Put===
+
+Keynesian Put is a financial term that refers to a type of [[Put Option|put option]] that is used to protect against a decline in the value of a portfolio. It is named after the British economist John Maynard Keynes, who first proposed the idea in the 1930s. The Keynesian Put is a type of insurance policy that can be used to protect against losses in a portfolio. It is a type of put option that is purchased by an investor to protect against a decline in the value of their portfolio. The investor pays a premium for the option, which gives them the right to sell their portfolio at a predetermined price, regardless of the market conditions.
+===Definition of Keynesian Put===
+
+A Keynesian Put is a type of put option that is used to protect against a decline in the value of a portfolio. It is a type of insurance policy that is purchased by an investor to protect against losses in a portfolio. The investor pays a premium for the option, which gives them the right to sell their portfolio at a predetermined price, regardless of the market conditions. The investor is protected from losses if the market value of their portfolio falls below the predetermined price.
+===History of Keynesian Put===
+
+The Keynesian Put was first proposed by the British economist John Maynard Keynes in the 1930s. Keynes proposed the idea as a way to protect investors from losses in a portfolio. The idea was not widely adopted until the 1970s, when the Chicago Board Options Exchange (CBOE) began offering put options. Since then, the Keynesian Put has become a popular way for investors to protect their portfolios from losses.
+===Advantages of Keynesian Put===
+
+The Keynesian Put is a popular way for investors to protect their portfolios from losses. The main advantage of the Keynesian Put is that it provides protection against a decline in the value of a portfolio. The investor pays a premium for the option, which gives them the right to sell their portfolio at a predetermined price, regardless of the market conditions. This allows the investor to protect their portfolio from losses if the market value of their portfolio falls below the predetermined price.
+
+Another advantage of the Keynesian Put is that it can be used to hedge against market volatility. By purchasing a put option, the investor is able to protect their portfolio from losses if the market value of their portfolio falls. This can help to reduce the risk of losses in a portfolio.
+===Disadvantages of Keynesian Put===
+
+The main disadvantage of the Keynesian Put is that it can be expensive. The investor must pay a premium for the option, which can be costly. Additionally, the investor may not be able to recoup the cost of the option if the market value of their portfolio does not fall below the predetermined price.
+
+Another disadvantage of the Keynesian Put is that it does not provide protection against losses if the market value of the portfolio rises. The investor is only protected from los

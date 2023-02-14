@@ -1,11 +1,16 @@
 <seo title="Bell Curve" metakeywords="bell curve useful,bell curve developed,bell curve finance,finance bell curve" metadescription="The Bell Curve is a statistical concept that describes the distribution of data points in a population."/>
 ===Introduction to the Bell Curve===
+
 The Bell Curve is a statistical concept that describes the distribution of data points in a population. It is a graphical representation of a [[Normal Distribution|normal distribution]], which is a type of [[Probability Distribution|probability distribution]] that is symmetrical around the mean. The Bell Curve is also known as the Gaussian distribution or the normal distribution. It is used in many fields, including finance, to describe the probability of certain outcomes.
 ===History of the Bell Curve===
+
 The Bell Curve was first developed by mathematician Carl Friedrich Gauss in the early 19th century. He used the concept to describe the distribution of errors in astronomical observations. The concept was later popularized by statistician Francis Galton in the late 19th century. Galton used the Bell Curve to describe the distribution of human traits, such as intelligence.
 ===Uses of the Bell Curve in Finance===
+
 The Bell Curve is used in finance to describe the probability of certain outcomes. For example, it can be used to describe the probability of a stock price moving up or down. It can also be used to describe the probability of a companyâ€™s earnings meeting or exceeding expectations. The Bell Curve is also used to describe the probability of a loan being repaid on time.
 ===Advantages and Disadvantages of the Bell Curve===
+
 The Bell Curve is a useful tool for understanding the probability of certain outcomes. It is easy to understand and can be used to make predictions about the future. However, it is important to remember that the Bell Curve is only a model and does not always accurately predict outcomes.
 ===Conclusion===
+
 The Bell Curve is a useful tool for understanding the probability of certain outcomes. It is a graphical representation of a normal distribution and is used in many fields, including finance. The Bell Curve is easy to understand and can be used to make predictions about the future. However, it is important to remember that the Bell Curve is only a model and does not always accurately predict outcomes

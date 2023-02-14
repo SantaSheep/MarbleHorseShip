@@ -1,13 +1,19 @@
 <seo title="Time Value Of Money" metakeywords="time value money,value money compounding,money compounding,money future value" metadescription="Time value of money is a fundamental principle of finance that states that money has a different value at different points in time."/>
 ===Introduction to Time Value of Money===
+
 The concept of time value of money (TVM) is a fundamental principle of finance that states that money has a different value at different points in time. This concept is based on the idea that money today is worth more than money in the future due to the potential for it to earn interest. The concept of time value of money is used to evaluate investments, calculate loan payments, and determine the [[Present Value|present value]] of future [[Cash Flow|cash flow]]s.
 ===Compounding Interest===
+
 Compounding interest is a key component of the time value of money. Compounding interest is the process of earning interest on interest. This means that the interest earned on an investment is added to the principal amount, and the new total is used to calculate the next periodâ€™s interest. This process continues over time, resulting in exponential growth of the investment.
 ===Present Value===
+
 Present value is the current value of a future sum of money or stream of cash flows given a specified [[Rate Of Return|rate of return]]. It is used to compare the value of money today to the value of money in the future. The present value of a future sum of money is calculated by discounting the future sum of money at the specified rate of return.
 ===Future Value===
+
 [[Future Value|Future value]] is the value of a sum of money or stream of cash flows at a future date given a specified rate of return. It is used to compare the value of money in the future to the value of money today. The future value of a sum of money is calculated by compounding the present value of the sum of money at the specified rate of return.
 ===Annuities===
+
 An annuity is a series of payments made at regular intervals over a period of time.  are used to calculate the present and future value of a stream of payments. The present value of an annuity is calculated by discounting each payment at the specified rate of return. The future value of an annuity is calculated by compounding each payment at the specified rate of return.
 ===Conclusion===
+
 The time value of money is a fundamental principle of finance that states that money has a different value at different points in time. This concept is based on the idea that money today is worth more than money in the future due to the potential for it to earn interest. The concept of time value of money is used to evaluate investments, calculate loan payments, and determine the present value of future cash flows. Compounding interest, present value, future value, and annuities are all key components of the time value of money

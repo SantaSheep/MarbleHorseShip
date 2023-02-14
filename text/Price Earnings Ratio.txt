@@ -1,13 +1,19 @@
 <seo title="Price Earnings Ratio" metakeywords="price earnings ratio,earnings ratio price,ratio price earnings,earnings ratio ratio" metadescription="Price Earnings Ratio (P/E Ratio) is a financial metric used to measure the relative value of a company’s stock."/>
 ===Introduction to Price Earnings Ratio===
+
 The Price Earnings Ratio (P/E Ratio) is a financial metric used to measure the relative value of a company’s stock. It is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). The P/E ratio is a widely used tool for investors to compare the relative value of different stocks and to assess the overall health of a company.
 ===History of Price Earnings Ratio===
+
 The P/E ratio has been used by investors for over a century. It was first developed by Benjamin Graham, a renowned investor and author of the book “The Intelligent Investor”. Graham believed that the P/E ratio was a useful tool for investors to compare the relative value of different stocks. Since then, the P/E ratio has become a widely used metric for investors to assess the relative value of different stocks.
 ===Calculating Price Earnings Ratio===
+
 The P/E ratio is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). For example, if a company’s stock is currently trading at $50 per share and its EPS is $5, then the P/E ratio would be 10 (50/5).
 ===Uses of Price Earnings Ratio===
+
 The P/E ratio is a useful tool for investors to compare the relative value of different stocks. It can also be used to assess the overall health of a company. A high P/E ratio indicates that the stock is overvalued, while a low P/E ratio indicates that the stock is undervalued.
 ===Limitations of Price Earnings Ratio===
+
 The P/E ratio is not a perfect metric and has some limitations. For example, it does not take into account the company’s future prospects or the quality of its management. Additionally, the P/E ratio does not take into account the company’s debt or other liabilities.
 ===Conclusion===
+
 The Price Earnings Ratio (P/E Ratio) is a widely used financial metric used to measure the relative value of a company’s stock. It is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). The P/E ratio is a useful tool for investors to compare the relative value of different stocks and to assess the overall health of a company. However, it has some limitations and should not be used as the sole basis for making investment decisions

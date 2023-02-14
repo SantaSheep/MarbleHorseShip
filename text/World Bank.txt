@@ -1,13 +1,19 @@
 <seo title="World Bank" metakeywords="history world bank,introduction world bank,world bank established,world bank institutions" metadescription="The World Bank provides loans and grants to developing countries for the purpose of poverty reduction and economic development."/>
 ===Introduction to the World Bank===
+
 The World Bank is an international [[Financial Institution|financial institution]] that provides loans and grants to developing countries for the purpose of poverty reduction and economic development. It is one of the five institutions that make up the [[World Bank Group|World Bank Group]], which is part of the United Nations system. The World Bank was established in 1944 at the Bretton Woods Conference and has since become one of the most influential international organizations in the world. The World Bank is headquartered in Washington,  and is made up of 189 member countries.
 ===History of the World Bank===
+
 The World Bank was established in 1944 at the Bretton Woods Conference in New Hampshire, USA. The conference was convened to create a new international [[Financial System|financial system]] in the wake of World War  The World Bank was created to provide loans to countries in need of economic assistance and to promote economic development. The first loan was made to France in 1947. Since then, the World Bank has provided over $2 trillion in loans and grants to developing countries.
 ===Structure of the World Bank===
+
 The World Bank is made up of five institutions: the International Bank for Reconstruction and Development (IBRD), the International Development Association (IDA), the International Finance Corporation (IFC), the Multilateral Investment Guarantee Agency (MIGA), and the International Centre for Settlement of Investment Disputes (ICSID). The IBRD and IDA are the two main lending arms of the World Bank. The IBRD provides loans to middle-income countries, while the IDA provides grants and loans to the poorest countries. The IFC provides loans and equity investments to [[Private Sector|private sector]] projects in developing countries, while the MIGA provides political risk insurance to investors. The ICSID provides dispute resolution services to investors and governments.
 ===World Bank Projects and Programs===
+
 The World Bank provides loans and grants to developing countries for a variety of projects and programs. These include infrastructure projects such as roads, bridges, and power plants; health and education projects; and poverty reduction programs. The World Bank also provides technical assistance to help countries develop their economies and improve their governance.
 ===World Bank and International Development===
+
 The World Bank is a major player in international development. It provides loans and grants to developing countries to help them reduce poverty and promote [[Economic Growth|economic growth]]. The World Bank also provides technical assistance to help countries develop their economies and improve their governance. The World Bank has been criticized for its role in international development, but it remains an important source of financing for many developing countries.
 ===Criticisms of the World Bank===
+
 The World Bank has been criticized for its role in international development. Critics argue that the World Bank has failed to reduce poverty and has instead increased inequal

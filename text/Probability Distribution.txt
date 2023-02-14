@@ -1,11 +1,16 @@
 <seo title="Probability Distribution" metakeywords="types probability distributions,probability distributions used,probability distributions,applications probability distributions" metadescription="Probability distribution is a mathematical function that describes the likelihood of a given event occurring."/>
 ===Introduction to Probability Distribution===
+
 Probability distribution is a mathematical function that describes the likelihood of a given event occurring. It is used to describe the probability of a certain outcome or set of outcomes in a given situation. Probability distributions are used in a variety of fields, including finance, economics, and statistics. They are also used to model the behavior of [[Random Variable|random variable]]s, such as stock prices or the outcomes of dice rolls.
 ===Types of Probability Distributions===
+
 There are several different types of probability distributions. The most common are the normal, binomial, Poisson, and exponential distributions. The [[Normal Distribution|normal distribution]] is the most widely used and is often used to model the behavior of stock prices. The [[Binomial Distribution|binomial distribution]] is used to model the probability of a certain outcome occurring a certain number of times. The [[Poisson Distribution|Poisson distribution]] is used to model the probability of a certain event occurring a certain number of times in a given period of time. The exponential distribution is used to model the probability of a certain event occurring at a certain rate over time.
 ===Applications of Probability Distributions===
+
 Probability distributions are used in a variety of fields, including finance, economics, and statistics. In finance, they are used to model the behavior of stock prices and other [[Financial Instrument|financial instrument]]s. In economics, they are used to model the behavior of economic variables, such as inflation and unemployment. In statistics, they are used to model the behavior of random variables, such as the outcomes of dice rolls or the results of experiments.
 ===Calculating Probability Distributions===
+
 Calculating probability distributions can be done using a variety of methods. The most common method is to use a computer program to generate a probability distribution based on a set of data. This data can be collected from a variety of sources, such as surveys, experiments, or historical data. Once the data is collected, the program can generate a probability distribution based on the data.
 ===Conclusion===
+
 In conclusion, probability distribution is a mathematical function that describes the likelihood of a given event occurring. It is used in a variety of fields, including finance, economics, and statistics. There are several different types of probability distributions, including the normal, binomial, Poisson, and exponential distributions. Probability distributions are used to model the behavior of random variables, such as stock prices or the outcomes of dice rolls. Calculating probability distributions can be done using a variety of methods, such as using a computer program to generate a probability distribution based on a set of data

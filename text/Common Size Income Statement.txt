@@ -1,11 +1,16 @@
 <seo title="Common Size Income Statement" metakeywords="size income statement,income statement common,income statement typically,financial statement used" metadescription="A common-size income statement is a financial statement that presents the relative size of each item on the income statement as a percentage of total revenue."/>
 ===Introduction to Common-Size Income Statement===
+
 A common-size [[Income Statement|income statement]] is a financial statement that presents the relative size of each item on the income statement as a percentage of total revenue. This type of financial statement is used to compare the performance of a company over time or to compare the performance of different companies in the same industry. The common-size income statement is also known as a [[Vertical Analysis|vertical analysis]] or a statement of relative size.
 ===Components of a Common-Size Income Statement===
+
 A common-size income statement typically includes the following components: total revenue, cost of goods sold, [[Gross Profit|gross profit]], operating expenses, [[Operating Income|operating income]], non-operating income, non-operating expenses, income before taxes, and [[Net Income|net income]]. Each of these components is expressed as a percentage of total revenue. For example, if a company’s total revenue is $100,000 and its cost of goods sold is $50,000, then the cost of goods sold would be expressed as 50% of total revenue.
 ===Benefits of a Common-Size Income Statement===
+
 The common-size income statement is a useful tool for analyzing a company’s [[Financial Performance|financial performance]]. By expressing each item on the income statement as a percentage of total revenue, it is easier to compare the performance of a company over time or to compare the performance of different companies in the same industry. This type of analysis can help investors and analysts identify trends in a company’s financial performance and make more informed decisions about investing in the company.
 ===Limitations of a Common-Size Income Statement===
+
 Although the common-size income statement is a useful tool for analyzing a company’s financial performance, it does have some limitations. For example, the common-size income statement does not take into account the effects of inflation or changes in the cost of goods sold. Additionally, the common-size income statement does not provide any information about the company’s [[Cash Flow|cash flow]] or liquidity.
 ===Conclusion===
+
 The common-size income statement is a useful tool for analyzing a company’s financial performance. By expressing each item on the income statement as a percentage of total revenue, it is easier to compare the performance of a company over time or to compare the performance of different companies in the same industry. However, the common-size income statement does have some limitations, such as not taking into account the effects of inflation or changes in the cost of goods sold

@@ -1,11 +1,16 @@
 <seo title="Restricted Cash" metakeywords="disadvantages restricted cash,restricted cash accounting,restricted cash examples,cash restricted cash" metadescription="Restricted cash is a type of asset that is not included in the company’s cash balance on the balance sheet."/>
 ===Introduction to Restricted Cash===
+
 Restricted cash is a term used to describe cash that is held in reserve for a specific purpose and is not available for general use. It is a type of asset that is not included in the company’s cash balance on the [[Balance Sheet|balance sheet]]. Restricted cash is typically held in a separate account and is not available for use until the specific purpose for which it was set aside has been met.
 ===Accounting Treatment of Restricted Cash===
+
 The accounting treatment of restricted cash depends on the purpose for which it is set aside. If the cash is set aside for a specific purpose, such as to pay taxes or to purchase a specific asset, then it is classified as a current asset on the balance sheet. If the cash is set aside for a long-term purpose, such as to fund a [[Pension Plan|pension plan]], then it is classified as a long-term asset.
 ===Examples of Restricted Cash===
+
 There are many examples of restricted cash. Some of the most common examples include cash set aside for taxes, cash set aside for the purchase of a specific asset, cash set aside for a pension plan, cash set aside for a loan repayment, and cash set aside for a [[Capital Expenditure|capital expenditure]].
 ===Advantages and Disadvantages of Restricted Cash===
+
 The primary advantage of restricted cash is that it allows a company to set aside funds for a specific purpose without having to use its general cash balance. This can be beneficial for companies that need to maintain a certain level of liquidity in order to meet their financial obligations. The primary disadvantage of restricted cash is that it is not available for general use and must be used for the specific purpose for which it was set aside.
 ===Conclusion===
+
 Restricted cash is a type of asset that is not included in the company’s cash balance on the balance sheet. It is typically held in a separate account and is not available for use until the specific purpose for which it was set aside has been met. The accounting treatment of restricted cash depends on the purpose for which it is set aside, and there are many examples of restricted cash, such as cash set aside for taxes, cash set aside for the purchase of a specific asset, and cash set aside for a pension plan. The primary advantage of restricted cash is that it allows a company to set aside funds for a specific purpose without having to use its general cash balance, while the primary disadvantage is that it is not available for general use and must be used for the specific purpose for which it was set aside

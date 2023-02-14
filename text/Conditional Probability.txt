@@ -1,11 +1,16 @@
 <seo title="Conditional Probability" metakeywords="conditional probability concept,definition conditional probability,conditional probability defined,conditional probability important" metadescription="Conditional probability is a measure of the likelihood of an event occurring given that another event has already occurred."/>
 ===Introduction to Conditional Probability===
+
 Conditional probability is a concept in probability theory that deals with the probability of an event occurring given that another event has already occurred. It is a measure of the likelihood of an event occurring given that another event has already occurred. It is used to calculate the probability of an event occurring given that another event has already occurred. It is an important concept in probability theory and is used in many areas of mathematics, statistics, and finance.
 ===Definition of Conditional Probability===
+
 Conditional probability is defined as the probability of an event occurring given that another event has already occurred. It is calculated by dividing the probability of the event occurring given the other event has already occurred by the probability of the other event occurring. The formula for calculating conditional probability is P(A|B) = P(A and B) / P(B).
 ===Examples of Conditional Probability===
+
 One example of conditional probability is the probability of a coin landing on heads given that it has already landed on tails. In this case, the conditional probability is 0.5, since the probability of the coin landing on heads is the same as the probability of it landing on tails. Another example is the probability of a person being diagnosed with a certain disease given that they have already been tested for it. In this case, the conditional probability is the probability of the person being diagnosed with the disease given that they have already been tested for it.
 ===Applications of Conditional Probability===
+
 Conditional probability is used in many areas of mathematics, statistics, and finance. In mathematics, it is used to calculate the probability of an event occurring given that another event has already occurred. In statistics, it is used to calculate the probability of a certain outcome given that certain conditions have already been met. In finance, it is used to calculate the probability of a certain investment returning a certain amount of money given that certain conditions have already been met.
 ===Conclusion===
+
 In conclusion, conditional probability is an important concept in probability theory that is used to calculate the probability of an event occurring given that another event has already occurred. It is used in many areas of mathematics, statistics, and finance and is an important tool for making decisions

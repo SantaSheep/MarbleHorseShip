@@ -1,13 +1,19 @@
 <seo title="Security" metakeywords="security regulations securities,securities characteristics,securities mechanism,regulations securities subject" metadescription="Security is a financial instrument that represents a claim on the assets or income of a company or government."/>
 ===Introduction to Security===
+
 Security is a [[Financial Instrument|financial instrument]] that represents a claim on the assets or income of a company or government. It is a form of investment that provides the holder with a right to receive a certain amount of money or other assets in the future. Securities are typically issued by companies or governments to raise capital for various purposes, such as to finance operations, to fund research and development, or to expand their business. They can also be used to provide liquidity to investors, allowing them to buy and sell the security without having to wait for the company or government to issue new shares.
 ===Types of Securities===
+
 There are several different types of securities, each with its own characteristics and risks. The most common types of securities are stocks, bonds, and derivatives. Stocks represent ownership in a company and provide the holder with a claim on the company’s profits and assets. Bonds are [[Debt Instrument|debt instrument]]s that provide the holder with a fixed income stream over a specified period of time. Derivatives are financial instruments that derive their value from the performance of an underlying asset, such as a stock or bond.
 ===Security Regulations===
+
 Securities are subject to a variety of regulations designed to protect investors and ensure the integrity of the markets. These regulations are enforced by government agencies, such as the Securities and Exchange Commission (SEC) in the United States. These regulations include requirements for disclosure of information about the security, restrictions on [[Insider Trading|insider trading]], and requirements for the registration of securities with the SEC.
 ===Security Valuation===
+
 The value of a security is determined by the market, which takes into account the security’s risk and [[Expected Return|expected return]]. The risk of a security is determined by its volatility, which is a measure of how much the price of the security can fluctuate over time. The expected return of a security is determined by its expected dividends or interest payments, as well as the expected appreciation of the security’s price.
 ===Security Trading===
+
 Securities are typically traded on organized exchanges, such as the New York Stock Exchange (NYSE) or the Nasdaq. These exchanges provide a platform for buyers and sellers to trade securities in a regulated environment. The exchanges also provide a mechanism for pricing securities, as well as a mechanism for settling trades.
 ===Conclusion===
+
 Security is a financial instrument that represents a claim on the assets or income of a company or government. It is a form of investment that provides the holder with a right to receive a certain amount of money or other assets in the future. There are several different types of securities, each with its own characteristics and risks. Securities are subject to a variety of regulations designed to protect investors and ensure the integrity of the markets. The value of a security is determined by the market, which 

@@ -1,13 +1,19 @@
 <seo title="Promissory Note" metakeywords="promissory notes typically,promissory notes,promissory notes used,promissory notes legally" metadescription="A promissory note is a written promise to pay a certain amount of money to a specified person or entity."/>
 ===Introduction to Promissory Note===
+
 A promissory note is a written promise to pay a certain amount of money to a specified person or entity at a specified date or on demand. It is a legally binding document that is used to secure a loan or other financial transaction. Promissory notes are commonly used in business transactions, such as when a company borrows money from a bank or when a business purchases goods or services on credit. Promissory notes are also used in personal transactions, such as when a family member lends money to another family member.
 ===Types of Promissory Notes===
+
 There are two main types of promissory notes: secured and unsecured. A secured promissory note is backed by collateral, such as a house or car, which the borrower must pledge in order to secure the loan. An unsecured promissory note is not backed by any collateral and is based solely on the borrower’s promise to repay the loan.
 ===Promissory Note Terms and Conditions===
+
 Promissory notes typically include terms and conditions that must be met in order for the loan to be repaid. These terms and conditions may include the amount of the loan, the [[Interest Rate|interest rate]], the repayment schedule, and any other conditions that the lender and borrower agree upon.
 ===Promissory Note Security===
+
 In some cases, a promissory note may be secured by collateral. This means that the borrower must pledge an asset, such as a house or car, as security for the loan. If the borrower fails to repay the loan, the lender can take possession of the collateral and use it to satisfy the debt.
 ===Promissory Note Enforcement===
+
 If a borrower fails to repay a promissory note, the lender can take legal action to enforce the note. This may include filing a lawsuit against the borrower or taking possession of the collateral. In some cases, the lender may also be able to garnish the borrower’s wages or place a lien on the borrower’s property.
 ===Conclusion===
+
 Promissory notes are a legally binding document that can be used to secure a loan or other financial transaction. They typically include terms and conditions that must be met in order for the loan to be repaid. In some cases, a promissory note may be secured by collateral, such as a house or car. If the borrower fails to repay the loan, the lender can take legal action to enforce the note

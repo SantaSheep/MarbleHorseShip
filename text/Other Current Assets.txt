@@ -1,13 +1,19 @@
 <seo title="Other Current Assets" metakeywords="advantages current assets,disadvantages current assets,business current assets,current assets important" metadescription="Other current assets are assets that are expected to be converted into cash or used up within one year."/>
 ===Introduction to Other Current Assets===
+
 Other [[Current Assets|current assets]] are assets that are expected to be converted into cash or used up within one year. These assets are typically short-term in nature and are used to finance the day-to-day operations of a business. Other current assets are reported on the [[Balance Sheet|balance sheet]] and are a key component of a company’s liquidity.
 ===Types of Other Current Assets===
+
 Other current assets can include a variety of items such as [[Prepaid Expense|prepaid expense]]s, [[Accounts Receivable|accounts receivable]], inventory, and short-term investments. Prepaid expenses are expenses that have been paid in advance and are expected to be used up within one year. Accounts receivable are amounts owed to the company by customers for goods or services that have been provided. Inventory is the [[Raw Materials|raw materials]], work-in-process, and finished goods that a company has on hand. Short-term investments are investments that are expected to be converted into cash within one year.
 ===Accounting Treatment of Other Current Assets===
+
 Other current assets are reported on the balance sheet at their [[Historical Cost|historical cost]] or [[Fair Market Value|fair market value]], whichever is lower. When the asset is used up or converted into cash, the amount is reported as an expense on the [[Income Statement|income statement]].
 ===Advantages of Other Current Assets===
+
 Other current assets provide a company with the liquidity it needs to finance its day-to-day operations. They also provide a company with the flexibility to take advantage of short-term opportunities that may arise.
 ===Disadvantages of Other Current Assets===
+
 The main disadvantage of other current assets is that they are short-term in nature and can be difficult to manage. If a company does not have sufficient liquidity, it may be unable to take advantage of short-term opportunities or may be forced to liquidate assets at a loss.
 ===Conclusion===
+
 Other current assets are an important component of a company’s liquidity and provide the flexibility to take advantage of short-term opportunities. However, they can be difficult to manage and if a company does not have sufficient liquidity, it may be unable to take advantage of short-term opportunities or may be forced to liquidate assets at a loss

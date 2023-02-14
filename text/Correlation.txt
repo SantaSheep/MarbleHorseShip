@@ -1,13 +1,19 @@
 <seo title="Correlation" metakeywords="correlation used,uses correlation,introduction correlation,correlation correlation used" metadescription="Correlation is used to determine how closely two variables are related to each other.It can be used to identify patterns in data and to make predictions about future events."/>
 ===Introduction to Correlation===
+
 Correlation is a statistical measure of the relationship between two variables. It is used to determine how closely two variables are related to each other. Correlation is used to measure the strength of the relationship between two variables, and can be used to predict [[Future Value|future value]]s of one variable based on the values of the other. Correlation can be used to identify patterns in data, and can be used to make predictions about future events.
 ===Types of Correlation===
+
 There are two types of correlation: positive and negative. [[Positive Correlation|Positive correlation]] occurs when two variables move in the same direction, meaning that when one variable increases, the other variable also increases. [[Negative Correlation|Negative correlation]] occurs when two variables move in opposite directions, meaning that when one variable increases, the other variable decreases.
 ===Correlation Coefficients===
+
 The strength of the correlation between two variables is measured by a [[Correlation Coefficient|correlation coefficient]]. The correlation coefficient is a number between -1 and 1 that indicates the strength of the relationship between two variables. A correlation coefficient of 1 indicates a perfect positive correlation, while a correlation coefficient of -1 indicates a perfect negative correlation. A correlation coefficient of 0 indicates that there is no correlation between the two variables.
 ===Uses of Correlation===
+
 Correlation can be used to identify patterns in data and to make predictions about future events. Correlation can be used to identify relationships between variables, such as the relationship between stock prices and economic indicators. Correlation can also be used to identify relationships between variables that are not immediately obvious, such as the relationship between weather patterns and crop yields.
 ===Limitations of Correlation===
+
 Correlation does not imply causation. Just because two variables are correlated does not mean that one variable causes the other. Correlation can only be used to identify relationships between variables, not to determine the cause of those relationships. Additionally, correlation is only as accurate as the data used to calculate it. If the data used to calculate the correlation is inaccurate or incomplete, the correlation may not be accurate.
 ===Conclusion===
+
 Correlation is a statistical measure of the relationship between two variables. It is used to measure the strength of the relationship between two variables, and can be used to identify patterns in data and to make predictions about future events. Correlation can be used to identify relationships between variables, but it cannot be used to determine the cause of those relationships. Additionally, correlation is only as accurate as the data used to calculate it

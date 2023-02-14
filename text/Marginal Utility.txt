@@ -1,0 +1,18 @@
+<seo title="Marginal Utility" metakeywords="marginal utility concept,concept marginal utility,utility concept marginal,marginal utility economic" metadescription="Marginal utility is an economic concept that describes the additional satisfaction or benefit that a consumer receives from consuming one additional unit of a good or service."/>
+===Introduction to Marginal Utility===
+
+Marginal utility is an economic concept that describes the additional satisfaction or benefit that a consumer receives from consuming one additional unit of a good or service. It is a measure of the change in total utility that a consumer experiences when consuming one additional unit of a good or service. The concept of marginal utility is used to explain consumer behavior and to determine the optimal level of consumption of a good or service.
+===Theoretical Framework of Marginal Utility===
+
+The concept of marginal utility is based on the law of diminishing marginal utility. This law states that as a consumer consumes more of a good or service, the additional satisfaction or benefit that they receive from consuming one additional unit of the good or service will decrease. This is because the consumer has already consumed a certain amount of the good or service and the additional satisfaction or benefit that they receive from consuming one additional unit of the good or service will be less than the satisfaction or benefit that they received from consuming the first unit.
+===Applications of Marginal Utility===
+
+Marginal utility is used to explain consumer behavior and to determine the optimal level of consumption of a good or service. It is also used to explain the [[Law Of Demand|law of demand]], which states that as the price of a good or service increases, the quantity demanded of the good or service will decrease. This is because as the price of a good or service increases, the marginal utility of the good or service decreases, and the consumer will be less willing to purchase the good or service.
+
+Marginal utility is also used to explain the [[Law Of Diminishing Marginal Return|law of diminishing marginal return]]s. This law states that as a producer increases the amount of a good or service that they produce, the additional output that they receive from producing one additional unit of the good or service will decrease. This is because as the producer produces more of the good or service, the marginal utility of the good or service decreases, and the producer will be less willing to produce the good or service.
+===Limitations of Marginal Utility===
+
+The concept of marginal utility has some limitations. One limitation is that it does not take into account the consumer’s preferences or tastes. For example, a consumer may be willing to pay more for a good or service if they prefer it over other goods or services. Another limitation is that it does not take into account the cost of production. For example, a producer may be willing to produce more of a good or service if the cost of production is low.
+===Conclusion===
+
+In conclusion, marginal utility is an economic concept that describes the additional satisfaction or benefit that a consumer receives from consuming one additional unit of a good or service. It is used to explain consumer behavior and to determine the optimal level of consumption of a good or service. However, it has some limitations, su

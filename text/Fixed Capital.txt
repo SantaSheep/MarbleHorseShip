@@ -1,13 +1,19 @@
 <seo title="Fixed Capital" metakeywords="concept fixed capital,capital fixed capital,definition fixed capital,fixed capital defined" metadescription="Fixed capital is a term used in economics and finance to refer to the funds used to purchase long-term assets such as land, buildings, and equipment."/>
 ===Introduction to Fixed Capital===
+
 Fixed capital is a term used in economics and finance to refer to the funds used to purchase long-term assets such as land, buildings, and equipment. It is also known as [[Fixed Asset|fixed asset]]s or long-term capital. Fixed capital is a key component of a company's [[Capital Structure|capital structure]] and is used to finance the purchase of long-term assets. It is important to understand the concept of fixed capital in order to make informed decisions about a company's capital structure.
 ===Definition of Fixed Capital===
+
 Fixed capital is defined as the funds used to purchase long-term assets such as land, buildings, and equipment. It is also known as fixed assets or long-term capital. Fixed capital is a key component of a company's capital structure and is used to finance the purchase of long-term assets. It is important to understand the concept of fixed capital in order to make informed decisions about a company's capital structure.
 ===Types of Fixed Capital===
+
 Fixed capital can be divided into two main categories: tangible and intangible. Tangible fixed capital includes land, buildings, and equipment. Intangible fixed capital includes patents, copyrights, and trademarks. Both types of fixed capital are important for a company's capital structure and can be used to finance the purchase of long-term assets.
 ===Advantages of Fixed Capital===
+
 Fixed capital has several advantages. First, it provides a company with a stable source of funds for the purchase of long-term assets. Second, it can be used to finance the purchase of assets that will generate income over a long period of time. Third, it can be used to finance the purchase of assets that will appreciate in value over time. Finally, it can be used to finance the purchase of assets that will provide a company with a competitive advantage.
 ===Disadvantages of Fixed Capital===
+
 Fixed capital also has several disadvantages. First, it is a long-term investment and can be difficult to liquidate in the event of an emergency. Second, it is a costly form of financing and can be difficult to obtain. Third, it can be difficult to accurately assess the value of the assets purchased with fixed capital. Finally, it can be difficult to accurately assess the [[Return On Investment|return on investment]] of the assets purchased with fixed capital.
 ===Conclusion===
+
 Fixed capital is an important concept in economics and finance. It is used to purchase long-term assets such as land, buildings, and equipment. It can provide a company with a stable source of funds for the purchase of long-term assets and can be used to finance the purchase of assets that will generate income over a long period of time. However, it is a long-term investment and can be difficult to liquidate in the event of an emergency. It is important to understand the concept of fixed capital in order to make informed decisions about a company's capital structure

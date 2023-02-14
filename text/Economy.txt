@@ -1,13 +1,19 @@
 <seo title="Economy" metakeywords="economic systems,types economic systems,economic systems factors,economic systems different" metadescription="The economy is composed of a variety of different elements, including economic systems, factors of production, economic indicators, economic theories, and economic policies."/>
 ===Introduction to the Economy===
+
 The economy is a complex system of production, distribution, and consumption of goods and services. It is the foundation of any society and is the primary determinant of a nation's standard of living. The economy is composed of a variety of different elements, including economic systems, factors of production, economic indicators, economic theories, and economic policies. Each of these elements plays an important role in the functioning of the economy and in the overall health of a nation.
 ===Types of Economic Systems===
+
 There are several different types of economic systems that exist in the world today. These include capitalism, socialism, and mixed economies. Capitalism is an economic system in which private individuals and businesses own the means of production and are free to compete in the marketplace. Socialism is an economic system in which the government owns the means of production and distributes resources according to a predetermined plan. Mixed economies combine elements of both capitalism and socialism, allowing for some private ownership of the means of production while also providing for some government regulation and intervention.
 ===Factors of Production===
+
 The factors of production are the resources used to produce goods and services. These include land, labor, capital, and entrepreneurship. Land refers to the natural resources used in production, such as minerals, water, and soil. Labor refers to the human effort used in production, such as the work of farmers, factory workers, and engineers. Capital refers to the financial resources used in production, such as money, machines, and buildings. Entrepreneurship refers to the risk-taking and innovation used in production, such as the development of new products and services.
 ===Economic Indicators===
+
 Economic indicators are measures of economic activity that are used to gauge the health of an economy. These include gross domestic product (GDP), unemployment rate, inflation rate, and balance of trade. GDP is a measure of the total value of goods and services produced in an economy. The unemployment rate is a measure of the percentage of people in an economy who are not employed. The inflation rate is a measure of the rate at which prices are rising in an economy. The balance of trade is a measure of the difference between the value of exports and imports in an economy.
 ===Economic Theories===
+
 Economic theories are models used to explain and predict economic behavior. These include supply and demand theory, [[Marginal Utility|marginal utility]] theory, and [[Game Theory|game theory]]. Supply and demand theory is a model that explains how the price of a good or service is determined by the interaction of supply and demand. Marginal utility theory is a model that explains how people make decisions about how much of a good or service to consume. Game theory is a model that explains how people interact in strategic situations.
 ===Economic Policies===
+
 Economic policies are 

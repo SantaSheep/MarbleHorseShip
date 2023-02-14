@@ -1,0 +1,20 @@
+<seo title="Audit" metakeywords="financial statement audits,organizations audits,organization audited audits,audits financial statement" metadescription="An audit is an independent examination of an organization’s financial statements and records to ensure accuracy and compliance with applicable laws and regulations."/>
+===Introduction to Audit===
+
+An audit is an independent examination of an organization’s [[Financial Statements|financial statements]] and records to ensure accuracy and compliance with applicable laws and regulations. Audits are conducted by certified public accountants (CPAs) or other qualified professionals who are independent of the organization being audited. Audits are typically conducted on an annual basis, but may also be conducted more frequently if required by law or requested by the organization’s [[Board Of Directors|board of directors]].
+
+The purpose of an audit is to provide assurance to stakeholders that the organization’s financial statements and records are accurate and reliable. Audits also provide assurance that the organization is in compliance with applicable laws and regulations. Audits are an important tool for organizations to ensure that their financial statements and records are accurate and reliable, and that they are in compliance with applicable laws and regulations.
+===Types of Audits===
+
+There are several different types of audits that can be conducted. The most common type of audit is a financial statement audit, which is conducted to assess the accuracy and reliability of an organization’s financial statements. Other types of audits include operational audits, compliance audits, and internal control audits.
+
+Financial statement audits are conducted to assess the accuracy and reliability of an organization’s financial statements. The auditor will review the organization’s financial statements and records to ensure that they are accurate and in compliance with applicable laws and regulations. The auditor will also assess the organization’s [[Internal Controls|internal controls]] to ensure that they are adequate and effective.
+
+Operational audits are conducted to assess the efficiency and effectiveness of an organization’s operations. The auditor will review the organization’s processes and procedures to ensure that they are efficient and effective. The auditor will also assess the organization’s internal controls to ensure that they are adequate and effective.
+
+Compliance audits are conducted to assess an organization’s compliance with applicable laws and regulations. The auditor will review the organization’s policies and procedures to ensure that they are in compliance with applicable laws and regulations. The auditor will also assess the organization’s internal controls to ensure that they are adequate and effective.
+
+Internal control audits are conducted to assess the adequacy and effectiveness of an organization’s internal controls. The auditor will review the organization’s internal controls to ensure that they are adequate and effective. The auditor will also assess the organization’s processes and procedures to ensure that they are efficient and effective.
+===Benefits of Auditing===
+
+Audits provide a number of benefits to organizations. Audits provide assurance to stakeholders that the organization’s financial statements and records are accurate and reliable. Audits also 

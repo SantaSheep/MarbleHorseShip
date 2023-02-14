@@ -1,0 +1,20 @@
+<seo title="Under Applied Overhead" metakeywords="definition underapplied overhead,overhead underapplied overhead,referred underapplied overhead,costs underapplied overhead" metadescription="Underapplied overhead is the difference between the actual overhead costs incurred by a business and the amount of overhead that was budgeted for a particular period."/>
+===Introduction to Underapplied Overhead===
+
+Underapplied overhead is a term used in accounting to describe the situation when the actual overhead costs incurred by a business are less than the amount of overhead that was budgeted for a particular period. This can occur when the actual overhead costs are lower than the budgeted amount, or when the actual overhead costs are higher than the budgeted amount but the budgeted amount was not adjusted to reflect the higher costs. Underapplied overhead can have a significant impact on a company’s [[Financial Statements|financial statements]] and can lead to inaccurate financial reporting.
+===Definition of Underapplied Overhead===
+
+Underapplied overhead is the difference between the actual overhead costs incurred by a business and the amount of overhead that was budgeted for a particular period. This difference can be either positive or negative, depending on whether the actual overhead costs are higher or lower than the budgeted amount. If the actual overhead costs are lower than the budgeted amount, then the difference is referred to as underapplied overhead. If the actual overhead costs are higher than the budgeted amount, then the difference is referred to as overapplied overhead.
+===Examples of Underapplied Overhead===
+
+One example of underapplied overhead is when a company budgets for a certain amount of overhead costs for a particular period, but the actual overhead costs incurred are lower than the budgeted amount. For example, if a company budgets for $100,000 in overhead costs for a particular period, but the actual overhead costs incurred are only $90,000, then the difference of $10,000 is referred to as underapplied overhead.
+
+Another example of underapplied overhead is when a company budgets for a certain amount of overhead costs for a particular period, but the actual overhead costs incurred are higher than the budgeted amount. For example, if a company budgets for $100,000 in overhead costs for a particular period, but the actual overhead costs incurred are $110,000, then the difference of $10,000 is still referred to as underapplied overhead.
+===Accounting Treatment of Underapplied Overhead===
+
+The accounting treatment of underapplied overhead depends on the type of overhead costs that are being considered. For example, if the overhead costs are [[Fixed Cost|fixed cost]]s, then the underapplied overhead is typically recorded as an expense in the period in which it is incurred. If the overhead costs are [[Variable Cost|variable cost]]s, then the underapplied overhead is typically recorded as a reduction in the cost of goods sold in the period in which it is incurred.
+===Advantages and Disadvantages of Underapplied Overhead===
+
+One advantage of underapplied overhead is that it can help a company to reduce its costs and improve its profitability. By budgeting for a lower amount of overhead costs than what is actually incurred, a company can save money and increase its profits.
+
+However, there are also some disadvantages to underapplied overhead.

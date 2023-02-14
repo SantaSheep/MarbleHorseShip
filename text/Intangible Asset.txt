@@ -1,11 +1,16 @@
 <seo title="Intangible Asset" metakeywords="intangible assets,assets intangible assets,intangible assets referred,value intangible assets" metadescription="An intangible asset is an asset that does not have a physical form, but still has value."/>
 ===Introduction to Intangible Asset===
+
 An in[[Tangible Asset|tangible asset]] is an asset that does not have a physical form, but still has value. Intangible assets are often referred to as intellectual property, such as patents, copyrights, trademarks, and trade secrets. Intangible assets are important to businesses because they can provide a competitive advantage and can be used to generate revenue. Intangible assets can also be used to protect a companyâ€™s brand and reputation.
 ===Types of Intangible Assets===
+
 There are several types of intangible assets. These include patents, copyrights, trademarks, trade secrets, goodwill, and brand recognition. Patents are exclusive rights granted by the government to an inventor for a limited period of time. Copyrights are exclusive rights granted by the government to an author or artist for a limited period of time. Trademarks are symbols, words, or phrases that are used to identify a product or service. Trade secrets are confidential information that is used to give a business an advantage over its competitors. Goodwill is the value of a business that is not reflected in its tangible assets. Brand recognition is the ability of a company to be recognized by consumers.
 ===Accounting for Intangible Assets===
+
 Accounting for intangible assets is different from accounting for tangible assets. Intangible assets are not recorded on the [[Balance Sheet|balance sheet]], but instead are recorded as an expense on the [[Income Statement|income statement]]. This is because intangible assets are not expected to generate future economic benefits. Intangible assets are amortized over their [[Useful Life|useful life]], which is the period of time during which the asset is expected to generate economic benefits.
 ===Valuation of Intangible Assets===
+
 The valuation of intangible assets is a complex process. Intangible assets are often difficult to value because they do not have a physical form and are not traded in the market. The most common method of valuing intangible assets is the income approach, which values an asset based on the [[Present Value|present value]] of its expected future [[Cash Flow|cash flow]]s. Other methods of valuing intangible assets include the market approach, which values an asset based on the prices of similar assets in the market, and the cost approach, which values an asset based on the cost of creating or acquiring the asset.
 ===Conclusion===
+
 In conclusion, intangible assets are important to businesses because they can provide a competitive advantage and can be used to generate revenue. Intangible assets are not recorded on the balance sheet, but instead are recorded as an expense on the income statement. The valuation of intangible assets is a complex process, and the most common method of valuing intangible assets is the income approach

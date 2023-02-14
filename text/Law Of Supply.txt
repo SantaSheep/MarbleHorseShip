@@ -1,13 +1,19 @@
 <seo title="Law Of Supply" metakeywords="affecting supply law,factors affecting supply,supply curve law,supply economic principle" metadescription="The Law of Supply is an economic principle that states that, all other factors being equal, an increase in the price of a good or service will increase the quantity supplied."/>
 ===Introduction to the Law of Supply===
+
 The Law of Supply is an economic principle that states that, all other factors being equal, an increase in the price of a good or service will result in an increase in the quantity of that good or service supplied. This law is based on the idea that producers will be willing to supply more of a good or service when the price of that good or service increases. The Law of Supply is one of the most fundamental principles of economics and is used to explain the behavior of producers in a [[Market Economy|market economy]].
 ===Factors Affecting Supply===
+
 The Law of Supply is affected by a number of factors, including the cost of production, the availability of resources, the number of producers, and the expectations of producers. The cost of production is an important factor in determining the supply of a good or service. If the cost of production is high, producers will be less likely to supply the good or service. Similarly, if the availability of resources is low, producers will be less likely to supply the good or service. The number of producers in the market also affects the supply of a good or service. If there are more producers in the market, the supply of the good or service will be higher. Finally, the expectations of producers also affect the supply of a good or service. If producers expect the price of a good or service to increase in the future, they will be more likely to supply the good or service.
 ===Supply Curve===
+
 The Law of Supply is represented graphically by a supply curve. The supply curve is a graph that shows the relationship between the price of a good or service and the quantity of that good or service supplied. The supply curve is upward sloping, which means that as the price of a good or service increases, the quantity of that good or service supplied also increases.
 ===Equilibrium Price and Quantity===
+
 The Law of Supply is used to explain the concept of equilibrium price and quantity. Equilibrium price and quantity is the price and quantity of a good or service at which the quantity supplied is equal to the quantity demanded. At this price and quantity, producers are willing to supply the good or service and consumers are willing to purchase the good or service.
 ===Examples of the Law of Supply===
+
 The Law of Supply can be seen in many different markets. For example, when the price of oil increases, producers are willing to supply more oil. Similarly, when the price of gasoline increases, producers are willing to supply more gasoline. The Law of Supply can also be seen in the labor market. When the wages of workers increase, more workers are willing to supply their labor.
 ===Conclusion===
+
 The Law of Supply is an important economic principle that states that, all other factors being equal, an increase in the price of a good or service will result in an increase in the quantity of that good or service supplied. The Law of Supply is represented graphically by a supply curve and is used to 

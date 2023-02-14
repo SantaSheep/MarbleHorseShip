@@ -1,11 +1,16 @@
 <seo title="Ncib" metakeywords="shareholders drawbacks ncib,shareholders ncibs beneficial,return shareholders ncibs,terms ncib benefits" metadescription="NCIBs are a type of stock repurchase program that allows a publicly traded company to buy back its own shares from the open market."/>
 ===Introduction to NCIB===
+
 NCIB stands for Normal Course Issuer Bid, which is a type of stock repurchase program that allows a publicly traded company to buy back its own shares from the open market. This type of program is regulated by the Canadian Securities Administrators (CSA) and is designed to provide companies with the ability to manage their [[Capital Structure|capital structure]] and return capital to shareholders. NCIBs are a popular way for companies to increase their share price and provide a return to shareholders.
 ===Definition of NCIB===
+
 NCIBs are a type of stock repurchase program that allows a publicly traded company to buy back its own shares from the open market. The CSA regulates NCIBs and sets out the rules and regulations that must be followed in order to ensure that the program is conducted in a fair and transparent manner. Companies must submit an NCIB application to the CSA for approval before they can begin the program. Once approved, the company can then purchase its own shares from the open market in accordance with the terms of the NCIB.
 ===Benefits of NCIB===
+
 NCIBs are a popular way for companies to increase their share price and provide a return to shareholders. By buying back their own shares, companies can reduce the number of outstanding shares, which can lead to an increase in the share price. This can be beneficial for shareholders as it can lead to an increase in the value of their investment. Additionally, NCIBs can be used to manage a companyâ€™s capital structure and provide a return to shareholders.
 ===Drawbacks of NCIB===
+
 While NCIBs can be beneficial for companies and shareholders, there are some drawbacks to consider. One of the main drawbacks is that NCIBs can be expensive for companies as they must pay the market price for the shares they purchase. Additionally, NCIBs can be seen as a sign of financial distress as companies may be using the program to prop up their share price. Finally, NCIBs can be seen as a form of corporate self-dealing as the company is essentially buying its own shares.
 ===Conclusion===
+
 NCIBs are a popular way for companies to increase their share price and provide a return to shareholders. While NCIBs can be beneficial, there are some drawbacks to consider such as the cost of the program and the potential for corporate self-dealing. It is important for companies to carefully consider the pros and cons of NCIBs before deciding to implement the program

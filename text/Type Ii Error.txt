@@ -1,13 +1,19 @@
 <seo title="Type Ii Error" metakeywords="type error significant,type error statistical,type error probability,type error strategy" metadescription="Type  Error is a statistical concept that is used to describe the probability of incorrectly rejecting a true null hypothesis."/>
 ===Introduction to Type  Error===
+
 Type  Error is a statistical concept that is used to describe the probability of incorrectly rejecting a true [[Null Hypothesis|null hypothesis]]. It is also known as a false negative, and is the opposite of a Type  Error, which is a false positive. Type  Error is an important concept in the field of finance, as it can have a significant impact on the accuracy of financial decisions.
 ===Definition of Type  Error===
+
 Type  Error is defined as the probability of incorrectly rejecting a true null hypothesis. In other words, it is the probability of making a wrong decision when the null hypothesis is actually true. This is the opposite of a Type  Error, which is the probability of making a wrong decision when the null hypothesis is actually false.
 ===Examples of Type  Error===
+
 One example of a Type  Error is when a financial analyst incorrectly rejects a true null hypothesis that a certain stock will not outperform the market. In this case, the analyst would be making a wrong decision, as the null hypothesis is actually true. Another example is when a financial analyst incorrectly rejects a true null hypothesis that a certain investment will not generate a positive return.
 ===Impact of Type  Error===
+
 Type  Error can have a significant impact on the accuracy of financial decisions. If a financial analyst incorrectly rejects a true null hypothesis, it can lead to incorrect decisions that can have a negative impact on the [[Financial Performance|financial performance]] of an organization. For example, if a financial analyst incorrectly rejects a true null hypothesis that a certain stock will not outperform the market, it could lead to the purchase of a stock that does not generate a positive return.
 ===Strategies to Avoid Type  Error===
+
 There are several strategies that can be used to reduce the likelihood of making a Type  Error. One strategy is to use a more conservative approach when making financial decisions. This means that the analyst should be more cautious when making decisions and should not reject a true null hypothesis unless there is strong evidence to support it. Additionally, the analyst should use a variety of data sources and analytical techniques to ensure that the decision is based on accurate and reliable information.
 ===Conclusion===
+
 In conclusion, Type  Error is an important concept in the field of finance, as it can have a significant impact on the accuracy of financial decisions. It is important for financial analysts to understand the concept of Type  Error and to use strategies to reduce the likelihood of making a wrong decision. By using a more conservative approach and relying on accurate and reliable data sources and analytical techniques, financial analysts can reduce the likelihood of making a Type  Error

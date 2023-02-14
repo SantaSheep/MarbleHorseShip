@@ -1,13 +1,19 @@
 <seo title="Hedge Accounting" metakeywords="hedge accounting used,definition hedge accounting,hedge accounting,introduction hedge accounting" metadescription="Hedge accounting is a financial accounting technique used to manage risk and protect against potential losses."/>
 ===Introduction to Hedge Accounting===
+
 Hedge accounting is a [[Financial Accounting|financial accounting]] technique used to manage risk and protect against potential losses. It is a form of [[Risk Management|risk management]] that involves the use of derivatives, such as futures, options, and swaps, to reduce the risk of losses from changes in the value of assets or liabilities. Hedge accounting is used by companies to reduce the volatility of their [[Financial Statements|financial statements]] and to protect against potential losses.
 ===Definition of Hedge Accounting===
+
 Hedge accounting is a financial accounting technique used to manage risk and protect against potential losses. It is a form of risk management that involves the use of derivatives, such as futures, options, and swaps, to reduce the risk of losses from changes in the value of assets or liabilities. Hedge accounting is used by companies to reduce the volatility of their financial statements and to protect against potential losses.
 ===Types of Hedging Strategies===
+
 Hedge accounting involves the use of various hedging strategies to reduce the risk of losses from changes in the value of assets or liabilities. These strategies include [[Forward Contract|forward contract]]s, options, swaps, and other derivatives. Forward contracts are agreements between two parties to buy or sell an asset at a predetermined price at a future date. Options are contracts that give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price at a future date. Swaps are agreements between two parties to exchange [[Cash Flow|cash flow]]s or other assets at predetermined intervals.
 ===Accounting Treatment of Hedging Strategies===
+
 The accounting treatment of hedging strategies depends on the type of hedge being used. For example, forward contracts are typically accounted for as a liability on the [[Balance Sheet|balance sheet]], while options are typically accounted for as an asset. Swaps are typically accounted for as a liability on the balance sheet, but may also be accounted for as an asset depending on the terms of the agreement.
 ===Advantages and Disadvantages of Hedge Accounting===
+
 Hedge accounting can provide companies with a number of advantages, including reducing the volatility of their financial statements and protecting against potential losses. However, there are also some disadvantages to hedge accounting, such as the cost of implementing and maintaining hedging strategies and the complexity of accounting for them.
 ===Conclusion===
+
 Hedge accounting is a financial accounting technique used to manage risk and protect against potential losses. It involves the use of various hedging strategies, such as forward contracts, options, and swaps, to reduce the risk of losses from changes in the value of assets or liabilities. Hedge accounting can provide companies with a number of advantages, including reducing the volatility of their financial statements and protecting against potential losses. However, there are also some disadvantages to hedge accounting, such as the cost 

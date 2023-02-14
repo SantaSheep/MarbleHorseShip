@@ -1,11 +1,16 @@
 <seo title="Capital Account" metakeywords="definition capital account,introduction capital account,capital account capital,currency capital account" metadescription="Capital account is a financial term that refers to the net balance of a country’s international transactions."/>
 ===Introduction to Capital Account===
+
 The capital account is a financial term that refers to the net balance of a country’s international transactions. It is a component of a country’s balance of payments, which is a record of all economic transactions between a country and the rest of the world. The capital account is composed of two parts: the financial account and the capital account. The financial account records all transactions related to the purchase and sale of [[Financial Asset|financial asset]]s, while the capital account records all transactions related to the purchase and sale of physical assets. The capital account is an important indicator of a country’s economic health and can be used to assess the strength of its currency.
 ===Definition of Capital Account===
+
 The capital account is a component of a country’s balance of payments that records all transactions related to the purchase and sale of physical assets. It is the net balance of a country’s international transactions and is composed of two parts: the financial account and the capital account. The financial account records all transactions related to the purchase and sale of financial assets, while the capital account records all transactions related to the purchase and sale of physical assets. The capital account is an important indicator of a country’s economic health and can be used to assess the strength of its currency.
 ===Components of Capital Account===
+
 The capital account is composed of two parts: the financial account and the capital account. The financial account records all transactions related to the purchase and sale of financial assets, such as stocks, bonds, and foreign currency. The capital account records all transactions related to the purchase and sale of physical assets, such as land, buildings, and machinery. The capital account also includes transactions related to the transfer of funds between countries, such as foreign direct investment, foreign aid, and remittances.
 ===Examples of Capital Account===
+
 The capital account is an important indicator of a country’s economic health and can be used to assess the strength of its currency. For example, if a country has a large capital account surplus, it indicates that the country is receiving more money from foreign investors than it is sending out. This can be a sign of a strong economy and a strong currency. On the other hand, if a country has a large capital account deficit, it indicates that the country is sending out more money than it is receiving from foreign investors. This can be a sign of a weak economy and a weak currency.
 ===Advantages of Capital Account===
+
 The capital account is an important indicator of a country’s economic health and can be used to assess the strength of its currency. A strong capital account can attract foreign investment, which can help to stimulate [[Economic Growth|economic growth]]. It can also help to increase the value of a country’s currency, which can make it more attractive to foreign investors. 

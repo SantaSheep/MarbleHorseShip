@@ -1,11 +1,16 @@
 <seo title="Accrued Liability" metakeywords="accrued liabilities typically,accrued liabilities type,accrued liabilities types,accrued liabilities" metadescription="Accrued liability is a term used in accounting to describe a liability that has been incurred but not yet paid."/>
 ===Introduction to Accrued Liability===
+
 Accrued liability is a term used in accounting to describe a liability that has been incurred but not yet paid. It is a type of current liability, meaning that it is expected to be paid within one year. Accrued liabilities are typically recorded in the [[Balance Sheet|balance sheet]] as a debit, and the corresponding credit is recorded in the [[Income Statement|income statement]]. Accrued liabilities are also known as [[Accrued Expense|accrued expense]]s or accrued liabilities.
 ===Types of Accrued Liabilities===
+
 Accrued liabilities can be divided into two main categories: short-term and long-term. Short-term accrued liabilities are those that are expected to be paid within one year, while long-term accrued liabilities are those that are expected to be paid over a longer period of time. Examples of short-term accrued liabilities include wages and salaries, taxes, and interest payments. Examples of long-term accrued liabilities include pension obligations, deferred taxes, and long-term debt.
 ===Accounting for Accrued Liabilities===
+
 Accrued liabilities are recorded in the balance sheet as a debit, and the corresponding credit is recorded in the income statement. The debit is recorded as an expense, and the credit is recorded as a liability. The amount of the liability is determined by the amount of the expense that has been incurred but not yet paid.
 ===Advantages and Disadvantages of Accrued Liabilities===
+
 Accrued liabilities can be beneficial to a company in that they provide a way to recognize expenses that have been incurred but not yet paid. This allows the company to accurately reflect its financial position. However, accrued liabilities can also be a disadvantage in that they can create a [[Cash Flow|cash flow]] problem if the company does not have the funds to pay the liabilities when they come due.
 ===Conclusion===
+
 Accrued liabilities are a type of current liability that is recorded in the balance sheet as a debit and the corresponding credit is recorded in the income statement. Accrued liabilities can be beneficial to a company in that they provide a way to recognize expenses that have been incurred but not yet paid. However, they can also be a disadvantage in that they can create a cash flow problem if the company does not have the funds to pay the liabilities when they come due

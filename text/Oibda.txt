@@ -1,13 +1,19 @@
 <seo title="Oibda" metakeywords="oibda operating income,oibda financial metric,income oibda measure,depreciation amortization oibda" metadescription="Operating Income Before Depreciation and Amortization (OIBDA) is a financial metric used to measure a company’s operating performance."/>
 ===Introduction to OIBDA===
+
 [[Operating Income|Operating Income]] Before Depreciation and Amortization (OIBDA) is a financial metric used to measure a company’s operating performance. It is a measure of a company’s profitability before taking into account the effects of depreciation and amortization. OIBDA is a useful metric for investors and analysts to assess a company’s [[Financial Performance|financial performance]] and compare it to other companies in the same industry.
 ===Definition of OIBDA===
+
 OIBDA is defined as the operating income of a company before taking into account the effects of depreciation and amortization. It is calculated by subtracting operating expenses from [[Operating Revenue|operating revenue]]s. Operating expenses include costs such as salaries, rent, and utilities. Operating revenues include sales, interest income, and other income. OIBDA is a measure of a company’s profitability before taking into account the effects of depreciation and amortization.
 ===Components of OIBDA===
+
 The components of OIBDA include operating income, depreciation, and amortization. Operating income is the income generated from a company’s core operations. Depreciation is the decrease in value of an asset over time due to wear and tear. Amortization is the process of spreading out the cost of an [[In[[Tangible Asset|tangible Asset]]|intangible asset]] over its [[Useful Life|useful life]].
 ===Advantages of OIBDA===
+
 OIBDA is a useful metric for investors and analysts to assess a company’s financial performance. It is a measure of a company’s profitability before taking into account the effects of depreciation and amortization. OIBDA is a more accurate measure of a company’s operating performance than other metrics such as [[Net Income|net income]] or earnings per share. OIBDA is also useful for comparing a company’s performance to other companies in the same industry.
 ===Disadvantages of OIBDA===
+
 One of the main disadvantages of OIBDA is that it does not take into account the effects of taxes. OIBDA does not include taxes, which can have a significant impact on a company’s profitability. Additionally, OIBDA does not take into account the effects of non-operating items such as gains or losses from investments.
 ===Conclusion===
+
 In conclusion, OIBDA is a useful metric for investors and analysts to assess a company’s financial performance. It is a measure of a company’s profitability before taking into account the effects of depreciation and amortization. OIBDA is a more accurate measure of a company’s operating performance than other metrics such as net income or earnings per share. However, OIBDA does not take into account the effects of taxes or non-operating items
