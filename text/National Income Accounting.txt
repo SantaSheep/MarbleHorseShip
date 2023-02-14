@@ -1,4 +1,4 @@
-<seo title="National Income Accounting" metakeywords="national income accounting,accounting national income,income accounting national,calculating national income" metadescription="National income accounting is a system of accounting used to measure the total economic activity of a country."/>
+<seo title="National Income Accounting" metakeywords="national income accounting,accounting national income,income accounting national,calculating national income" metadescription="National income accounting is a system of accounting used to measure the total economic activity of a country." />
 ===Introduction to National Income Accounting===
 
 National income accounting is a system of accounting used to measure the total economic activity of a country. It is used to measure the total output of goods and services produced by a country in a given period of time. It is also used to measure the total income earned by the citizens of a country in a given period of time. National income accounting is an important tool for governments and businesses to understand the economic performance of a country and to make informed decisions.

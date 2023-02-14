@@ -1,4 +1,4 @@
-<seo title="Guideline Premium And Corridor Test Gp T" metakeywords="gpt helps insurers,insurance policies gpt,gpt guideline premium,gpt requires insurers" metadescription="The Guideline Premium and Corridor Test (GPT) is a financial tool used to assess the risk of a portfolio of insurance policies."/>
+<seo title="Guideline Premium And Corridor Test Gp T" metakeywords="gpt helps insurers,insurance policies gpt,gpt guideline premium,gpt requires insurers" metadescription="The Guideline Premium and Corridor Test (GPT) is a financial tool used to assess the risk of a portfolio of insurance policies." />
 ===Introduction to Guideline Premium and Corridor Test GPT===
 
 The Guideline Premium and Corridor Test (GPT) is a financial tool used to assess the risk of a portfolio of insurance policies. It is a risk-based capital (RBC) test that is used to determine the amount of capital that an insurer must hold in order to cover potential losses from its insurance policies. The GPT is used by insurance companies to ensure that they have sufficient capital to cover potential losses from their policies.

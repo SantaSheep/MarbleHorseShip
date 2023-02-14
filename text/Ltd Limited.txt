@@ -1,4 +1,4 @@
-<seo title="Ltd Limited" metakeywords="limited companies plcs,limited liability company,plcs limited liability,limited partnerships lllps" metadescription="Ltd Limited is a business structure that is used in many countries around the world."/>
+<seo title="Ltd Limited" metakeywords="limited companies plcs,limited liability company,plcs limited liability,limited partnerships lllps" metadescription="Ltd Limited is a business structure that is used in many countries around the world." />
 ===Introduction to Ltd Limited===
 
 Ltd Limited is a type of business structure that is used in many countries around the world. It is a popular choice for businesses that want to limit their liability and protect their assets. Ltd Limited is a legal entity that is separate from its owners and is responsible for its own debts and liabilities. It is also known as a limited liability company (LLC) or a private limited company (PLC).

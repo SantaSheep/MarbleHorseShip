@@ -1,4 +1,4 @@
-<seo title="Booking Holdings" metakeywords="booking holdings business,acquired booking com,company acquired booking,booking holdings global" metadescription="Booking Holdings is a global leader in online travel and related services."/>
+<seo title="Booking Holdings" metakeywords="booking holdings business,acquired booking com,company acquired booking,booking holdings global" metadescription="Booking Holdings is a global leader in online travel and related services." />
 ===Introduction to Booking Holdings===
 
 Booking Holdings is a global leader in online travel and related services. It is the world’s largest online travel company, with a portfolio of brands that includes Booking.com, Priceline.com, Agoda.com, Kayak.com, Rentalcars.com, and OpenTable. The company is headquartered in Norwalk, Connecticut, and has offices in more than 200 countries and territories. Booking Holdings is a publicly traded company listed on the NASDAQ Global Select Market under the ticker symbol BKNG.

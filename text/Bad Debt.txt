@@ -1,4 +1,4 @@
-<seo title="Bad Debt" metakeywords="manage bad debt,managing bad debt,bad debt causes,cause bad debt" metadescription="Bad debt is a term used to describe debt that is unlikely to be repaid.It is a type of debt that has been written off by a lender as a loss."/>
+<seo title="Bad Debt" metakeywords="manage bad debt,managing bad debt,bad debt causes,cause bad debt" metadescription="Bad debt is a term used to describe debt that is unlikely to be repaid.It is a type of debt that has been written off by a lender as a loss." />
 ===Introduction to Bad Debt===
 
 Bad debt is a term used to describe debt that is unlikely to be repaid. It is a type of debt that has been written off by a lender as a loss. Bad debt can arise from a variety of sources, including consumer loans, business loans, and [[Credit Card|credit card]] debt. Bad debt can have a significant impact on an individual or business’s financial health, and it is important to understand the causes, impacts, and strategies for managing bad debt.

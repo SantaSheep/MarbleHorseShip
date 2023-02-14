@@ -1,4 +1,4 @@
-<seo title="Commodity" metakeywords="commodities commodity markets,introduction commodities commodities,commodity markets commodity,type commodity traded" metadescription="Commodities are physical goods that are used as inputs in the production of other goods and services."/>
+<seo title="Commodity" metakeywords="commodities commodity markets,introduction commodities commodities,commodity markets commodity,type commodity traded" metadescription="Commodities are physical goods that are used as inputs in the production of other goods and services." />
 ===Introduction to Commodities===
 
 Commodities are physical goods that are used as inputs in the production of other goods and services. They are typically traded on exchanges and are used as a form of investment. Commodities are typically divided into two categories: hard commodities and soft commodities. Hard commodities are those that are mined or extracted from the earth, such as gold, silver, oil, and copper. Soft commodities are those that are grown or produced, such as wheat, corn, soybeans, and coffee.

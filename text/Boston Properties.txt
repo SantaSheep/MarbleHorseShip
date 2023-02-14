@@ -1,4 +1,4 @@
-<seo title="Boston Properties" metakeywords="boston properties business,introduction boston properties,boston properties leading,properties boston properties" metadescription="Boston Properties is a real estate investment trust that owns, develops, and manages office, residential, and retail properties in the United States."/>
+<seo title="Boston Properties" metakeywords="boston properties business,introduction boston properties,boston properties leading,properties boston properties" metadescription="Boston Properties is a real estate investment trust that owns, develops, and manages office, residential, and retail properties in the United States." />
 ===Introduction to Boston Properties===
 
 Boston Properties is a [[Real Estate|real estate]] investment trust (REIT) that owns, develops, and manages office, residential, and retail properties in the United States. The company was founded in 1970 and is headquartered in Boston, Massachusetts. Boston Properties is one of the largest publicly traded REITs in the United States and is listed on the New York Stock Exchange (NYSE) under the ticker symbol BXP.

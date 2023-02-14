@@ -1,4 +1,4 @@
-<seo title="Coefficient Of Variation" metakeywords="definition coefficient variation,coefficient variation defined,calculating coefficient variation,variation coefficient" metadescription="The Coefficient of Variation is a measure of the relative variability of a set of data points."/>
+<seo title="Coefficient Of Variation" metakeywords="definition coefficient variation,coefficient variation defined,calculating coefficient variation,variation coefficient" metadescription="The Coefficient of Variation is a measure of the relative variability of a set of data points." />
 ===Introduction to Coefficient of Variation===
 
 The Coefficient of Variation () is a statistical measure used to compare the variability of different sets of data. It is a measure of the relative variability of a set of data points, and is calculated by dividing the [[Standard Deviation|standard deviation]] of the data by the mean of the data. The  is a useful tool for investors and analysts to compare the risk of different investments, as it provides a measure of the relative risk of each investment.

@@ -1,4 +1,4 @@
-<seo title="Commercial Paper" metakeywords="investing commercial paper,commercial paper asset,commercial paper risk,investors commercial paper" metadescription="Commercial paper is a short-term debt instrument issued by corporations and financial institutions to raise funds."/>
+<seo title="Commercial Paper" metakeywords="investing commercial paper,commercial paper asset,commercial paper risk,investors commercial paper" metadescription="Commercial paper is a short-term debt instrument issued by corporations and financial institutions to raise funds." />
 ===Introduction to Commercial Paper===
 
 Commercial paper is a short-term [[Debt Instrument|debt instrument]] issued by corporations and [[Financial Institution|financial institution]]s to raise funds for [[Working Capital|working capital]] and other purposes. It is a form of unsecured [[Promissory Note|promissory note]] with a fixed maturity date, usually issued at a discount from [[Face Value|face value]]. Commercial paper is typically issued in denominations of $100,000 or more and is usually sold in large blocks to institutional investors.

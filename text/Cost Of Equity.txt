@@ -1,4 +1,4 @@
-<seo title="Cost Of Equity" metakeywords="cost equity cost,cost equity typically,equity cost equity,introduction cost equity" metadescription="Cost of equity is a financial term used to describe the rate of return that a company must pay to its shareholders in order to attract and retain their investment."/>
+<seo title="Cost Of Equity" metakeywords="cost equity cost,cost equity typically,equity cost equity,introduction cost equity" metadescription="Cost of equity is a financial term used to describe the rate of return that a company must pay to its shareholders in order to attract and retain their investment." />
 ===Introduction to Cost of Equity===
 
 Cost of equity is a financial term used to describe the [[Rate Of Return|rate of return]] that a company must pay to its shareholders in order to attract and retain their investment. It is an important concept for investors and companies alike, as it helps to determine the value of a company’s stock and the amount of money that can be raised through equity financing. Cost of equity is also used to compare the returns of different investments, as it takes into account the risk associated with each investment.

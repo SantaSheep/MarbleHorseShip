@@ -1,4 +1,4 @@
-<seo title="Net Receivable S" metakeywords="introduction net receivables,receivables net receivables,definition net receivables,net receivables term" metadescription="Net receivables is a term used to describe the amount of money a company is owed by its customers."/>
+<seo title="Net Receivable S" metakeywords="introduction net receivables,receivables net receivables,definition net receivables,net receivables term" metadescription="Net receivables is a term used to describe the amount of money a company is owed by its customers." />
 ===Introduction to Net Receivables===
 
 Net receivables is a term used to describe the amount of money a company is owed by its customers. It is a measure of the company's liquidity and is used to assess the company's ability to pay its bills and other obligations. Net receivables are calculated by subtracting the amount of money owed to the company from the amount of money owed by the company. This figure is then used to determine the company's financial health and its ability to meet its financial obligations.

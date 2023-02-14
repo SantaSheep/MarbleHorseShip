@@ -1,4 +1,4 @@
-<seo title="Debit Card" metakeywords="debit cards drawbacks,account drawbacks debitcards,debitcard using,drawbacks debitcards debit" metadescription="A debit card is a payment card that allows the user to access funds from their bank account."/>
+<seo title="Debit Card" metakeywords="debit cards drawbacks,account drawbacks debitcards,debitcard using,drawbacks debitcards debit" metadescription="A debit card is a payment card that allows the user to access funds from their bank account." />
 ===Introduction to Debitcard===
 
 A debit card is a payment card that allows the user to access funds from their bank account. It is similar to a [[Credit Card|credit card]], but instead of borrowing money from the bank, the user is spending their own money. Debit cards are accepted at most stores and online retailers, and can be used to make purchases, withdraw cash from ATMs, and transfer money between accounts. Debit cards are a convenient and secure way to manage finances, and are becoming increasingly popular.

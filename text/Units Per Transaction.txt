@@ -1,4 +1,4 @@
-<seo title="Units Per Transaction" metakeywords="units transaction upt,upt financial metric,definition units transaction,transaction upt calculated" metadescription="Units per transaction (UPT) is a financial metric used to measure the efficiency of a business’s operations."/>
+<seo title="Units Per Transaction" metakeywords="units transaction upt,upt financial metric,definition units transaction,transaction upt calculated" metadescription="Units per transaction (UPT) is a financial metric used to measure the efficiency of a business’s operations." />
 ===Introduction to Units Per Transaction===
 
 Units per transaction (UPT) is a financial metric used to measure the efficiency of a business’s operations. It is a measure of the number of units of a product or service that are sold in a single transaction. UPT is used to assess the effectiveness of a business’s pricing strategy, as well as to identify areas of improvement in the business’s operations. UPT is an important metric for businesses to track, as it can provide valuable insights into the performance of the business.

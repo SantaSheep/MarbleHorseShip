@@ -1,4 +1,4 @@
-<seo title="World Bank" metakeywords="history world bank,introduction world bank,world bank established,world bank institutions" metadescription="The World Bank provides loans and grants to developing countries for the purpose of poverty reduction and economic development."/>
+<seo title="World Bank" metakeywords="history world bank,introduction world bank,world bank established,world bank institutions" metadescription="The World Bank provides loans and grants to developing countries for the purpose of poverty reduction and economic development." />
 ===Introduction to the World Bank===
 
 The World Bank is an international [[Financial Institution|financial institution]] that provides loans and grants to developing countries for the purpose of poverty reduction and economic development. It is one of the five institutions that make up the [[World Bank Group|World Bank Group]], which is part of the United Nations system. The World Bank was established in 1944 at the Bretton Woods Conference and has since become one of the most influential international organizations in the world. The World Bank is headquartered in Washington,  and is made up of 189 member countries.

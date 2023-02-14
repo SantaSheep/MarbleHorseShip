@@ -1,4 +1,4 @@
-<seo title="Taxable Income" metakeywords="understand taxable income,understand taxable,understanding taxable income,determined taxable income" metadescription="Taxable income is the total amount of income that is subject to taxation after deductions and exemptions have been taken into account."/>
+<seo title="Taxable Income" metakeywords="understand taxable income,understand taxable,understanding taxable income,determined taxable income" metadescription="Taxable income is the total amount of income that is subject to taxation after deductions and exemptions have been taken into account." />
 ===Introduction to Taxable Income===
 
 Taxable income is the amount of income that is subject to taxation by the government. It is the total amount of income that is subject to taxation after deductions and exemptions have been taken into account. Taxable income is used to calculate the amount of taxes that an individual or business must pay. It is important to understand taxable income in order to properly calculate taxes and ensure that the correct amount of taxes is paid.

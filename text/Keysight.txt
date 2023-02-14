@@ -1,4 +1,4 @@
-<seo title="Keysight" metakeywords="keysight technologies leading,keysight keysight technologies,keysight technologies,keysight technologies keysight" metadescription="Keysight Technologies, Inc. is a leading provider of electronic test and measurement solutions."/>
+<seo title="Keysight" metakeywords="keysight technologies leading,keysight keysight technologies,keysight technologies,keysight technologies keysight" metadescription="Keysight Technologies, Inc. is a leading provider of electronic test and measurement solutions." />
 ===Introduction to Keysight===
 
 Keysight Technologies, Inc. is a leading provider of electronic test and measurement solutions. The company was founded in 1939 as Hewlett-Packard Company and is headquartered in Santa Rosa, California. Keysight is a global leader in the design, manufacture, and delivery of electronic test and measurement solutions for the communications, aerospace, defense, and semiconductor industries. The company’s products and services are used by customers in more than 100 countries around the world. Keysight’s solutions are used to develop, test, and optimize electronic products and systems.

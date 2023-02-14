@@ -1,4 +1,4 @@
-<seo title="Law Of Diminishing Marginal Return" metakeywords="diminishing marginal return,return law diminishing,example law diminishing,definition law diminishing" metadescription=""/>
+<seo title="Law Of Diminishing Marginal Return" metakeywords="diminishing marginal return,return law diminishing,example law diminishing,definition law diminishing" metadescription="" />
 ===Introduction to Law of Diminishing Marginal Return===
 
 The Law of Diminishing Marginal Return is an economic concept that states that as more of a factor of production is added to a production process, the marginal output of that factor will eventually decrease. This law is important to understand when making decisions about production and resource allocation. It is also important to understand when considering the cost of production and the potential returns from production.

@@ -1,4 +1,4 @@
-<seo title="Average Inventory" metakeywords="average inventory important,defined average inventory,average inventory defined,average inventory useful" metadescription="Average inventory is a financial term used to measure the average amount of inventory a company has on hand over a given period of time."/>
+<seo title="Average Inventory" metakeywords="average inventory important,defined average inventory,average inventory defined,average inventory useful" metadescription="Average inventory is a financial term used to measure the average amount of inventory a company has on hand over a given period of time." />
 ===Introduction to Average Inventory===
 
 Average inventory is a financial term used to measure the average amount of inventory a company has on hand over a given period of time. It is an important metric for businesses to track, as it can provide insight into the company’s [[Inventory Management|inventory management]] practices and help identify areas for improvement. Average inventory is also used to calculate the cost of goods sold (COGS) and the [[Inventory Turnover|inventory turnover]] ratio.

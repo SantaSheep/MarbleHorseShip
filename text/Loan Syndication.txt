@@ -1,4 +1,4 @@
-<seo title="Loan Syndication" metakeywords="loan syndication used,lender loan syndication,introduction loan syndication,syndication loan syndication" metadescription="Loan syndication is a financial arrangement in which multiple lenders provide funds to a borrower."/>
+<seo title="Loan Syndication" metakeywords="loan syndication used,lender loan syndication,introduction loan syndication,syndication loan syndication" metadescription="Loan syndication is a financial arrangement in which multiple lenders provide funds to a borrower." />
 ===Introduction to Loan Syndication===
 
 Loan syndication is a financial arrangement in which multiple lenders provide funds to a borrower. It is a form of debt financing that allows a borrower to access a larger amount of capital than they would be able to obtain from a single lender. Loan syndication is often used by large companies to finance large projects or acquisitions. It is also used by governments to finance infrastructure projects.

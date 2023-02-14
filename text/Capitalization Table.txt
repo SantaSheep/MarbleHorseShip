@@ -1,4 +1,4 @@
-<seo title="Capitalization Table" metakeywords="share capitalization table,cap table financial,share capitalization,ownership structure capitalization" metadescription="A capitalization table, also known as a cap table, is a financial document that outlines the ownership structure of a company."/>
+<seo title="Capitalization Table" metakeywords="share capitalization table,cap table financial,share capitalization,ownership structure capitalization" metadescription="A capitalization table, also known as a cap table, is a financial document that outlines the ownership structure of a company." />
 ===Introduction to Capitalization Table===
 
 A capitalization table, also known as a cap table, is a financial document that outlines the ownership structure of a company. It is used to track the ownership of a company’s equity, including the number of shares outstanding, the percentage of ownership held by each shareholder, and the value of each share. The capitalization table is an important tool for entrepreneurs, investors, and other stakeholders in a company, as it provides a clear picture of the company’s ownership structure.

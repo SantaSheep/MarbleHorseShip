@@ -1,4 +1,4 @@
-<seo title="Margin" metakeywords="margin financial markets,margin trading margin,margin trading,financial markets margin" metadescription="Margin is an important concept in finance because it helps to ensure that investors and lenders are protected from losses due to default or market volatility."/>
+<seo title="Margin" metakeywords="margin financial markets,margin trading margin,margin trading,financial markets margin" metadescription="Margin is an important concept in finance because it helps to ensure that investors and lenders are protected from losses due to default or market volatility." />
 ===Introduction to Margin===
 
 Margin is a term used in finance to refer to the amount of money that an investor must put up in order to purchase a security or other [[Financial Instrument|financial instrument]]. It is also used to refer to the amount of money that a lender requires a borrower to put up as collateral for a loan. Margin is an important concept in finance because it helps to ensure that investors and lenders are protected from losses due to default or market volatility.

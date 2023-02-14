@@ -1,4 +1,4 @@
-<seo title="Fear And Greed Index" metakeywords="fear greed index,greed index fear,greed market index,greed index used" metadescription="The Fear and Greed Index is a tool used to measure the sentiment of the stock market."/>
+<seo title="Fear And Greed Index" metakeywords="fear greed index,greed index fear,greed market index,greed index used" metadescription="The Fear and Greed Index is a tool used to measure the sentiment of the stock market." />
 ===Introduction to Fear and Greed Index===
 
 The Fear and Greed Index is a tool used to measure the sentiment of the [[Stock Market|stock market]]. It is a measure of investor sentiment, which is the collective attitude of investors towards the stock market. The index is based on seven different indicators, which are used to measure the level of fear and greed in the market. The index is updated daily and is available for free on the website of CNN Money.

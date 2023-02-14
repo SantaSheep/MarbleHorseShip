@@ -1,4 +1,4 @@
-<seo title="Price Ceiling" metakeywords="introduction price ceiling,price ceiling government,price ceilings drawbacks,example price ceiling" metadescription="Price ceilings are a government-imposed limit on the maximum price that can be charged for a product or service."/>
+<seo title="Price Ceiling" metakeywords="introduction price ceiling,price ceiling government,price ceilings drawbacks,example price ceiling" metadescription="Price ceilings are a government-imposed limit on the maximum price that can be charged for a product or service." />
 ===Introduction to Price Ceiling===
 
 Price ceiling is a government-imposed limit on the maximum price that can be charged for a product or service. It is a form of price control, and is used to protect consumers from exploitation by businesses. Price ceilings are often used in markets where there is a lack of competition, or where the government believes that the market is not functioning efficiently. Price ceilings can be used to protect consumers from price gouging, or to ensure that essential goods and services remain affordable.

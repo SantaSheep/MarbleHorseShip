@@ -1,4 +1,4 @@
-<seo title="Ebita" metakeywords="definition ebita ebita,ebita used measure,performance definition ebita,ebita earnings" metadescription="EBITA stands for Earnings Before Interest, Taxes, and Amortization."/>
+<seo title="Ebita" metakeywords="definition ebita ebita,ebita used measure,performance definition ebita,ebita earnings" metadescription="EBITA stands for Earnings Before Interest, Taxes, and Amortization." />
 ===Introduction to EBITA===
 
 EBITA, or Earnings Before Interest, Taxes, and Amortization, is a financial metric used to measure a company’s profitability. It is a measure of a company’s operating performance and is calculated by subtracting operating expenses from [[Operating Income|operating income]]. EBITA is a useful tool for investors and analysts to assess a company’s financial health and performance.

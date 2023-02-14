@@ -1,4 +1,4 @@
-<seo title="Year Over Year" metakeywords="yoy financial term,yoy growth rate,year yoy financial,definition year" metadescription="Year over year (YOY) is a financial term used to compare the performance of a company or industry over a period of time."/>
+<seo title="Year Over Year" metakeywords="yoy financial term,yoy growth rate,year yoy financial,definition year" metadescription="Year over year (YOY) is a financial term used to compare the performance of a company or industry over a period of time." />
 ===Introduction to Year Over Year===
 
 Year over year (YOY) is a financial term used to compare the performance of a company or industry over a period of time. It is a useful tool for investors and analysts to assess the performance of a company or industry over a period of time. YOY is used to compare the performance of a company or industry from one year to the next. It is a useful tool for investors and analysts to assess the performance of a company or industry over a period of time.

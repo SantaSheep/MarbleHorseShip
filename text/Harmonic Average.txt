@@ -1,4 +1,4 @@
-<seo title="Harmonic Average" metakeywords="harmonicaverage harmonic average,harmonic average used,harmonic mean used,numbers harmonic average" metadescription="Harmonicaverage is a financial term used to describe a method of calculating the average of a set of numbers."/>
+<seo title="Harmonic Average" metakeywords="harmonicaverage harmonic average,harmonic average used,harmonic mean used,numbers harmonic average" metadescription="Harmonicaverage is a financial term used to describe a method of calculating the average of a set of numbers." />
 ===Introduction to Harmonicaverage===
 
 Harmonicaverage is a financial term used to describe a method of calculating the average of a set of numbers. It is a [[Weighted Average|weighted average]], meaning that the numbers are weighted according to their importance. This method of calculating an average is used in many different areas of finance, including [[Portfolio Management|portfolio management]], stock analysis, and [[Risk Management|risk management]]. The harmonic average is also known as the harmonic mean, and it is used to calculate the average of a set of numbers that are not necessarily the same.

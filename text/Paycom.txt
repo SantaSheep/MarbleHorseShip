@@ -1,4 +1,4 @@
-<seo title="Paycom" metakeywords="paycom business model,paycom business,business model paycom,paycom stock" metadescription="Paycom is a leading provider of cloud-based human capital management (HCM) software solutions."/>
+<seo title="Paycom" metakeywords="paycom business model,paycom business,business model paycom,paycom stock" metadescription="Paycom is a leading provider of cloud-based human capital management (HCM) software solutions." />
 ===Introduction to Paycom===
 
 Paycom is a leading provider of cloud-based [[Human Capital|human capital]] management (HCM) software solutions. The company was founded in 1998 and is headquartered in Oklahoma City, Oklahoma. Paycom offers a comprehensive suite of HCM solutions, including payroll, time and attendance, recruiting, onboarding, and more. The company serves over 20,000 clients in all 50 states and has over 1,000 employees. Paycom is a publicly traded company on the New York Stock Exchange (NYSE: PAYC).

@@ -1,4 +1,4 @@
-<seo title="Trailing Stop" metakeywords="trailingstop allows investors,benefit trailingstop allows,price benefits trailingstop,trailingstop main benefit" metadescription="Trailingstop is a type of stop-loss order that is used by investors to protect their profits and limit their losses."/>
+<seo title="Trailing Stop" metakeywords="trailingstop allows investors,benefit trailingstop allows,price benefits trailingstop,trailingstop main benefit" metadescription="Trailingstop is a type of stop-loss order that is used by investors to protect their profits and limit their losses." />
 ===Introduction to Trailingstop===
 
 Trailingstop is a type of stop-loss order that is used by investors to protect their profits and limit their losses. It is a type of order that is placed with a broker to buy or sell a security when it reaches a certain price. The order is placed with the broker and the broker will then monitor the security and execute the order when the security reaches the specified price. The order is placed with the broker and the broker will then monitor the security and execute the order when the security reaches the specified price.

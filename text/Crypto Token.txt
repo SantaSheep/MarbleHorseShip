@@ -1,4 +1,4 @@
-<seo title="Crypto Token" metakeywords="crypto tokens,benefits crypto tokens,token crypto tokens,blockchain crypto tokens" metadescription="Crypto tokens are digital assets that are created and stored on a blockchain."/>
+<seo title="Crypto Token" metakeywords="crypto tokens,benefits crypto tokens,token crypto tokens,blockchain crypto tokens" metadescription="Crypto tokens are digital assets that are created and stored on a blockchain." />
 ===Introduction to Crypto Token===
 
 Crypto tokens are digital assets that are created and stored on a blockchain. They are used to represent a variety of digital assets, such as currencies, commodities, and other digital assets. Crypto tokens are created through a process called tokenization, which involves the creation of a unique digital asset that is stored on a blockchain. Crypto tokens are used to facilitate transactions on the blockchain, and they can also be used to represent ownership of a particular asset. Crypto tokens are becoming increasingly popular as a way to store and transfer value, and they are being used in a variety of different applications.

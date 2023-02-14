@@ -1,4 +1,4 @@
-<seo title="Loss Adjustment Expense Lae" metakeywords="loss adjustment expense,adjustment expense lae,cost claim lae,expense lae loss" metadescription="Loss Adjustment Expense (LAE) is a term used in the insurance industry to refer to the costs associated with adjusting a claim."/>
+<seo title="Loss Adjustment Expense Lae" metakeywords="loss adjustment expense,adjustment expense lae,cost claim lae,expense lae loss" metadescription="Loss Adjustment Expense (LAE) is a term used in the insurance industry to refer to the costs associated with adjusting a claim." />
 ===Introduction to Loss Adjustment Expense (LAE)===
 
 Loss Adjustment Expense (LAE) is a term used in the insurance industry to refer to the costs associated with adjusting a claim. It is the amount of money that an insurance company pays to adjust a claim, including the cost of investigating the claim, evaluating the claim, and settling the claim. LAE is an important part of the insurance process and can have a significant impact on the overall cost of a claim.

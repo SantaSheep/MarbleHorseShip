@@ -1,4 +1,4 @@
-<seo title="Degrees Of Freedom" metakeywords="definition degrees freedom,degrees freedom defined,degrees freedom concept,concept degrees freedom" metadescription="Degrees of freedom is an important concept in the analysis of data and the development of models."/>
+<seo title="Degrees Of Freedom" metakeywords="definition degrees freedom,degrees freedom defined,degrees freedom concept,concept degrees freedom" metadescription="Degrees of freedom is an important concept in the analysis of data and the development of models." />
 ===Introduction to Degrees of Freedom===
 
 Degrees of freedom is a concept used in statistics and mathematics to describe the number of independent variables that can be used to describe a system. It is a measure of the number of variables that can be varied independently in a given system. Degrees of freedom is an important concept in the analysis of data and the development of models. It is used to determine the number of parameters that can be estimated from a given set of data.

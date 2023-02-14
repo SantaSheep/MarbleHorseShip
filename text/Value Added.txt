@@ -1,4 +1,4 @@
-<seo title="Value Added" metakeywords="definition value added,value added term,value added defined,value added beneficial" metadescription="Value-added is an important concept in the financial world because it helps to determine the profitability of a company or individual."/>
+<seo title="Value Added" metakeywords="definition value added,value added term,value added defined,value added beneficial" metadescription="Value-added is an important concept in the financial world because it helps to determine the profitability of a company or individual." />
 ===Introduction to Value-Added===
 
 Value-added is a term used in the financial world to describe the additional value that a company or individual adds to a product or service. It is a measure of the economic benefit that a company or individual provides to a customer or client. Value-added is an important concept in the financial world because it helps to determine the profitability of a company or individual.

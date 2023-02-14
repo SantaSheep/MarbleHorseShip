@@ -1,4 +1,4 @@
-<seo title="Impairment" metakeywords="impairment accounting term,impairment accounting standards,accounting standards impairment,impairment accounting" metadescription="Impairment is a non-cash expense, meaning that it does not involve the exchange of cash.It is a decrease in the value of an asset that is recorded on the balance sheet."/>
+<seo title="Impairment" metakeywords="impairment accounting term,impairment accounting standards,accounting standards impairment,impairment accounting" metadescription="Impairment is a non-cash expense, meaning that it does not involve the exchange of cash.It is a decrease in the value of an asset that is recorded on the balance sheet." />
 ===Introduction to Impairment===
 
 Impairment is an accounting term used to describe the decrease in the value of an asset due to a variety of factors. Impairment can be caused by a variety of factors, including changes in market conditions, technological advances, or changes in the assetâ€™s use. Impairment is a non-cash expense, meaning that it does not involve the exchange of cash. Instead, it is a decrease in the value of an asset that is recorded on the [[Balance Sheet|balance sheet]].

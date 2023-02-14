@@ -1,4 +1,4 @@
-<seo title="Incremental Analysis" metakeywords="incremental analysis financial,definition incremental analysis,benefits incremental analysis,incremental analysis used" metadescription="Incremental analysis is a form of cost-benefit analysis that focuses on the incremental costs and benefits of a decision or project."/>
+<seo title="Incremental Analysis" metakeywords="incremental analysis financial,definition incremental analysis,benefits incremental analysis,incremental analysis used" metadescription="Incremental analysis is a form of cost-benefit analysis that focuses on the incremental costs and benefits of a decision or project." />
 ===Introduction to Incremental Analysis===
 
 Incremental analysis is a financial tool used to evaluate the profitability of a decision or project. It is a form of cost-benefit analysis that focuses on the [[Incremental Cost|incremental cost]]s and benefits of a decision or project. Incremental analysis is used to determine whether a decision or project is worth pursuing or not. It is a useful tool for businesses to make informed decisions and maximize profits.

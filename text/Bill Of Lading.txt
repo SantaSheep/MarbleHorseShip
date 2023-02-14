@@ -1,4 +1,4 @@
-<seo title="Bill Of Lading" metakeywords="conditions shipment lading,details negotiating lading,lading legal document,order lading used" metadescription="A bill of lading is a legal document that is used to transfer goods from one party to another."/>
+<seo title="Bill Of Lading" metakeywords="conditions shipment lading,details negotiating lading,lading legal document,order lading used" metadescription="A bill of lading is a legal document that is used to transfer goods from one party to another." />
 ===Introduction to Bill of Lading===
 
 A bill of lading is a legal document that is used to transfer goods from one party to another. It is a contract between the shipper and the carrier that outlines the terms and conditions of the shipment. The bill of lading is also used to document the receipt of goods and serves as proof of ownership. It is an important document in international trade and is used to ensure that goods are delivered safely and on time.

@@ -1,4 +1,4 @@
-<seo title="Inventory Turnover" metakeywords="inventory turnover cogs,inventory turnover factors,calculating inventory turnover,inventory turnover" metadescription="Inventory turnover is a measure of how quickly a company is able to sell its inventory."/>
+<seo title="Inventory Turnover" metakeywords="inventory turnover cogs,inventory turnover factors,calculating inventory turnover,inventory turnover" metadescription="Inventory turnover is a measure of how quickly a company is able to sell its inventory." />
 ===Introduction to Inventory Turnover===
 
 Inventory turnover is a measure of how quickly a company is able to sell its inventory. It is calculated by dividing the cost of goods sold (COGS) by the [[Average Inventory|average inventory]] for a given period. The higher the inventory turnover, the more efficiently a company is able to sell its inventory. This is important for businesses because it can help them determine how much inventory they need to keep on hand and how quickly they need to restock.

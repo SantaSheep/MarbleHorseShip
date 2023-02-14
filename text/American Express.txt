@@ -1,4 +1,4 @@
-<seo title="American Express" metakeywords="history american express,introduction american express,american express introduced,american express founded" metadescription="American Express is a global financial services company that has been in business for over 170 years."/>
+<seo title="American Express" metakeywords="history american express,introduction american express,american express introduced,american express founded" metadescription="American Express is a global financial services company that has been in business for over 170 years." />
 ===Introduction to American Express===
 
 American Express is a global financial services company that provides a wide range of products and services to its customers. Founded in 1850, American Express is one of the oldest and most respected financial services companies in the world. The company is headquartered in New York City and operates in more than 130 countries around the world. American Express is a publicly traded company and is listed on the New York Stock Exchange (NYSE).

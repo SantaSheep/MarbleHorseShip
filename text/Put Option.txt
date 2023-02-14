@@ -1,4 +1,4 @@
-<seo title="Put Option" metakeywords="advantages putoptions options,disadvantages putoptions options,putoptions options disadvantages,advantages putoptions" metadescription="A put option is a financial instrument that gives the holder the right, but not the obligation, to sell a specified amount of an underlying asset."/>
+<seo title="Put Option" metakeywords="advantages putoptions options,disadvantages putoptions options,putoptions options disadvantages,advantages putoptions" metadescription="A put option is a financial instrument that gives the holder the right, but not the obligation, to sell a specified amount of an underlying asset." />
 ===Introduction to Putoption===
 
 A put option is a [[Financial Instrument|financial instrument]] that gives the holder the right, but not the obligation, to sell a specified amount of an underlying asset at a predetermined price within a specified period of time. Put options are typically used as a hedge against a decline in the price of the underlying asset. Put options are traded on exchanges and over-the-counter (OTC) markets.

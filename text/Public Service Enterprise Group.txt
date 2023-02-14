@@ -1,4 +1,4 @@
-<seo title="Public Service Enterprise Group" metakeywords="public service electric,gas company pse,publicly traded energy,public service enterprise" metadescription="Public Service Enterprise Group (PSEG) is a publicly traded energy company headquartered in Newark, New Jersey."/>
+<seo title="Public Service Enterprise Group" metakeywords="public service electric,gas company pse,publicly traded energy,public service enterprise" metadescription="Public Service Enterprise Group (PSEG) is a publicly traded energy company headquartered in Newark, New Jersey." />
 ===Introduction to Public Service Enterprise Group===
 
 Public Service Enterprise Group (PSEG) is a publicly traded energy company headquartered in Newark, New Jersey. It is the [[Parent Company|parent company]] of Public Service Electric and Gas Company (PSE&G), a regulated electric and gas utility in New Jersey. PSEG also owns and operates power plants, provides energy services, and engages in energy-related businesses. The company is one of the largest energy companies in the United States and is listed on the New York Stock Exchange (NYSE) under the ticker symbol PEG.

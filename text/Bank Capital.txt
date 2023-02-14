@@ -1,4 +1,4 @@
-<seo title="Bank Capital" metakeywords="introduction bank capital,bank capital defined,bank capital measure,definition bank capital" metadescription="Bank capital is the financial resources that a bank has available to cover its liabilities and to support its operations."/>
+<seo title="Bank Capital" metakeywords="introduction bank capital,bank capital defined,bank capital measure,definition bank capital" metadescription="Bank capital is the financial resources that a bank has available to cover its liabilities and to support its operations." />
 ===Introduction to Bank Capital===
 
 Bank capital is a term used to describe the financial resources that a bank has available to cover its liabilities and to support its operations. It is a measure of a bank's financial strength and stability, and is used by regulators to ensure that banks are able to meet their obligations to their customers and other stakeholders. Bank capital is composed of a variety of different components, and is subject to a range of regulatory requirements.

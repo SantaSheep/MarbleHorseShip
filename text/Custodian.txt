@@ -1,4 +1,4 @@
-<seo title="Custodian" metakeywords="custodian role,role custodian protect,safekeeping assets custodians,assets custodians" metadescription="A custodian is a financial institution that is responsible for safeguarding the assets of an individual or organization."/>
+<seo title="Custodian" metakeywords="custodian role,role custodian protect,safekeeping assets custodians,assets custodians" metadescription="A custodian is a financial institution that is responsible for safeguarding the assets of an individual or organization." />
 ===Introduction to Custodian===
 
 A custodian is a [[Financial Institution|financial institution]] that is responsible for safeguarding the assets of an individual or organization. The custodian is responsible for the safekeeping of the assets, as well as the management of the assets. The custodian is also responsible for the reporting of the assets to the owner or organization. The custodian is typically a bank, trust company, or other financial institution that is regulated by the government.

@@ -1,4 +1,4 @@
-<seo title="Dividend Yield" metakeywords="dividend yield factors,dividend yield important,introduction dividend yield,dividend yield financial" metadescription="Dividend yield is a financial term used to measure the return on an investment in a company’s stock."/>
+<seo title="Dividend Yield" metakeywords="dividend yield factors,dividend yield important,introduction dividend yield,dividend yield financial" metadescription="Dividend yield is a financial term used to measure the return on an investment in a company’s stock." />
 ===Introduction to Dividend Yield===
 
 Dividend yield is a financial term used to measure the return on an investment in a company’s stock. It is calculated by dividing the annual dividend per share by the current market price per share. Dividend yield is an important metric for investors, as it provides insight into the potential return on an investment. It is also used to compare the relative performance of different stocks.

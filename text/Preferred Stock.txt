@@ -1,4 +1,4 @@
-<seo title="Preferred Stock" metakeywords="preferred stock disadvantages,preferred stock advantages,disadvantages preferred stock,introduction preferred stock" metadescription="Preferred stock is a hybrid security that combines features of both debt and equity."/>
+<seo title="Preferred Stock" metakeywords="preferred stock disadvantages,preferred stock advantages,disadvantages preferred stock,introduction preferred stock" metadescription="Preferred stock is a hybrid security that combines features of both debt and equity." />
 ===Introduction to Preferred Stock===
 
 Preferred stock is a type of security that is issued by a company and is similar to common stock, but with some key differences. Preferred stock is a hybrid security that combines features of both debt and equity. It is a form of equity that pays a fixed dividend and has priority over common stock in the event of a liquidation. Preferred stockholders have a higher claim on assets and earnings than common stockholders, but they do not have voting rights.

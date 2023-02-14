@@ -1,4 +1,4 @@
-<seo title="Fixed Asset" metakeywords="depreciation fixed assets,accounting fixed assets,intangible fixed assets,disposal fixed assets" metadescription="Fixed assets are long-term tangible assets that are used in the production of goods and services."/>
+<seo title="Fixed Asset" metakeywords="depreciation fixed assets,accounting fixed assets,intangible fixed assets,disposal fixed assets" metadescription="Fixed assets are long-term tangible assets that are used in the production of goods and services." />
 ===Introduction to Fixed Assets===
 
 Fixed assets are long-term [[Tangible Asset|tangible asset]]s that are used in the production of goods and services. They are also known as [[Capital Asset|capital asset]]s or plant assets. Fixed assets are not intended for sale in the ordinary course of business, but are instead held for the purpose of producing income. Examples of fixed assets include land, buildings, machinery, equipment, vehicles, and furniture.

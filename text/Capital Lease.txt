@@ -1,4 +1,4 @@
-<seo title="Capital Lease" metakeywords="capital leases type,capital leases disadvantages,disadvantages capital leases,capital leases" metadescription="Capital leases are a type of lease agreement that allow a lessee to use an asset for a specified period of time in exchange for periodic payments."/>
+<seo title="Capital Lease" metakeywords="capital leases type,capital leases disadvantages,disadvantages capital leases,capital leases" metadescription="Capital leases are a type of lease agreement that allow a lessee to use an asset for a specified period of time in exchange for periodic payments." />
 ===Introduction to Capital Lease===
 
 A capital lease is a type of lease agreement that allows a lessee to use an asset for a specified period of time in exchange for periodic payments. The lessee is responsible for the maintenance and upkeep of the asset, and the lessor retains ownership of the asset. Capital leases are often used to finance the purchase of large assets such as [[Real Estate|real estate]], vehicles, and equipment. The lease payments are typically structured to cover the cost of the asset, plus interest and other fees.

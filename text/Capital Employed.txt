@@ -1,4 +1,4 @@
-<seo title="Capital Employed" metakeywords="capital employed capital,capital employed assets,capital employed defined,capital employed consists" metadescription="Capital employed is a financial term used to describe the total amount of capital used by a business to finance its operations."/>
+<seo title="Capital Employed" metakeywords="capital employed capital,capital employed assets,capital employed defined,capital employed consists" metadescription="Capital employed is a financial term used to describe the total amount of capital used by a business to finance its operations." />
 ===Introduction to Capital Employed===
 
 Capital employed is a financial term used to describe the total amount of capital used by a business to finance its operations. It is a measure of the total resources available to a business and is used to assess the financial health of a company. Capital employed is also used to calculate the return on capital employed (ROCE), which is a measure of the efficiency of a company's use of its capital.

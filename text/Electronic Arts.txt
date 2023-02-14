@@ -1,4 +1,4 @@
-<seo title="Electronic Arts" metakeywords="arts ea business,arts ea founded,electronic arts ea,software company ea" metadescription="Electronic Arts (EA) is a leading global interactive entertainment software company."/>
+<seo title="Electronic Arts" metakeywords="arts ea business,arts ea founded,electronic arts ea,software company ea" metadescription="Electronic Arts (EA) is a leading global interactive entertainment software company." />
 ===Introduction to Electronic Arts===
 
 Electronic Arts (EA) is a leading global interactive entertainment software company. Founded in 1982, EA develops, publishes, and distributes interactive software worldwide for video game consoles, personal computers, mobile phones, and the Internet. EA is headquartered in Redwood City, California, and has offices in more than 25 countries around the world. EA is one of the largest video game publishers in the world, with a portfolio of popular franchises such as FIFA, Madden NFL, The Sims, Battlefield, and Need for Speed.

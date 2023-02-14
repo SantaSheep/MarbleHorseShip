@@ -1,4 +1,4 @@
-<seo title="Aflac" metakeywords="aflac business,introduction aflac,history aflac,company aflac" metadescription="Aflac is an American insurance company that provides supplemental health and life insurance products to individuals and businesses."/>
+<seo title="Aflac" metakeywords="aflac business,introduction aflac,history aflac,company aflac" metadescription="Aflac is an American insurance company that provides supplemental health and life insurance products to individuals and businesses." />
 ===Introduction to Aflac===
 
 Aflac is an American insurance company that provides supplemental health and [[Life Insurance|life insurance]] products to individuals and businesses. Founded in 1955, Aflac is one of the largest insurance companies in the United States and is a Fortune 500 company. Aflac is headquartered in Columbus, Georgia and has operations in Japan, the United States, and Puerto Rico. The company is best known for its iconic duck mascot, which has been featured in numerous television commercials and other marketing campaigns.

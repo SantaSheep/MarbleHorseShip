@@ -1,4 +1,4 @@
-<seo title="Overhead Rate" metakeywords="overhead rate business,costs overhead rate,overhead rate,overhead rate typically" metadescription="Overhead rate is the total cost of running a business, including all expenses related to the operation of the business."/>
+<seo title="Overhead Rate" metakeywords="overhead rate business,costs overhead rate,overhead rate,overhead rate typically" metadescription="Overhead rate is the total cost of running a business, including all expenses related to the operation of the business." />
 ===Introduction to Overhead Rate===
 
 Overhead rate is a term used to describe the cost of running a business. It is the total cost of running a business, including all expenses related to the operation of the business, such as rent, utilities, insurance, and other administrative costs. Overhead rate is typically expressed as a percentage of total sales or total expenses. It is important to understand the overhead rate of a business in order to accurately assess the profitability of the business.

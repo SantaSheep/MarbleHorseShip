@@ -1,4 +1,4 @@
-<seo title="Accrued Interest" metakeywords="understand accrued,definition accrued accrued,understand accrued calculated,financial instrument accrued" metadescription="Accrued interest is the interest that has been earned but not yet paid."/>
+<seo title="Accrued Interest" metakeywords="understand accrued,definition accrued accrued,understand accrued calculated,financial instrument accrued" metadescription="Accrued interest is the interest that has been earned but not yet paid." />
 ===Introduction to Accrued Interest===
 
 Accrued interest is a type of interest that accumulates over time on a loan or other [[Financial Instrument|financial instrument]]. It is the interest that has been earned but not yet paid. Accrued interest is an important concept in finance and accounting, as it affects the value of a loan or other financial instrument. It is also important to understand how accrued interest is calculated, as this can have a significant impact on the total cost of a loan or other financial instrument.

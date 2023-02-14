@@ -1,4 +1,4 @@
-<seo title="Bollinger Bands" metakeywords="bollinger bands used,bollinger bands technical,advantage bollinger bands,developed bollinger bands" metadescription="Bollinger Bands consist of three lines: an upper band, a lower band, and a middle line."/>
+<seo title="Bollinger Bands" metakeywords="bollinger bands used,bollinger bands technical,advantage bollinger bands,developed bollinger bands" metadescription="Bollinger Bands consist of three lines: an upper band, a lower band, and a middle line." />
 ===Introduction to Bollinger Bands===
 
 Bollinger Bands are a [[Technical Analysis|technical analysis]] tool developed by John Bollinger in the 1980s. They are used to measure the volatility of a security and to identify potential trading opportunities. Bollinger Bands consist of three lines: an upper band, a lower band, and a middle line. The middle line is a simple [[Moving Average|moving average]] (SMA) of the security's price, while the upper and lower bands are two [[Standard Deviation|standard deviation]]s away from the SMA. The bands expand and contract as the security's volatility increases and decreases.

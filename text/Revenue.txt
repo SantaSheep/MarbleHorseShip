@@ -1,4 +1,4 @@
-<seo title="Revenue" metakeywords="recognizing revenue,revenue income,revenue revenue income,types revenue revenue" metadescription="Revenue is the income generated from the sale of goods or services, or any other form of exchange."/>
+<seo title="Revenue" metakeywords="recognizing revenue,revenue income,revenue revenue income,types revenue revenue" metadescription="Revenue is the income generated from the sale of goods or services, or any other form of exchange." />
 ===Introduction to Revenue===
 
 Revenue is the income generated from the sale of goods or services, or any other form of exchange. It is the [[Top Line|top line]] or [[Gross Income|gross income]] figure from which costs are subtracted to arrive at [[Net Income|net income]]. Revenue is the total amount of money that a company receives from its customers in exchange for the goods or services it provides. It is the primary source of income for most businesses and is used to pay for operating expenses, taxes, and other costs. Revenue is also used to measure the [[Financial Performance|financial performance]] of a company.

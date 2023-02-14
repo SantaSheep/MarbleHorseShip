@@ -1,4 +1,4 @@
-<seo title="Straight Line Basis" metakeywords="straightlinebasis method accounting,straightlinebasis straightlinebasis used,method depreciation based,straightlinebasis straightlinebasis method" metadescription="Straightlinebasis is a method of accounting for the depreciation of an asset over its useful life."/>
+<seo title="Straight Line Basis" metakeywords="straightlinebasis method accounting,straightlinebasis straightlinebasis used,method depreciation based,straightlinebasis straightlinebasis method" metadescription="Straightlinebasis is a method of accounting for the depreciation of an asset over its useful life." />
 ===Introduction to Straightlinebasis===
 
 Straightlinebasis is a method of accounting for the depreciation of an asset over its [[Useful Life|useful life]]. It is the most commonly used method of depreciation and is based on the assumption that the asset will be used for the same amount of time each year. This method is used to calculate the amount of depreciation that should be taken each year for an asset.

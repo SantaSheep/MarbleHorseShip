@@ -1,4 +1,4 @@
-<seo title="Restricted Stock Unit" metakeywords="restricted stock units,tax implications rsus,rsus generally taxed,shareholders employees rsus" metadescription="Restricted Stock Units (RSUs) are a type of equity compensation used by companies to reward employees."/>
+<seo title="Restricted Stock Unit" metakeywords="restricted stock units,tax implications rsus,rsus generally taxed,shareholders employees rsus" metadescription="Restricted Stock Units (RSUs) are a type of equity compensation used by companies to reward employees." />
 ===Introduction to Restricted Stock Units===
 
 Restricted Stock Units (RSUs) are a type of equity compensation used by companies to reward employees. RSUs are a form of stock-based compensation that is granted to employees in exchange for their services. Unlike [[Stock Option|stock option]]s, which give employees the right to purchase shares of the company’s stock at a predetermined price, RSUs are actual shares of the company’s stock that are granted to employees. The shares are “restricted” in the sense that they cannot be sold or transferred until certain conditions are met.

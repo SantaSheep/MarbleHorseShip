@@ -1,4 +1,4 @@
-<seo title="Growth Rates" metakeywords="rates growth rates,real growth rates,growth rates growth,growth rates measure" metadescription="Growth rates are a measure of the rate of change in a given variable over a period of time."/>
+<seo title="Growth Rates" metakeywords="rates growth rates,real growth rates,growth rates growth,growth rates measure" metadescription="Growth rates are a measure of the rate of change in a given variable over a period of time." />
 ===Introduction to Growth Rates===
 
 Growth rates are a measure of the rate of change in a given variable over a period of time. They are used to measure the rate of change in a variety of economic and financial indicators, such as GDP, inflation, unemployment, and stock prices. Growth rates are important for understanding the performance of an economy or a company, and can be used to make predictions about future performance.

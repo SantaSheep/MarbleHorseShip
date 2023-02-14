@@ -1,4 +1,4 @@
-<seo title="Startup" metakeywords="startups characterized,startups typically funded,funding startups,startups require funding" metadescription="A startup is a business venture that is typically in its early stages of development."/>
+<seo title="Startup" metakeywords="startups characterized,startups typically funded,funding startups,startups require funding" metadescription="A startup is a business venture that is typically in its early stages of development." />
 ===Introduction to Startup===
 
 A startup is a business venture that is typically in its early stages of development. It is usually founded by one or more entrepreneurs who have a vision of creating a new product or service that will be successful in the marketplace. Startups are often characterized by their innovative approach to problem solving and their willingness to take risks. Startups are typically funded by [[Venture Capital|venture capital]], [[Angel Investor|angel investor]]s, or other sources of capital.

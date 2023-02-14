@@ -1,4 +1,4 @@
-<seo title="Nonrenewable Resource" metakeywords="introduction nonrenewable resources,nonrenewable resources natural,nonrenewable resources,impact nonrenewable resources" metadescription="Nonrenewable resources are natural resources that are finite and cannot be replenished in a short period of time."/>
+<seo title="Nonrenewable Resource" metakeywords="introduction nonrenewable resources,nonrenewable resources natural,nonrenewable resources,impact nonrenewable resources" metadescription="Nonrenewable resources are natural resources that are finite and cannot be replenished in a short period of time." />
 ===Introduction to Nonrenewable Resources===
 
 Nonrenewable resources are natural resources that are finite and cannot be replenished in a short period of time. These resources are typically used to produce energy, such as oil, coal, and natural gas. Nonrenewable resources are essential to the global economy, but their use has significant environmental and economic impacts.

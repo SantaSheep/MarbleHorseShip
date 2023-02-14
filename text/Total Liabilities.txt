@@ -1,4 +1,4 @@
-<seo title="Total Liabilities" metakeywords="examples total liabilities,liabilities examples total,total liabilities examples,introduction total liabilities" metadescription="Total liabilities are a financial term used to describe the total amount of debt and other obligations that a company or individual owes to creditors."/>
+<seo title="Total Liabilities" metakeywords="examples total liabilities,liabilities examples total,total liabilities examples,introduction total liabilities" metadescription="Total liabilities are a financial term used to describe the total amount of debt and other obligations that a company or individual owes to creditors." />
 ===Introduction to Total Liabilities===
 
 Total liabilities are a financial term used to describe the total amount of debt and other obligations that a company or individual owes to creditors. It is an important concept in accounting and finance, as it provides a snapshot of the financial health of a company or individual. Total liabilities are typically reported on a company's [[Balance Sheet|balance sheet]], and are used to calculate a company's [[Net Worth|net worth]].

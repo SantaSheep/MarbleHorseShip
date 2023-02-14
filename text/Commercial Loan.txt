@@ -1,4 +1,4 @@
-<seo title="Commercial Loan" metakeywords="commercial loan type,introduction commercial loans,commercial loans typically,types commercial loans" metadescription="Commercial loans are typically used to purchase real estate, equipment, or to finance the expansion of a business."/>
+<seo title="Commercial Loan" metakeywords="commercial loan type,introduction commercial loans,commercial loans typically,types commercial loans" metadescription="Commercial loans are typically used to purchase real estate, equipment, or to finance the expansion of a business." />
 ===Introduction to Commercial Loans===
 
 A commercial loan is a type of loan that is used to finance a business or commercial venture. Commercial loans are typically used to purchase [[Real Estate|real estate]], equipment, or to finance the expansion of a business. Commercial loans are typically provided by banks, credit unions, and other [[Financial Institution|financial institution]]s. Commercial loans are typically secured by collateral, such as real estate, inventory, or other assets.

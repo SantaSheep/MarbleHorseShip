@@ -1,4 +1,4 @@
-<seo title="Iqvia" metakeywords="healthcare industry iqvia,iqvia works healthcare,industry iqvia provides,services offered iqvia" metadescription="IQVIA is a leading global provider of healthcare information, technology, and services."/>
+<seo title="Iqvia" metakeywords="healthcare industry iqvia,iqvia works healthcare,industry iqvia provides,services offered iqvia" metadescription="IQVIA is a leading global provider of healthcare information, technology, and services." />
 ===Introduction to IQVIA===
 
 IQVIA is a leading global provider of healthcare information, technology, and services. The company was founded in 1952 as IMS Health, and has since grown to become a leader in the healthcare industry. IQVIA provides a wide range of services, including data and analytics, consulting, technology, and outsourcing solutions. IQVIA works with healthcare organizations, pharmaceutical companies, and other healthcare stakeholders to improve patient outcomes and reduce healthcare costs. IQVIA is headquartered in Danbury, Connecticut, and has offices in more than 100 countries around the world.

@@ -1,4 +1,4 @@
-<seo title="Restricted Cash" metakeywords="disadvantages restricted cash,restricted cash accounting,restricted cash examples,cash restricted cash" metadescription="Restricted cash is a type of asset that is not included in the company’s cash balance on the balance sheet."/>
+<seo title="Restricted Cash" metakeywords="disadvantages restricted cash,restricted cash accounting,restricted cash examples,cash restricted cash" metadescription="Restricted cash is a type of asset that is not included in the company’s cash balance on the balance sheet." />
 ===Introduction to Restricted Cash===
 
 Restricted cash is a term used to describe cash that is held in reserve for a specific purpose and is not available for general use. It is a type of asset that is not included in the company’s cash balance on the [[Balance Sheet|balance sheet]]. Restricted cash is typically held in a separate account and is not available for use until the specific purpose for which it was set aside has been met.

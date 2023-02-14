@@ -1,4 +1,4 @@
-<seo title="Joint Probability" metakeywords="joint probability concept,joint probability portfolio,finance joint probability,joint probability financial" metadescription="Joint probability is a concept in probability theory that describes the probability of two or more events occurring simultaneously."/>
+<seo title="Joint Probability" metakeywords="joint probability concept,joint probability portfolio,finance joint probability,joint probability financial" metadescription="Joint probability is a concept in probability theory that describes the probability of two or more events occurring simultaneously." />
 ===Introduction to Joint Probability===
 
 Joint probability is a concept in probability theory that describes the probability of two or more events occurring simultaneously. It is a measure of the likelihood that two or more events will occur together. Joint probability is used in many areas of mathematics, including finance, economics, and statistics. In finance, joint probability is used to assess the risk associated with investments and to optimize portfolios.

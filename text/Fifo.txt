@@ -1,4 +1,4 @@
-<seo title="Fifo" metakeywords="fifo accounting method,fifo accounting,fifo fifo accounting,fifo acronym accounting" metadescription="FIFO is a method of inventory valuation that assumes that the oldest items in inventory are the first to be sold."/>
+<seo title="Fifo" metakeywords="fifo accounting method,fifo accounting,fifo fifo accounting,fifo acronym accounting" metadescription="FIFO is a method of inventory valuation that assumes that the oldest items in inventory are the first to be sold." />
 ===Introduction to Fifo===
 
 First in, first out (FIFO) is an [[Accounting Method|accounting method]] used to record and track the flow of inventory and costs associated with the inventory. It is a method of inventory valuation that assumes that the oldest items in inventory are the first to be sold. FIFO is one of the most commonly used inventory valuation methods, and is used by many businesses to accurately track their inventory and costs.

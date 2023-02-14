@@ -1,4 +1,4 @@
-<seo title="Simple Interest" metakeywords="loan calculating simple,loan calculating,loan outstanding simple,calculate loan" metadescription="Simple interest is a type of interest calculation that is used to calculate the amount of interest that is due on a loan or other type of debt."/>
+<seo title="Simple Interest" metakeywords="loan calculating simple,loan calculating,loan outstanding simple,calculate loan" metadescription="Simple interest is a type of interest calculation that is used to calculate the amount of interest that is due on a loan or other type of debt." />
 ===Introduction to Simple Interest===
 
 Simple interest is a type of interest calculation that is used to calculate the amount of interest that is due on a loan or other type of debt. It is calculated by multiplying the principal amount of the loan by the [[Interest Rate|interest rate]] and the length of time the loan is outstanding. Simple interest is different from [[Compound Interest|compound interest]], which is calculated by taking into account the interest that has already been earned on the loan.

@@ -1,4 +1,4 @@
-<seo title="Monopolistic Market" metakeywords="characteristics monopolistic market,disadvantages monopolistic market,disadvantages monopolistic,monopolistic markets characterized" metadescription="A monopolistic market is a market structure in which there is only one seller of a particular good or service."/>
+<seo title="Monopolistic Market" metakeywords="characteristics monopolistic market,disadvantages monopolistic market,disadvantages monopolistic,monopolistic markets characterized" metadescription="A monopolistic market is a market structure in which there is only one seller of a particular good or service." />
 ===Introduction to Monopolistic Market===
 
 A monopolistic market is a market structure in which there is only one seller of a particular good or service. This type of market structure is characterized by a single firm dominating the market, with no close substitutes for the product or service being offered. The firm is able to set prices and control the quantity of the product or service that is produced. Monopolistic markets are often seen in industries where there are high barriers to entry, such as in the telecommunications industry.

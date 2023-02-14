@@ -1,4 +1,4 @@
-<seo title="Current Account Deficit" metakeywords="current account deficits,current account deficit,deficit current account,account deficits" metadescription="A current account deficit is a situation in which a country’s imports of goods and services exceed its exports."/>
+<seo title="Current Account Deficit" metakeywords="current account deficits,current account deficit,deficit current account,account deficits" metadescription="A current account deficit is a situation in which a country’s imports of goods and services exceed its exports." />
 ===Introduction to Current Account Deficit===
 
 A [[Curren[[T Account|t Account]]|current account]] deficit is a situation in which a country’s imports of goods and services exceed its exports. This means that the country is spending more money on foreign goods and services than it is receiving from foreign sales. A current account deficit is also known as a trade deficit. It is an important indicator of a country’s economic health and can have a significant impact on its currency [[Exchange Rate|exchange rate]].

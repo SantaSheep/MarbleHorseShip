@@ -1,4 +1,4 @@
-<seo title="Goldman Sachs" metakeywords="history goldman sachs,financial industry goldman,goldman sachs business,goldman sachs founded" metadescription="Goldman Sachs is a leading global investment banking, securities and investment management firm."/>
+<seo title="Goldman Sachs" metakeywords="history goldman sachs,financial industry goldman,goldman sachs business,goldman sachs founded" metadescription="Goldman Sachs is a leading global investment banking, securities and investment management firm." />
 ===Introduction to Goldman Sachs===
 
 Goldman Sachs is a leading global [[Investment Banking|investment banking]], securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, [[Financial Institution|financial institution]]s, governments and individuals. Founded in 1869, Goldman Sachs is one of the oldest and most respected financial institutions in the world. The firm is headquartered in New York City and has offices in major financial centers around the world. Goldman Sachs is a publicly traded company listed on the New York Stock Exchange (NYSE: GS).

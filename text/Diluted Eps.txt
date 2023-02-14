@@ -1,4 +1,4 @@
-<seo title="Diluted Eps" metakeywords="eps diluted earnings,diluted eps financial,shares diluted eps,diluted earnings" metadescription="Diluted EPS is a financial metric used to measure the profitability of a company."/>
+<seo title="Diluted Eps" metakeywords="eps diluted earnings,diluted eps financial,shares diluted eps,diluted earnings" metadescription="Diluted EPS is a financial metric used to measure the profitability of a company." />
 ===Introduction to Diluted EPS===
 
 Diluted EPS, or diluted earnings per share, is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s [[Net Income|net income]] by the number of shares outstanding, including both common and preferred shares. Diluted EPS is a more accurate measure of a company’s profitability than basic EPS, as it takes into account the potential dilution of earnings that could occur if certain securities, such as options and convertible bonds, are exercised.

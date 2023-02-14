@@ -1,4 +1,4 @@
-<seo title="Average Daily Rate" metakeywords="daily rate adr,rate average daily,daily rate average,hotel adr increases" metadescription="Average Daily Rate (ADR) is a key metric used in the hospitality industry to measure the performance of a hotel or other lodging facility."/>
+<seo title="Average Daily Rate" metakeywords="daily rate adr,rate average daily,daily rate average,hotel adr increases" metadescription="Average Daily Rate (ADR) is a key metric used in the hospitality industry to measure the performance of a hotel or other lodging facility." />
 ===Introduction to Average Daily Rate===
 
 Average Daily Rate (ADR) is a key metric used in the hospitality industry to measure the performance of a hotel or other lodging facility. It is a measure of the average rate paid for a room per night, and is used to compare the performance of different hotels and to track the performance of a single hotel over time. ADR is an important indicator of a hotel's financial health, as it is a measure of the amount of revenue generated per room.

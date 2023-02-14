@@ -1,4 +1,4 @@
-<seo title="Weighted Average" metakeywords="weighted average useful,weighted average used,average calculation weighted,weighted average calculation" metadescription="Weighted average is a calculation used to determine the average of a set of numbers."/>
+<seo title="Weighted Average" metakeywords="weighted average useful,weighted average used,average calculation weighted,weighted average calculation" metadescription="Weighted average is a calculation used to determine the average of a set of numbers." />
 ===Introduction to Weighted Average===
 
 Weighted average is a calculation used to determine the average of a set of numbers, where each number is assigned a different weight. This method of calculation is used in many different fields, including finance, economics, and statistics. Weighted average is a useful tool for analyzing data and making decisions based on the results.

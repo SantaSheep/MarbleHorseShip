@@ -1,4 +1,4 @@
-<seo title="Cme Group" metakeywords="mercantile exchange cme,chicago mercantile exchange,exchange cme,cme group provides" metadescription="CME Group was founded in 1898 as the Chicago Butter and Egg Board."/>
+<seo title="Cme Group" metakeywords="mercantile exchange cme,chicago mercantile exchange,exchange cme,cme group provides" metadescription="CME Group was founded in 1898 as the Chicago Butter and Egg Board." />
 ===Introduction to Cme Group===
 
 CME Group is a global [[Financial Market|financial market]]s company that operates the world’s largest derivatives marketplace. It is the world’s leading and most diverse derivatives marketplace, offering the widest range of futures and options products for [[Risk Management|risk management]]. CME Group provides products and services to customers in more than 100 countries around the world. It is headquartered in Chicago, Illinois, and is listed on the New York Stock Exchange.

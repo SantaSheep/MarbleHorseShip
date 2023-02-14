@@ -1,4 +1,4 @@
-<seo title="Pipe" metakeywords="pipe financial term,pipe financial structure,pipes uses,different types pipe" metadescription="Pipe is a financial term used to describe a type of investment structure that is used to facilitate the transfer of funds between two or more parties."/>
+<seo title="Pipe" metakeywords="pipe financial term,pipe financial structure,pipes uses,different types pipe" metadescription="Pipe is a financial term used to describe a type of investment structure that is used to facilitate the transfer of funds between two or more parties." />
 ===Introduction to Pipe===
 
 Pipe is a financial term used to describe a type of investment structure that is used to facilitate the transfer of funds between two or more parties. It is a common tool used by [[Financial Institution|financial institution]]s, such as banks, to facilitate the transfer of funds between different entities. The term is derived from the fact that the structure of the investment resembles a pipe, with the funds flowing through it from one party to another.

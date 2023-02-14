@@ -1,4 +1,4 @@
-<seo title="Earnings Yield" metakeywords="earnings yield useful,earnings yield used,earnings yield eps,earnings yield financial" metadescription="Earnings yield is a financial metric used to measure the profitability of a company."/>
+<seo title="Earnings Yield" metakeywords="earnings yield useful,earnings yield used,earnings yield eps,earnings yield financial" metadescription="Earnings yield is a financial metric used to measure the profitability of a company." />
 ===Introduction to Earnings Yield===
 
 Earnings yield is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s earnings per share (EPS) by its current market price per share. The earnings yield is expressed as a percentage and is used to compare the profitability of different companies or to compare the profitability of a company over time.

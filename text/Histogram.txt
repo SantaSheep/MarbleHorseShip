@@ -1,4 +1,4 @@
-<seo title="Histogram" metakeywords="data histograms used,histograms histograms advantages,data histograms,histograms used" metadescription="A histogram is a graphical representation of data that is used to show the distribution of a set of data."/>
+<seo title="Histogram" metakeywords="data histograms used,histograms histograms advantages,data histograms,histograms used" metadescription="A histogram is a graphical representation of data that is used to show the distribution of a set of data." />
 ===Introduction to Histogram===
 
 A histogram is a graphical representation of data that is used to show the distribution of a set of data. It is a type of bar chart that displays the frequency of occurrence of a particular value or range of values in a given data set. Histograms are used to show the distribution of data in a visual way, and can be used to compare different data sets. Histograms are also used to identify trends and patterns in data.

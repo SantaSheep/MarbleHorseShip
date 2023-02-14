@@ -1,4 +1,4 @@
-<seo title="Dexcom" metakeywords="diabetes 2006 dexcom,glucose monitoring systems,dexcom medical device,glucose monitoring" metadescription="Dexcom is a medical device company that specializes in the development and commercialization of continuous glucose monitoring (CGM) systems."/>
+<seo title="Dexcom" metakeywords="diabetes 2006 dexcom,glucose monitoring systems,dexcom medical device,glucose monitoring" metadescription="Dexcom is a medical device company that specializes in the development and commercialization of continuous glucose monitoring (CGM) systems." />
 ===Introduction to Dexcom===
 
 Dexcom is a medical device company that specializes in the development and commercialization of continuous glucose monitoring (CGM) systems. The company was founded in 1999 and is headquartered in San Diego, California. Dexcom’s mission is to improve the lives of people with diabetes by providing innovative, easy-to-use, and accurate glucose monitoring systems. Dexcom’s products are designed to help people with diabetes better manage their condition and improve their quality of life.

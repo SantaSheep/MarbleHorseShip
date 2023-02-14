@@ -1,4 +1,4 @@
-<seo title="Alpha" metakeywords="portfolios calculating alpha,alpha portfolio means,portfolio definition alpha,alpha measure portfolio" metadescription="Alpha is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index."/>
+<seo title="Alpha" metakeywords="portfolios calculating alpha,alpha portfolio means,portfolio definition alpha,alpha measure portfolio" metadescription="Alpha is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index." />
 ===Introduction to Alpha===
 
 Alpha is a measure of a portfolio’s performance relative to a benchmark index. It is used to measure the [[Excess Return|excess return]] of a portfolio over the return of a benchmark index. Alpha is a measure of the active return of a portfolio, which is the return in excess of the return of the benchmark index. Alpha is an important measure of a portfolio manager’s skill in selecting investments and managing a portfolio.

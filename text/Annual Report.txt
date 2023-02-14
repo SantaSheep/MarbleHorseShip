@@ -1,4 +1,4 @@
-<seo title="Annual Report" metakeywords="annual reports important,annual report typically,types annual reports,report annual reports" metadescription="An annual report is a comprehensive report on a company's activities throughout the preceding year."/>
+<seo title="Annual Report" metakeywords="annual reports important,annual report typically,types annual reports,report annual reports" metadescription="An annual report is a comprehensive report on a company's activities throughout the preceding year." />
 ===Introduction to Annual Reports===
 
 An annual report is a comprehensive report on a company's activities throughout the preceding year. It is an official document that outlines the [[Financial Performance|financial performance]] and activities of a company during the year. It is typically released by publicly traded companies to shareholders and other stakeholders. The report includes [[Financial Statements|financial statements]], management discussion and analysis, and other information about the company's performance. It is an important document for investors, as it provides insight into the company's financial health and operations.

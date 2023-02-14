@@ -1,4 +1,4 @@
-<seo title="Porter Diamond" metakeywords="competitive advantage nations,nation competitive advantage,competitive advantage nation,competitive advantage factors" metadescription="The Porter Diamond is a model developed by Michael Porter in 1990 to explain the competitive advantage of nations in international trade."/>
+<seo title="Porter Diamond" metakeywords="competitive advantage nations,nation competitive advantage,competitive advantage nation,competitive advantage factors" metadescription="The Porter Diamond is a model developed by Michael Porter in 1990 to explain the competitive advantage of nations in international trade." />
 ===Introduction to Porter Diamond===
 
 The Porter Diamond is a model developed by Michael Porter in 1990 to explain the competitive advantage of nations in international trade. The model is based on the idea that the competitive advantage of a nation is determined by four main factors: factor conditions, demand conditions, related and supporting industries, and firm strategy, structure, and rivalry. The model suggests that these four factors interact and influence each other in order to create a competitive advantage.

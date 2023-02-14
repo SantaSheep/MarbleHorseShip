@@ -1,4 +1,4 @@
-<seo title="Open Interest" metakeywords="market definition openinterest,market openinterest,market openinterest used,market openinterest important" metadescription="Openinterest is a financial term that is used to describe the total number of outstanding contracts in a given market."/>
+<seo title="Open Interest" metakeywords="market definition openinterest,market openinterest,market openinterest used,market openinterest important" metadescription="Openinterest is a financial term that is used to describe the total number of outstanding contracts in a given market." />
 ===Introduction to Openinterest===
 
 Openinterest is a financial term that is used to describe the total number of outstanding contracts in a given market. It is a measure of the liquidity of a market and is used to gauge the level of activity in a particular market. Openinterest is an important indicator for traders and investors as it can provide insight into the direction of the market and the level of activity in a particular market.

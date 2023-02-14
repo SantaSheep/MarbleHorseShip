@@ -1,4 +1,4 @@
-<seo title="Efficient Market Hypothesis" metakeywords="efficient market hypothesis,market hypothesis efficient,stock market efficiency,market hypothesis emh" metadescription="The Efficient Market Hypothesis was first proposed by Eugene Fama in 1965."/>
+<seo title="Efficient Market Hypothesis" metakeywords="efficient market hypothesis,market hypothesis efficient,stock market efficiency,market hypothesis emh" metadescription="The Efficient Market Hypothesis was first proposed by Eugene Fama in 1965." />
 ===Introduction to the Efficient Market Hypothesis===
 
 The Efficient Market Hypothesis (EMH) is an investment theory that states that it is impossible to “beat the market” because [[Stock Market|stock market]] efficiency causes existing share prices to always incorporate and reflect all relevant information. The EMH suggests that it is impossible to outperform the overall market through expert stock selection or market timing, and that the only way an investor can obtain higher returns is by purchasing riskier investments.

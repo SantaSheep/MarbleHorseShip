@@ -1,4 +1,4 @@
-<seo title="Gartner" metakeywords="gartner company initially,gartner company,gartner business model,gartner business" metadescription="Gartner is a leading research and advisory company that provides insights, advice, and tools to help business and IT leaders make the right decisions."/>
+<seo title="Gartner" metakeywords="gartner company initially,gartner company,gartner business model,gartner business" metadescription="Gartner is a leading research and advisory company that provides insights, advice, and tools to help business and IT leaders make the right decisions." />
 ===Introduction to Gartner===
 
 Gartner is a leading research and advisory company that provides insights, advice, and tools to help business and IT leaders make the right decisions. Founded in 1979, Gartner has grown to become a global leader in providing technology-related research and advice to organizations of all sizes. Gartner’s services include research, consulting, events, and training. Gartner’s clients include Fortune 500 companies, government agencies, and small and medium-sized businesses.

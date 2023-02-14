@@ -1,4 +1,4 @@
-<seo title="T Account" metakeywords="account type accounting,finances examples accounts,transactions example account,definition account" metadescription="A T Account is an accounting tool used to track the flow of money in and out of a business.It is a visual representation of a company's financial transactions."/>
+<seo title="T Account" metakeywords="account type accounting,finances examples accounts,transactions example account,definition account" metadescription="A T Account is an accounting tool used to track the flow of money in and out of a business.It is a visual representation of a company's financial transactions." />
 ===Introduction to T Account===
 
 A T Account is a type of accounting tool used to track the flow of money in and out of a business. It is a visual representation of a company's financial transactions, and is used to help keep track of the company's financial health. The T Account is a simple and effective way to track the financial activity of a business, and is used by many businesses to help them make informed decisions about their finances.

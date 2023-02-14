@@ -1,4 +1,4 @@
-<seo title="Fam A And French Three Factor Model" metakeywords="factor model financial,french factor model,factor model fama,factors market risk" metadescription="The Fama-French Three Factor Model was developed by Eugene Fama and Kenneth French in 1992.It is used to explain the behavior of stock returns."/>
+<seo title="Fam A And French Three Factor Model" metakeywords="factor model financial,french factor model,factor model fama,factors market risk" metadescription="The Fama-French Three Factor Model was developed by Eugene Fama and Kenneth French in 1992.It is used to explain the behavior of stock returns." />
 ===Introduction to the Fama-French Three Factor Model===
 
 The Fama-French Three Factor Model is a financial model developed by Eugene Fama and Kenneth French in 1992. It is a widely used model in the field of finance and is used to explain the behavior of stock returns. The model is based on the idea that stock returns are determined by three factors: market risk, size risk, and value risk. The model has been widely accepted by the financial community and is used to explain the behavior of stock returns.

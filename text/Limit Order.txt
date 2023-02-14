@@ -1,4 +1,4 @@
-<seo title="Limit Order" metakeywords="buy limit orders,risks limit orders,limit orders buy,limit orders useful" metadescription=" limit orders are used to control the price at which an order is executed.They are commonly used by investors who want to buy or sell a security at a specific price or better."/>
+<seo title="Limit Order" metakeywords="buy limit orders,risks limit orders,limit orders buy,limit orders useful" metadescription=" limit orders are used to control the price at which an order is executed.They are commonly used by investors who want to buy or sell a security at a specific price or better." />
 ===Introduction to Limit Order===
 
 A limit order is an order placed with a broker to buy or sell a security at a specified price or better. Limit orders are used to control the price at which an order is executed. They are commonly used by investors who want to buy or sell a security at a specific price or better. Limit orders can be used to protect profits, limit losses, or to take advantage of price movements.

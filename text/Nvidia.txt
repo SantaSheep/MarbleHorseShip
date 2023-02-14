@@ -1,4 +1,4 @@
-<seo title="Nvidia" metakeywords="gaming industry nvidia,nvidia successful companies,industry nvidia,introduction nvidia" metadescription="N Nvidia was founded in 1993 by Jen-Hsun Huang, Curtis Priem, and Chris Malachowsky."/>
+<seo title="Nvidia" metakeywords="gaming industry nvidia,nvidia successful companies,industry nvidia,introduction nvidia" metadescription="N Nvidia was founded in 1993 by Jen-Hsun Huang, Curtis Priem, and Chris Malachowsky." />
 ===Introduction to Nvidia===
 
 Nvidia is a global leader in visual computing technologies and the inventor of the GPU, or graphics processing unit. Founded in 1993, Nvidia has become one of the most successful companies in the technology industry, with a [[Market Capitalization|market capitalization]] of over $100 billion. Nvidia designs and manufactures graphics cards, processors, and other components for the gaming, professional, and consumer markets. The company also provides software and services for gaming, [[Cloud Computing|cloud computing]], and artificial intelligence. Nvidia is headquartered in Santa Clara, California, and has offices in more than 20 countries around the world.

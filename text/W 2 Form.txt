@@ -1,4 +1,4 @@
-<seo title="W 2 Form" metakeywords="filing w2 form,irs filing w2,form filing w2,w2 form filing" metadescription="The W2 form is an important document used by employers to report wages and taxes withheld from an employee’s paycheck."/>
+<seo title="W 2 Form" metakeywords="filing w2 form,irs filing w2,form filing w2,w2 form filing" metadescription="The W2 form is an important document used by employers to report wages and taxes withheld from an employee’s paycheck." />
 ===Introduction to W2 Form===
 
 A W2 form is an important document used by employers to report wages and taxes withheld from an employee’s paycheck. It is also used by the Internal Revenue Service (IRS) to track an employee’s income and taxes paid. The W2 form is an essential part of the tax filing process for both employers and employees.

@@ -1,4 +1,4 @@
-<seo title="Wage Expense" metakeywords="definition wage expense,wage expense cost,example wage expense,wage expense term" metadescription="Wage expense is the cost of labor associated with the production of goods and services."/>
+<seo title="Wage Expense" metakeywords="definition wage expense,wage expense cost,example wage expense,wage expense term" metadescription="Wage expense is the cost of labor associated with the production of goods and services." />
 ===Introduction to Wage Expense===
 
 Wage expense is a term used to describe the [[Cost Of Labor|cost of labor]] associated with the production of goods and services. It is a key component of a company’s operating expenses and is typically the largest expense on the [[Income Statement|income statement]]. Wage expense is a necessary cost of doing business and is typically the largest expense for most companies. It is important for companies to understand the components of wage expense and how it impacts their [[Financial Statements|financial statements]].

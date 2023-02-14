@@ -1,4 +1,4 @@
-<seo title="Residual Value" metakeywords="definition residual value,residual value asset,value residual value,introduction residual value" metadescription="Residual value is a term used in finance to describe the estimated value of an asset at the end of its useful life."/>
+<seo title="Residual Value" metakeywords="definition residual value,residual value asset,value residual value,introduction residual value" metadescription="Residual value is a term used in finance to describe the estimated value of an asset at the end of its useful life." />
 ===Introduction to Residual Value===
 
 Residual value is a term used in finance to describe the estimated value of an asset at the end of its [[Useful Life|useful life]]. It is an important concept for businesses and investors to understand, as it can have a significant impact on the profitability of a project or investment. Residual value is also used to determine the amount of depreciation that should be taken on an asset over its useful life.

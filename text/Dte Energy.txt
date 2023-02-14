@@ -1,4 +1,4 @@
-<seo title="Dte Energy" metakeywords="dte energy operates,utility dte energy,dte energy publicly,dte energy" metadescription="DTE Energy is a Detroit-based energy company that provides electricity and natural gas to millions of customers in Michigan."/>
+<seo title="Dte Energy" metakeywords="dte energy operates,utility dte energy,dte energy publicly,dte energy" metadescription="DTE Energy is a Detroit-based energy company that provides electricity and natural gas to millions of customers in Michigan." />
 ===Introduction to DTE Energy===
 
 DTE Energy is a Detroit-based energy company that provides electricity and natural gas to millions of customers in Michigan. The company is the largest investor-owned utility in Michigan and is the [[Parent Company|parent company]] of Detroit Edison, an electric utility, and MichCon, a natural gas utility. DTE Energy is a publicly traded company on the New York Stock Exchange (NYSE: DTE). The company has a long history of providing reliable energy services to its customers and is committed to providing clean, safe, and affordable energy to its customers.

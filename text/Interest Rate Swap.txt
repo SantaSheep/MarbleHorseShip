@@ -1,4 +1,4 @@
-<seo title="Interest Rate Swap" metakeywords="rate rate swaps,rates rate swaps,swaps financial instruments,rate swaps beneficial" metadescription="Interest rate swaps are financial instruments used to exchange one type of interest rate for another."/>
+<seo title="Interest Rate Swap" metakeywords="rate rate swaps,rates rate swaps,swaps financial instruments,rate swaps beneficial" metadescription="Interest rate swaps are financial instruments used to exchange one type of interest rate for another." />
 ===Introduction to Interest Rate Swaps===
 
 [[Interest Rate|Interest rate]] swaps are [[Financial Instrument|financial instrument]]s used to exchange one type of interest rate for another. They are used to hedge against interest rate risk, to manage [[Cash Flow|cash flow]], and to speculate on the direction of interest rates. Interest rate swaps are a type of derivative, meaning that their value is derived from the underlying asset, which in this case is an interest rate. Interest rate swaps are used by a variety of entities, including corporations, governments, and [[Financial Institution|financial institution]]s.

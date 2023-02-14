@@ -1,4 +1,4 @@
-<seo title="Tether Usd T" metakeywords="cryptocurrencies tether usdt,tether usdt cryptocurrency,blockchain tether usdt,tether usdt stablecoin" metadescription="Tether USDT is a cryptocurrency that is pegged to the US dollar.It is a stablecoin, meaning that its value is tied to the value of the U.S. dollar."/>
+<seo title="Tether Usd T" metakeywords="cryptocurrencies tether usdt,tether usdt cryptocurrency,blockchain tether usdt,tether usdt stablecoin" metadescription="Tether USDT is a cryptocurrency that is pegged to the US dollar.It is a stablecoin, meaning that its value is tied to the value of the U.S. dollar." />
 ===Introduction to Tether USDT===
 
 Tether USDT is a cryptocurrency that is pegged to the US dollar. It is a stablecoin, meaning that its value is tied to the value of the US dollar. Tether USDT is a digital asset that is used to facilitate transactions on the blockchain. It is a decentralized, open-source cryptocurrency that is based on the Ethereum blockchain. Tether USDT is a popular choice for traders and investors who want to hedge against the volatility of other cryptocurrencies.

@@ -1,4 +1,4 @@
-<seo title="One Tailed Test" metakeywords="types tailed tests,tailed tests provide,advantages tailed tests,different tailed test" metadescription="A one-tailed test is a statistical test used to determine the probability of a given outcome."/>
+<seo title="One Tailed Test" metakeywords="types tailed tests,tailed tests provide,advantages tailed tests,different tailed test" metadescription="A one-tailed test is a statistical test used to determine the probability of a given outcome." />
 ===Introduction to One Tailed Test===
 
 A one-tailed test is a statistical test used to determine the probability of a given outcome. It is used to compare two sets of data and determine if one set is significantly different from the other. The one-tailed test is also known as a directional test, as i[[T Test|t test]]s for a specific direction of difference between the two sets of data. The one-tailed test is used in many different fields, including finance, economics, and medicine.

@@ -1,4 +1,4 @@
-<seo title="Arb It Rage" metakeywords="risks arbitrage arbitrage,arbitrage financial term,arbitrage involves,differences arbitrage popular" metadescription="Arbitrage is a financial term that refers to the practice of taking advantage of price discrepancies in different markets to make a profit."/>
+<seo title="Arb It Rage" metakeywords="risks arbitrage arbitrage,arbitrage financial term,arbitrage involves,differences arbitrage popular" metadescription="Arbitrage is a financial term that refers to the practice of taking advantage of price discrepancies in different markets to make a profit." />
 ===Introduction to Arbitrage===
 
 Arbitrage is a financial term that refers to the practice of taking advantage of price discrepancies in different markets to make a profit. It is a form of trading that involves buying and selling assets in different markets to take advantage of price differences. Arbitrage is a popular trading strategy used by investors to capitalize on price discrepancies in different markets.

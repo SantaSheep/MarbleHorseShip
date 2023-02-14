@@ -1,4 +1,4 @@
-<seo title="Intercontinental Exchange" metakeywords="intercontinental exchange ice,ice operates exchanges,history intercontinental exchange,introduction intercontinental exchange" metadescription="Intercontinental Exchange (ICE) is a leading global exchange operator and provider of data, technology, and market infrastructure."/>
+<seo title="Intercontinental Exchange" metakeywords="intercontinental exchange ice,ice operates exchanges,history intercontinental exchange,introduction intercontinental exchange" metadescription="Intercontinental Exchange (ICE) is a leading global exchange operator and provider of data, technology, and market infrastructure." />
 ===Introduction to Intercontinental Exchange===
 
 Intercontinental Exchange (ICE) is a leading global exchange operator and provider of data, technology, and market infrastructure. Founded in 2000, ICE operates exchanges, clearing houses, and data services for financial and commodity markets. ICE is headquartered in Atlanta, Georgia, and has offices in London, New York, Chicago, and Singapore. The company is listed on the New York Stock Exchange (NYSE) and is a component of the S&P 500 index.

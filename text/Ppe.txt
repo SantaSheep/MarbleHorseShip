@@ -1,4 +1,4 @@
-<seo title="Ppe" metakeywords="ppe property plant,ppe recorded asset,equipment ppe term,tangible assets used" metadescription="Property, Plant, and Equipment (PPE) is a term used to describe long-term tangible assets that are used in the production or supply of goods and services."/>
+<seo title="Ppe" metakeywords="ppe property plant,ppe recorded asset,equipment ppe term,tangible assets used" metadescription="Property, Plant, and Equipment (PPE) is a term used to describe long-term tangible assets that are used in the production or supply of goods and services." />
 ===Introduction to PPE===
 
 Property, Plant, and Equipment (PPE) is a term used to describe long-term [[Tangible Asset|tangible asset]]s that are used in the production or supply of goods and services. PPE is a major component of a companyâ€™s [[Balance Sheet|balance sheet]] and is typically the second largest asset category after [[Current Assets|current assets]]. PPE is also known as [[Fixed Asset|fixed asset]]s, tangible assets, or plant and equipment.

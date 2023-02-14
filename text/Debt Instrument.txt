@@ -1,4 +1,4 @@
-<seo title="Debt Instrument" metakeywords="debt instruments typically,debt instruments advantages,introduction debt instruments,disadvantages debt instruments" metadescription="Debt instruments are financial instruments that represent a loan or an obligation to repay a certain amount of money at a specified date in the future."/>
+<seo title="Debt Instrument" metakeywords="debt instruments typically,debt instruments advantages,introduction debt instruments,disadvantages debt instruments" metadescription="Debt instruments are financial instruments that represent a loan or an obligation to repay a certain amount of money at a specified date in the future." />
 ===Introduction to Debt Instruments===
 
 Debt instruments are [[Financial Instrument|financial instrument]]s that represent a loan or an obligation to repay a certain amount of money at a specified date in the future. They are used by governments, corporations, and individuals to raise capital for a variety of purposes. Debt instruments can be either secured or unsecured, and can be traded on the open market. They are also used as collateral for other financial transactions.

@@ -1,4 +1,4 @@
-<seo title="General Ledger" metakeywords="general ledger important,create general ledger,creating general ledger,general ledger creating" metadescription="A general ledger is a record of all financial transactions that occur within a business."/>
+<seo title="General Ledger" metakeywords="general ledger important,create general ledger,creating general ledger,general ledger creating" metadescription="A general ledger is a record of all financial transactions that occur within a business." />
 ===Introduction to General Ledger===
 
 A general ledger is a record of all financial transactions that occur within a business. It is the main accounting record of a company, and it is used to track the [[Financial Performance|financial performance]] of the business. The general ledger is the foundation of the accounting system, and it is used to create [[Financial Statements|financial statements]] and other reports. The general ledger is also used to track the assets, liabilities, and equity of the business.

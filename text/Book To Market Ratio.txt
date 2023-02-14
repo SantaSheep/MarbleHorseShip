@@ -1,4 +1,4 @@
-<seo title="Book To Market Ratio" metakeywords="book market ratio,market ratio book,calculation book market,ratio book market" metadescription="The book-to-market ratio is used to compare the relative value of a company’s stock to its peers.It is also used to identify undervalued stocks that may be good investments."/>
+<seo title="Book To Market Ratio" metakeywords="book market ratio,market ratio book,calculation book market,ratio book market" metadescription="The book-to-market ratio is used to compare the relative value of a company’s stock to its peers.It is also used to identify undervalued stocks that may be good investments." />
 ===Introduction to Book-to-Market Ratio===
 
 The book-to-market ratio (B/) is a financial ratio used to measure the relative value of a company’s stock. It is calculated by dividing the company’s [[Book Value|book value]] (the total value of its assets minus its liabilities) by its market value (the current price of its stock). The book-to-market ratio is used to compare the relative value of a company’s stock to its peers. It is also used to identify undervalued stocks that may be good investments.

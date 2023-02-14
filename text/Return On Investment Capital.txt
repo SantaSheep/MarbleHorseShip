@@ -1,4 +1,4 @@
-<seo title="Return On Investment Capital" metakeywords="investment capital roic,roic financial metric,return investments roic,capital roic useful" metadescription="Return on Investment Capital (ROIC) is a financial metric used to measure the efficiency of a company’s capital investments."/>
+<seo title="Return On Investment Capital" metakeywords="investment capital roic,roic financial metric,return investments roic,capital roic useful" metadescription="Return on Investment Capital (ROIC) is a financial metric used to measure the efficiency of a company’s capital investments." />
 ===Introduction to Return on Investment Capital===
 
 [[Return On Investment|Return on Investment]] Capital (ROIC) is a financial metric used to measure the efficiency of a company’s capital investments. It is a measure of how much profit a company is able to generate from its investments in [[Capital Asset|capital asset]]s. ROIC is an important metric for investors, as it can help them determine the potential return on their investments. ROIC is also used by companies to assess the effectiveness of their capital investments and to make decisions about future investments.

@@ -1,4 +1,4 @@
-<seo title="Book Value" metakeywords="bookvalue financial term,bookvalue company bookvalue,bookvalue financial,equity calculation bookvalue" metadescription="Bookvalue is a financial term used to describe the value of a company’s assets minus its liabilities."/>
+<seo title="Book Value" metakeywords="bookvalue financial term,bookvalue company bookvalue,bookvalue financial,equity calculation bookvalue" metadescription="Bookvalue is a financial term used to describe the value of a company’s assets minus its liabilities." />
 ===Introduction to Bookvalue===
 
 Bookvalue is a financial term used to describe the value of a company’s assets minus its liabilities. It is an important concept in accounting and finance, as it provides a measure of the company’s financial health and can be used to compare the value of a company to its peers. Bookvalue is also used to assess the value of a company’s assets and liabilities in the event of a sale or merger.

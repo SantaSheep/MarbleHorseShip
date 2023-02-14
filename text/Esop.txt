@@ -1,4 +1,4 @@
-<seo title="Esop" metakeywords="esop employee stock,having esop company,employees benefits esops,esops benefits having" metadescription="An Employee Stock Ownership Plan (ESOP) is a type of employee benefit plan that allows employees to become owners of the company they work for."/>
+<seo title="Esop" metakeywords="esop employee stock,having esop company,employees benefits esops,esops benefits having" metadescription="An Employee Stock Ownership Plan (ESOP) is a type of employee benefit plan that allows employees to become owners of the company they work for." />
 ===Introduction to ESOP===
 
 An Employee Stock Ownership Plan (ESOP) is a type of employee benefit plan that allows employees to become owners of the company they work for. ESOPs are designed to give employees a stake in the success of the company, and to provide them with a financial incentive to work hard and contribute to the company’s success. ESOPs are typically funded by the company, and the company’s stock is held in a trust for the benefit of the employees.

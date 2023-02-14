@@ -1,4 +1,4 @@
-<seo title="Microchip Technology" metakeywords="technology microchip,microchip technology offers,microchip technology,offered microchip technology" metadescription="Microchip Technology is a leading provider of microcontroller, analog, and Flash-IP solutions."/>
+<seo title="Microchip Technology" metakeywords="technology microchip,microchip technology offers,microchip technology,offered microchip technology" metadescription="Microchip Technology is a leading provider of microcontroller, analog, and Flash-IP solutions." />
 ===Introduction to Microchip Technology===
 
 Microchip Technology Inc. is a leading provider of microcontroller, analog, and Flash-IP solutions. The company designs, develops, manufactures, and markets a broad range of semiconductor and system solutions for a wide range of embedded control applications. Microchip Technology is headquartered in Chandler, Arizona and has operations in more than 40 countries around the world. The company has a long history of innovation and has been a leader in the semiconductor industry for over 40 years.

@@ -1,4 +1,4 @@
-<seo title="Mlr" metakeywords="losses mlr calculated,measuring mlr,mlr concept,losses mlr" metadescription="Mlr stands for Marginal Loss Ratio, and it is a measure of the efficiency of a power system."/>
+<seo title="Mlr" metakeywords="losses mlr calculated,measuring mlr,mlr concept,losses mlr" metadescription="Mlr stands for Marginal Loss Ratio, and it is a measure of the efficiency of a power system." />
 ===Introduction to Mlr===
 
 Mlr stands for Marginal [[Loss Ratio|Loss Ratio]], and it is a measure of the efficiency of a power system. It is used to determine the amount of energy that is lost due to transmission and distribution losses. The Mlr is calculated by dividing the total energy losses by the total energy generated. The Mlr is an important metric for power system operators, as it helps them to identify areas of inefficiency and to make improvements to the system.

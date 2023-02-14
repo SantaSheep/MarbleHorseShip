@@ -1,4 +1,4 @@
-<seo title="Earnings Power Value" metakeywords="earningspowervalue epv,earningspowervalue epv useful,overview earningspowervalue epv,earningspowervalue epv financial" metadescription="Earningspowervalue (EPV) is a financial metric used to measure the value of a company’s earnings relative to its stock price."/>
+<seo title="Earnings Power Value" metakeywords="earningspowervalue epv,earningspowervalue epv useful,overview earningspowervalue epv,earningspowervalue epv financial" metadescription="Earningspowervalue (EPV) is a financial metric used to measure the value of a company’s earnings relative to its stock price." />
 ===Introduction to Earningspowervalue===
 
 Earningspowervalue (EPV) is a financial metric used to measure the value of a company’s earnings relative to its stock price. It is a measure of the company’s ability to generate returns for its shareholders. EPV is calculated by dividing the company’s earnings per share (EPS) by its stock price. The higher the EPV, the more attractive the company is to investors.

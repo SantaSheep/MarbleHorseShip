@@ -1,4 +1,4 @@
-<seo title="Lratc" metakeywords="investments definition lratc,lratc concept long,lratc concept,history lratc concept" metadescription="Long-Term Rate of Return on Capital is a financial term used to measure the rate of return on an investment over a long period of time."/>
+<seo title="Lratc" metakeywords="investments definition lratc,lratc concept long,lratc concept,history lratc concept" metadescription="Long-Term Rate of Return on Capital is a financial term used to measure the rate of return on an investment over a long period of time." />
 ===Introduction to Lratc===
 
 Lratc, or Long-Term [[Rate Of Return|Rate of Return]] on Capital, is a financial term used to measure the rate of return on an investment over a long period of time. It is a measure of the profitability of an investment and is used to compare different investments and to assess the performance of a portfolio. The long-term rate of return on capital is an important metric for investors, as it can help them make informed decisions about their investments.

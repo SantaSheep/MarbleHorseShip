@@ -1,4 +1,4 @@
-<seo title="Amortization" metakeywords="advantage amortization allows,advantages disadvantages amortization,amortization financial term,amortization main types" metadescription="Amortization is a financial term that refers to the process of spreading out the cost of a loan or other financial obligation over a period of time."/>
+<seo title="Amortization" metakeywords="advantage amortization allows,advantages disadvantages amortization,amortization financial term,amortization main types" metadescription="Amortization is a financial term that refers to the process of spreading out the cost of a loan or other financial obligation over a period of time." />
 ===Introduction to Amortization===
 
 Amortization is a financial term that refers to the process of spreading out the cost of a loan or other financial obligation over a period of time. It is a common practice in the banking and finance industry, and is used to reduce the amount of interest paid on a loan or other financial obligation. Amortization is also used to reduce the amount of taxes owed on a loan or other financial obligation.

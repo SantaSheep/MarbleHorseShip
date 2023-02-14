@@ -1,4 +1,4 @@
-<seo title="American Tower" metakeywords="american tower corporation,american tower business,tower business model,tower corporation atc" metadescription="American Tower is one of the largest owners and operators of communications infrastructure in the world."/>
+<seo title="American Tower" metakeywords="american tower corporation,american tower business,tower business model,tower corporation atc" metadescription="American Tower is one of the largest owners and operators of communications infrastructure in the world." />
 ===Introduction===
 
 American Tower Corporation (ATC) is a leading global independent owner, operator, and developer of wireless and broadcast communications infrastructure. The company owns, operates, and develops multi-tenant communications [[Real Estate|real estate]], including towers, rooftops, distributed antenna systems, and small cell networks. ATC is one of the largest owners and operators of communications infrastructure in the world, with a portfolio of over 170,000 communications sites in the United States, Latin America, and India. ATC is a publicly traded company listed on the New York Stock Exchange (NYSE: AMT).

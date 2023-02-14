@@ -1,4 +1,4 @@
-<seo title="Negative Return" metakeywords="negative return market,negative return strategies,negative return investor,negative return important" metadescription="Negative return is a situation in which an investor has lost money on an investment."/>
+<seo title="Negative Return" metakeywords="negative return market,negative return strategies,negative return investor,negative return important" metadescription="Negative return is a situation in which an investor has lost money on an investment." />
 ===Introduction to Negative Return===
 
 Negative return is a term used to describe a situation in which an investor has lost money on an investment. It is a situation in which the return on an investment is less than the original amount invested. Negative return can occur in any type of investment, including stocks, bonds, [[Mutual Fund|mutual fund]]s, and other investments. Negative return can be caused by a variety of factors, including market volatility, poor investment decisions, and other factors.

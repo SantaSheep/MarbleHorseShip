@@ -1,4 +1,4 @@
-<seo title="Eb It Da Margin" metakeywords="ebitda margin useful,ebitda margin used,ebitda margin,introduction ebitda margin" metadescription="Ebitda Margin is a financial metric used to measure the profitability of a company."/>
+<seo title="Eb It Da Margin" metakeywords="ebitda margin useful,ebitda margin used,ebitda margin,introduction ebitda margin" metadescription="Ebitda Margin is a financial metric used to measure the profitability of a company." />
 ===Introduction to Ebitda Margin===
 
 Ebitda Margin is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its total revenue. The Ebitda Margin is a useful tool for investors and analysts to assess the financial health of a company and compare it to its peers.

@@ -1,4 +1,4 @@
-<seo title="Fortune 100" metakeywords="companies criteria fortune,criteria fortune 100,fortune 100 list,fortune 100 company" metadescription="The Fortune 100 is a list of the top 100 companies in the United States, as ranked by their total revenue.The list is compiled and published annually by Fortune magazine."/>
+<seo title="Fortune 100" metakeywords="companies criteria fortune,criteria fortune 100,fortune 100 list,fortune 100 company" metadescription="The Fortune 100 is a list of the top 100 companies in the United States, as ranked by their total revenue.The list is compiled and published annually by Fortune magazine." />
 ===Introduction to Fortune 100===
 
 The Fortune 100 is a list of the top 100 companies in the United States, as ranked by their total revenue. The list is compiled and published annually by Fortune magazine. The list is widely regarded as a measure of the success and size of the largest American companies. It is also used as a benchmark for the performance of the [[Stock Market|stock market]] and the economy as a whole.

@@ -1,4 +1,4 @@
-<seo title="Private Sector" metakeywords="private sector economy,introduction private sector,private sector important,private sector challenges" metadescription="The private sector is the part of the economy that is owned and operated by individuals or groups of individuals, rather than by the government."/>
+<seo title="Private Sector" metakeywords="private sector economy,introduction private sector,private sector important,private sector challenges" metadescription="The private sector is the part of the economy that is owned and operated by individuals or groups of individuals, rather than by the government." />
 ===Introduction to Private Sector===
 
 The private sector is an important part of the economy, and it is responsible for providing goods and services to consumers. It is made up of businesses that are owned and operated by individuals or groups of individuals, rather than by the government. Private sector businesses can range from small, family-owned businesses to large, [[Multinational Corporation|multinational corporation]]s. Private sector businesses are responsible for creating jobs, generating wealth, and providing goods and services to consumers.

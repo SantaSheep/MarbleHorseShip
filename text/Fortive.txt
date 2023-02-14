@@ -1,4 +1,4 @@
-<seo title="Fortive" metakeywords="fortive products services,fortive business model,fortive publicly traded,fortive founded 1999" metadescription="Fortive is a diversified industrial technology company that designs, manufactures, and services professional and engineered products."/>
+<seo title="Fortive" metakeywords="fortive products services,fortive business model,fortive publicly traded,fortive founded 1999" metadescription="Fortive is a diversified industrial technology company that designs, manufactures, and services professional and engineered products." />
 ===Introduction to Fortive===
 
 Fortive is a diversified industrial technology company that designs, manufactures, and services professional and engineered products, software, and services for a wide range of industries. Founded in 1999, Fortive is headquartered in Everett, Washington and has operations in more than 50 countries. The company has a portfolio of well-known brands, including Fluke, Tektronix, Gilbarco, and Veeder-Root. Fortive is a publicly traded company on the New York Stock Exchange (NYSE: FTV).

@@ -1,4 +1,4 @@
-<seo title="Signature Bank" metakeywords="signature bank founded,introduction signature bank,signature bank,customers signature bank" metadescription="Signature Bank is a full-service commercial bank that provides a wide range of banking services to businesses, entrepreneurs, and individuals."/>
+<seo title="Signature Bank" metakeywords="signature bank founded,introduction signature bank,signature bank,customers signature bank" metadescription="Signature Bank is a full-service commercial bank that provides a wide range of banking services to businesses, entrepreneurs, and individuals." />
 ===Introduction to Signature Bank===
 
 Signature Bank is a full-service [[Commercial Bank|commercial bank]] that provides a wide range of banking services to businesses, entrepreneurs, and individuals. Founded in 2001, Signature Bank is headquartered in New York City and has over 30 branches in the New York metropolitan area. Signature Bank is a publicly traded company and is listed on the NASDAQ stock exchange. Signature Bank is a member of the Federal Deposit Insurance Corporation (FDIC) and is regulated by the Federal Reserve Bank of New York.

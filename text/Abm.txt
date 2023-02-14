@@ -1,4 +1,4 @@
-<seo title="Abm" metakeywords="based management abm,abm management approach,introduction abm activity,management abm management" metadescription="Activity-based management (ABM) is a management approach that focuses on activities within an organization."/>
+<seo title="Abm" metakeywords="based management abm,abm management approach,introduction abm activity,management abm management" metadescription="Activity-based management (ABM) is a management approach that focuses on activities within an organization." />
 ===Introduction to Abm===
 
 Activity-based management (ABM) is a management approach that focuses on activities within an organization to improve the efficiency and effectiveness of the organization. It is a process that helps organizations identify, measure, and manage activities that are essential to the success of the organization. ABM is used to identify and eliminate non-value-added activities, improve the efficiency of existing activities, and create new activities that will add value to the organization. ABM is a comprehensive approach to managing an organization's resources and activities to achieve its goals.

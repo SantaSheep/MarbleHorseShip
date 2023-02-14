@@ -1,4 +1,4 @@
-<seo title="Bank Reconciliation" metakeywords="bank reconciliation important,introduction bank reconciliation,bank reconciliation involves,statement bank reconciliation" metadescription="Bank reconciliation is a process used to compare a company’s bank statement with its internal financial records."/>
+<seo title="Bank Reconciliation" metakeywords="bank reconciliation important,introduction bank reconciliation,bank reconciliation involves,statement bank reconciliation" metadescription="Bank reconciliation is a process used to compare a company’s bank statement with its internal financial records." />
 ===Introduction to Bank Reconciliation===
 
 Bank reconciliation is a process used to compare a company’s [[Bank Statement|bank statement]] with its internal financial records. This process is used to ensure that the company’s financial records are accurate and up to date. Bank reconciliation is an important part of the accounting process and is used to identify any discrepancies between the two sets of records.

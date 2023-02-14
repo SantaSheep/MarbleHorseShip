@@ -1,4 +1,4 @@
-<seo title="Carbon Credit" metakeywords="carbon credit concept,introduction carbon credit,concept carbon credits,carbon credits provide" metadescription="Carbon credit is a financial instrument that is used to reduce greenhouse gas emissions."/>
+<seo title="Carbon Credit" metakeywords="carbon credit concept,introduction carbon credit,concept carbon credits,carbon credits provide" metadescription="Carbon credit is a financial instrument that is used to reduce greenhouse gas emissions." />
 ===Introduction to Carbon Credit===
 
 Carbon credit is a [[Financial Instrument|financial instrument]] that is used to reduce greenhouse gas emissions. It is a form of market-based environmental policy that allows companies to purchase and trade carbon credits in order to offset their emissions. Carbon credits are created when a company reduces its emissions below a certain level, and these credits can then be sold to other companies that need to offset their emissions. Carbon credits are a way for companies to reduce their emissions without having to invest in expensive new technologies or processes.

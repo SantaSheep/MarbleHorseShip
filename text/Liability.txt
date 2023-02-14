@@ -1,4 +1,4 @@
-<seo title="Liability" metakeywords="liabilities accounting liabilities,liabilities accounting,understanding liabilities managing,accounting liabilities" metadescription="Liability is a term used in accounting and finance to refer to a company’s financial obligations."/>
+<seo title="Liability" metakeywords="liabilities accounting liabilities,liabilities accounting,understanding liabilities managing,accounting liabilities" metadescription="Liability is a term used in accounting and finance to refer to a company’s financial obligations." />
 ===Introduction to Liability===
 
 Liability is a term used in accounting and finance to refer to a company’s financial obligations. Liabilities are obligations that a company has to pay or provide goods or services to another party. Liabilities can be short-term or long-term, and can be either current or non-current. Liabilities are typically recorded on a company’s [[Balance Sheet|balance sheet]], and are used to measure the financial health of a company.

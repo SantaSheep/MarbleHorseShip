@@ -1,4 +1,4 @@
-<seo title="Unrestricted Net Assets" metakeywords="unrestricted net assets,assets unrestricted net,net assets unrestricted,assets unrestricted" metadescription="Unrestricted net assets are the total assets of an organization that are not restricted for a specific purpose.They include cash, investments, and other liquid assets."/>
+<seo title="Unrestricted Net Assets" metakeywords="unrestricted net assets,assets unrestricted net,net assets unrestricted,assets unrestricted" metadescription="Unrestricted net assets are the total assets of an organization that are not restricted for a specific purpose.They include cash, investments, and other liquid assets." />
 ===Introduction to Unrestricted Net Assets===
 
 Unrestricted net assets are a financial term used to describe the total assets of an organization that are not restricted for a specific purpose. This term is used to measure the financial health of an organization and is an important indicator of the organizationâ€™s ability to meet its financial obligations.

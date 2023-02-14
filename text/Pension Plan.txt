@@ -1,4 +1,4 @@
-<seo title="Pension Plan" metakeywords="advantages pensionplan pension,advantages disadvantages pension,disadvantages pensionplan pension,disadvantages pensionplan" metadescription="A pension plan is a retirement savings plan that is sponsored by an employer or other organization."/>
+<seo title="Pension Plan" metakeywords="advantages pensionplan pension,advantages disadvantages pension,disadvantages pensionplan pension,disadvantages pensionplan" metadescription="A pension plan is a retirement savings plan that is sponsored by an employer or other organization." />
 ===Introduction to Pensionplan===
 
 A pension plan is a retirement savings plan that is sponsored by an employer or other organization. It is designed to provide a steady stream of income to the employee after they retire. The plan is funded by contributions from the employer and/or employee, and the benefits are typically paid out in the form of a lump sum or an annuity. Pension plans can be either defined benefit or defined contribution plans.

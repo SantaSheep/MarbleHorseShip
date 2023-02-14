@@ -1,4 +1,4 @@
-<seo title="Gas E There Um" metakeywords="gas ethereum term,gas ethereum important,introduction gas ethereum,gas ethereum" metadescription="Gas is a unit of measurement used to determine the amount of computational effort required to execute a transaction or smart contract."/>
+<seo title="Gas E There Um" metakeywords="gas ethereum term,gas ethereum important,introduction gas ethereum,gas ethereum" metadescription="Gas is a unit of measurement used to determine the amount of computational effort required to execute a transaction or smart contract." />
 ===Introduction to Gas Ethereum===
 
 Gas Ethereum is a term used to describe the fee associated with executing a transaction on the Ethereum blockchain. It is a unit of measurement used to determine the amount of computational effort required to execute a transaction or smart contract on the Ethereum network. Gas Ethereum is used to incentivize miners to process transactions and to prevent spam on the network. It is also used to pay for the cost of running decentralized applications (dApps) on the Ethereum network.

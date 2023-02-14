@@ -1,4 +1,4 @@
-<seo title="Debtor" metakeywords="treat debtor,debt treat debtor,debtor legally,debt debtor individual" metadescription="Debtors are individuals or entities that owe money to another individual or entity."/>
+<seo title="Debtor" metakeywords="treat debtor,debt treat debtor,debtor legally,debt debtor individual" metadescription="Debtors are individuals or entities that owe money to another individual or entity." />
 ===Introduction to Debtor===
 
 A debtor is an individual or entity that owes money to another individual or entity. The money owed is referred to as a debt. A debtor can be an individual, a business, or a government. A debtor is legally obligated to repay the debt in full or in part, depending on the terms of the agreement. The debtor is also responsible for any interest or fees associated with the debt.

@@ -1,4 +1,4 @@
-<seo title="Intrinsic Value" metakeywords="intrinsic value concept,understanding intrinsic value,intrinsic value used,introduction intrinsic value" metadescription="Intrinsic value is a concept used in finance to describe the value of an asset or security based on its fundamental characteristics."/>
+<seo title="Intrinsic Value" metakeywords="intrinsic value concept,understanding intrinsic value,intrinsic value used,introduction intrinsic value" metadescription="Intrinsic value is a concept used in finance to describe the value of an asset or security based on its fundamental characteristics." />
 ===Introduction to Intrinsic Value===
 
 Intrinsic value is a concept used in finance to describe the value of an asset or security based on its fundamental characteristics. It is a measure of the true worth of an asset or security, and is often used to determine whether an investment is a good one or not. Intrinsic value is often used in conjunction with other financial metrics, such as price-to-earnings ratio, to help investors make informed decisions.

@@ -1,4 +1,4 @@
-<seo title="Apy" metakeywords="apy annual rate,return investment apy,calculated apy,apy calculated apy" metadescription="APY is a measure of the return on an investment over a period of one year.It is used to compare different investments and to determine the rate of return."/>
+<seo title="Apy" metakeywords="apy annual rate,return investment apy,calculated apy,apy calculated apy" metadescription="APY is a measure of the return on an investment over a period of one year.It is used to compare different investments and to determine the rate of return." />
 ===Introduction to APY===
 
 APY stands for Annual Percentage Yield and is a measure of the return on an investment over a period of one year. It is used to compare different investments and to determine the [[Rate Of Return|rate of return]] on an investment. It is important to understand APY when making financial decisions, as it can help you make the most of your money.

@@ -1,4 +1,4 @@
-<seo title="Mastercard" metakeywords="mastercard business model,mastercard makes money,introduction mastercard,mastercard business" metadescription="Mastercard was founded in 1966 as Interbank Card Association (ICA) It was created by a group of banks in the United States to facilitate the exchange of payments between banks."/>
+<seo title="Mastercard" metakeywords="mastercard business model,mastercard makes money,introduction mastercard,mastercard business" metadescription="Mastercard was founded in 1966 as Interbank Card Association (ICA) It was created by a group of banks in the United States to facilitate the exchange of payments between banks." />
 ===Introduction to Mastercard===
 
 Mastercard is a [[Global Payments|global payments]] technology company that connects consumers, businesses, [[Financial Institution|financial institution]]s, and governments in more than 210 countries and territories. It enables customers to make secure and convenient payments, and provides a range of services to support the growth of digital commerce. Mastercard is one of the world’s leading payment networks, and is a leader in the payments industry.

@@ -1,4 +1,4 @@
-<seo title="Revaluation Reserves" metakeywords="disadvantages revaluation reserves,revaluation reserves revaluation,revaluation reserves beneficial,assets revaluation reserves" metadescription="Revaluation reserves are a type of accounting reserve that is used to record changes in the value of a company’s assets."/>
+<seo title="Revaluation Reserves" metakeywords="disadvantages revaluation reserves,revaluation reserves revaluation,revaluation reserves beneficial,assets revaluation reserves" metadescription="Revaluation reserves are a type of accounting reserve that is used to record changes in the value of a company’s assets." />
 ===Introduction to Revaluation Reserves===
 
 Re[[Valuation Reserve|valuation reserve]]s are a type of accounting reserve that is used to record changes in the value of a company’s assets. This type of reserve is used to account for changes in the value of assets due to inflation, currency fluctuations, or other market forces. Revaluation reserves are used to ensure that the company’s [[Financial Statements|financial statements]] accurately reflect the current value of its assets.

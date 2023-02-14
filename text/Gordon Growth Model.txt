@@ -1,4 +1,4 @@
-<seo title="Gordon Growth Model" metakeywords="gordon growth model,growth model gordon,model gordon growth,growth model financial" metadescription="The Gordon Growth Model is a financial model used to value a company’s stock price."/>
+<seo title="Gordon Growth Model" metakeywords="gordon growth model,growth model gordon,model gordon growth,growth model financial" metadescription="The Gordon Growth Model is a financial model used to value a company’s stock price." />
 ===Introduction to the Gordon Growth Model===
 
 The Gordon Growth Model, also known as the dividend discount model, is a financial model used to value a company’s stock price. It is based on the idea that the value of a stock is equal to the [[Present Value|present value]] of all future dividend payments. The model was developed by Myron Gordon in the 1950s and has since become a widely used tool for valuing stocks.

@@ -1,4 +1,4 @@
-<seo title="Business Banking" metakeywords="business banking,business banking type,business banking services,business banking accounts" metadescription="Business banking is a type of banking service that is specifically designed to meet the needs of businesses."/>
+<seo title="Business Banking" metakeywords="business banking,business banking type,business banking services,business banking accounts" metadescription="Business banking is a type of banking service that is specifically designed to meet the needs of businesses." />
 ===Introduction to Business Banking===
 
 Business banking is a type of banking service that is specifically designed to meet the needs of businesses. Business banking services are typically offered by [[Commercial Bank|commercial bank]]s, credit unions, and other [[Financial Institution|financial institution]]s. Business banking services include a variety of products and services such as checking accounts, savings accounts, loans, lines of credit, and merchant services. Business banking services are designed to help businesses manage their finances, grow their businesses, and meet their financial goals.

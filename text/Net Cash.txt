@@ -1,4 +1,4 @@
-<seo title="Net Cash" metakeywords="net cash defined,definition net cash,calculating net cash,net cash calculated" metadescription="Net cash is a financial term that refers to the amount of cash available to a company or individual after all liabilities and expenses have been paid."/>
+<seo title="Net Cash" metakeywords="net cash defined,definition net cash,calculating net cash,net cash calculated" metadescription="Net cash is a financial term that refers to the amount of cash available to a company or individual after all liabilities and expenses have been paid." />
 ===Introduction to Net Cash===
 
 Net cash is a financial term that refers to the amount of cash available to a company or individual after all liabilities and expenses have been paid. It is an important measure of a company's financial health and is used to assess the company's ability to pay its bills and meet its obligations. Net cash is also used to evaluate the company's liquidity and its ability to generate [[Cash Flow|cash flow]].

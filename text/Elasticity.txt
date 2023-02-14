@@ -1,4 +1,4 @@
-<seo title="Elasticity" metakeywords="elasticity concept economics,elasticity price elasticity,price elasticity,economy types elasticity" metadescription="Elasticity is a concept in economics that measures the responsiveness of one economic variable to changes in another."/>
+<seo title="Elasticity" metakeywords="elasticity concept economics,elasticity price elasticity,price elasticity,economy types elasticity" metadescription="Elasticity is a concept in economics that measures the responsiveness of one economic variable to changes in another." />
 ===Introduction to Elasticity===
 
 Elasticity is a concept in economics that measures the responsiveness of one economic variable to changes in another. It is used to measure the degree to which a change in one variable will cause a change in another. Elasticity is an important concept in economics because it helps to explain how changes in one variable will affect other variables in the economy.

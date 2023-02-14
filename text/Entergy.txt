@@ -1,4 +1,4 @@
-<seo title="Entergy" metakeywords="entergy corporation,entergy corporation integrated,integrated energy company,entergy integrated energy" metadescription="Entergy Corporation is an integrated energy company that provides electricity to customers in the United States."/>
+<seo title="Entergy" metakeywords="entergy corporation,entergy corporation integrated,integrated energy company,entergy integrated energy" metadescription="Entergy Corporation is an integrated energy company that provides electricity to customers in the United States." />
 ===Introduction to Entergy===
 
 Entergy Corporation is an integrated energy company that provides electricity to customers in the United States. It is the second-largest nuclear generator in the United States and the fourth-largest nuclear generator in the world. Entergy is headquartered in New Orleans, Louisiana, and has operations in Arkansas, Louisiana, Mississippi, and Texas. The company was founded in 1913 and is publicly traded on the New York Stock Exchange under the symbol ETR.

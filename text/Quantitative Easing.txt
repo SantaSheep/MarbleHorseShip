@@ -1,4 +1,4 @@
-<seo title="Quantitative Easing" metakeywords="quantitative easing used,quantitative easing involves,quantitative easing qe,quantitative easing implementing" metadescription="Quantitative easing (QE) is a monetary policy tool used by central banks to stimulate economic growth."/>
+<seo title="Quantitative Easing" metakeywords="quantitative easing used,quantitative easing involves,quantitative easing qe,quantitative easing implementing" metadescription="Quantitative easing (QE) is a monetary policy tool used by central banks to stimulate economic growth." />
 ===Introduction to Quantitative Easing===
 
 Quantitative easing (QE) is a [[Monetary Policy|monetary policy]] tool used by central banks to stimulate [[Economic Growth|economic growth]]. It involves the purchase of government bonds and other [[Financial Asset|financial asset]]s from banks and other [[Financial Institution|financial institution]]s in order to increase the [[Money Supply|money supply]] and lower [[Interest Rate|interest rate]]s. This policy is used when traditional monetary policy tools, such as lowering the interest rate, are not effective.

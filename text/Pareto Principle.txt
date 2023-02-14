@@ -1,4 +1,4 @@
-<seo title="Pareto Principle" metakeywords="pareto principle concept,pareto principle useful,pareto principle criticized,pareto principle known" metadescription="The Pareto Principle is a concept in economics and business that states that 80% of the effects come from 20% the causes."/>
+<seo title="Pareto Principle" metakeywords="pareto principle concept,pareto principle useful,pareto principle criticized,pareto principle known" metadescription="The Pareto Principle is a concept in economics and business that states that 80% of the effects come from 20% the causes." />
 ===Introduction to the Pareto Principle===
 
 The Pareto Principle, also known as the 80/20 rule, is a concept in economics and business that states that 80% of the effects come from 20% of the causes. This principle is named after Italian economist Vilfredo Pareto, who observed that 80% of the land in Italy was owned by 20% of the population. The Pareto Principle has been used in many different fields, including economics, business, and finance.

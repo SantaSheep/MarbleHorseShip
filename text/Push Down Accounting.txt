@@ -1,4 +1,4 @@
-<seo title="Push Down Accounting" metakeywords="accounting push accounting,acquisition push accounting,push accounting method,company push accounting" metadescription="Push Down Accounting is used when a parent company acquires a subsidiary company."/>
+<seo title="Push Down Accounting" metakeywords="accounting push accounting,acquisition push accounting,push accounting method,company push accounting" metadescription="Push Down Accounting is used when a parent company acquires a subsidiary company." />
 ===Introduction to Push Down Accounting===
 
 Push Down Accounting is a method of accounting that is used to record the financial results of a subsidiary company that has been acquired by a [[Parent Company|parent company]]. This method of accounting is used to ensure that the [[Financial Statements|financial statements]] of the parent company accurately reflect the financial results of the subsidiary company. Push Down Accounting is also known as Purchase Accounting or [[Acquisiti[[On Account|on Account]]ing|Acquisition Accounting]].

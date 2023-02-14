@@ -1,4 +1,4 @@
-<seo title="Statement Of Retained Earnings" metakeywords="disadvantages retained earnings,retained earnings statement,retained earnings financial,statement retained earnings" metadescription="Statement of retained earnings is a financial statement that provides a summary of the changes in a company’s retained earnings over a period of time."/>
+<seo title="Statement Of Retained Earnings" metakeywords="disadvantages retained earnings,retained earnings statement,retained earnings financial,statement retained earnings" metadescription="Statement of retained earnings is a financial statement that provides a summary of the changes in a company’s retained earnings over a period of time." />
 ===Introduction to Statement of Retained Earnings===
 
 The statement of [[Retained Earnings|retained earnings]] is a financial statement that provides a summary of the changes in a company’s retained earnings over a period of time. It is used to track the amount of money that a company has earned and retained from its operations. The statement of retained earnings is an important financial statement for investors and creditors to understand the financial health of a company.

@@ -1,4 +1,4 @@
-<seo title="Debit Note" metakeywords="debit notes important,debit notes used,debit notes types,debit notes standard" metadescription="A debit note is a document used in the accounting process to record a transaction that involves a debit to an account."/>
+<seo title="Debit Note" metakeywords="debit notes important,debit notes used,debit notes types,debit notes standard" metadescription="A debit note is a document used in the accounting process to record a transaction that involves a debit to an account." />
 ===Introduction to Debit Note===
 
 A debit note is a document used in the accounting process to record a transaction that involves a debit to an account. It is a formal document that is used to record the details of a transaction and is used to track the movement of funds between two parties. The debit note is used to record the amount of money that is being debited from one account and credited to another. It is also used to record the details of the transaction, such as the date, the amount, and the purpose of the transaction.

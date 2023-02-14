@@ -1,4 +1,4 @@
-<seo title="Put Call Parity" metakeywords="options derivatives parity,derivatives markets parity,profit advantages parity,parity important concept" metadescription="Put-call parity is a fundamental principle of financial economics."/>
+<seo title="Put Call Parity" metakeywords="options derivatives parity,derivatives markets parity,profit advantages parity,parity important concept" metadescription="Put-call parity is a fundamental principle of financial economics." />
 ===Introduction to Put-Call Parity===
 
 Put-call parity is a fundamental principle of financial economics that states that the price of a [[Call Option|call option]] and a [[Put Option|put option]] with the same [[Strike Price|strike price]] and expiration date must be equal. Put-call parity is an important concept in the pricing of options and derivatives, and is used to determine the [[Fair Value|fair value]] of options and derivatives. Put-call parity is also used to identify arbitrage opportunities in the options and derivatives markets.

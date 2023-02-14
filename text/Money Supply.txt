@@ -1,4 +1,4 @@
-<seo title="Money Supply" metakeywords="affecting money supply,money supply impact,impact money supply,affects money supply" metadescription="Money supply is an important economic indicator that is used to measure the health of an economy."/>
+<seo title="Money Supply" metakeywords="affecting money supply,money supply impact,impact money supply,affects money supply" metadescription="Money supply is an important economic indicator that is used to measure the health of an economy." />
 ===Introduction to Money Supply===
 
 Money supply is a term used to describe the total amount of money in circulation in an economy. It is an important economic indicator that is used to measure the health of an economy. Money supply is typically measured by the central bank of a country and is used to determine the level of economic activity in the country. The money supply is composed of currency in circulation, deposits held by banks, and other forms of money such as traveler’s checks and money orders.

@@ -1,4 +1,4 @@
-<seo title="Bond Yield" metakeywords="bond yield used,introduction bond yield,calculating bond yields,types bond yields" metadescription="Bond yield is a measure of the return on a bond investment.It is used by governments and corporations to determine the cost of borrowing money."/>
+<seo title="Bond Yield" metakeywords="bond yield used,introduction bond yield,calculating bond yields,types bond yields" metadescription="Bond yield is a measure of the return on a bond investment.It is used by governments and corporations to determine the cost of borrowing money." />
 ===Introduction to Bond Yield===
 
 Bond yield is a measure of the return on a bond investment. It is the amount of interest earned on a bond, expressed as a percentage of the bond’s [[Face Value|face value]]. Bond yield is an important concept for investors, as it helps them to determine the potential return on their investment. Bond yield is also used by governments and corporations to determine the cost of borrowing money.

@@ -1,4 +1,4 @@
-<seo title="Kai Zen" metakeywords="kaizen business philosophy,kaizen continuous improvement,improvement innovation kaizen,continuous improvement kaizen" metadescription="Kaizen originated in Japan in the 1950s as part of the country’s post-war economic recovery."/>
+<seo title="Kai Zen" metakeywords="kaizen business philosophy,kaizen continuous improvement,improvement innovation kaizen,continuous improvement kaizen" metadescription="Kaizen originated in Japan in the 1950s as part of the country’s post-war economic recovery." />
 ===Introduction to Kaizen===
 
 Kaizen is a Japanese term that translates to “improvement” or “change for the better.” It is a business philosophy that focuses on continuous improvement of processes, products, and services. Kaizen is a holistic approach to business that emphasizes the involvement of all employees in the improvement process. It is based on the idea that small, incremental changes can lead to significant improvements in efficiency, quality, and cost savings.

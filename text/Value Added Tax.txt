@@ -1,4 +1,4 @@
-<seo title="Value Added Tax" metakeywords="value added tax,government taxpayer vat,taxpayer vat,tax value added" metadescription="Value-Added Tax (VAT) is a type of consumption tax that is applied to goods and services at each stage of production and distribution."/>
+<seo title="Value Added Tax" metakeywords="value added tax,government taxpayer vat,taxpayer vat,tax value added" metadescription="Value-Added Tax (VAT) is a type of consumption tax that is applied to goods and services at each stage of production and distribution." />
 ===Introduction to Value-Added Tax===
 
 Value-Added Tax (VAT) is a type of consumption tax that is applied to goods and services at each stage of production and distribution. It is a form of indirect taxation, meaning that it is collected by the seller from the buyer, rather than by the government from the taxpayer. VAT is a widely used form of taxation in many countries around the world, and is an important source of revenue for governments.

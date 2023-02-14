@@ -1,4 +1,4 @@
-<seo title="Underwriting" metakeywords="loan underwriting involves,underwriting involves analyzing,underwriting process typically,underwriting process used" metadescription="Underwriting is a critical part of the loan process and is used to ensure that the borrower is able to repay the loan."/>
+<seo title="Underwriting" metakeywords="loan underwriting involves,underwriting involves analyzing,underwriting process typically,underwriting process used" metadescription="Underwriting is a critical part of the loan process and is used to ensure that the borrower is able to repay the loan." />
 ===Introduction to Underwriting===
 
 Underwriting is a process used by [[Financial Institution|financial institution]]s to assess the risk of a potential borrower and determine whether or not to provide them with a loan. It is a critical part of the loan process and is used to ensure that the borrower is able to repay the loan. Underwriting involves analyzing the borrower’s financial information, such as income, credit history, and assets, to determine if they are a good risk for the lender.

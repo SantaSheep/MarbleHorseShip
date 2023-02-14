@@ -1,4 +1,4 @@
-<seo title="Magi" metakeywords="deductions adjustments magi,magi benefits simplifies,use magi benefits,understand magi used" metadescription="Magi, or Modified Adjusted Gross Income, is a term used in the United States to determine eligibility for certain government benefits and tax credits."/>
+<seo title="Magi" metakeywords="deductions adjustments magi,magi benefits simplifies,use magi benefits,understand magi used" metadescription="Magi, or Modified Adjusted Gross Income, is a term used in the United States to determine eligibility for certain government benefits and tax credits." />
 ===Introduction to Magi===
 
 Magi, or Modified Adjusted [[Gross Income|Gross Income]], is a term used in the United States to determine eligibility for certain government benefits and tax credits. It is a calculation of a person’s income that takes into account certain deductions and adjustments. Magi is used to determine eligibility for programs such as Medicaid, the Children’s Health Insurance Program (CHIP), and the Affordable Care Act (ACA).

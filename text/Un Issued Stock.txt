@@ -1,4 +1,4 @@
-<seo title="Un Issued Stock" metakeywords="unissued stock typically,types unissued stock,stock unissued stock,unissued stock" metadescription="Unissued stock is a form of equity that is held by a company and is not available for trading on the open market."/>
+<seo title="Un Issued Stock" metakeywords="unissued stock typically,types unissued stock,stock unissued stock,unissued stock" metadescription="Unissued stock is a form of equity that is held by a company and is not available for trading on the open market." />
 ===Introduction to Unissued Stock===
 
 Unissued stock is a type of stock that has not yet been issued to the public. It is a form of equity that is held by a company and is not available for trading on the open market. Unissued stock can be issued to the public through an initial public offering (IPO) or through a private placement. Unissued stock can also be used to raise capital for a company or to reward employees with [[Stock Option|stock option]]s.

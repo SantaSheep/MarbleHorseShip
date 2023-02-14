@@ -1,4 +1,4 @@
-<seo title="Plow Back Ratio" metakeywords="profits plowback ratio,definition plowback ratio,plowback ratio money,calculation plowback ratio" metadescription="The plowback ratio is a financial metric used to measure the amount of net income that a company reinvests into its business operations."/>
+<seo title="Plow Back Ratio" metakeywords="profits plowback ratio,definition plowback ratio,plowback ratio money,calculation plowback ratio" metadescription="The plowback ratio is a financial metric used to measure the amount of net income that a company reinvests into its business operations." />
 ===Introduction to Plowback Ratio===
 
 The plowback ratio is a financial metric used to measure the amount of [[Net Income|net income]] that a company reinvests into its business operations. It is a useful tool for investors to assess the financial health of a company and its ability to generate future profits. The plowback ratio is also known as the [[Retention Ratio|retention ratio]] or the internal growth rate.

@@ -1,4 +1,4 @@
-<seo title="Finance" metakeywords="finance study,analyzing financial,finance finance study,involves analysis financial" metadescription="Finance is the study of how individuals, businesses, and organizations manage their money and other assets."/>
+<seo title="Finance" metakeywords="finance study,analyzing financial,finance finance study,involves analysis financial" metadescription="Finance is the study of how individuals, businesses, and organizations manage their money and other assets." />
 ===Introduction to Finance===
 
 Finance is the study of how individuals, businesses, and organizations manage their money and other assets. It involves the analysis of [[Financial Market|financial market]]s, the creation of [[Financial Instrument|financial instrument]]s, the management of risk, and the development of investment strategies. Finance is a broad field that encompasses many different aspects of economics, including banking, investments, insurance, and taxation.

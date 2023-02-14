@@ -1,4 +1,4 @@
-<seo title="Industry" metakeywords="industry analysis industry,analyzing industryâ,industry industry analysis,industries involve production" metadescription="Industry is a term used to describe the production of goods and services within an economy."/>
+<seo title="Industry" metakeywords="industry analysis industry,analyzing industryâ,industry industry analysis,industries involve production" metadescription="Industry is a term used to describe the production of goods and services within an economy." />
 ===Introduction to Industry===
 
 Industry is a term used to describe the production of goods and services within an economy. It is a broad term that encompasses a wide range of activities, from manufacturing to services. Industries are typically divided into two main categories: primary and secondary. Primary industries are those that involve the extraction of [[Raw Materials|raw materials]] from the environment, such as mining, forestry, and fishing. Secondary industries are those that involve the transformation of raw materials into finished products, such as manufacturing and construction.

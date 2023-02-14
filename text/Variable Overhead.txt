@@ -1,4 +1,4 @@
-<seo title="Variable Overhead" metakeywords="variable overhead costs,variable overhead cost,insurance variable overhead,typically variable overhead" metadescription=" variable overhead is a cost that is not directly related to the production of a product or service, but is necessary for the production process to take place."/>
+<seo title="Variable Overhead" metakeywords="variable overhead costs,variable overhead cost,insurance variable overhead,typically variable overhead" metadescription=" variable overhead is a cost that is not directly related to the production of a product or service, but is necessary for the production process to take place." />
 ===Introduction to Variable Overhead===
 
 Variable overhead is a type of cost that is associated with the production of goods or services. It is a cost that is not directly related to the production of a product or service, but is necessary for the production process to take place. Variable overhead costs are typically incurred on a regular basis and can include items such as utilities, rent, and insurance. Variable overhead costs can be difficult to predict and can vary from month to month or even from day to day.

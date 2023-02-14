@@ -1,4 +1,4 @@
-<seo title="Vendor Note" metakeywords="vendor note type,unsecured vendor note,vendor notes type,vendor note backed" metadescription="Vendor notes are a type of financial instrument used to finance the purchase of goods or services from a vendor."/>
+<seo title="Vendor Note" metakeywords="vendor note type,unsecured vendor note,vendor notes type,vendor note backed" metadescription="Vendor notes are a type of financial instrument used to finance the purchase of goods or services from a vendor." />
 ===Introduction to Vendor Note===
 
 A vendor note is a type of [[Financial Instrument|financial instrument]] that is used to finance the purchase of goods or services from a vendor. It is a short-term loan that is typically issued by a vendor to a customer in order to finance the purchase of goods or services. The vendor note is usually secured by the goods or services being purchased and is typically due within a short period of time, usually within 30 days. The vendor note is a form of financing that is often used by businesses to purchase goods or services from vendors without having to wait for payment from customers.

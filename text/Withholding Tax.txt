@@ -1,4 +1,4 @@
-<seo title="Withholding Tax" metakeywords="withholding tax generally,withholding tax withholding,tax types withholding,withholding tax types" metadescription="Withholding tax is a form of tax that is collected from an individual or business by an employer, government, or other entity."/>
+<seo title="Withholding Tax" metakeywords="withholding tax generally,withholding tax withholding,tax types withholding,withholding tax types" metadescription="Withholding tax is a form of tax that is collected from an individual or business by an employer, government, or other entity." />
 ===Introduction to Withholding Tax===
 
 Withholding tax is a form of tax that is collected from an individual or business by an employer, government, or other entity. It is typically collected on income such as wages, salaries, bonuses, and other forms of compensation. The amount of withholding tax is based on the amount of income earned and the applicable tax rate. Withholding tax is generally used to ensure that individuals and businesses pay their taxes on time and in full.

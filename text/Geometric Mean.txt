@@ -1,4 +1,4 @@
-<seo title="Geometric Mean" metakeywords="geometric mean used,definition geometric mean,geometric mean defined,geometric mean" metadescription="Geometric mean is a statistical measure of central tendency that is used to measure the average rate of return of an investment over a period of time."/>
+<seo title="Geometric Mean" metakeywords="geometric mean used,definition geometric mean,geometric mean defined,geometric mean" metadescription="Geometric mean is a statistical measure of central tendency that is used to measure the average rate of return of an investment over a period of time." />
 ===Introduction to Geometric Mean===
 
 Geometric mean is a statistical measure of central tendency that is used to measure the average [[Rate Of Return|rate of return]] of an investment over a period of time. It is a type of average that is calculated by taking the product of all the values in a set of data and then taking the nth root of the product, where n is the number of values in the set. Geometric mean is often used to compare the performance of investments over time, as it takes into account the compounding effect of returns.

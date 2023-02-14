@@ -1,4 +1,4 @@
-<seo title="Llcr" metakeywords="llcr leveraged loan,llcr leveraged,llcr risk associated,llcr risk" metadescription="Llcr, or Leveraged Loan Credit Risk, is a type of financial risk associated with leveraged loans."/>
+<seo title="Llcr" metakeywords="llcr leveraged loan,llcr leveraged,llcr risk associated,llcr risk" metadescription="Llcr, or Leveraged Loan Credit Risk, is a type of financial risk associated with leveraged loans." />
 ===Introduction to Llcr===
 
 Llcr, or Leveraged Loan [[Credit Risk|Credit Risk]], is a type of [[Financial Risk|financial risk]] that is associated with leveraged loans. Leveraged loans are loans that are taken out by companies that have a high level of debt relative to their assets. These loans are typically used to finance acquisitions, buyouts, and other large-scale investments. As such, they are considered to be high-risk investments, and the risk associated with them is known as Llcr.

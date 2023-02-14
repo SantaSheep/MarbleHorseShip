@@ -1,4 +1,4 @@
-<seo title="Net Tangible Assets" metakeywords="assets nettangibleassets calculated,intangible assets nettangibleassets,nettangibleassets tangible assets,tangible assets nettangibleassets" metadescription="Nettangibleassets is a financial term used to describe the value of a company’s tangible assets minus its intangible assets."/>
+<seo title="Net Tangible Assets" metakeywords="assets nettangibleassets calculated,intangible assets nettangibleassets,nettangibleassets tangible assets,tangible assets nettangibleassets" metadescription="Nettangibleassets is a financial term used to describe the value of a company’s tangible assets minus its intangible assets." />
 ===Introduction to Nettangibleassets===
 
 Nettangibleassets is a financial term used to describe the value of a company’s [[Tangible Asset|tangible asset]]s minus its [[Intangible Asset|intangible asset]]s. It is an important measure of a company’s financial health and is used to assess the company’s ability to generate [[Cash Flow|cash flow]] and pay its debts. Nettangibleassets is also used to compare the [[Financial Performance|financial performance]] of different companies in the same industry.

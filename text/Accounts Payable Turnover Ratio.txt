@@ -1,4 +1,4 @@
-<seo title="Accounts Payable Turnover Ratio" metakeywords="accounts payable turnover,payable turnover ratio,turnover ratio apt,turnover ratio accounts" metadescription="Accounts Payable Turnover Ratio (APT) is a financial metric used to measure the efficiency of a company’s accounts payable process."/>
+<seo title="Accounts Payable Turnover Ratio" metakeywords="accounts payable turnover,payable turnover ratio,turnover ratio apt,turnover ratio accounts" metadescription="Accounts Payable Turnover Ratio (APT) is a financial metric used to measure the efficiency of a company’s accounts payable process." />
 ===Introduction to Accounts Payable Turnover Ratio===
 
 The [[Accounts Payable|Accounts Payable]] Turnover Ratio (APT) is a financial metric used to measure the efficiency of a company’s accounts payable process. It is calculated by dividing the total amount of accounts payable by the average amount of accounts payable during a given period. The APT ratio is used to assess the liquidity of a company’s accounts payable and to determine how quickly a company is able to pay its suppliers.

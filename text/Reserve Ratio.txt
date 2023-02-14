@@ -1,4 +1,4 @@
-<seo title="Reserve Ratio" metakeywords="introduction reserve ratio,reserve ratios important,reserve ratio reserve,reserve ratios reserve" metadescription=" reserve ratio is a ratio of the amount of cash or other liquid assets held by a bank or other financial institution to its total liabilities."/>
+<seo title="Reserve Ratio" metakeywords="introduction reserve ratio,reserve ratios important,reserve ratio reserve,reserve ratios reserve" metadescription=" reserve ratio is a ratio of the amount of cash or other liquid assets held by a bank or other financial institution to its total liabilities." />
 ===Introduction to Reserve Ratio===
 
 A reserve ratio is a financial tool used by banks and other [[Financial Institution|financial institution]]s to manage their liquidity and risk. It is a ratio of the amount of cash or other [[Liquid Asset|liquid asset]]s held by a bank or other financial institution to its [[Total Liabilities|total liabilities]]. The reserve ratio is used to measure the financial health of a bank or other financial institution and to ensure that it has sufficient liquidity to meet its obligations.

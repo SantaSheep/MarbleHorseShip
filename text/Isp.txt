@@ -1,4 +1,4 @@
-<seo title="Isp" metakeywords="introduction isp,isps provide services,introduction isp internet,isp internet service" metadescription="An Internet Service Provider (ISP) is a company that provides access to the Internet.ISPs are typically divided into two categories: residential and business."/>
+<seo title="Isp" metakeywords="introduction isp,isps provide services,introduction isp internet,isp internet service" metadescription="An Internet Service Provider (ISP) is a company that provides access to the Internet.ISPs are typically divided into two categories: residential and business." />
 ===Introduction to ISP===
 
 An Internet Service Provider (ISP) is a company that provides access to the Internet. ISPs are responsible for providing the infrastructure and services necessary for users to connect to the Internet. ISPs are typically divided into two categories: residential and business. Residential ISPs provide services to individual households, while business ISPs provide services to businesses and organizations. ISPs are typically regulated by the government and must adhere to certain standards and regulations.

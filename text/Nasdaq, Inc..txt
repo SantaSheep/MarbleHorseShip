@@ -1,4 +1,4 @@
-<seo title="Nasdaq, Inc." metakeywords="introduction nasdaq,stock exchange nasdaq,history nasdaq,introduction nasdaq nasdaq" metadescription="Nasdaq is a global financial services company that operates the world’s largest electronic stock market."/>
+<seo title="Nasdaq, Inc." metakeywords="introduction nasdaq,stock exchange nasdaq,history nasdaq,introduction nasdaq nasdaq" metadescription="Nasdaq is a global financial services company that operates the world’s largest electronic stock market." />
 ===Introduction to Nasdaq===
 
 ,

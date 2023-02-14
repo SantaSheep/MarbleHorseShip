@@ -1,4 +1,4 @@
-<seo title="Hodl" metakeywords="hodl term used,term hodl used,hodl term,hodl term hodl" metadescription="Hodl is a term used in the cryptocurrency world to describe the act of holding onto a cryptocurrency asset for a long period of time, regardless of market conditions."/>
+<seo title="Hodl" metakeywords="hodl term used,term hodl used,hodl term,hodl term hodl" metadescription="Hodl is a term used in the cryptocurrency world to describe the act of holding onto a cryptocurrency asset for a long period of time, regardless of market conditions." />
 ===Introduction to Hodl===
 
 Hodl is a term used in the cryptocurrency world to describe the act of holding onto a cryptocurrency asset for a long period of time, regardless of market conditions. It is a strategy that has been adopted by many investors in the cryptocurrency space, and has become a popular way to invest in the digital asset class. The term was first coined in 2013 by an anonymous user on the BitcoinTalk forum, and has since become a widely used term in the cryptocurrency community.

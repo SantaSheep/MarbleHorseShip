@@ -1,4 +1,4 @@
-<seo title="General Account" metakeywords="general accounts used,general accounts types,definition general account,general accounts type" metadescription="A general account is a type of account that is used by individuals, businesses, and other organizations to manage their finances."/>
+<seo title="General Account" metakeywords="general accounts used,general accounts types,definition general account,general accounts type" metadescription="A general account is a type of account that is used by individuals, businesses, and other organizations to manage their finances." />
 ===Introduction to General Account===
 
 A general account is a type of financial account that is used to store and manage funds. It is a type of account that is used by individuals, businesses, and other organizations to manage their finances. General accounts are typically used to store and manage funds for a variety of purposes, such as savings, investments, and payments. They are also used to track and manage expenses, income, and other financial transactions.

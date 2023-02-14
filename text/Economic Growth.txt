@@ -1,4 +1,4 @@
-<seo title="Economic Growth" metakeywords="history economic growth,growth history economic,theories economic growth,economic growth history" metadescription="Economic growth is the increase in the production of goods and services over a period of time."/>
+<seo title="Economic Growth" metakeywords="history economic growth,growth history economic,theories economic growth,economic growth history" metadescription="Economic growth is the increase in the production of goods and services over a period of time." />
 ===Introduction to Economic Growth===
 
 Economic growth is the increase in the production of goods and services over a period of time. It is measured as the percentage rate of increase in real gross domestic product (GDP) or other measure of aggregate income. Economic growth is an important indicator of the health of an economy and is closely monitored by governments, businesses, and individuals.

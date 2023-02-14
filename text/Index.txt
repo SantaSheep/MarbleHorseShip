@@ -1,4 +1,4 @@
-<seo title="Index" metakeywords="market indexes,market index measures,investments indexes,index measures performance" metadescription="An index is a statistical measure of the relative level of a group of securities or other assets."/>
+<seo title="Index" metakeywords="market indexes,market index measures,investments indexes,index measures performance" metadescription="An index is a statistical measure of the relative level of a group of securities or other assets." />
 ===Introduction to Index===
 
 An index is a statistical measure of the relative level of a group of securities or other assets. It is used to measure the performance of a particular market or sector, and is often used as a benchmark for investors to compare the performance of their investments against. An index can be composed of a variety of different assets, such as stocks, bonds, commodities, or currencies. The components of an index are weighted according to their importance in the overall market or sector, and the index is calculated by taking the [[Weighted Average|weighted average]] of the components.

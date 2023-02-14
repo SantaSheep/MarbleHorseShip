@@ -1,4 +1,4 @@
-<seo title="Bullish Engulfing Pattern" metakeywords="pattern bullish engulfing,bullish engulfing pattern,engulfing pattern bullish,identify bullish engulfing" metadescription="Bullish Engulfing Pattern is a chart pattern that is used to identify potential reversals in the direction of a security’s price."/>
+<seo title="Bullish Engulfing Pattern" metakeywords="pattern bullish engulfing,bullish engulfing pattern,engulfing pattern bullish,identify bullish engulfing" metadescription="Bullish Engulfing Pattern is a chart pattern that is used to identify potential reversals in the direction of a security’s price." />
 ===Introduction to Bullish Engulfing Pattern===
 
 The Bullish Engulfing Pattern is a [[Technical Analysis|technical analysis]] chart pattern that is used to identify potential reversals in the direction of a security’s price. It is a two-candle pattern that consists of a small bearish candle followed by a larger bullish candle. The bullish candle completely “engulfs” the bearish candle, hence the name. This pattern is used by traders to identify potential buying opportunities in a security.

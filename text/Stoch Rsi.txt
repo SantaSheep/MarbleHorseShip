@@ -1,4 +1,4 @@
-<seo title="Stoch Rsi" metakeywords="stochrsi technical indicator,stochrsi value applications,market stochrsi used,applications stochrsi" metadescription="StochRSI was developed by Tushar Chande and Stanley Kroll in the early 1990s.It is used to identify overbought and oversold conditions in the market."/>
+<seo title="Stoch Rsi" metakeywords="stochrsi technical indicator,stochrsi value applications,market stochrsi used,applications stochrsi" metadescription="StochRSI was developed by Tushar Chande and Stanley Kroll in the early 1990s.It is used to identify overbought and oversold conditions in the market." />
 ===Introduction to Stochrsi===
 
 StochRSI is a technical indicator used in the analysis of [[Financial Market|financial market]]s. It is a momentum oscillator that measures the level of the RSI (Relative Strength Index) relative to its historical range over a set period of time. The StochRSI was developed by Tushar Chande and Stanley Kroll in the early 1990s and is used to identify overbought and oversold conditions in the market.

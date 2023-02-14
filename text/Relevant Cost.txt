@@ -1,4 +1,4 @@
-<seo title="Relevant Cost" metakeywords="definition relevant cost,relevant cost defined,relevant cost concept,relevant costs costs" metadescription="Relevant cost is a cost that is relevant to a particular decision and can be used to determine the best course of action."/>
+<seo title="Relevant Cost" metakeywords="definition relevant cost,relevant cost defined,relevant cost concept,relevant costs costs" metadescription="Relevant cost is a cost that is relevant to a particular decision and can be used to determine the best course of action." />
 ===Introduction to Relevant Cost===
 
 Relevant cost is a concept used in [[Managerial Accounting|managerial accounting]] and decision-making. It is a cost that is relevant to a particular decision and can be used to determine the best course of action. Relevant cost is a tool used to help managers make decisions that are in the best interest of the company. It is important to understand the concept of relevant cost in order to make the best decisions for the company.

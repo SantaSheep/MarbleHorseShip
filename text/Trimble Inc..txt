@@ -1,4 +1,4 @@
-<seo title="Trimble Inc." metakeywords="trimble global technology,trimble products services,industries trimble,industries trimble products" metadescription="Trimble is a global technology company that provides innovative solutions for a variety of industries."/>
+<seo title="Trimble Inc." metakeywords="trimble global technology,trimble products services,industries trimble,industries trimble products" metadescription="Trimble is a global technology company that provides innovative solutions for a variety of industries." />
 ===Introduction to Trimble Inc.===
 
 Trimble Inc. is a global technology company that provides innovative solutions for a variety of industries. Founded in 1978, Trimble has grown to become a leader in the fields of positioning, navigation, surveying, construction, agriculture, and transportation. Trimble’s products and services are used in over 140 countries around the world. Trimble’s mission is to “transform the way the world works” by providing innovative solutions that enable customers to increase productivity, reduce costs, and improve safety.

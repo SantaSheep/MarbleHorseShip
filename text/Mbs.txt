@@ -1,4 +1,4 @@
-<seo title="Mbs" metakeywords="securities mbs mortgage,mortgage backed securities,mbs mortgage backed,mortgages mbs" metadescription="Mortgage-backed securities (MBS) are a type of asset-backed security that is secured by a mortgage or collection of mortgages."/>
+<seo title="Mbs" metakeywords="securities mbs mortgage,mortgage backed securities,mbs mortgage backed,mortgages mbs" metadescription="Mortgage-backed securities (MBS) are a type of asset-backed security that is secured by a mortgage or collection of mortgages." />
 ===Introduction to Mortgage-Backed Securities (MBS)===
 
 Mortgage-backed securities (MBS) are a type of asset-backed security that is secured by a mortgage or collection of mortgages. MBS are created when a number of mortgages are pooled together and sold to investors as a single security. The mortgages are typically issued by a government-sponsored enterprise (GSE) such as Fannie Mae or Freddie Mac, or by a bank or other [[Financial Institution|financial institution]]. MBS are typically traded on the secondary market, where investors can buy and sell them.

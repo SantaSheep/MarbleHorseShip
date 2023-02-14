@@ -1,4 +1,4 @@
-<seo title="Inverted Yield Curve" metakeywords="inverted yield curve,yield curve inverted,curve inverted yield,introduction inverted yield" metadescription="An inverted yield curve is a type of yield curve in which long-term debt instruments have a lower yield than short- term debt instruments of the same credit quality."/>
+<seo title="Inverted Yield Curve" metakeywords="inverted yield curve,yield curve inverted,curve inverted yield,introduction inverted yield" metadescription="An inverted yield curve is a type of yield curve in which long-term debt instruments have a lower yield than short- term debt instruments of the same credit quality." />
 ===Introduction to Inverted Yield Curve===
 
 An inverted [[Yield Curve|yield curve]] is a type of yield curve in which long-term [[Debt Instrument|debt instrument]]s have a lower yield than short-term debt instruments of the same credit quality. This phenomenon is the opposite of the normal yield curve, which typically has long-term debt instruments yielding more than short-term debt instruments. An inverted yield curve is often seen as a sign of an impending recession.

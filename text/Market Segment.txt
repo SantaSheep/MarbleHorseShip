@@ -1,4 +1,4 @@
-<seo title="Market Segment" metakeywords="market segmentation involves,market segmentation used,segmenting market,market segmentation marketing" metadescription=""/>
+<seo title="Market Segment" metakeywords="market segmentation involves,market segmentation used,segmenting market,market segmentation marketing" metadescription="" />
 ===Introduction to Market Segmentation===
 
 [[Market Segmentation|Market segmentation]] is a [[Marketing Strategy|marketing strategy]] that involves dividing a broad [[Target Market|target market]] into smaller, more homogenous groups of consumers with similar needs, wants, and behaviors. Market segmentation is used to identify and target specific groups of customers with tailored products and services that meet their needs. By segmenting the market, companies can better understand their customers and develop more effective marketing strategies.

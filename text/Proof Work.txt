@@ -1,4 +1,4 @@
-<seo title="Proof Work" metakeywords="work concept pow,concept pow proposed,pow bitcoin protocol,proposed use pow" metadescription="Proof of Work (PoW) is a consensus algorithm used in distributed systems.It is a type of cryptographic puzzle that requires a certain amount of computational effort to solve."/>
+<seo title="Proof Work" metakeywords="work concept pow,concept pow proposed,pow bitcoin protocol,proposed use pow" metadescription="Proof of Work (PoW) is a consensus algorithm used in distributed systems.It is a type of cryptographic puzzle that requires a certain amount of computational effort to solve." />
 ===Introduction to Proof of Work===
 
 Proof of Work (PoW) is a consensus algorithm used in distributed systems to validate transactions and prevent double spending. It is a type of cryptographic puzzle that requires a certain amount of computational effort to solve. The idea behind PoW is that it is difficult to solve the puzzle, but easy to verify the solution. This makes it an effective way to prevent malicious actors from manipulating the system.

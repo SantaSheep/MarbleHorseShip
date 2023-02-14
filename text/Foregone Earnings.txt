@@ -1,4 +1,4 @@
-<seo title="Foregone Earnings" metakeywords="concept foregone earnings,introduction foregone earnings,disadvantage foregone earnings,foregone earnings defined" metadescription="Foregone earnings is a term used to describe the potential income that a company or individual could have earned if they had chosen a different course of action."/>
+<seo title="Foregone Earnings" metakeywords="concept foregone earnings,introduction foregone earnings,disadvantage foregone earnings,foregone earnings defined" metadescription="Foregone earnings is a term used to describe the potential income that a company or individual could have earned if they had chosen a different course of action." />
 ===Introduction to Foregone Earnings===
 
 Foregone earnings is a term used to describe the potential income that a company or individual could have earned if they had chosen to pursue a different course of action. This concept is often used in [[Financial Analysis|financial analysis]] to determine the cost of a particular decision or investment. It is important to understand the concept of foregone earnings in order to make informed decisions about investments and other financial matters.

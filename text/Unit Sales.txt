@@ -1,4 +1,4 @@
-<seo title="Unit Sales" metakeywords="using unit sales,unit sales measure,unit sales defined,products unit sales" metadescription="Unit sales are a measure of the number of products sold in a given period of time.This measure is used to track the performance of a company’s products."/>
+<seo title="Unit Sales" metakeywords="using unit sales,unit sales measure,unit sales defined,products unit sales" metadescription="Unit sales are a measure of the number of products sold in a given period of time.This measure is used to track the performance of a company’s products." />
 ===Introduction to Unit Sales===
 
 Unit sales are a measure of the number of products sold in a given period of time. This measure is used to track the performance of a company’s products and to compare the performance of different products. Unit sales are an important metric for businesses to understand the success of their products and to make decisions about how to allocate resources.

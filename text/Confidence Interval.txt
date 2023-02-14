@@ -1,4 +1,4 @@
-<seo title="Confidence Interval" metakeywords="confidence intervals provide,definition confidence interval,confidence intervals used,using confidence intervals" metadescription="Confidence intervals are used to measure the accuracy of a sample statistic and to provide an estimate of the population parameter."/>
+<seo title="Confidence Interval" metakeywords="confidence intervals provide,definition confidence interval,confidence intervals used,using confidence intervals" metadescription="Confidence intervals are used to measure the accuracy of a sample statistic and to provide an estimate of the population parameter." />
 ===Introduction to Confidence Interval===
 
 Confidence interval is a statistical measure used to estimate the population parameter from a sample statistic. It is a range of values that is likely to contain the population parameter with a certain degree of confidence. It is used to measure the accuracy of a sample statistic and to provide an estimate of the population parameter.

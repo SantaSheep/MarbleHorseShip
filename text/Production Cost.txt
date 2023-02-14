@@ -1,4 +1,4 @@
-<seo title="Production Cost" metakeywords="production cost factors,understanding production cost,production cost understanding,cost understanding production" metadescription="Production cost is the total cost associated with producing a good or service."/>
+<seo title="Production Cost" metakeywords="production cost factors,understanding production cost,production cost understanding,cost understanding production" metadescription="Production cost is the total cost associated with producing a good or service." />
 ===Introduction to Production Cost===
 
 Production cost is the total cost associated with producing a good or service. It includes all of the costs associated with the production process, from the purchase of [[Raw Materials|raw materials]] to the labor costs associated with the production process. Production cost is an important concept for businesses to understand, as it can help them to determine the most cost-effective way to produce their goods or services.

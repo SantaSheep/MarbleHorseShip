@@ -1,4 +1,4 @@
-<seo title="Time Series" metakeywords="timeseries analysis involves,engineering timeseries,used timeseries analysis,methods used timeseries" metadescription="Timeseries is a type of data analysis that focuses on the temporal aspects of data."/>
+<seo title="Time Series" metakeywords="timeseries analysis involves,engineering timeseries,used timeseries analysis,methods used timeseries" metadescription="Timeseries is a type of data analysis that focuses on the temporal aspects of data." />
 ===Introduction to Timeseries===
 
 Timeseries is a type of data analysis that focuses on the temporal aspects of data. It is used to analyze the changes in data over time, and to identify patterns and trends in the data. Timeseries analysis is used in a variety of fields, including finance, economics, engineering, and medicine.

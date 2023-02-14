@@ -1,4 +1,4 @@
-<seo title="Deferred Income Tax" metakeywords="deferred income tax,deferred tax liability,deferred tax,tax liability deferred" metadescription="Deferred income tax is a type of tax that is not paid immediately, but rather is paid at a later date.It is typically used when a company has income that is."/>
+<seo title="Deferred Income Tax" metakeywords="deferred income tax,deferred tax liability,deferred tax,tax liability deferred" metadescription="Deferred income tax is a type of tax that is not paid immediately, but rather is paid at a later date.It is typically used when a company has income that is." />
 ===Introduction to Deferred Income Tax===
 
 Deferred [[Income Tax|income tax]] is a type of tax that is not paid immediately, but rather is paid at a later date. This type of tax is typically used when a company has income that is not taxable in the current year, but will be taxable in a future year. Deferred income tax is also known as [[Deferred Tax Liability|deferred tax liability]] or [[Deferred Tax Asset|deferred tax asset]].

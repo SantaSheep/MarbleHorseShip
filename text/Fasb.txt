@@ -1,4 +1,4 @@
-<seo title="Fasb" metakeywords="accounting standards fasb,standards fasb role,gaap fasb responsible,fasb role financial" metadescription=""/>
+<seo title="Fasb" metakeywords="accounting standards fasb,standards fasb role,gaap fasb responsible,fasb role financial" metadescription="" />
 ===Introduction to FASB===
 
 The Financial [[Accounting Standard|Accounting Standard]]s Board (FASB) is an independent, private-sector organization that sets accounting standards for public and private companies in the United States. The FASB is the primary source of Generally Accepted [[Accounting Principles|Accounting Principles]] (GAAP) in the United States. The FASB was established in 1973 as a successor to the Accounting Principles Board (APB), which was created in 1959. The FASB is responsible for developing and issuing accounting standards that are used by companies to prepare their [[Financial Statements|financial statements]].

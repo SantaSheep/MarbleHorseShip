@@ -1,4 +1,4 @@
-<seo title="Recovery Rate" metakeywords="investment recovery rate,recovery rate term,definition recovery rate,recovery rate loan" metadescription="Recovery rate is a term used in finance to describe the amount of money that is recovered from a loan or investment."/>
+<seo title="Recovery Rate" metakeywords="investment recovery rate,recovery rate term,definition recovery rate,recovery rate loan" metadescription="Recovery rate is a term used in finance to describe the amount of money that is recovered from a loan or investment." />
 ===Introduction to Recovery Rate===
 
 Recovery rate is a term used in finance to describe the amount of money that is recovered from a loan or investment. It is a measure of the success of a loan or investment and is used to assess the risk associated with the loan or investment. Recovery rate is an important concept for investors and lenders alike, as it can help them determine the potential return on their investment or loan.

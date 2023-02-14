@@ -1,4 +1,4 @@
-<seo title="Laffer Curve" metakeywords="taxes laffer curve,laffer curve taxes,criticisms laffer curve,laffer curve criticized" metadescription="The Laffer Curve is a graphical representation of the relationship between tax rates and government revenue."/>
+<seo title="Laffer Curve" metakeywords="taxes laffer curve,laffer curve taxes,criticisms laffer curve,laffer curve criticized" metadescription="The Laffer Curve is a graphical representation of the relationship between tax rates and government revenue." />
 ===Introduction to the Laffer Curve===
 
 The Laffer Curve is a graphical representation of the relationship between tax rates and government revenue. It was developed by economist Arthur Laffer in the 1970s and has since become a cornerstone of modern economic theory. The curve is used to illustrate the concept of the “tax wedge”, which is the difference between the amount of money a taxpayer pays in taxes and the amount of money they would have paid if there were no taxes. The Laffer Curve is used to demonstrate how changes in tax rates can affect government revenue.

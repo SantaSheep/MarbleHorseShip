@@ -1,4 +1,4 @@
-<seo title="Discretionary Account" metakeywords="risks discretionary accounts,discretionary accounts type,introduction discretionary accounts,discretionary accounts" metadescription="Discretionary accounts are a type of financial account that allows the account holder to make decisions about how the funds in the account are invested."/>
+<seo title="Discretionary Account" metakeywords="risks discretionary accounts,discretionary accounts type,introduction discretionary accounts,discretionary accounts" metadescription="Discretionary accounts are a type of financial account that allows the account holder to make decisions about how the funds in the account are invested." />
 ===Introduction to Discretionary Accounts===
 
 Discretionary accounts are a type of financial account that allows the account holder to make decisions about how the funds in the account are invested. The account holder has the discretion to choose which investments to make and when to make them. This type of account is often used by investors who want to have more control over their investments and who want to be able to make decisions quickly and easily.

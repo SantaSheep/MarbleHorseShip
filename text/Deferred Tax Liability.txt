@@ -1,4 +1,4 @@
-<seo title="Deferred Tax Liability" metakeywords="deferred tax liability,concept deferred taxes,tax liability deferred,definition deferred tax" metadescription="Deferred tax liability is an accounting concept that refers to the amount of taxes that a company owes in the future."/>
+<seo title="Deferred Tax Liability" metakeywords="deferred tax liability,concept deferred taxes,tax liability deferred,definition deferred tax" metadescription="Deferred tax liability is an accounting concept that refers to the amount of taxes that a company owes in the future." />
 ===Introduction to Deferred Tax Liability===
 
 Deferred tax liability is an accounting concept that refers to the amount of taxes that a company owes in the future. It is a liability that is recognized on the [[Balance Sheet|balance sheet]] of a company and is based on the difference between the company’s [[Taxable Income|taxable income]] and its reported income. The deferred tax liability is the amount of taxes that the company will have to pay in the future, when the taxable income is greater than the reported income.

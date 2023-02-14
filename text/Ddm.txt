@@ -1,4 +1,4 @@
-<seo title="Ddm" metakeywords="introduction ddm dividend,dividend discount model,dividend payments ddm,ddm dividend" metadescription="The Dividend Discount Model (DDM) is a financial valuation model used to estimate the intrinsic value of a stock.The DDM was first developed by John Burr Williams in 1938."/>
+<seo title="Ddm" metakeywords="introduction ddm dividend,dividend discount model,dividend payments ddm,ddm dividend" metadescription="The Dividend Discount Model (DDM) is a financial valuation model used to estimate the intrinsic value of a stock.The DDM was first developed by John Burr Williams in 1938." />
 ===Introduction to DDM===
 
 The Dividend Discount Model (DDM) is a financial valuation model used to estimate the [[Intrinsic Value|intrinsic value]] of a stock. It is based on the premise that the value of a stock is equal to the [[Present Value|present value]] of all future dividend payments. The DDM is a popular tool among investors and analysts for valuing stocks, as it takes into account the expected future [[Cash Flow|cash flow]]s of a company and the [[Time Value Of Money|time value of money]].

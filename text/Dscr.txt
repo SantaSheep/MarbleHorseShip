@@ -1,4 +1,4 @@
-<seo title="Dscr" metakeywords="definition dscr debt,dscr financial metric,introduction dscr debt,dscr debt service" metadescription="Debt Service Coverage Ratio (DSCR) is a financial metric used to measure a company’s ability to service its debt obligations."/>
+<seo title="Dscr" metakeywords="definition dscr debt,dscr financial metric,introduction dscr debt,dscr debt service" metadescription="Debt Service Coverage Ratio (DSCR) is a financial metric used to measure a company’s ability to service its debt obligations." />
 ===Introduction to Dscr===
 
 [[Debt Service|Debt Service]] Coverage Ratio (DSCR) is a financial metric used to measure a company’s ability to service its debt obligations. It is a key indicator of a company’s financial health and is used by lenders to assess the risk of lending to a company. DSCR is calculated by dividing a company’s net [[Operating Income|operating income]] by its total debt service obligations. A higher DSCR indicates that a company has a greater ability to meet its debt obligations.

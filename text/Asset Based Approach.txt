@@ -1,4 +1,4 @@
-<seo title="Asset Based Approach" metakeywords="based approach asset,asset based approach,based approach financial,portfolio asset based" metadescription="A financial strategy that focuses on the use of assets to generate returns.This approach is based on the idea that assets can be used to generate income and capital gains."/>
+<seo title="Asset Based Approach" metakeywords="based approach asset,asset based approach,based approach financial,portfolio asset based" metadescription="A financial strategy that focuses on the use of assets to generate returns.This approach is based on the idea that assets can be used to generate income and capital gains." />
 ===Introduction to Asset Based Approach===
 
 Asset Based Approach is a financial strategy that focuses on the use of assets to generate returns. This approach is based on the idea that assets can be used to generate income and [[Capital Gain|capital gain]]s, and that these returns can be used to increase the value of the portfolio. Asset Based Approach is a popular strategy among investors, as it allows them to diversify their portfolios and take advantage of the potential for higher returns.

@@ -1,4 +1,4 @@
-<seo title="Product Line" metakeywords="product lines typically,product lines provide,product lines,product lines help" metadescription="Product line is a term used in the financial industry to refer to a group of related products or services."/>
+<seo title="Product Line" metakeywords="product lines typically,product lines provide,product lines,product lines help" metadescription="Product line is a term used in the financial industry to refer to a group of related products or services." />
 ===Introduction to Product Line===
 
 Product line is a term used in the financial industry to refer to a group of related products or services that are offered by a company. Product lines are typically organized by product type, such as [[Consumer Goods|consumer goods]], industrial goods, or services. Product lines are used to differentiate a company's offerings from those of its competitors and to create a competitive advantage. Product lines can also be used to create a brand identity and to increase customer loyalty.

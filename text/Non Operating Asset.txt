@@ -1,4 +1,4 @@
-<seo title="Non Operating Asset" metakeywords="nonoperating assets assets,nonoperating assets depreciated,nonoperating assets typically,introduction nonoperating assets" metadescription="Nonoperating assets are assets that are not used in the day-to-day operations of a business."/>
+<seo title="Non Operating Asset" metakeywords="nonoperating assets assets,nonoperating assets depreciated,nonoperating assets typically,introduction nonoperating assets" metadescription="Nonoperating assets are assets that are not used in the day-to-day operations of a business." />
 ===Introduction to Nonoperating Assets===
 
 Nonoperating assets are assets that are not used in the day-to-day operations of a business. These assets are typically held for long-term investments or for other purposes such as tax planning. Nonoperating assets are also known as non-[[Current Assets|current assets]] and are reported on the [[Balance Sheet|balance sheet]] of a company. Nonoperating assets are typically held for long-term investments or for other purposes such as tax planning.

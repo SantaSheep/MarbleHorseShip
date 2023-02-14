@@ -1,4 +1,4 @@
-<seo title="Ibm" metakeywords="ibm history ibm,corporation ibm history,ibm business model,history ibm ibm" metadescription="International Business Machines Corporation (IBM) is a multinational technology and consulting corporation headquartered in Armonk, New York."/>
+<seo title="Ibm" metakeywords="ibm history ibm,corporation ibm history,ibm business model,history ibm ibm" metadescription="International Business Machines Corporation (IBM) is a multinational technology and consulting corporation headquartered in Armonk, New York." />
 ===Introduction to IBM===
 
 International Business Machines Corporation (IBM) is a multinational technology and consulting corporation headquartered in Armonk, New York. Founded in 1911, IBM is one of the world’s largest technology companies, providing a wide range of products and services in the areas of [[Cloud Computing|cloud computing]], artificial intelligence, analytics, blockchain, and quantum computing. IBM is a leader in the development of innovative technologies and solutions that help businesses and organizations around the world to succeed.

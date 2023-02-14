@@ -1,4 +1,4 @@
-<seo title="Time Value Of Money" metakeywords="time value money,value money compounding,money compounding,money future value" metadescription="Time value of money is a fundamental principle of finance that states that money has a different value at different points in time."/>
+<seo title="Time Value Of Money" metakeywords="time value money,value money compounding,money compounding,money future value" metadescription="Time value of money is a fundamental principle of finance that states that money has a different value at different points in time." />
 ===Introduction to Time Value of Money===
 
 The concept of time value of money (TVM) is a fundamental principle of finance that states that money has a different value at different points in time. This concept is based on the idea that money today is worth more than money in the future due to the potential for it to earn interest. The concept of time value of money is used to evaluate investments, calculate loan payments, and determine the [[Present Value|present value]] of future [[Cash Flow|cash flow]]s.

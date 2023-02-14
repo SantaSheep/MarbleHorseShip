@@ -1,4 +1,4 @@
-<seo title="Economic Profit" metakeywords="example economic profit,economic profit measure,economic profit consists,economic profit example" metadescription="Economic profit is defined as the difference between a company’s total revenue and its total opportunity costs."/>
+<seo title="Economic Profit" metakeywords="example economic profit,economic profit measure,economic profit consists,economic profit example" metadescription="Economic profit is defined as the difference between a company’s total revenue and its total opportunity costs." />
 ===Introduction to Economic Profit===
 
 Economic profit is a measure of a company’s performance that takes into account both its [[Accounting Profit|accounting profit]]s and its [[Opportunity Cost|opportunity cost]]s. It is a more comprehensive measure of a company’s performance than accounting profit, which only considers the company’s revenues and expenses. Economic profit is an important concept for businesses to understand, as it can help them make better decisions about their operations and investments.

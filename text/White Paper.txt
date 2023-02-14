@@ -1,4 +1,4 @@
-<seo title="White Paper" metakeywords="term whitepaper used,whitepapers typically,whitepapers typically written,industry whitepapers typically" metadescription="A whitepaper is a document that provides an in-depth analysis of a particular topic or issue."/>
+<seo title="White Paper" metakeywords="term whitepaper used,whitepapers typically,whitepapers typically written,industry whitepapers typically" metadescription="A whitepaper is a document that provides an in-depth analysis of a particular topic or issue." />
 ===Introduction to Whitepaper===
 
 A whitepaper is a document that provides an in-depth analysis of a particular topic or issue. It is typically used by businesses, organizations, and governments to explain their policies, products, or services. Whitepapers are often used to provide detailed information about a particular subject, such as a new technology, a new product, or a new service. They are also used to explain the benefits of a particular solution or to provide an overview of a particular industry. Whitepapers are typically written in a formal, academic tone and are often used to educate and inform potential customers or stakeholders.

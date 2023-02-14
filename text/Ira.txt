@@ -1,4 +1,4 @@
-<seo title="Ira" metakeywords="iras types,retirement iras,types iras available,iras roth iras" metadescription="An Individual Retirement Account (IRA) is a type of retirement savings account that allows individuals to save for retirement on a tax-advantaged basis."/>
+<seo title="Ira" metakeywords="iras types,retirement iras,types iras available,iras roth iras" metadescription="An Individual Retirement Account (IRA) is a type of retirement savings account that allows individuals to save for retirement on a tax-advantaged basis." />
 ===Introduction to IRA===
 
 An Individual Retiremen[[T Account|t Account]] (IRA) is a type of retirement savings account that allows individuals to save for retirement on a tax-advantaged basis. IRAs are available to individuals who are not covered by an employer-sponsored retirement plan, such as a 401(k). IRAs are also available to individuals who are covered by an employer-sponsored retirement plan, but who wish to save additional funds for retirement. IRAs are regulated by the Internal Revenue Service (IRS) and offer a variety of tax benefits.

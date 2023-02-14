@@ -1,4 +1,4 @@
-<seo title="Down Round" metakeywords="valuation downrounds,investors downround,downround type financing,higher valuation downrounds" metadescription="A downround is a type of financing round in which the valuation of a company is lower than the previous round."/>
+<seo title="Down Round" metakeywords="valuation downrounds,investors downround,downround type financing,higher valuation downrounds" metadescription="A downround is a type of financing round in which the valuation of a company is lower than the previous round." />
 ===Introduction to Downround===
 
 A downround is a type of financing round in which the valuation of a company is lower than the valuation of the previous round. This type of financing round is typically used when a company is unable to raise capital at a higher valuation. Downrounds are a common occurrence in the [[Venture Capital|venture capital]] industry, and can have a significant impact on the company’s future prospects.

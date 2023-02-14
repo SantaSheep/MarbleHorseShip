@@ -1,4 +1,4 @@
-<seo title="Autodesk" metakeywords="autodesk business model,autodesk business,business model autodesk,autodesk" metadescription="Autodesk is a leading provider of 3D design, engineering, and entertainment software."/>
+<seo title="Autodesk" metakeywords="autodesk business model,autodesk business,business model autodesk,autodesk" metadescription="Autodesk is a leading provider of 3D design, engineering, and entertainment software." />
 ===Introduction to Autodesk===
 
 Autodesk is a leading provider of 3D design, engineering, and entertainment software. Founded in 1982, Autodesk has grown to become a global leader in 3D design, engineering, and entertainment software. Autodesk’s products are used by millions of professionals in a variety of industries, including architecture, engineering, construction, manufacturing, media and entertainment, and more. Autodesk’s software is used to create everything from 3D models and animations to digital prototypes and simulations. Autodesk’s products are available in a variety of formats, including desktop, cloud, and mobile.

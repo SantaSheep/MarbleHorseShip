@@ -1,4 +1,4 @@
-<seo title="Working Capital Turnover" metakeywords="working capital turnover,turnover working capital,capital turnover working,capital turnover financial" metadescription="Working capital turnover is a financial ratio that measures the efficiency of a company’s use of its working capital."/>
+<seo title="Working Capital Turnover" metakeywords="working capital turnover,turnover working capital,capital turnover working,capital turnover financial" metadescription="Working capital turnover is a financial ratio that measures the efficiency of a company’s use of its working capital." />
 ===Introduction to Working Capital Turnover===
 
 [[Working Capital|Working capital]] turnover is a financial ratio that measures the efficiency of a company’s use of its working capital. It is used to assess the liquidity of a company and its ability to generate [[Cash Flow|cash flow]] from its operations. Working capital turnover is an important indicator of a company’s financial health and can be used to compare the performance of different companies in the same industry.

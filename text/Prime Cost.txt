@@ -1,4 +1,4 @@
-<seo title="Prime Cost" metakeywords="prime cost defined,definition prime cost,prime cost producing,cost prime expense" metadescription="Prime cost is the sum of all direct costs associated with the production of a product or service, including materials, labor, and overhead."/>
+<seo title="Prime Cost" metakeywords="prime cost defined,definition prime cost,prime cost producing,cost prime expense" metadescription="Prime cost is the sum of all direct costs associated with the production of a product or service, including materials, labor, and overhead." />
 ===Introduction to Prime Cost===
 
 Prime cost is a term used in accounting and finance to refer to the cost of producing a product or providing a service. It is the sum of all [[Direct Cost|direct cost]]s associated with the production of a product or service, including materials, labor, and overhead. Prime cost is also known as direct cost or prime expense. It is an important concept in [[Cos[[T Account|t Account]]ing|cost accounting]] and is used to determine the profitability of a business.

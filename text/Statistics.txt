@@ -1,4 +1,4 @@
-<seo title="Statistics" metakeywords="finance statistics used,statistics finance,statistics finance statistics,statistics essential finance" metadescription="Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, and presentation of data."/>
+<seo title="Statistics" metakeywords="finance statistics used,statistics finance,statistics finance statistics,statistics essential finance" metadescription="Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, and presentation of data." />
 ===Introduction to Statistics===
 
 Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, and presentation of data. It is used to describe, summarize, and draw conclusions from data. Statistics is used in many fields, including finance, economics, business, and science. It is an important tool for making decisions and understanding the world around us.

@@ -1,4 +1,4 @@
-<seo title="Net Income After Taxes Ni At" metakeywords="niat net income,taxes niat defined,niat total income,taxes niat net" metadescription="Net Income After Taxes (NIAT) is a financial term used to describe the amount of money a company has left after all taxes have been paid."/>
+<seo title="Net Income After Taxes Ni At" metakeywords="niat net income,taxes niat defined,niat total income,taxes niat net" metadescription="Net Income After Taxes (NIAT) is a financial term used to describe the amount of money a company has left after all taxes have been paid." />
 ===Introduction to Net Income After Taxes (NIAT)===
 
 [[Net Income|Net Income]] After Taxes (NIAT) is a financial term used to describe the amount of money a company has left after all taxes have been paid. It is an important measure of a company's financial health and is used to determine the company's profitability. NIAT is also used to compare the performance of different companies in the same industry.

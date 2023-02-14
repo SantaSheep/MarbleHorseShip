@@ -1,4 +1,4 @@
-<seo title="Purchasing Power" metakeywords="purchasing power measured,measuring purchasing power,measure purchasing power,introduction purchasing power" metadescription="Purchasing power is a term used to describe the ability of an individual or group to purchase goods and services."/>
+<seo title="Purchasing Power" metakeywords="purchasing power measured,measuring purchasing power,measure purchasing power,introduction purchasing power" metadescription="Purchasing power is a term used to describe the ability of an individual or group to purchase goods and services." />
 ===Introduction to Purchasing Power===
 
 Purchasing power is a term used to describe the ability of an individual or group to purchase goods and services. It is a measure of the amount of goods and services that can be purchased with a given amount of money. Purchasing power is affected by a variety of factors, including inflation, [[Exchange Rate|exchange rate]]s, and the availability of goods and services. It is an important concept in economics, as it helps to explain how changes in the economy can affect the purchasing power of individuals and groups.

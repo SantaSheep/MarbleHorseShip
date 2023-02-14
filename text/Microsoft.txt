@@ -1,4 +1,4 @@
-<seo title="Microsoft" metakeywords="microsoft business model,business model microsoft,industry history microsoft,technology industry microsoft" metadescription="Microsoft is one of the world’s largest technology companies."/>
+<seo title="Microsoft" metakeywords="microsoft business model,business model microsoft,industry history microsoft,technology industry microsoft" metadescription="Microsoft is one of the world’s largest technology companies." />
 ===Introduction to Microsoft===
 
 Microsoft is one of the world’s largest technology companies, with a presence in nearly every sector of the technology industry. Founded in 1975 by Bill Gates and Paul Allen, Microsoft has grown to become a global leader in software, hardware, and services. Microsoft’s products and services are used by millions of people around the world, and its [[Financial Performance|financial performance]] has been consistently strong over the years. In this article, we will explore the history of Microsoft, its business model, its financial performance, and its impact on the technology industry.

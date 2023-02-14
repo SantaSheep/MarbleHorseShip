@@ -1,4 +1,4 @@
-<seo title="Fin Tech" metakeywords="fintech revolutionizing,benefits fintech challenges,fintech benefits consumers,fintech despite benefits" metadescription="Fintech is a rapidly growing industry that is transforming the way financial services are provided."/>
+<seo title="Fin Tech" metakeywords="fintech revolutionizing,benefits fintech challenges,fintech benefits consumers,fintech despite benefits" metadescription="Fintech is a rapidly growing industry that is transforming the way financial services are provided." />
 ===Introduction to Fintech===
 
 Fintech, or financial technology, is a term used to describe the use of technology to improve the delivery of financial services. It is a rapidly growing industry that is transforming the way financial services are provided, from banking and payments to investments and insurance. Fintech is revolutionizing the way people access and use financial services, making them more efficient, secure, and accessible.

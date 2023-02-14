@@ -1,4 +1,4 @@
-<seo title="Sga" metakeywords="sga defined costs,overhead costs sga,advertising expenses sga,costs tracking sga" metadescription="SGA, or Selling, General, and Administrative expenses, is a term used to describe the costs associated with running a business."/>
+<seo title="Sga" metakeywords="sga defined costs,overhead costs sga,advertising expenses sga,costs tracking sga" metadescription="SGA, or Selling, General, and Administrative expenses, is a term used to describe the costs associated with running a business." />
 ===Introduction to SGA===
 
 SGA, or Selling, General, and [[Administrative Expenses|Administrative expenses]], is a term used to describe the costs associated with running a business. These costs include everything from salaries and wages to marketing and advertising expenses. SGA is an important part of any business’s [[Financial Statements|financial statements]] and can be used to measure the efficiency of a company’s operations. In this article, we will discuss the definition of SGA, its components, examples, benefits, and challenges.

@@ -1,4 +1,4 @@
-<seo title="Paypal" metakeywords="paypal business model,business model paypal,paypal business,paypal paypal founded" metadescription="PayPal is a digital payments platform that enables individuals and businesses to send and receive money online."/>
+<seo title="Paypal" metakeywords="paypal business model,business model paypal,paypal business,paypal paypal founded" metadescription="PayPal is a digital payments platform that enables individuals and businesses to send and receive money online." />
 ===Introduction to PayPal===
 
 PayPal is a digital payments platform that enables individuals and businesses to send and receive money online. It is one of the most popular payment methods in the world, with over 305 million active users and over 17 million merchants. PayPal is a subsidiary of eBay, and is headquartered in San Jose, California. PayPal offers a variety of services, including online payments, money transfers, and merchant services. PayPal also offers a range of financial services, such as credit and [[Debit Card|debit card]]s, and a mobile wallet.

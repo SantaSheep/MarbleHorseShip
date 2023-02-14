@@ -1,4 +1,4 @@
-<seo title="Social Media" metakeywords="social media platforms,introduction social media,social media responsibly,social media benefits" metadescription="Social media is a form of communication that allows users to share information, ideas, and opinions with others in a virtual environment."/>
+<seo title="Social Media" metakeywords="social media platforms,introduction social media,social media responsibly,social media benefits" metadescription="Social media is a form of communication that allows users to share information, ideas, and opinions with others in a virtual environment." />
 ===Introduction to Social Media===
 
 Social media is a term used to describe the various forms of online communication and interaction that are available to users of the internet. It is a form of communication that allows users to share information, ideas, and opinions with others in a virtual environment. Social media has become an integral part of our lives, and it is used by millions of people around the world.

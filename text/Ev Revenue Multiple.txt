@@ -1,4 +1,4 @@
-<seo title="Ev Revenue Multiple" metakeywords="ev revenue multiple,revenue enterprise value,company revenue ev,revenue definition ev" metadescription="Enterprise value (EV) revenue multiple is a financial metric used to measure the value of a company relative to its revenue."/>
+<seo title="Ev Revenue Multiple" metakeywords="ev revenue multiple,revenue enterprise value,company revenue ev,revenue definition ev" metadescription="Enterprise value (EV) revenue multiple is a financial metric used to measure the value of a company relative to its revenue." />
 ===Introduction to EV Revenue Multiple===
 
 [[Enterprise Value|Enterprise value]] (EV) revenue multiple is a financial metric used to measure the value of a company relative to its revenue. It is calculated by dividing the enterprise value of a company by its revenue. This metric is used to compare companies of different sizes and to assess the value of a company relative to its revenue.

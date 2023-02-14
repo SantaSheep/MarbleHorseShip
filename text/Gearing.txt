@@ -1,4 +1,4 @@
-<seo title="Gearing" metakeywords="investment gearing,gearing financial term,gearing involves borrowing,capital invested gearing" metadescription="Gearing is a financial term that refers to the use of borrowed funds to increase the potential return of an investment.There are two main types of gearing: debt and equity."/>
+<seo title="Gearing" metakeywords="investment gearing,gearing financial term,gearing involves borrowing,capital invested gearing" metadescription="Gearing is a financial term that refers to the use of borrowed funds to increase the potential return of an investment.There are two main types of gearing: debt and equity." />
 ===Introduction to Gearing===
 
 Gearing is a financial term that refers to the use of borrowed funds to increase the potential return of an investment. It is a way of leveraging the capital of an investor to increase the potential [[Return On Investment|return on investment]]. Gearing is also known as leverage, and it is a common practice in the financial world. Gearing can be used to increase the return on investment, but it also carries with it a greater risk of loss.

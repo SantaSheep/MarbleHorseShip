@@ -1,4 +1,4 @@
-<seo title="Yield Curve" metakeywords="yield curve typically,yield curves,yield curve,yield curve yields" metadescription="A yield curve is a graphical representation of the relationship between the yields of bonds of different maturities."/>
+<seo title="Yield Curve" metakeywords="yield curve typically,yield curves,yield curve,yield curve yields" metadescription="A yield curve is a graphical representation of the relationship between the yields of bonds of different maturities." />
 ===Introduction to Yieldcurve===
 
 A yield curve is a graphical representation of the relationship between the yields of bonds of different maturities. It is used to compare the yields of bonds of different maturities and to assess the overall shape of the yield curve. The yield curve is an important tool for investors, as it provides insight into the current state of the economy and can be used to make investment decisions.

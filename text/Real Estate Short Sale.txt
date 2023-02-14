@@ -1,4 +1,4 @@
-<seo title="Real Estate Short Sale" metakeywords="real estate short,short sale,short sale avoiding,short sale difficult" metadescription="Real estate short sale is a financial transaction in which a homeowner sells their property for less than the amount owed on the mortgage."/>
+<seo title="Real Estate Short Sale" metakeywords="real estate short,short sale,short sale avoiding,short sale difficult" metadescription="Real estate short sale is a financial transaction in which a homeowner sells their property for less than the amount owed on the mortgage." />
 ===Introduction to Real Estate Short Sale===
 
 [[Real Estate|Real estate]] short sale is a financial transaction in which a homeowner sells their property for less than the amount owed on the mortgage. This type of sale is often used as an alternative to foreclosure, as it allows the homeowner to avoid the negative credit consequences of foreclosure. It is also a way for lenders to avoid the costs associated with foreclosure. In a real estate short sale, the lender agrees to accept less than the full amount owed on the mortgage in exchange for the homeowner's agreement to sell the property.

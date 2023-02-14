@@ -1,4 +1,4 @@
-<seo title="Liquidation Value" metakeywords="liquidation value liquidation,liquidation value provides,liquidation value typically,introduction liquidation value" metadescription="Liquidation value is a term used in finance to describe the estimated value of a company’s assets if the company were to be liquidated."/>
+<seo title="Liquidation Value" metakeywords="liquidation value liquidation,liquidation value provides,liquidation value typically,introduction liquidation value" metadescription="Liquidation value is a term used in finance to describe the estimated value of a company’s assets if the company were to be liquidated." />
 ===Introduction to Liquidation Value===
 
 Liquidation value is a term used in finance to describe the estimated value of a company’s assets if the company were to be liquidated. Liquidation value is an important concept for investors, creditors, and other stakeholders in a company, as it provides an indication of the company’s financial health and the potential [[Return On Investment|return on investment]].

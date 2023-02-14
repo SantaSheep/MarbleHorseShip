@@ -1,4 +1,4 @@
-<seo title="Expected Return" metakeywords="expected return concept,definition expected return,introduction expected return,expected return investment" metadescription="Expected return is a concept used in finance to measure the expected return on an investment."/>
+<seo title="Expected Return" metakeywords="expected return concept,definition expected return,introduction expected return,expected return investment" metadescription="Expected return is a concept used in finance to measure the expected return on an investment." />
 ===Introduction to Expected Return===
 
 Expected return is a concept used in finance to measure the expected return on an investment. It is a measure of the expected return on an investment over a given period of time. It is used to compare different investments and to determine the risk associated with each investment. The expected return is calculated by taking into account the expected [[Rate Of Return|rate of return]], the risk associated with the investment, and the time horizon of the investment.

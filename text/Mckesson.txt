@@ -1,4 +1,4 @@
-<seo title="Mckesson" metakeywords="healthcare industry mckesson,mckesson impact healthcare,mckesson global healthcare,mckesson business model" metadescription="Mckesson is one of the oldest and largest healthcare companies in the world."/>
+<seo title="Mckesson" metakeywords="healthcare industry mckesson,mckesson impact healthcare,mckesson global healthcare,mckesson business model" metadescription="Mckesson is one of the oldest and largest healthcare companies in the world." />
 ===Introduction to Mckesson===
 
 Mckesson Corporation is a global healthcare services and information technology company that provides a range of services to healthcare providers, payers, and consumers. Founded in 1833, Mckesson is one of the oldest and largest healthcare companies in the world. The company is headquartered in San Francisco, California and has operations in more than 30 countries. Mckesson provides a wide range of services, including [[Supply Chain|supply chain]] management, healthcare information technology, pharmacy automation, and consulting services.

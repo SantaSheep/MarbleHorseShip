@@ -1,4 +1,4 @@
-<seo title="Negotiable Instrument" metakeywords="negotiable instrument law,negotiable instruments governed,negotiable instruments legally,introduction negotiable instruments" metadescription="A negotiable instrument is a document that serves as a written agreement between two parties."/>
+<seo title="Negotiable Instrument" metakeywords="negotiable instrument law,negotiable instruments governed,negotiable instruments legally,introduction negotiable instruments" metadescription="A negotiable instrument is a document that serves as a written agreement between two parties." />
 ===Introduction to Negotiable Instruments===
 
 A negotiable instrument is a document that serves as a written agreement between two parties, typically involving the transfer of money or goods. Negotiable instruments are used in a variety of financial transactions, including loans, investments, and payments. Negotiable instruments are legally binding documents that can be transferred from one party to another, and they are recognized by law as having a certain value.

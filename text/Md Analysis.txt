@@ -1,4 +1,4 @@
-<seo title="Md Analysis" metakeywords="analysis molecular dynamics,protein dynamics analysis,mdanalysis powerful versatile,mdanalysis used" metadescription="MDAnalysis is a powerful and versatile open source software package for the analysis of molecular dynamics () trajectories."/>
+<seo title="Md Analysis" metakeywords="analysis molecular dynamics,protein dynamics analysis,mdanalysis powerful versatile,mdanalysis used" metadescription="MDAnalysis is a powerful and versatile open source software package for the analysis of molecular dynamics () trajectories." />
 ===Introduction to MDAnalysis===
 
 MDAnalysis is a powerful and versatile open source software package for the analysis of molecular dynamics () trajectories. It is written in the Python programming language and is designed to be used in conjunction with other  packages such as GROMACS, NAMD, and LAMMPS. MDAnalysis provides a comprehensive set of tools for analyzing  trajectories, including the ability to calculate various properties of the system, visualize the trajectory, and perform statistical analysis.

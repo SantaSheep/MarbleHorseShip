@@ -1,4 +1,4 @@
-<seo title="Days Sales Inventory Dsi" metakeywords="sales inventory dsi,dsi average inventory,sales calculating dsi,inventory dsi financial" metadescription="Days Sales Inventory (DSI) is a financial metric used to measure the average number of days it takes a company to sell its inventory."/>
+<seo title="Days Sales Inventory Dsi" metakeywords="sales inventory dsi,dsi average inventory,sales calculating dsi,inventory dsi financial" metadescription="Days Sales Inventory (DSI) is a financial metric used to measure the average number of days it takes a company to sell its inventory." />
 ===Introduction to Days Sales Inventory (DSI)===
 
 Days Sales Inventory (DSI) is a financial metric used to measure the average number of days it takes a company to sell its inventory. It is calculated by dividing the [[Average Inventory|average inventory]] of a company by its cost of goods sold (COGS) and multiplying the result by the number of days in the period. DSI is a useful tool for investors and analysts to assess the efficiency of a company’s [[Inventory Management|inventory management]] and its ability to generate sales.

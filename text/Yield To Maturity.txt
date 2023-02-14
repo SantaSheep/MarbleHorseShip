@@ -1,4 +1,4 @@
-<seo title="Yield To Maturity" metakeywords="yield maturity ytm,maturity ytm calculated,bond investment ytm,value bond ytm" metadescription="Yield to Maturity (YTM) is a financial term used to describe the rate of return an investor can expect to receive from a bond if it is held until the maturity date."/>
+<seo title="Yield To Maturity" metakeywords="yield maturity ytm,maturity ytm calculated,bond investment ytm,value bond ytm" metadescription="Yield to Maturity (YTM) is a financial term used to describe the rate of return an investor can expect to receive from a bond if it is held until the maturity date." />
 ===Introduction to Yield to Maturity===
 
 Yield to Maturity (YTM) is a financial term used to describe the [[Rate Of Return|rate of return]] an investor can expect to receive from a bond if it is held until the maturity date. YTM is a measure of the total return of a bond, taking into account both the coupon payments and the difference between the purchase price and the [[Face Value|face value]] of the bond. YTM is an important concept for investors to understand when evaluating the potential return of a bond investment.

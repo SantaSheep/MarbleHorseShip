@@ -1,4 +1,4 @@
-<seo title="Pbo" metakeywords="pbo present value,pbo financial term,advantages pbo,benefits outstanding pbo" metadescription="Present Value of Benefits Outstanding (PBO) is a financial term used to describe the present value of future benefits that are expected to be paid out over a period of time."/>
+<seo title="Pbo" metakeywords="pbo present value,pbo financial term,advantages pbo,benefits outstanding pbo" metadescription="Present Value of Benefits Outstanding (PBO) is a financial term used to describe the present value of future benefits that are expected to be paid out over a period of time." />
 ===Introduction to PBO===
 
 [[Present Value|Present Value]] of Benefits Outstanding (PBO) is a financial term used to describe the present value of future benefits that are expected to be paid out over a period of time. It is a measure of the current value of future benefits that are expected to be paid out in the future. PBO is used to assess the financial health of a company or organization and is an important tool for financial planning.

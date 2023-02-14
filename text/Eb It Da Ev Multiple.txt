@@ -1,4 +1,4 @@
-<seo title="Eb It Da Ev Multiple" metakeywords="ebitda ev multiple,value ebitda ev,ebitda enterprise value,definition ebitda ev" metadescription="Ebitda Ev Multiple, or Earnings Before Interest, Taxes, Depreciation, and Amortization Enterprise Value Multiple, is a financial metric used to measure the value of a company."/>
+<seo title="Eb It Da Ev Multiple" metakeywords="ebitda ev multiple,value ebitda ev,ebitda enterprise value,definition ebitda ev" metadescription="Ebitda Ev Multiple, or Earnings Before Interest, Taxes, Depreciation, and Amortization Enterprise Value Multiple, is a financial metric used to measure the value of a company." />
 ===Introduction to Ebitda Ev Multiple===
 
 Ebitda Ev Multiple, or Earnings Before Interest, Taxes, Depreciation, and Amortization [[Enterprise Value|Enterprise Value]] Multiple, is a financial metric used to measure the value of a company. It is calculated by dividing the enterprise value of a company by its Ebitda. The Ebitda Ev Multiple is a useful tool for investors and analysts to compare the relative value of companies in the same industry.

@@ -1,4 +1,4 @@
-<seo title="Crowding Out Effect" metakeywords="crowding effect government,economy crowding effect,crowding effect economic,investment effects crowding" metadescription="The crowding out effect is an economic phenomenon that occurs when increased government spending leads to a decrease in private investment."/>
+<seo title="Crowding Out Effect" metakeywords="crowding effect government,economy crowding effect,crowding effect economic,investment effects crowding" metadescription="The crowding out effect is an economic phenomenon that occurs when increased government spending leads to a decrease in private investment." />
 ===Introduction to the Crowding Out Effect===
 
 The crowding out effect is an economic phenomenon that occurs when increased government spending leads to a decrease in private investment. This effect is caused by the government taking up resources that would otherwise be used by the [[Private Sector|private sector]], such as labor, capital, and land. This can lead to a decrease in [[Economic Growth|economic growth]] and a decrease in the overall level of investment in the economy.

@@ -1,4 +1,4 @@
-<seo title="Unit Of Production Method" metakeywords="disadvantages unit production,advantages unit production,unit production method,production method unit" metadescription="The Unit of Production Method is used to determine the cost of an asset that is used in the production of goods or services."/>
+<seo title="Unit Of Production Method" metakeywords="disadvantages unit production,advantages unit production,unit production method,production method unit" metadescription="The Unit of Production Method is used to determine the cost of an asset that is used in the production of goods or services." />
 ===Introduction to Unit of Production Method===
 
 The Unit of Production Method is a method of accounting for the cost of an asset over its [[Useful Life|useful life]]. This method is used to determine the cost of an asset that is used in the production of goods or services. It is based on the number of units of production that the asset is used for. This method is used to allocate the cost of an asset over its useful life, rather than allocating the cost in the year of purchase.

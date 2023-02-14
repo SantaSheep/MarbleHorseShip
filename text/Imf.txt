@@ -1,4 +1,4 @@
-<seo title="Imf" metakeywords="introduction imf international,imf international organization,economic imf established,imf established" metadescription="The International Monetary Fund (IMF) is an international organization that works to promote global economic stability and growth."/>
+<seo title="Imf" metakeywords="introduction imf international,imf international organization,economic imf established,imf established" metadescription="The International Monetary Fund (IMF) is an international organization that works to promote global economic stability and growth." />
 ===Introduction to IMF===
 
 The International Monetary Fund (IMF) is an international organization that works to promote global economic stability and growth. It was established in 1945 to help countries manage their balance of payments and [[Exchange Rate|exchange rate]] issues. The IMF is based in Washington,  and is made up of 189 member countries. It is funded by contributions from its member countries and provides loans to countries in need of financial assistance. The IMF also provides technical assistance and advice to its member countries on economic and financial policies.

@@ -1,4 +1,4 @@
-<seo title="Net Interest Margin" metakeywords="net margin nim,nim financial ratio,margin nim financial,margin nim calculated" metadescription="Net Interest Margin (NIM) is a financial ratio that measures the profitability of a bank or other financial institution."/>
+<seo title="Net Interest Margin" metakeywords="net margin nim,nim financial ratio,margin nim financial,margin nim calculated" metadescription="Net Interest Margin (NIM) is a financial ratio that measures the profitability of a bank or other financial institution." />
 ===Introduction to Net Interest Margin===
 
 Net Interest Margin (NIM) is a financial ratio that measures the profitability of a bank or other [[Financial Institution|financial institution]]. It is calculated by subtracting the cost of funds from the interest income earned on loans and investments. NIM is an important indicator of a bank’s financial health and is used to compare the performance of different banks.

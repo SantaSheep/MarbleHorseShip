@@ -1,4 +1,4 @@
-<seo title="Debt Gdp Ratio" metakeywords="debt gdp ratio,gdp ratio debt,ratio debt gdp,calculating debt gdp" metadescription=""/>
+<seo title="Debt Gdp Ratio" metakeywords="debt gdp ratio,gdp ratio debt,ratio debt gdp,calculating debt gdp" metadescription="" />
 ===Introduction to Debt-to-GDP Ratio===
 
 The debt-to-GDP ratio is a measure of a country’s total debt in relation to its gross domestic product (GDP). It is used to assess the sustainability of a country’s debt burden and to compare the debt levels of different countries. The debt-to-GDP ratio is also known as the debt-to-income ratio or the debt-to-output ratio.

@@ -1,4 +1,4 @@
-<seo title="Consumer Price Index" metakeywords="consumer cpi useful,cpi used measure,cpi useful measure,cpi important economic" metadescription="Consumer Price Index (CPI) is a measure of the average change in prices over time for a basket of goods and services purchased by consumers."/>
+<seo title="Consumer Price Index" metakeywords="consumer cpi useful,cpi used measure,cpi useful measure,cpi important economic" metadescription="Consumer Price Index (CPI) is a measure of the average change in prices over time for a basket of goods and services purchased by consumers." />
 ===Introduction to Consumer Price Index===
 
 The Consumer Price Index (CPI) is a measure of the average change in prices over time for a basket of goods and services purchased by consumers. It is used to measure inflation and is one of the most widely used economic indicators. The CPI is calculated by the Bureau of Labor Statistics (BLS) and is released monthly. The CPI is used to adjust wages, pensions, and other benefits for inflation, and is also used to adjust the cost of living allowances for government employees.

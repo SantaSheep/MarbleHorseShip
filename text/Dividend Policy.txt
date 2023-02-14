@@ -1,4 +1,4 @@
-<seo title="Dividend Policy" metakeywords="dividend policy factors,introduction dividend policy,conclusion dividend policies,dividend policies" metadescription="A dividend policy is a set of guidelines that a company uses to determine how much of its profits it will pay out to shareholders in the form of dividends."/>
+<seo title="Dividend Policy" metakeywords="dividend policy factors,introduction dividend policy,conclusion dividend policies,dividend policies" metadescription="A dividend policy is a set of guidelines that a company uses to determine how much of its profits it will pay out to shareholders in the form of dividends." />
 ===Introduction to Dividend Policy===
 
 A dividend policy is a set of guidelines that a company uses to determine how much of its profits it will pay out to shareholders in the form of dividends. Dividend policies are important for investors, as they provide an indication of how much of a company’s profits will be returned to shareholders. Dividend policies can also be used to signal a company’s financial health and its future prospects.

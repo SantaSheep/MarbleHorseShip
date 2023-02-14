@@ -1,4 +1,4 @@
-<seo title="Hedge Accounting" metakeywords="hedge accounting used,definition hedge accounting,hedge accounting,introduction hedge accounting" metadescription="Hedge accounting is a financial accounting technique used to manage risk and protect against potential losses."/>
+<seo title="Hedge Accounting" metakeywords="hedge accounting used,definition hedge accounting,hedge accounting,introduction hedge accounting" metadescription="Hedge accounting is a financial accounting technique used to manage risk and protect against potential losses." />
 ===Introduction to Hedge Accounting===
 
 Hedge accounting is a [[Financial Accounting|financial accounting]] technique used to manage risk and protect against potential losses. It is a form of [[Risk Management|risk management]] that involves the use of derivatives, such as futures, options, and swaps, to reduce the risk of losses from changes in the value of assets or liabilities. Hedge accounting is used by companies to reduce the volatility of their [[Financial Statements|financial statements]] and to protect against potential losses.

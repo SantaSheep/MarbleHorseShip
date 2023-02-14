@@ -1,4 +1,4 @@
-<seo title="Percentage Of Completion Method" metakeywords="pcm accounting method,method pcm accounting,completion method pcm,percentage completion method" metadescription="The Percentage of Completion Method (PCM) is an accounting method used to recognize revenue from long-term contracts."/>
+<seo title="Percentage Of Completion Method" metakeywords="pcm accounting method,method pcm accounting,completion method pcm,percentage completion method" metadescription="The Percentage of Completion Method (PCM) is an accounting method used to recognize revenue from long-term contracts." />
 ===Introduction to Percentage of Completion Method===
 
 The Percentage of Completion Method (PCM) is an [[Accounting Method|accounting method]] used to recognize revenue from long-term contracts. It is used to recognize revenue from contracts that span multiple accounting periods. The PCM is based on the concept that revenue should be recognized in the period in which it is earned. This method is used to recognize revenue from contracts that are not completed in a single accounting period.

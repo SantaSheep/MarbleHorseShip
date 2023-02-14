@@ -1,4 +1,4 @@
-<seo title="Covered Call" metakeywords="covered calls,types covered calls,coveredcall covered options,coveredcall covered strategy" metadescription="A covered call is an options strategy that involves the simultaneous purchase of a stock and the sale of a call option on the same stock."/>
+<seo title="Covered Call" metakeywords="covered calls,types covered calls,coveredcall covered options,coveredcall covered strategy" metadescription="A covered call is an options strategy that involves the simultaneous purchase of a stock and the sale of a call option on the same stock." />
 ===Introduction to Coveredcall===
 
 A covered call is an options strategy that involves the simultaneous purchase of a stock and the sale of a [[Call Option|call option]] on the same stock. The strategy is used to generate income from the stock while limiting the potential for [[Capital Gain|capital gain]]s. The strategy is also known as a buy-write, as it involves buying the stock and writing a call option on the same stock. The strategy is popular among investors who are looking to generate income from their investments while limiting their risk.

@@ -1,4 +1,4 @@
-<seo title="Cash Flow Statement" metakeywords="disadvantages cashflow statement,introduction cashflow statement,cashflow statement,cash flow statement" metadescription="A cash flow statement is a financial statement that provides a summary of the cash inflows and outflows of a business over a given period of time."/>
+<seo title="Cash Flow Statement" metakeywords="disadvantages cashflow statement,introduction cashflow statement,cashflow statement,cash flow statement" metadescription="A cash flow statement is a financial statement that provides a summary of the cash inflows and outflows of a business over a given period of time." />
 ===Introduction to Cashflow Statement===
 
 A [[Cash Flow|cash flow]] statement is a financial statement that provides a summary of the cash inflows and outflows of a business over a given period of time. It is used to measure the liquidity of a business and to assess its ability to generate cash. The cash flow statement is one of the three primary [[Financial Statements|financial statements]] used to assess the financial health of a business, along with the [[Balance Sheet|balance sheet]] and [[Income Statement|income statement]].

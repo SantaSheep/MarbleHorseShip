@@ -1,4 +1,4 @@
-<seo title="Roy S Safety First Criterion" metakeywords="roys safety criterion,safety criterion roys,criterion roys safety,safety criterion financial" metadescription="Roys Safety First Criterion is a financial risk management tool developed by the late Professor William Roy in the 1950s."/>
+<seo title="Roy S Safety First Criterion" metakeywords="roys safety criterion,safety criterion roys,criterion roys safety,safety criterion financial" metadescription="Roys Safety First Criterion is a financial risk management tool developed by the late Professor William Roy in the 1950s." />
 ===Introduction to Roys Safety First Criterion===
 
 Roys Safety First Criterion is a [[Financial Risk|financial risk]] management tool developed by the late Professor William Roy in the 1950s. It is a method of evaluating the risk of a portfolio of investments by measuring the maximum potential loss that could be incurred. The criterion is based on the idea that the investor should always strive to minimize the maximum potential loss of their portfolio. The criterion is used by investors to assess the risk of their investments and to determine the optimal portfolio allocation.

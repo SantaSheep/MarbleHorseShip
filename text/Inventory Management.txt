@@ -1,4 +1,4 @@
-<seo title="Inventory Management" metakeywords="introduction inventory management,inventory management implementing,challenges inventory management,inventory management" metadescription="Inventory management is the process of managing the supply and demand of goods and services."/>
+<seo title="Inventory Management" metakeywords="introduction inventory management,inventory management implementing,challenges inventory management,inventory management" metadescription="Inventory management is the process of managing the supply and demand of goods and services." />
 ===Introduction to Inventory Management===
 
 Inventory management is the process of managing the supply and demand of goods and services in order to maximize profits and minimize costs. It involves the tracking and monitoring of inventory levels, the ordering of new inventory, and the storage and distribution of inventory. Inventory management is an important part of any business, as it helps to ensure that the right products are available when needed and that inventory levels are kept at an optimal level.

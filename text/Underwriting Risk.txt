@@ -1,4 +1,4 @@
-<seo title="Underwriting Risk" metakeywords="manage underwriting risk,managing underwriting risk,introduction underwriting risk,underwriting risk risk" metadescription="Underwriting risk is the risk that the underwriter will make a mistake in evaluating the loan or policy, resulting in a loss for the lender or insurer."/>
+<seo title="Underwriting Risk" metakeywords="manage underwriting risk,managing underwriting risk,introduction underwriting risk,underwriting risk risk" metadescription="Underwriting risk is the risk that the underwriter will make a mistake in evaluating the loan or policy, resulting in a loss for the lender or insurer." />
 ===Introduction to Underwriting Risk===
 
 Underwriting risk is the risk associated with the process of underwriting, which is the process of evaluating and approving a loan or insurance policy. Underwriting risk is the risk that the underwriter will make a mistake in evaluating the loan or policy, resulting in a loss for the lender or insurer. Underwriting risk is an important consideration for lenders and insurers, as it can have a significant impact on their profitability.

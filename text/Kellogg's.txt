@@ -1,4 +1,4 @@
-<seo title="Kellogg's" metakeywords="kellogg founded 1906,kellogg company 1922,kellogg company grown,kellogg company" metadescription="Kellogg’s is a multinational food manufacturing company that produces breakfast cereals, snacks, and other convenience foods."/>
+<seo title="Kellogg's" metakeywords="kellogg founded 1906,kellogg company 1922,kellogg company grown,kellogg company" metadescription="Kellogg’s is a multinational food manufacturing company that produces breakfast cereals, snacks, and other convenience foods." />
 ===Introduction to Kellogg’s===
 
 Kellogg’s is a multinational food manufacturing company that produces breakfast cereals, snacks, and other convenience foods. Founded in 1906 by Will Keith Kellogg, the company has grown to become one of the largest food companies in the world. Kellogg’s is headquartered in Battle Creek, Michigan and has operations in more than 180 countries. The company’s products are sold in over 180 countries and its brands include Corn Flakes, Special K, Pringles, and Pop-Tarts.

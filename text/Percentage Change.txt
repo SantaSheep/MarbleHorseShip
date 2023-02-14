@@ -1,4 +1,4 @@
-<seo title="Percentage Change" metakeywords="calculating percentage change,percentage change calculated,percentage change measure,percentage change formula" metadescription="Percentage change is a measure of the relative change in a quantity over a period of time."/>
+<seo title="Percentage Change" metakeywords="calculating percentage change,percentage change calculated,percentage change measure,percentage change formula" metadescription="Percentage change is a measure of the relative change in a quantity over a period of time." />
 ===Introduction to Percentage Change===
 
 Percentage change is a measure of the relative change in a quantity over a period of time. It is expressed as a percentage and is calculated by taking the difference between the initial and final values of a quantity and dividing it by the initial value. This calculation is then multiplied by 100 to express the result as a percentage. Percentage change is a useful tool for comparing changes in values over time and can be used to measure the performance of investments, the growth of a company, or the inflation rate of a country.

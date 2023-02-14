@@ -1,4 +1,4 @@
-<seo title="Multiple" metakeywords="market multiples,market multiples used,multiples used finance,financial metrics multiple" metadescription="Multiple is a term used in finance to describe a ratio or measure of a company’s value relative to its earnings or other financial metrics."/>
+<seo title="Multiple" metakeywords="market multiples,market multiples used,multiples used finance,financial metrics multiple" metadescription="Multiple is a term used in finance to describe a ratio or measure of a company’s value relative to its earnings or other financial metrics." />
 ===Introduction to Multiple===
 
 Multiple is a term used in finance to describe a ratio or measure of a company’s value relative to its earnings or other financial metrics. It is used to compare the value of a company to its peers or to the market as a whole. Multiples are used to assess the relative value of a company and can be used to make investment decisions.

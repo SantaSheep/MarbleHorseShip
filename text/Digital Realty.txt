@@ -1,4 +1,4 @@
-<seo title="Digital Realty" metakeywords="digital realty business,services digital realty,digital realty founded,realty digital realty" metadescription="Digital Realty is a leading global provider of data center, colocation, and interconnection solutions."/>
+<seo title="Digital Realty" metakeywords="digital realty business,services digital realty,digital realty founded,realty digital realty" metadescription="Digital Realty is a leading global provider of data center, colocation, and interconnection solutions." />
 ===Introduction to Digital Realty===
 
 Digital Realty is a leading global provider of data center, colocation, and interconnection solutions. The company was founded in 2004 and is headquartered in San Francisco, California. Digital Realty owns and operates more than 200 data centers in over 20 countries across the Americas, Europe, Asia, and Australia. The company provides a range of services, including colocation, cloud, and managed services, as well as interconnection solutions. Digital Realty is a publicly traded company listed on the New York Stock Exchange (NYSE: DLR).

@@ -1,4 +1,4 @@
-<seo title="Unsolicited Bid" metakeywords="takeovers unsolicited bids,unsolicited bid offer,company unsolicited bid,unsolicited bids bidder" metadescription="An unsolicited bid is an offer to purchase a company’s shares or assets that is made without the company's prior knowledge or approval."/>
+<seo title="Unsolicited Bid" metakeywords="takeovers unsolicited bids,unsolicited bid offer,company unsolicited bid,unsolicited bids bidder" metadescription="An unsolicited bid is an offer to purchase a company’s shares or assets that is made without the company's prior knowledge or approval." />
 ===Introduction to Unsolicited Bid===
 
 An unsolicited bid is an offer to purchase a company’s shares or assets that is made without the company’s prior knowledge or approval. Unsolicited bids are usually made by a third party, such as a [[Private Equity|private equity]] firm, and are often seen as [[Hostile Takeover|hostile takeover]]s. Unsolicited bids are often used as a way to acquire a company without the need for a lengthy negotiation process.

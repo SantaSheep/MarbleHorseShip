@@ -1,4 +1,4 @@
-<seo title="Insider Trading" metakeywords="legal insider trading,insider trading illegal,illegal insider trading,insider trading legal" metadescription="Insider trading is a term used to describe the trading of a company’s securities by individuals who have access to non-public information about the company."/>
+<seo title="Insider Trading" metakeywords="legal insider trading,insider trading illegal,illegal insider trading,insider trading legal" metadescription="Insider trading is a term used to describe the trading of a company’s securities by individuals who have access to non-public information about the company." />
 ===Introduction to Insider Trading===
 
 Insider trading is a term used to describe the trading of a company’s securities by individuals who have access to non-public information about the company. This type of trading is illegal in most countries, as it gives the trader an unfair advantage over other investors who do not have access to the same information. Insider trading can be done by corporate insiders, such as directors, officers, and employees, as well as by outsiders who have access to confidential information.

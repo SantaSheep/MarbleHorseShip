@@ -1,4 +1,4 @@
-<seo title="Eac" metakeywords="eac acronym earnings,operating expenses eac,eac financial metric,company eac calculated" metadescription="Eac is an acronym for Earnings Before Interest, Taxes, Depreciation, and Amortization."/>
+<seo title="Eac" metakeywords="eac acronym earnings,operating expenses eac,eac financial metric,company eac calculated" metadescription="Eac is an acronym for Earnings Before Interest, Taxes, Depreciation, and Amortization." />
 ===Introduction to Eac===
 
 Eac is an acronym for Earnings Before Interest, Taxes, Depreciation, and Amortization. It is a financial metric used to measure a company’s profitability before taking into account certain non-operating expenses. Eac is a useful tool for investors and analysts to assess a company’s [[Financial Performance|financial performance]] and compare it to other companies in the same industry.

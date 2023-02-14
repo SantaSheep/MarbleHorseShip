@@ -1,4 +1,4 @@
-<seo title="Laissez Faire" metakeywords="laissezfaire economic based,laissezfaire economic,economic policy laissezfaire,laissezfaire concept" metadescription="Laissezfaire is an economic system that is based on the idea of minimal government intervention in the economy."/>
+<seo title="Laissez Faire" metakeywords="laissezfaire economic based,laissezfaire economic,economic policy laissezfaire,laissezfaire concept" metadescription="Laissezfaire is an economic system that is based on the idea of minimal government intervention in the economy." />
 ===Introduction to Laissezfaire===
 
 Laissezfaire is an economic system that is based on the idea of minimal government intervention in the economy. It is a French term that literally translates to “let do” or “leave alone” and is often used to describe a hands-off approach to economic policy. Laissezfaire is based on the belief that the [[Free Market|free market]] should be allowed to operate without government interference, and that the market will naturally adjust to supply and demand.

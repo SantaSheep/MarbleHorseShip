@@ -1,4 +1,4 @@
-<seo title="Financial Accounting" metakeywords="principles financial accounting,financial accounting principles,accounting principles financial,financial accounting process" metadescription="Financial accounting is the process of recording, summarizing, and reporting financial transactions of a business."/>
+<seo title="Financial Accounting" metakeywords="principles financial accounting,financial accounting principles,accounting principles financial,financial accounting process" metadescription="Financial accounting is the process of recording, summarizing, and reporting financial transactions of a business." />
 ===Introduction to Financial Accounting===
 
 Financial accounting is the process of recording, summarizing, and reporting financial transactions of a business. It is the language of business and is used to communicate the financial position of a company to its stakeholders. Financial accounting is a critical component of any business, as it provides the necessary information to make informed decisions.

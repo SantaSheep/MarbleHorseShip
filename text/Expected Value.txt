@@ -1,4 +1,4 @@
-<seo title="Expected Value" metakeywords="expected value concept,definition expected value,expected value useful,value expected value" metadescription="Expected value is a concept used in finance and economics to measure the average outcome of a given situation."/>
+<seo title="Expected Value" metakeywords="expected value concept,definition expected value,expected value useful,value expected value" metadescription="Expected value is a concept used in finance and economics to measure the average outcome of a given situation." />
 ===Introduction to Expected Value===
 
 Expected value is a concept used in finance and economics to measure the average outcome of a given situation. It is used to determine the [[Expected Return|expected return]] on an investment or the expected outcome of a decision. It is a useful tool for investors and decision makers to assess the potential risks and rewards of a given situation.

@@ -1,4 +1,4 @@
-<seo title="Ros" metakeywords="ros measure profitability,ros return sales,return sales ros,return sales measure" metadescription="Ros is a financial term that stands for “Return on Sales’."/>
+<seo title="Ros" metakeywords="ros measure profitability,ros return sales,return sales ros,return sales measure" metadescription="Ros is a financial term that stands for “Return on Sales’." />
 ===Introduction to Ros===
 
 Ros is a financial term that stands for “Return on Sales”. It is a measure of a company’s profitability and is used to compare the performance of different companies in the same industry. Ros is calculated by dividing a company’s [[Net Income|net income]] by its total sales. It is a useful tool for investors and analysts to assess the financial health of a company and to compare it to its competitors.

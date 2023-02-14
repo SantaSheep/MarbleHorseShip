@@ -1,4 +1,4 @@
-<seo title="Yearly Probability Of Dying" metakeywords="yearly probability dying,dying yearly probability,probability dying yearly,probability dying ypd" metadescription="Yearly Probability of Dying (YPD) is a measure of the likelihood of an individual dying within a given year."/>
+<seo title="Yearly Probability Of Dying" metakeywords="yearly probability dying,dying yearly probability,probability dying yearly,probability dying ypd" metadescription="Yearly Probability of Dying (YPD) is a measure of the likelihood of an individual dying within a given year." />
 ===Introduction to Yearly Probability Of Dying===
 
 Yearly Probability of Dying (YPD) is a measure of the likelihood of an individual dying within a given year. It is a useful tool for assessing the risk of death for individuals and for making decisions about [[Life Insurance|life insurance]] and other financial products. YPD is calculated using a variety of factors, including age, gender, health status, and lifestyle.

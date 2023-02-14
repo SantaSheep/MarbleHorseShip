@@ -1,4 +1,4 @@
-<seo title="Bond" metakeywords="bonds typically issued,bonds including government,bond yields typically,government bonds" metadescription="A bond is a debt security issued by a government, corporation, or other entity to raise capital."/>
+<seo title="Bond" metakeywords="bonds typically issued,bonds including government,bond yields typically,government bonds" metadescription="A bond is a debt security issued by a government, corporation, or other entity to raise capital." />
 ===Introduction to Bonds===
 
 A bond is a debt security issued by a government, corporation, or other entity to raise capital. Bonds are typically issued in denominations of $1,000 or more and are used to finance long-term projects such as infrastructure, capital investments, and other large-scale projects. Bonds are typically issued with a fixed [[Interest Rate|interest rate]] and a maturity date, at which point the bond issuer must repay the principal amount of the bond. Bonds are typically traded on the secondary market, where investors can buy and sell bonds.

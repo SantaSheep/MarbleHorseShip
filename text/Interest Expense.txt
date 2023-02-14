@@ -1,4 +1,4 @@
-<seo title="Interest Expense" metakeywords="loan expense deducted,rate loan expense,incurred business borrowing,loan expense" metadescription="Interest expense is the cost incurred by a business for borrowing money."/>
+<seo title="Interest Expense" metakeywords="loan expense deducted,rate loan expense,incurred business borrowing,loan expense" metadescription="Interest expense is the cost incurred by a business for borrowing money." />
 ===Introduction to Interest Expense===
 
 Interest expense is the cost incurred by a business for borrowing money. It is the amount of money that a business must pay to its creditors for the use of borrowed funds. Interest expense is typically a non-operating expense, meaning it is not directly related to the production of goods or services. Interest expense is typically recorded as an expense on the [[Income Statement|income statement]] and is used to calculate the [[Net Income|net income]] of a business.

@@ -1,4 +1,4 @@
-<seo title="Long Term Debt To Total Assets Ratio" metakeywords="assets ratio financial,total assets ratio,debt additionally ratio,assets ratio useful" metadescription="The Long Term Debt To Total Assets Ratio is a financial ratio used to measure the amount of long-term debt a company has relative to its total assets."/>
+<seo title="Long Term Debt To Total Assets Ratio" metakeywords="assets ratio financial,total assets ratio,debt additionally ratio,assets ratio useful" metadescription="The Long Term Debt To Total Assets Ratio is a financial ratio used to measure the amount of long-term debt a company has relative to its total assets." />
 ===Introduction to Long Term Debt To Total Assets Ratio===
 
 The [[Long Term Debt|Long Term Debt]] To Total Assets Ratio is a financial ratio used to measure the amount of long-term debt a company has relative to its total assets. This ratio is used to assess the financial health of a company and its ability to meet its long-term debt obligations. It is also used to compare the debt levels of different companies in the same industry.

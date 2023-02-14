@@ -1,4 +1,4 @@
-<seo title="In Voice" metakeywords="types invoices used,invoices typically used,different types invoices,invoices different types" metadescription="Invoices are a legally binding document that is used to record the transaction between the buyer and the seller."/>
+<seo title="In Voice" metakeywords="types invoices used,invoices typically used,different types invoices,invoices different types" metadescription="Invoices are a legally binding document that is used to record the transaction between the buyer and the seller." />
 ===Introduction to Invoices===
 
 An invoice is a document that is used to request payment for goods or services that have been provided. It is a legally binding document that is used to record the transaction between the buyer and the seller. Invoices are typically used in business-to-business (B2B) transactions, but can also be used in business-to-consumer (B2C) transactions. Invoices are an important part of the accounting process and are used to track payments and ensure that the buyer is paying for the goods or services that they have received.

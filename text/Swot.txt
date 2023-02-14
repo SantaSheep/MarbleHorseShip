@@ -1,4 +1,4 @@
-<seo title="Swot" metakeywords="swot analysis strategic,opportunities swot analysis,organizations swot analysis,opportunities threats swot" metadescription="SWOT Analysis is a simple but powerful tool for analyzing the internal and external environment of a business or organization."/>
+<seo title="Swot" metakeywords="swot analysis strategic,opportunities swot analysis,organizations swot analysis,opportunities threats swot" metadescription="SWOT Analysis is a simple but powerful tool for analyzing the internal and external environment of a business or organization." />
 ===Introduction to SWOT Analysis===
 
 SWOT Analysis is a strategic planning tool used to evaluate the Strengths, Weaknesses, Opportunities, and Threats (SWOT) of a business or organization. It is a useful tool for understanding and decision-making for all sorts of situations in business and organizations. SWOT Analysis is a simple but powerful tool for analyzing the internal and external environment of a business or organization. It helps to identify the strengths and weaknesses of the organization, as well as the opportunities and threats it faces.

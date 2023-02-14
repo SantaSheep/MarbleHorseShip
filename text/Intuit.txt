@@ -1,4 +1,4 @@
-<seo title="Intuit" metakeywords="intuit intuit financial,intuit financial,intuit leading financial,finances intuit products" metadescription="Intuit was founded in 1983 by Scott Cook and Tom Proulx.The company was initially focused on developing software for personal finance and accounting."/>
+<seo title="Intuit" metakeywords="intuit intuit financial,intuit financial,intuit leading financial,finances intuit products" metadescription="Intuit was founded in 1983 by Scott Cook and Tom Proulx.The company was initially focused on developing software for personal finance and accounting." />
 ===Introduction to Intuit===
 
 Intuit Inc. is a financial software company based in Mountain View, California. Founded in 1983, Intuit has become one of the most successful and influential companies in the financial technology industry. Intuit’s products and services are used by millions of individuals, small businesses, and large corporations around the world. Intuit’s mission is to “power prosperity around the world” by providing innovative financial solutions that help people and businesses succeed.

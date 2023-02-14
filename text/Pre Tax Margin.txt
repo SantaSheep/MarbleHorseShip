@@ -1,4 +1,4 @@
-<seo title="Pre Tax Margin" metakeywords="definition pretax margin,pretax margin operating,introduction pretax margin,margin definition pretax" metadescription="Pretax margin is a financial metric used to measure the profitability of a company before taxes are taken into account."/>
+<seo title="Pre Tax Margin" metakeywords="definition pretax margin,pretax margin operating,introduction pretax margin,margin definition pretax" metadescription="Pretax margin is a financial metric used to measure the profitability of a company before taxes are taken into account." />
 ===Introduction to Pretax Margin===
 
 Pretax margin is a financial metric used to measure the profitability of a company before taxes are taken into account. It is a useful tool for investors and analysts to assess the financial health of a company and compare it to other companies in the same industry. Pretax margin is also known as [[Operating Margin|operating margin]] or [[Operating Income|operating income]] margin.

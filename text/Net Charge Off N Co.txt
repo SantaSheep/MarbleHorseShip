@@ -1,4 +1,4 @@
-<seo title="Net Charge Off N Co" metakeywords="net charge nco,nco net charge,nco financial term,charge nco financial" metadescription="Net Charge Off (NCO) is a financial term used to describe the amount of money that a lender has written off as a bad debt."/>
+<seo title="Net Charge Off N Co" metakeywords="net charge nco,nco net charge,nco financial term,charge nco financial" metadescription="Net Charge Off (NCO) is a financial term used to describe the amount of money that a lender has written off as a bad debt." />
 ===Introduction to Net Charge Off (NCO)===
 
 Net Charge Off (NCO) is a financial term used to describe the amount of money that a lender has written off as a [[Bad Debt|bad debt]]. It is a form of accounting that is used to record the amount of money that a lender has lost due to a customer not paying back a loan or other form of credit. NCO is a way for lenders to track the amount of money that they have lost due to bad debt and to help them make better decisions in the future.

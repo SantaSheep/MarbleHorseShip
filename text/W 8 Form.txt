@@ -1,4 +1,4 @@
-<seo title="W 8 Form" metakeywords="tax purposes w8form,purposes w8form important,purposes w8form,w8form important" metadescription="The W8form is a form used by the Internal Revenue Service (IRS) to collect information from foreign individuals and entities."/>
+<seo title="W 8 Form" metakeywords="tax purposes w8form,purposes w8form important,purposes w8form,w8form important" metadescription="The W8form is a form used by the Internal Revenue Service (IRS) to collect information from foreign individuals and entities." />
 ===Introduction to W8form===
 
 The W8form is a form used by the Internal Revenue Service (IRS) to collect information from foreign individuals and entities. It is used to determine whether the individual or entity is subject to U.S. tax withholding. The form is also used to document the foreign status of the individual or entity for U.S. tax purposes. The W8form is an important document for foreign individuals and entities that are doing business in the United States.

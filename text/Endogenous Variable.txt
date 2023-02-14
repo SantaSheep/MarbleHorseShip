@@ -1,4 +1,4 @@
-<seo title="Endogenous Variable" metakeywords="endogenous variables typically,variables endogenous variables,economics endogenous variables,endogenous variables" metadescription="An endogenous variable is a type of variable that is determined by the internal factors of a system."/>
+<seo title="Endogenous Variable" metakeywords="endogenous variables typically,variables endogenous variables,economics endogenous variables,endogenous variables" metadescription="An endogenous variable is a type of variable that is determined by the internal factors of a system." />
 ===Introduction to Endogenous Variable===
 
 An endogenous variable is a type of variable that is determined by the internal factors of a system. It is a variable that is determined by the system itself, rather than by external factors. Endogenous variables are often used in economics and finance to explain the behavior of a system or to predict future outcomes. Endogenous variables are also used in other fields, such as psychology and sociology, to explain the behavior of individuals or groups.

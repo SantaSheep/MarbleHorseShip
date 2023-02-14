@@ -1,4 +1,4 @@
-<seo title="Auditors Opinion" metakeywords="auditors opinion types,auditor opinion based,auditors opinion auditor,statements auditor opinion" metadescription="There are three types of auditors’ opinions: unqualified, qualified, and adverse."/>
+<seo title="Auditors Opinion" metakeywords="auditors opinion types,auditor opinion based,auditors opinion auditor,statements auditor opinion" metadescription="There are three types of auditors’ opinions: unqualified, qualified, and adverse." />
 ===Introduction to Auditors Opinion===
 
 An auditor’s opinion is a written statement from an independent auditor that expresses an opinion on the fairness of a company’s [[Financial Statements|financial statements]]. The auditor’s opinion is based on the auditor’s examination of the company’s financial statements and other financial information. The auditor’s opinion is an important part of the financial reporting process and is used by investors, creditors, and other stakeholders to assess the financial health of a company.

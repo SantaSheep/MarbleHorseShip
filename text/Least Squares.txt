@@ -1,4 +1,4 @@
-<seo title="Least Squares" metakeywords="developed squares method,squares method developed,method regression,method regression analysis" metadescription=""/>
+<seo title="Least Squares" metakeywords="developed squares method,squares method developed,method regression,method regression analysis" metadescription="" />
 ===Introduction to Least Squares===
 
 Least squares is a mathematical technique used to find the best fit line or curve for a given set of data points. It is a method of regression analysis that is used to estimate the parameters of a linear model by minimizing the sum of the squares of the differences between the observed values and the predicted values. The technique is widely used in the fields of statistics, economics, and engineering.

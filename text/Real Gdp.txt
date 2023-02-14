@@ -1,4 +1,4 @@
-<seo title="Real Gdp" metakeywords="real gdp measure,introduction real gdp,real gdp useful,real gdp important" metadescription="Real GDP is an important measure of economic growth that is adjusted for inflation."/>
+<seo title="Real Gdp" metakeywords="real gdp measure,introduction real gdp,real gdp useful,real gdp important" metadescription="Real GDP is an important measure of economic growth that is adjusted for inflation." />
 ===Introduction to Real GDP===
 
 Real Gross Domestic Product (Real GDP) is a measure of economic output that is adjusted for inflation. It is used to measure the total value of goods and services produced in an economy over a given period of time. Real GDP is an important indicator of [[Economic Growth|economic growth]] and is used to compare the performance of different economies.

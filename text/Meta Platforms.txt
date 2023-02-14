@@ -1,4 +1,4 @@
-<seo title="Meta Platforms" metakeywords="meta platforms technology,meta platforms provides,meta platforms operates,introduction meta platforms" metadescription="Meta Platforms is a technology company that specializes in providing software solutions for businesses."/>
+<seo title="Meta Platforms" metakeywords="meta platforms technology,meta platforms provides,meta platforms operates,introduction meta platforms" metadescription="Meta Platforms is a technology company that specializes in providing software solutions for businesses." />
 ===Introduction to Meta Platforms===
 
 Meta Platforms is a technology company that specializes in providing software solutions for businesses. The company was founded in 2014 and is headquartered in San Francisco, California. Meta Platforms provides a wide range of services, including software development, [[Cloud Computing|cloud computing]], [[Data Analytics|data analytics]], and artificial intelligence. The company has a strong focus on innovation and is constantly looking for new ways to improve its products and services. Meta Platforms has a global presence, with offices in the United States, Europe, and Asia.

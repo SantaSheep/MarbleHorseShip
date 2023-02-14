@@ -1,4 +1,4 @@
-<seo title="Beta" metakeywords="beta measure stock,market stock beta,market calculating beta,stock beta" metadescription="Beta is used to measure the risk of a stock relative to the market as a whole."/>
+<seo title="Beta" metakeywords="beta measure stock,market stock beta,market calculating beta,stock beta" metadescription="Beta is used to measure the risk of a stock relative to the market as a whole." />
 ===Introduction to Beta===
 
 Beta is a measure of a stock's volatility in relation to the overall market. It is used to measure the risk of a stock relative to the market as a whole. Beta is an important tool for investors to use when making decisions about which stocks to buy and sell. It is also used by financial analysts to assess the risk of a portfolio.

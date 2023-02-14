@@ -1,4 +1,4 @@
-<seo title="Profit" metakeywords="profit defined difference,profit defined,profit profit defined,definition profit" metadescription="Profit is defined as the difference between the total revenue of a business and the total expenses of the business.Profit is also known as net income or net profit."/>
+<seo title="Profit" metakeywords="profit defined difference,profit defined,profit profit defined,definition profit" metadescription="Profit is defined as the difference between the total revenue of a business and the total expenses of the business.Profit is also known as net income or net profit." />
 ===Introduction to Profit===
 
 Profit is a financial term that is used to describe the amount of money that a business earns after subtracting all of its expenses. It is an important concept in business and economics, as it is used to measure the success of a business. Profit is also used to determine the value of a business, as it is a measure of the company's ability to generate income. Profit is also used to determine the amount of taxes that a business must pay.

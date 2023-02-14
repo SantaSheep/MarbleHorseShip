@@ -1,4 +1,4 @@
-<seo title="Degree Of Operating Leverage" metakeywords="operating leverage degree,degree operating leverage,operating leverage financial,operating leverage indicates" metadescription="Degree of operating leverage is a financial metric used to measure the sensitivity of a company’s operating income to changes in its sales volume."/>
+<seo title="Degree Of Operating Leverage" metakeywords="operating leverage degree,degree operating leverage,operating leverage financial,operating leverage indicates" metadescription="Degree of operating leverage is a financial metric used to measure the sensitivity of a company’s operating income to changes in its sales volume." />
 ===Introduction to Degree of Operating Leverage===
 
 Degree of [[Operating Leverage|operating leverage]] is a financial metric used to measure the sensitivity of a company’s [[Operating Income|operating income]] to changes in its sales volume. It is a measure of how much a company’s operating income is affected by changes in its sales volume. It is a useful tool for investors and analysts to assess the risk associated with a company’s operations.

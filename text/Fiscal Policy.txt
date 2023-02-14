@@ -1,4 +1,4 @@
-<seo title="Fiscal Policy" metakeywords="fiscal policy affect,fiscal policy economic,fiscal policy used,fiscal policy economy" metadescription="Fiscal policy is an economic policy that involves the government making decisions about taxation and government spending."/>
+<seo title="Fiscal Policy" metakeywords="fiscal policy affect,fiscal policy economic,fiscal policy used,fiscal policy economy" metadescription="Fiscal policy is an economic policy that involves the government making decisions about taxation and government spending." />
 ===Introduction to Fiscal Policy===
 
 Fiscal policy is an economic policy that involves the government making decisions about taxation and government spending in order to influence the economy. It is a tool used by governments to influence the level of economic activity, the distribution of income, and the level of inflation. Fiscal policy is used to achieve macroeconomic objectives such as [[Economic Growth|economic growth]], full employment, price stability, and a sustainable balance of payments.

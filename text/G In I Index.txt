@@ -1,4 +1,4 @@
-<seo title="G In I Index" metakeywords="gini index developed,history gini index,measure gini index,gini index measure" metadescription="The Gini Index is a measure of income inequality that is used to compare the distribution of wealth among different countries or regions."/>
+<seo title="G In I Index" metakeywords="gini index developed,history gini index,measure gini index,gini index measure" metadescription="The Gini Index is a measure of income inequality that is used to compare the distribution of wealth among different countries or regions." />
 ===Introduction to Gini Index===
 
 The Gini Index is a measure of income inequality that is used to compare the distribution of wealth among different countries or regions. It is a widely used tool for measuring the degree of inequality in a given population. The Gini Index is based on the Lorenz curve, which is a graphical representation of the cumulative distribution of wealth in a population. The Gini Index is calculated by taking the ratio of the area between the Lorenz curve and the line of perfect equality to the total area under the line of perfect equality.

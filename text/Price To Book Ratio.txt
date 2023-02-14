@@ -1,4 +1,4 @@
-<seo title="Price To Book Ratio" metakeywords="price book ratio,book ratio price,ratio price book,book ratio ratio" metadescription="Price to book ratio (P/B ratio) is a financial ratio used to compare a company’s current market price to its book value."/>
+<seo title="Price To Book Ratio" metakeywords="price book ratio,book ratio price,ratio price book,book ratio ratio" metadescription="Price to book ratio (P/B ratio) is a financial ratio used to compare a company’s current market price to its book value." />
 ===Introduction to Price To Book Ratio===
 
 Price to book ratio (P/B ratio) is a financial ratio used to compare a company’s current market price to its [[Book Value|book value]]. It is calculated by dividing the current market price of a company’s stock by its book value per share. The P/B ratio is used to assess the value of a company’s stock and to compare it to other companies in the same industry. It is also used to determine whether a company is undervalued or overvalued.

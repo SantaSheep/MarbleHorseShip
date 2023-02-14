@@ -1,4 +1,4 @@
-<seo title="Max Pain" metakeywords="definition maxpain,maxpain calculated analyzing,definition maxpain maxpain,maxpain calculation determines" metadescription="Maxpain, also known as the maximum pain theory, is a financial concept that is used to analyze the behavior of options traders."/>
+<seo title="Max Pain" metakeywords="definition maxpain,maxpain calculated analyzing,definition maxpain maxpain,maxpain calculation determines" metadescription="Maxpain, also known as the maximum pain theory, is a financial concept that is used to analyze the behavior of options traders." />
 ===Introduction to Maxpain===
 
 Maxpain, also known as the maximum pain theory, is a financial concept that is used to analyze the behavior of options traders. It is based on the idea that the price of an underlying asset will move in the direction that causes the most pain to the largest number of options traders. This theory has been used by traders for decades to gain an edge in the markets.

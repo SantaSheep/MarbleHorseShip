@@ -1,4 +1,4 @@
-<seo title="Contra Account" metakeywords="contraaccount accounting term,contraaccount example,example contraaccount used,example contraaccount" metadescription="A contraaccount is an accounting term used to describe an account used to offset the balance of another account."/>
+<seo title="Contra Account" metakeywords="contraaccount accounting term,contraaccount example,example contraaccount used,example contraaccount" metadescription="A contraaccount is an accounting term used to describe an account used to offset the balance of another account." />
 ===Introduction to Contraaccount===
 
 A contraaccount is an accounting term used to describe an account that is used to offset the balance of another account. It is used to reduce the balance of an account, such as an asset or liability, by the amount of the contraaccount. This type of account is used to adjust the balance of an account to reflect the true value of the account. For example, a contraaccount may be used to reduce the value of an asse[[T Account|t account]] to reflect the cost of depreciation.

@@ -1,4 +1,4 @@
-<seo title="Equinix" metakeywords="equinix business model,equinix business,markets equinix business,equinix provides customers" metadescription="Equinix was founded in 1998 as a provider of colocation services.The company quickly grew to become the world’s largest data center provider."/>
+<seo title="Equinix" metakeywords="equinix business model,equinix business,markets equinix business,equinix provides customers" metadescription="Equinix was founded in 1998 as a provider of colocation services.The company quickly grew to become the world’s largest data center provider." />
 ===Introduction to Equinix===
 
 Equinix is a global interconnection and data center company that provides businesses with the infrastructure and services they need to succeed in the digital economy. The company operates in over 50 markets across the Americas, Europe, Asia-Pacific, and the Middle East, and is the world’s largest data center provider. Equinix provides a range of services, including colocation, interconnection, cloud, and managed services, as well as a suite of software-defined networking solutions.

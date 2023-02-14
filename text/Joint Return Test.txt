@@ -1,4 +1,4 @@
-<seo title="Joint Return Test" metakeywords="joint return filing,filing joint return,qualify joint return,joint return test" metadescription="A joint return test is a type of tax filing status used by married couples in the United States."/>
+<seo title="Joint Return Test" metakeywords="joint return filing,filing joint return,qualify joint return,joint return test" metadescription="A joint return test is a type of tax filing status used by married couples in the United States." />
 ===Introduction to Joint Return Test===
 
 A joint return test is a type of tax filing status used by married couples in the United States. It allows married couples to file a single tax return, combining their incomes and deductions, and receive a single refund or owe a single tax liability. This filing status is beneficial for couples who have similar incomes and deductions, as it can result in a lower overall tax liability. The joint return test is an important part of the U.S. tax system, and it is important for married couples to understand how it works and the benefits and challenges associated with it.

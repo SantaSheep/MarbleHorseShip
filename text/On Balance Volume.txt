@@ -1,4 +1,4 @@
-<seo title="On Balance Volume" metakeywords="onbalancevolume used measure,onbalancevolume obv technical,onbalancevolume obv,uses onbalancevolume" metadescription="Onbalancevolume (OBV) is a technical analysis indicator used to measure the flow of money into and out of a security."/>
+<seo title="On Balance Volume" metakeywords="onbalancevolume used measure,onbalancevolume obv technical,onbalancevolume obv,uses onbalancevolume" metadescription="Onbalancevolume (OBV) is a technical analysis indicator used to measure the flow of money into and out of a security." />
 ===Introduction to Onbalancevolume===
 
 Onbalancevolume (OBV) is a [[Technical Analysis|technical analysis]] indicator used to measure the flow of money into and out of a security. It is based on the idea that the volume of a security is an indicator of the strength of the current trend. OBV is calculated by adding the volume of a security on up days and subtracting the volume on down days. The resulting total is then plotted on a chart to show the trend of the security.

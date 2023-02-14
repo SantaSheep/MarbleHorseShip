@@ -1,4 +1,4 @@
-<seo title="Tariff" metakeywords="understand impacts tariffs,tariffs tariff impacts,tariff impacts,types tariffs imposed" metadescription="A tariff is a tax imposed by a government on imported goods and services."/>
+<seo title="Tariff" metakeywords="understand impacts tariffs,tariffs tariff impacts,tariff impacts,types tariffs imposed" metadescription="A tariff is a tax imposed by a government on imported goods and services." />
 ===Introduction to Tariff===
 
 A tariff is a tax imposed by a government on imported goods and services. Tariffs are used to protect domestic industries from foreign competition, to raise revenue for the government, and to influence the [[Terms Of Trade|terms of trade]] between countries. Tariffs can be imposed on a wide range of goods and services, including [[Raw Materials|raw materials]], manufactured goods, and services. Tariffs can be imposed on imports from any country, or on imports from specific countries. Tariffs can also be imposed on exports to certain countries.

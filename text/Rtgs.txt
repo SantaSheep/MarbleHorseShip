@@ -1,4 +1,4 @@
-<seo title="Rtgs" metakeywords="rtgs financial transactions,transaction benefits rtgs,gross settlement rtgs,financial institutions rtgs" metadescription="Real Time Gross Settlement (RTGS) is a system of financial transactions that allows for the instantaneous transfer of funds between two parties."/>
+<seo title="Rtgs" metakeywords="rtgs financial transactions,transaction benefits rtgs,gross settlement rtgs,financial institutions rtgs" metadescription="Real Time Gross Settlement (RTGS) is a system of financial transactions that allows for the instantaneous transfer of funds between two parties." />
 ===Introduction to Real Time Gross Settlement (RTGS)===
 
 Real Time Gross Settlement (RTGS) is a system of financial transactions that allows for the instantaneous transfer of funds between two parties. It is a type of payment system that is used to facilitate the transfer of large sums of money between banks and other [[Financial Institution|financial institution]]s. RTGS is a secure and reliable way to transfer funds, and it is used by many countries around the world.

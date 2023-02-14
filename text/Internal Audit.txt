@@ -1,4 +1,4 @@
-<seo title="Internal Audit" metakeywords="introduction internal audit,internal audit provides,internal audit important,operational internal audit" metadescription="Internal audit can be divided into two main categories: financial and operational."/>
+<seo title="Internal Audit" metakeywords="introduction internal audit,internal audit provides,internal audit important,operational internal audit" metadescription="Internal audit can be divided into two main categories: financial and operational." />
 ===Introduction to Internal Audit===
 
 Internal audit is an independent, objective assurance and consulting activity designed to add value and improve an organization’s operations. It helps an organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of [[Risk Management|risk management]], control, and governance processes. Internal audit is a key component of an organization’s internal control system and is responsible for providing assurance that the organization’s risk management, control, and governance processes are operating effectively.

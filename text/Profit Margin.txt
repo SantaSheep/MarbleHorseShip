@@ -1,4 +1,4 @@
-<seo title="Profit Margin" metakeywords="profitmargin net profitmargin,profitmargin metric,profitmargin financial term,using profitmargin metric" metadescription="Profitmargin is a financial term that refers to the amount of money a company makes after subtracting all of its expenses from its total revenue."/>
+<seo title="Profit Margin" metakeywords="profitmargin net profitmargin,profitmargin metric,profitmargin financial term,using profitmargin metric" metadescription="Profitmargin is a financial term that refers to the amount of money a company makes after subtracting all of its expenses from its total revenue." />
 ===Introduction to Profitmargin===
 
 Profitmargin is a financial term that refers to the amount of money a company makes after subtracting all of its expenses from its total revenue. It is a measure of how efficient a company is at generating profits from its operations. Profitmargin is an important metric for investors and analysts to consider when evaluating a company’s [[Financial Performance|financial performance]].

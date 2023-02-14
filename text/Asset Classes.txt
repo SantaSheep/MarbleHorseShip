@@ -1,4 +1,4 @@
-<seo title="Asset Classes" metakeywords="asset classes investing,asset classes stocks,asset classes typically,introduction asset classes" metadescription="Stocks represent ownership in a company and can be bought and sold on the stock market.Bonds are debt instruments issued by governments and corporations."/>
+<seo title="Asset Classes" metakeywords="asset classes investing,asset classes stocks,asset classes typically,introduction asset classes" metadescription="Stocks represent ownership in a company and can be bought and sold on the stock market.Bonds are debt instruments issued by governments and corporations." />
 ===Introduction to Asset Classes===
 
 Asset classes are a broad category of investments that are used to diversify a portfolio. Asset classes are typically divided into three main categories: stocks, bonds, and cash equivalents. Each asset class has its own unique characteristics and risks, and investors should understand the differences between them before investing. Asset classes can be further divided into sub-categories, such as large-cap stocks, small-cap stocks, government bonds, corporate bonds, and [[Money Market|money market]] instruments.

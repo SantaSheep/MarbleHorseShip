@@ -1,4 +1,4 @@
-<seo title="Theta" metakeywords="theta important concept,theta used measure,theta important,options trading theta" metadescription="Theta is a financial term used to describe the rate of change of an option's value with respect to the passage of time."/>
+<seo title="Theta" metakeywords="theta important concept,theta used measure,theta important,options trading theta" metadescription="Theta is a financial term used to describe the rate of change of an option's value with respect to the passage of time." />
 ===Introduction to Theta===
 
 Theta is a financial term used to describe the rate of change of an option's value with respect to the passage of time. It is one of the most important concepts in options trading and is used to measure the time decay of an option. Theta is also used to measure the risk associated with an option and to help traders manage their risk.

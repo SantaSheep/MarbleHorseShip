@@ -1,4 +1,4 @@
-<seo title="Modern Portfolio Theory" metakeywords="markowitz developed theory,portfolio theory modern,portfolio theory introduced,theory modern portfolio" metadescription="Modern Portfolio Theory was first introduced by Harry Markowitz in 1952."/>
+<seo title="Modern Portfolio Theory" metakeywords="markowitz developed theory,portfolio theory modern,portfolio theory introduced,theory modern portfolio" metadescription="Modern Portfolio Theory was first introduced by Harry Markowitz in 1952." />
 ===Introduction to Modern Portfolio Theory===
 
 Modern Portfolio Theory (MPT) is an investment theory developed by Nobel Prize-winning economist Harry Markowitz in 1952. It is a mathematical model used to help investors construct portfolios that maximize [[Expected Return|expected return]]s while minimizing risk. MPT is based on the idea that investors should diversify their investments in order to reduce risk and maximize returns. The theory suggests that investors should construct portfolios that are diversified across different [[Asset Classes|asset classes]] and that have a low correlation with each other.

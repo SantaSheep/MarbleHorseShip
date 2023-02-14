@@ -1,4 +1,4 @@
-<seo title="Compound Interest" metakeywords="compound investment,investments compound,investing conclusion compound,different investments compound" metadescription="Compound interest is the result of reinvesting interest, rather than paying it out.It is the most common type of interest used in banking and finance."/>
+<seo title="Compound Interest" metakeywords="compound investment,investments compound,investing conclusion compound,different investments compound" metadescription="Compound interest is the result of reinvesting interest, rather than paying it out.It is the most common type of interest used in banking and finance." />
 ===Introduction to Compound Interest===
 
 Compound interest is a type of interest that is calculated on the initial principal and the accumulated interest of previous periods. It is the result of reinvesting interest, rather than paying it out, so that interest in the next period is then earned on the principal and the previously accumulated interest. Compound interest is the most common type of interest used in banking and finance, and is the basis for many investment strategies.

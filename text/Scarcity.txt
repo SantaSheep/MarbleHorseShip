@@ -1,4 +1,4 @@
-<seo title="Scarcity" metakeywords="scarcity economic concept,scarcity important concept,resources effects scarcity,introduction scarcity" metadescription="Scarcity is an economic concept that refers to the limited availability of resources in comparison to the unlimited wants and needs of individuals."/>
+<seo title="Scarcity" metakeywords="scarcity economic concept,scarcity important concept,resources effects scarcity,introduction scarcity" metadescription="Scarcity is an economic concept that refers to the limited availability of resources in comparison to the unlimited wants and needs of individuals." />
 ===Introduction to Scarcity===
 
 Scarcity is an economic concept that refers to the limited availability of resources in comparison to the unlimited wants and needs of individuals. It is a fundamental concept in economics, and it is used to explain why certain goods and services are scarce and why certain prices are set for them. Scarcity is a key factor in determining the allocation of resources and the distribution of goods and services.

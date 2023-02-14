@@ -1,4 +1,4 @@
-<seo title="Value Reporting Form" metakeywords="definition value reporting,value reporting,vrf financial document,introduction value reporting" metadescription="Value Reporting Form (VRF) is a financial document used to report the value of a company’s assets and liabilities."/>
+<seo title="Value Reporting Form" metakeywords="definition value reporting,value reporting,vrf financial document,introduction value reporting" metadescription="Value Reporting Form (VRF) is a financial document used to report the value of a company’s assets and liabilities." />
 ===Introduction to Value Reporting Form===
 
 Value Reporting Form (VRF) is a financial document used to report the value of a company’s assets and liabilities. It is used to provide an accurate and up-to-date picture of the company’s financial position. The VRF is an important tool for investors, creditors, and other stakeholders to assess the financial health of a company. It is also used by auditors to ensure that the company’s [[Financial Statements|financial statements]] are accurate and reliable.

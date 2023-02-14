@@ -1,4 +1,4 @@
-<seo title="Underwriting Cycle" metakeywords="securities underwriting cycle,markets underwriting cycle,introduction underwriting cycle,influencing underwriting cycle" metadescription="The underwriting cycle is used to describe the process of issuing and selling securities in the financial markets."/>
+<seo title="Underwriting Cycle" metakeywords="securities underwriting cycle,markets underwriting cycle,introduction underwriting cycle,influencing underwriting cycle" metadescription="The underwriting cycle is used to describe the process of issuing and selling securities in the financial markets." />
 ===Introduction to the Underwriting Cycle===
 
 The underwriting cycle is a term used to describe the process of issuing and selling securities in the [[Financial Market|financial market]]s. It is a cyclical process that involves the issuance of securities, the pricing of the securities, the marketing of the securities, and the settlement of the securities. The underwriting cycle is an important part of the [[Capital Markets|capital markets]] and is used to facilitate the efficient allocation of capital.

@@ -1,4 +1,4 @@
-<seo title="Shareholders Equity" metakeywords="accounting shareholder equity,introduction shareholder equity,stock shareholder equity,shareholder equity difficult" metadescription="Shareholder equity, also known as shareholders’ equity, is the difference between a company’s total assets and its total liabilities."/>
+<seo title="Shareholders Equity" metakeywords="accounting shareholder equity,introduction shareholder equity,stock shareholder equity,shareholder equity difficult" metadescription="Shareholder equity, also known as shareholders’ equity, is the difference between a company’s total assets and its total liabilities." />
 ===Introduction to Shareholder Equity===
 
 Shareholder equity, also known as shareholders’ equity, is the difference between a company’s total assets and its [[Total Liabilities|total liabilities]]. It is the amount of money that would be returned to shareholders if all of the assets of the company were liquidated and all of its debts were paid off. Shareholder equity is an important measure of a company’s financial health and is used to evaluate the company’s performance.

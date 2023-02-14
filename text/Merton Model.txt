@@ -1,4 +1,4 @@
-<seo title="Merton Model" metakeywords="merton model used,overview merton model,merton model based,introduction merton model" metadescription="The Merton Model is a financial model developed by Robert Merton in 1974."/>
+<seo title="Merton Model" metakeywords="merton model used,overview merton model,merton model based,introduction merton model" metadescription="The Merton Model is a financial model developed by Robert Merton in 1974." />
 ===Introduction to the Merton Model===
 
 The Merton Model, also known as the Merton Model of [[Structured Finance|Structured Finance]], is a financial model developed by Robert  Merton in 1974. It is a mathematical model used to analyze the risk of a [[Financial Instrument|financial instrument]] or portfolio of financial instruments. The model is based on the idea that the value of a financial instrument is determined by the expected future [[Cash Flow|cash flow]]s of the instrument. The model is used to calculate the [[Expected Return|expected return]] of a financial instrument, as well as the risk associated with the instrument.

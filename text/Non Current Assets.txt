@@ -1,4 +1,4 @@
-<seo title="Non Current Assets" metakeywords="noncurrent assets depreciated,noncurrent assets assets,accounting noncurrent assets,types noncurrent assets" metadescription="Noncurrent assets are assets that are not expected to be converted into cash within one year."/>
+<seo title="Non Current Assets" metakeywords="noncurrent assets depreciated,noncurrent assets assets,accounting noncurrent assets,types noncurrent assets" metadescription="Noncurrent assets are assets that are not expected to be converted into cash within one year." />
 ===Introduction to Noncurrent Assets===
 
 Non[[Current Assets|current assets]] are long-term assets that are not expected to be converted into cash within one year. These assets are also known as long-term assets or [[Fixed Asset|fixed asset]]s. Noncurrent assets are used to generate income over a long period of time and are not intended for immediate sale or use. Examples of noncurrent assets include property, plant, and equipment; [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s; and long-term investments.

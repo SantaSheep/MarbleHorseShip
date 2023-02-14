@@ -1,4 +1,4 @@
-<seo title="Actuarial Science" metakeywords="actuarial science field,actuarial science used,actuarial science,actuarial science education" metadescription="Actuarial science is a field of study that applies mathematical and statistical methods to assess risk in the insurance and finance industries."/>
+<seo title="Actuarial Science" metakeywords="actuarial science field,actuarial science used,actuarial science,actuarial science education" metadescription="Actuarial science is a field of study that applies mathematical and statistical methods to assess risk in the insurance and finance industries." />
 ===Introduction to Actuarial Science===
 
 Actuarial science is a field of study that applies mathematical and statistical methods to assess risk in the insurance and finance industries. It is a highly specialized field that requires a deep understanding of mathematics, statistics, and economics. Actuaries use their knowledge to analyze and evaluate the financial consequences of risk and uncertainty. They are responsible for developing and pricing insurance policies, assessing the financial impact of potential losses, and providing advice on how to manage risk.

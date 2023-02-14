@@ -1,4 +1,4 @@
-<seo title="Quart Ile" metakeywords="quartiles used measure,quartiles quartiles used,quartile statistical measure,quartiles useful" metadescription="Quartiles are a type of statistical measure used to divide a set of data into four equal parts."/>
+<seo title="Quart Ile" metakeywords="quartiles used measure,quartiles quartiles used,quartile statistical measure,quartiles useful" metadescription="Quartiles are a type of statistical measure used to divide a set of data into four equal parts." />
 ===Introduction to Quartiles===
 
 Quartiles are a type of statistical measure used to divide a set of data into four equal parts. Quartiles are used to measure the spread of a data set and to compare different sets of data. Quartiles are also used to identify outliers in a data set. Quartiles are a useful tool for financial analysts, as they can be used to identify trends in a data set and to compare different sets of data.

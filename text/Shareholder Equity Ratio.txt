@@ -1,4 +1,4 @@
-<seo title="Shareholder Equity Ratio" metakeywords="shareholder equity ratio,equity ratio shareholder,ratio shareholder equity,equity ratio financial" metadescription="Shareholder equity ratio is a financial metric used to measure the financial health of a company."/>
+<seo title="Shareholder Equity Ratio" metakeywords="shareholder equity ratio,equity ratio shareholder,ratio shareholder equity,equity ratio financial" metadescription="Shareholder equity ratio is a financial metric used to measure the financial health of a company." />
 ===Introduction to Shareholder Equity Ratio===
 
 Shareholder equity ratio is a financial metric used to measure the financial health of a company. It is calculated by dividing the total shareholder equity by the total assets of the company. The ratio is used to measure the amount of equity that shareholders have in the company relative to the total assets of the company. It is an important metric for investors to consider when evaluating a company’s financial health.

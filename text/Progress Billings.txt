@@ -1,4 +1,4 @@
-<seo title="Progress Billings" metakeywords="progress billings useful,progress billings used,progress billings type,definition progress billings" metadescription="Progress Billings is a type of financial accounting system used to track the progress of a project."/>
+<seo title="Progress Billings" metakeywords="progress billings useful,progress billings used,progress billings type,definition progress billings" metadescription="Progress Billings is a type of financial accounting system used to track the progress of a project." />
 ===Introduction to Progress Billings===
 
 Progress Billings is a type of [[Financial Accounting|financial accounting]] system used to track the progress of a project. It is used to measure the progress of a project in terms of the amount of work completed and the amount of money spent. Progress Billings is used to track the progress of a project from start to finish, and to ensure that the project is completed on time and within budget. Progress Billings is used by project managers, accountants, and other financial professionals to monitor the progress of a project and to ensure that the project is completed on time and within budget.

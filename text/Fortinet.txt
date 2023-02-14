@@ -1,4 +1,4 @@
-<seo title="Fortinet" metakeywords="cyber threats fortinet,security solutions fortinet,threats fortinet experienced,fortinet products services" metadescription="Fortinet is a global leader in network security, providing comprehensive protection for organizations of all sizes."/>
+<seo title="Fortinet" metakeywords="cyber threats fortinet,security solutions fortinet,threats fortinet experienced,fortinet products services" metadescription="Fortinet is a global leader in network security, providing comprehensive protection for organizations of all sizes." />
 ===Introduction to Fortinet===
 
 Fortinet is a global leader in network security, providing comprehensive protection for organizations of all sizes. Founded in 2000, Fortinet has grown to become one of the world’s largest providers of network security solutions. Fortinet’s products and services are designed to protect organizations from the ever-evolving threats posed by cyber criminals. Fortinet’s solutions are used by organizations in a variety of industries, including government, healthcare, finance, and education.

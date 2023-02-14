@@ -1,4 +1,4 @@
-<seo title="Inherent Risk" metakeywords="inherent risk financial,introduction inherent risk,inherent risk term,inherent risk include" metadescription="Inherent risk is the risk that is present in any financial transaction regardless of the measures taken to reduce it."/>
+<seo title="Inherent Risk" metakeywords="inherent risk financial,introduction inherent risk,inherent risk term,inherent risk include" metadescription="Inherent risk is the risk that is present in any financial transaction regardless of the measures taken to reduce it." />
 ===Introduction to Inherent Risk===
 
 Inherent risk is a term used in the financial industry to describe the risk of loss that is inherent in any financial transaction. It is the risk that is present in any financial transaction regardless of the measures taken to reduce it. Inherent risk is an important concept for [[Financial Institution|financial institution]]s to understand and manage, as it can have a significant impact on the success or failure of a financial transaction.

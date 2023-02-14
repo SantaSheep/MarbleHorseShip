@@ -1,4 +1,4 @@
-<seo title="Common Law" metakeywords="common law important,common law originated,common law principles,introduction common law" metadescription="Common law is a legal system that is based on the principles of justice, fairness, and equity."/>
+<seo title="Common Law" metakeywords="common law important,common law originated,common law principles,introduction common law" metadescription="Common law is a legal system that is based on the principles of justice, fairness, and equity." />
 ===Introduction to Common Law===
 
 Common law is a legal system that is based on the principles of justice, fairness, and equity. It is a system of laws that is based on the decisions of judges and other legal authorities, rather than on written statutes or regulations. Common law is the oldest form of law in the United States and is still used in many states today. Common law is based on the principle of stare decisis, which means that the decisions of higher courts are binding on lower courts. This means that the decisions of higher courts are used as a guide for lower courts when deciding similar cases.

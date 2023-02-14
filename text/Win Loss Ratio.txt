@@ -1,4 +1,4 @@
-<seo title="Win Loss Ratio" metakeywords="loss ratio win,win loss ratio,ratio win loss,calculating win loss" metadescription="Win Loss Ratio is a financial metric used to measure the performance of a company or individual in terms of their success in achieving their goals."/>
+<seo title="Win Loss Ratio" metakeywords="loss ratio win,win loss ratio,ratio win loss,calculating win loss" metadescription="Win Loss Ratio is a financial metric used to measure the performance of a company or individual in terms of their success in achieving their goals." />
 ===Introduction to Win Loss Ratio===
 
 Win [[Loss Ratio|Loss Ratio]] is a financial metric used to measure the performance of a company or individual in terms of their success in achieving their goals. It is calculated by dividing the number of wins by the number of losses. The ratio is used to assess the effectiveness of a company or individual in achieving their goals and to compare their performance to that of their competitors. It is also used to identify areas of improvement and to set goals for future performance.

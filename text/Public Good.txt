@@ -1,4 +1,4 @@
-<seo title="Public Good" metakeywords="public goods provide,public goods typically,providing public goods,public goods include" metadescription="Public goods are goods or services that are available to all members of society, regardless of their ability to pay."/>
+<seo title="Public Good" metakeywords="public goods provide,public goods typically,providing public goods,public goods include" metadescription="Public goods are goods or services that are available to all members of society, regardless of their ability to pay." />
 ===Introduction to Public Good===
 
 Public goods are goods or services that are available to all members of society, regardless of their ability to pay. They are typically provided by the government or other public entities, and are often considered to be essential for the functioning of society. Public goods are typically non-excludable, meaning that they cannot be withheld from any member of society, and are also non-rivalrous, meaning that one personâ€™s consumption of the good does not reduce the amount available for others.

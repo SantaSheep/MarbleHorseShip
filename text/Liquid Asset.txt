@@ -1,4 +1,4 @@
-<seo title="Liquid Asset" metakeywords="disadvantages liquid assets,liquid assets advantageous,types liquid assets,liquid assets provide" metadescription="Liquid assets are financial assets that can be quickly converted into cash.The most common types of liquid assets include cash, bank deposits, and marketable securities."/>
+<seo title="Liquid Asset" metakeywords="disadvantages liquid assets,liquid assets advantageous,types liquid assets,liquid assets provide" metadescription="Liquid assets are financial assets that can be quickly converted into cash.The most common types of liquid assets include cash, bank deposits, and marketable securities." />
 ===Introduction to Liquid Assets===
 
 Liquid assets are [[Financial Asset|financial asset]]s that can be quickly converted into cash. They are typically used to meet short-term financial obligations and are considered to be highly liquid. Liquid assets are typically held in the form of cash, bank deposits, and [[Marketable Securities|marketable securities]]. These assets are considered to be highly liquid because they can be quickly converted into cash without significant loss of value.

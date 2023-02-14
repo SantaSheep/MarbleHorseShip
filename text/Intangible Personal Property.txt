@@ -1,4 +1,4 @@
-<seo title="Intangible Personal Property" metakeywords="intangible personal property,personal property intangible,personal property ipp,property intangible personal" metadescription="Intangible personal property (IPP) is a type of asset that has no physical form but still has value."/>
+<seo title="Intangible Personal Property" metakeywords="intangible personal property,personal property intangible,personal property ipp,property intangible personal" metadescription="Intangible personal property (IPP) is a type of asset that has no physical form but still has value." />
 ===Introduction to Intangible Personal Property===
 
 Intangible personal property (IPP) is a type of asset that has no physical form but still has value. IPP includes items such as intellectual property, copyrights, trademarks, patents, and goodwill. IPP is an important asset for businesses, as it can provide a competitive advantage and generate revenue. IPP is also important for individuals, as it can provide financial security and stability.

@@ -1,4 +1,4 @@
-<seo title="Nav" metakeywords="nav net asset,investments calculating nav,portfolio calculation nav,net asset value" metadescription="Nav is a financial term used to measure the value of a portfolio of investments."/>
+<seo title="Nav" metakeywords="nav net asset,investments calculating nav,portfolio calculation nav,net asset value" metadescription="Nav is a financial term used to measure the value of a portfolio of investments." />
 ===Introduction to Nav===
 
 Nav, or Net Asset Value, is a financial term used to measure the value of a portfolio of investments. It is a key metric used by investors to assess the performance of their investments and to make decisions about their portfolios. Nav is calculated by taking the total value of the portfolio's assets and subtracting any liabilities. The resulting figure is the net asset value of the portfolio.

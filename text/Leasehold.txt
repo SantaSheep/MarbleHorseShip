@@ -1,4 +1,4 @@
-<seo title="Leasehold" metakeywords="disadvantages leaseholds leaseholds,advantages disadvantages leaseholds,disadvantages leaseholds tenant,disadvantages leaseholds" metadescription="Leasehold is a form of real estate ownership in which a tenant holds the right to use a property for a specified period of time."/>
+<seo title="Leasehold" metakeywords="disadvantages leaseholds leaseholds,advantages disadvantages leaseholds,disadvantages leaseholds tenant,disadvantages leaseholds" metadescription="Leasehold is a form of real estate ownership in which a tenant holds the right to use a property for a specified period of time." />
 ===Introduction to Leasehold===
 
 Leasehold is a form of [[Real Estate|real estate]] ownership in which a tenant holds the right to use a property for a specified period of time. The tenant pays rent to the landlord, who owns the property. The tenant is also responsible for the upkeep and maintenance of the property. Leaseholds are common in residential and commercial real estate, and can be used to purchase land, buildings, and other types of real estate.

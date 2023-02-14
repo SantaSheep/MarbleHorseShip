@@ -1,4 +1,4 @@
-<seo title="Zero Sum Game" metakeywords="zero sum games,games zero sum,zero sum game,advantage zero sum" metadescription="A zero sum game is a type of game in which the total gains and losses of all players in the game are equal to zero."/>
+<seo title="Zero Sum Game" metakeywords="zero sum games,games zero sum,zero sum game,advantage zero sum" metadescription="A zero sum game is a type of game in which the total gains and losses of all players in the game are equal to zero." />
 ===Introduction to Zero Sum Game===
 
 A zero sum game is a type of game in which the total gains and losses of all players in the game are equal to zero. This means that for every gain made by one player, there must be an equal loss made by another player. Zero sum games are used in economics, [[Game Theory|game theory]], and other fields to analyze the behavior of players in a given situation.

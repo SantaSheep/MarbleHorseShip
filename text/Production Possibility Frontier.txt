@@ -1,4 +1,4 @@
-<seo title="Production Possibility Frontier" metakeywords="production possibility frontier,possibility frontier production,potential output goods,production possibility curve" metadescription=""/>
+<seo title="Production Possibility Frontier" metakeywords="production possibility frontier,possibility frontier production,potential output goods,production possibility curve" metadescription="" />
 ===Introduction to Production Possibility Frontier===
 
 The Production Possibility Frontier (PPF) is a graphical representation of the maximum potential output of two goods or services that can be produced with a given set of resources. It is used to illustrate the concept of [[Opportunity Cost|opportunity cost]], which is the cost of one good or service in terms of another. The PPF is a curve that shows the maximum amount of one good or service that can be produced for every given amount of the other good or service. The PPF is also known as the production possibility curve, production possibility boundary, or production possibility frontier.

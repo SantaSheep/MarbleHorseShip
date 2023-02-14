@@ -1,4 +1,4 @@
-<seo title="Leverage Ratio" metakeywords="leverage ratios used,leverage ratio financial,leverage ratios debt,leverage ratios leverage" metadescription="Leverage ratio is a financial metric used to measure the amount of debt a company has relative to its equity."/>
+<seo title="Leverage Ratio" metakeywords="leverage ratios used,leverage ratio financial,leverage ratios debt,leverage ratios leverage" metadescription="Leverage ratio is a financial metric used to measure the amount of debt a company has relative to its equity." />
 ===Introduction to Leverage Ratio===
 
 The leverage ratio is a financial metric used to measure the amount of debt a company has relative to its equity. It is a measure of a company’s [[Financial Risk|financial risk]] and is used to assess the company’s ability to meet its financial obligations. The leverage ratio is an important tool for investors and creditors to assess the financial health of a company.

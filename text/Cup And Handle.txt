@@ -1,4 +1,4 @@
-<seo title="Cup And Handle" metakeywords="analysis cup handle,cup handle pattern,stocks formed cup,handle pattern technical" metadescription="Cup and Handle is a chart pattern used to identify potential price reversals in the stock market."/>
+<seo title="Cup And Handle" metakeywords="analysis cup handle,cup handle pattern,stocks formed cup,handle pattern technical" metadescription="Cup and Handle is a chart pattern used to identify potential price reversals in the stock market." />
 ===Introduction to Cup and Handle===
 
 Cup and Handle is a [[Technical Analysis|technical analysis]] pattern used to identify potential price reversals in the [[Stock Market|stock market]]. It is a chart pattern that is formed when a stock’s price forms a “cup” shape, followed by a “handle” shape. The cup and handle pattern is used by traders to identify potential buying opportunities in the stock market.

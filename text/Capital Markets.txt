@@ -1,4 +1,4 @@
-<seo title="Capital Markets" metakeywords="introduction capital markets,capital markets role,markets role capital,role capital markets" metadescription="Capital markets are financial markets that facilitate the exchange of capital between investors and companies."/>
+<seo title="Capital Markets" metakeywords="introduction capital markets,capital markets role,markets role capital,role capital markets" metadescription="Capital markets are financial markets that facilitate the exchange of capital between investors and companies." />
 ===Introduction to Capital Markets===
 
 Capital markets are [[Financial Market|financial market]]s that facilitate the exchange of capital between investors and companies. They are a key component of the global [[Financial System|financial system]], providing a platform for companies to raise capital and for investors to access a wide range of investment opportunities. Capital markets are divided into two main categories: primary markets and secondary markets. Primary markets are where companies issue new securities, such as stocks and bonds, to raise capital. Secondary markets are where investors trade existing securities.

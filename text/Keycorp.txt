@@ -1,4 +1,4 @@
-<seo title="Keycorp" metakeywords="banking firm keycorp,financial industry keycorp,keycorp investment banking,keycorp commercial banking" metadescription="Keycorp is a financial services company based in Cleveland, Ohio.It is the parent company of KeyBank, one of the largest banks in the United States."/>
+<seo title="Keycorp" metakeywords="banking firm keycorp,financial industry keycorp,keycorp investment banking,keycorp commercial banking" metadescription="Keycorp is a financial services company based in Cleveland, Ohio.It is the parent company of KeyBank, one of the largest banks in the United States." />
 ===Introduction to Keycorp===
 
 Keycorp is a financial services company based in Cleveland, Ohio. It is the [[Parent Company|parent company]] of KeyBank, one of the largest banks in the United States. Keycorp provides a wide range of financial services, including retail banking, [[Commercial Bank|commercial bank]]ing, [[Investment Banking|investment banking]], [[Asset Management|asset management]], and insurance. Keycorp is a publicly traded company and is listed on the New York Stock Exchange under the ticker symbol “KEY”.

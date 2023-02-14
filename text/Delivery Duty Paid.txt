@@ -1,4 +1,4 @@
-<seo title="Delivery Duty Paid" metakeywords="duty paid ddp,duty paid delivery,paid ddp beneficial,paid delivery duty" metadescription=""/>
+<seo title="Delivery Duty Paid" metakeywords="duty paid ddp,duty paid delivery,paid ddp beneficial,paid delivery duty" metadescription="" />
 ===Introduction to Delivery Duty Paid===
 
 Delivery Duty Paid (DDP) is a term used in international trade to describe a delivery arrangement in which the seller is responsible for all costs associated with delivering goods to the buyer, including any applicable taxes and duties. This arrangement is often used when the buyer and seller are located in different countries, as it simplifies the process of getting goods from one country to another. DDP is a popular choice for businesses that need to move goods quickly and efficiently, as it eliminates the need for the buyer to pay any additional fees or taxes.

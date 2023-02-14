@@ -1,4 +1,4 @@
-<seo title="Bitcoin Mining" metakeywords="bitcoin mining involves,mining process bitcoin,bitcoin mining process,bitcoin mining provides" metadescription="Bitcoin mining is the process of verifying and adding transaction records to the public ledger of past transactions."/>
+<seo title="Bitcoin Mining" metakeywords="bitcoin mining involves,mining process bitcoin,bitcoin mining process,bitcoin mining provides" metadescription="Bitcoin mining is the process of verifying and adding transaction records to the public ledger of past transactions." />
 ===Introduction to Bitcoin Mining===
 
 Bitcoin mining is the process of verifying and adding transaction records to the public ledger of past transactions, known as the blockchain. It is a decentralized process that is powered by a distributed network of computers. Bitcoin miners are rewarded with newly created bitcoins and transaction fees for their efforts. The process of mining is essential to the security and reliability of the Bitcoin network.

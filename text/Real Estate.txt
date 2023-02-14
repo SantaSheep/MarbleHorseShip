@@ -1,4 +1,4 @@
-<seo title="Real Estate" metakeywords="analysis real estate,introduction real estate,real estate term,real estate market" metadescription="Real estate is a term used to describe land and any buildings or structures on it.It is a form of property that can be bought, sold, or leased."/>
+<seo title="Real Estate" metakeywords="analysis real estate,introduction real estate,real estate term,real estate market" metadescription="Real estate is a term used to describe land and any buildings or structures on it.It is a form of property that can be bought, sold, or leased." />
 ===Introduction to Real Estate===
 
 Real estate is a term used to describe land and any buildings or structures on it. It is a form of property that can be bought, sold, or leased. Real estate can include residential, commercial, and industrial properties. It can also include undeveloped land, such as vacant lots. Real estate is a major asset class and is often used as an investment.

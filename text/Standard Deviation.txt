@@ -1,4 +1,4 @@
-<seo title="Standard Deviation" metakeywords="standard deviation uses,standard deviation measure,standard deviation used,introduction standard deviation" metadescription="Standard deviation is a measure of how much the data points vary from the mean.It is used to measure the variability of a set of data points and is a key concept in statistics."/>
+<seo title="Standard Deviation" metakeywords="standard deviation uses,standard deviation measure,standard deviation used,introduction standard deviation" metadescription="Standard deviation is a measure of how much the data points vary from the mean.It is used to measure the variability of a set of data points and is a key concept in statistics." />
 ===Introduction to Standard Deviation===
 
 Standard deviation is a measure of the spread of a set of data points. It is a measure of how much the data points vary from the mean. It is used to measure the variability of a set of data points and is a key concept in statistics. Standard deviation is a measure of the amount of variation or dispersion of a set of data values from the mean. It is calculated as the square root of the variance.

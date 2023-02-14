@@ -1,4 +1,4 @@
-<seo title="Money Laundering" metakeywords="money laundering techniques,money laundering process,money laundering measures,money laundering technique" metadescription="Money laundering is the process of concealing the source of illegally obtained money."/>
+<seo title="Money Laundering" metakeywords="money laundering techniques,money laundering process,money laundering measures,money laundering technique" metadescription="Money laundering is the process of concealing the source of illegally obtained money." />
 ===Introduction to Money Laundering===
 
 Money laundering is the process of concealing the source of illegally obtained money. It is a criminal activity that is used to disguise the origin of money obtained through illegal activities such as drug trafficking, terrorism, and tax evasion. Money laundering is a global problem that has been around for centuries and is estimated to cost the global economy billions of dollars each year. Money laundering is a complex process that involves multiple steps and techniques to conceal the source of the money.

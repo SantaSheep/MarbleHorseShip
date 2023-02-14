@@ -1,4 +1,4 @@
-<seo title="Parker Hannifin" metakeywords="parker hannifin founded,parker hannifin global,parker hannifin diversified,hannifin diversified manufacturer" metadescription="Parker Hannifin is a diversified manufacturer of motion and control technologies and systems."/>
+<seo title="Parker Hannifin" metakeywords="parker hannifin founded,parker hannifin global,parker hannifin diversified,hannifin diversified manufacturer" metadescription="Parker Hannifin is a diversified manufacturer of motion and control technologies and systems." />
 ===Introduction to Parker Hannifin===
 
 Parker Hannifin is a global leader in motion and control technologies. Founded in 1918, the company has grown to become one of the largest industrial companies in the world, with operations in 50 countries and over 58,000 employees. Parker Hannifin is a diversified manufacturer of motion and control technologies and systems, providing precision-engineered solutions for a wide range of mobile, industrial, and aerospace markets. The company’s products and services are used in a variety of applications, including automotive, aerospace, construction, agriculture, and medical.

@@ -1,4 +1,4 @@
-<seo title="Going Concern Value" metakeywords="going concern value,value going concern,making going concern,introduction going concern" metadescription="Going concern value is a concept used in financial analysis to determine the value of a business."/>
+<seo title="Going Concern Value" metakeywords="going concern value,value going concern,making going concern,introduction going concern" metadescription="Going concern value is a concept used in financial analysis to determine the value of a business." />
 ===Introduction to Going Concern Value===
 
 [[Going Concern|Going concern]] value is a concept used in [[Financial Analysis|financial analysis]] to determine the value of a business. It is based on the assumption that the business will continue to operate in the future and will generate profits. The going concern value is used to assess the value of a business in terms of its ability to generate future profits. It is an important concept for investors and analysts as it helps them to make informed decisions about the future of a business.

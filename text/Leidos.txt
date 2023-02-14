@@ -1,4 +1,4 @@
-<seo title="Leidos" metakeywords="leidos business model,leidos publicly traded,technology logistics leidos,leidos acquired lockheed" metadescription="Leidos provides a wide range of services, including engineering, information technology, and logistics."/>
+<seo title="Leidos" metakeywords="leidos business model,leidos publicly traded,technology logistics leidos,leidos acquired lockheed" metadescription="Leidos provides a wide range of services, including engineering, information technology, and logistics." />
 ===Introduction to Leidos===
 
 Leidos is a global science and technology solutions leader that specializes in providing innovative solutions to the most complex problems. Founded in 1969, Leidos has grown to become one of the largest and most successful companies in the world. Leidos provides a wide range of services, including engineering, information technology, and logistics. The company has a presence in more than 30 countries and employs over 30,000 people. Leidos is a publicly traded company on the New York Stock Exchange (NYSE: LDOS).

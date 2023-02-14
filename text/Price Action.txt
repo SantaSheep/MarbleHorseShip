@@ -1,4 +1,4 @@
-<seo title="Price Action" metakeywords="price action analysis,price action indicators,analysis price action,price action term" metadescription="Price action is a term used in the financial markets to describe the movement of a security's price."/>
+<seo title="Price Action" metakeywords="price action analysis,price action indicators,analysis price action,price action term" metadescription="Price action is a term used in the financial markets to describe the movement of a security's price." />
 ===Introduction to Price Action===
 
 Price action is a term used in the [[Financial Market|financial market]]s to describe the movement of a security's price. It is a [[Technical Analysis|technical analysis]] tool that uses past price movements to predict future price movements. Price action analysis is based on the idea that prices move in trends, and that these trends can be identified and used to make trading decisions. Price action analysis is used by traders to identify potential trading opportunities and to make informed decisions about when to enter and exit trades.

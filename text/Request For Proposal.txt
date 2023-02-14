@@ -1,4 +1,4 @@
-<seo title="Request For Proposal" metakeywords="request proposal rfp,proposal rfp process,proposal process rfp,request proposal process" metadescription="A Request For Proposal (RFP) is a document used by organizations to solicit bids from potential vendors for a specific project or service."/>
+<seo title="Request For Proposal" metakeywords="request proposal rfp,proposal rfp process,proposal process rfp,request proposal process" metadescription="A Request For Proposal (RFP) is a document used by organizations to solicit bids from potential vendors for a specific project or service." />
 ===Introduction to Request For Proposal===
 
 A Request For Proposal (RFP) is a document used by organizations to solicit bids from potential vendors for a specific project or service. It is a formal process that outlines the scope of the project, the requirements of the vendor, and the timeline for completion. The RFP process is used to ensure that the organization is getting the best value for their money and that the vendor is able to meet the organizationâ€™s needs.

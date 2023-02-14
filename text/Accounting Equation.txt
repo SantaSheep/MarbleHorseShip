@@ -1,4 +1,4 @@
-<seo title="Accounting Equation" metakeywords="introduction accounting equation,accounting equation accounting,accounting equation,accounting equation fundamental" metadescription="The accounting equation is a fundamental concept in accounting that is used to measure the financial health of a business."/>
+<seo title="Accounting Equation" metakeywords="introduction accounting equation,accounting equation accounting,accounting equation,accounting equation fundamental" metadescription="The accounting equation is a fundamental concept in accounting that is used to measure the financial health of a business." />
 ===Introduction to the Accounting Equation===
 
 The accounting equation is a fundamental concept in accounting that states that the total assets of a business must equal the [[Total Liabilities|total liabilities]] plus the total equity of the business. This equation is used to measure the financial health of a business and is the basis for all [[Financial Statements|financial statements]]. It is also used to calculate the [[Net Worth|net worth]] of a business.

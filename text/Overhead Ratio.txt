@@ -1,4 +1,4 @@
-<seo title="Overhead Ratio" metakeywords="revenue overhead ratio,overhead ratio company,calculating overhead ratio,definition overhead ratio" metadescription="The overhead ratio is a financial metric used to measure the efficiency of a company’s operations."/>
+<seo title="Overhead Ratio" metakeywords="revenue overhead ratio,overhead ratio company,calculating overhead ratio,definition overhead ratio" metadescription="The overhead ratio is a financial metric used to measure the efficiency of a company’s operations." />
 ===Introduction to Overhead Ratio===
 
 The overhead ratio is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing the total overhead costs of a company by its total revenue. The overhead ratio is an important tool for businesses to measure their operational efficiency and to identify areas where they can improve their operations. It is also used by investors and analysts to assess the financial health of a company.

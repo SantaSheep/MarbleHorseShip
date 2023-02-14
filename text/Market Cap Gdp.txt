@@ -1,4 +1,4 @@
-<seo title="Market Cap Gdp" metakeywords="marketcapgdp ratio indicates,marketcapgdp financial term,marketcapgdp market capitalization,marketcapgdp ratio advantages" metadescription="Marketcapgdp is a financial term that stands for market capitalization to gross domestic product ratio."/>
+<seo title="Market Cap Gdp" metakeywords="marketcapgdp ratio indicates,marketcapgdp financial term,marketcapgdp market capitalization,marketcapgdp ratio advantages" metadescription="Marketcapgdp is a financial term that stands for market capitalization to gross domestic product ratio." />
 ===Introduction to Marketcapgdp===
 
 Marketcapgdp is a financial term that stands for [[Market Capitalization|market capitalization]] to gross domestic product ratio. It is a measure of the size of a company relative to the size of the economy in which it operates. It is used to compare the relative size of companies in different countries and to assess the overall health of the economy. The ratio is calculated by dividing the market capitalization of a company by the gross domestic product (GDP) of the country in which it operates.

@@ -1,4 +1,4 @@
-<seo title="Business" metakeywords="ownership structures businesses,business ownership structures,business ownership,proprietorships partnerships corporations" metadescription="Business is an economic activity that involves the exchange of goods and services for money."/>
+<seo title="Business" metakeywords="ownership structures businesses,business ownership structures,business ownership,proprietorships partnerships corporations" metadescription="Business is an economic activity that involves the exchange of goods and services for money." />
 ===Introduction to Business===
 
 Business is an economic activity that involves the exchange of goods and services for money. It is a broad term that encompasses a wide range of activities, including production, distribution, marketing, and finance. Businesses can range from small, family-owned operations to large, [[Multinational Corporation|multinational corporation]]s. Businesses are essential to the functioning of a modern economy, as they provide goods and services to consumers and create jobs.

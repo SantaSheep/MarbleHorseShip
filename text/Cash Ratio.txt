@@ -1,4 +1,4 @@
-<seo title="Cash Ratio" metakeywords="cash ratio financial,cash ratio indicates,cash ratio cash,ratio cash ratio" metadescription="The Cash Ratio is a financial metric used to measure a company’s liquidity."/>
+<seo title="Cash Ratio" metakeywords="cash ratio financial,cash ratio indicates,cash ratio cash,ratio cash ratio" metadescription="The Cash Ratio is a financial metric used to measure a company’s liquidity." />
 ===Introduction to Cash Ratio===
 
 The Cash Ratio is a financial metric used to measure a company’s liquidity. It is calculated by dividing a company’s total [[Cash And Cash Equivalents|cash and cash equivalents]] by its [[Current Liabilities|current liabilities]]. The Cash Ratio is a more conservative measure of liquidity than the [[Current Ratio|Current Ratio]], as it only takes into account the most [[Liquid Asset|liquid asset]]s of a company. It is a useful tool for investors and creditors to assess a company’s ability to meet its short-term obligations.

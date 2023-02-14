@@ -1,4 +1,4 @@
-<seo title="Living Trust" metakeywords="living trusts special,trusts living trusts,introduction living trusts,living trust trusts" metadescription="A living trust is a legal document that allows an individual to transfer ownership of their assets to a trustee."/>
+<seo title="Living Trust" metakeywords="living trusts special,trusts living trusts,introduction living trusts,living trust trusts" metadescription="A living trust is a legal document that allows an individual to transfer ownership of their assets to a trustee." />
 ===Introduction to Living Trusts===
 
 A living trust is a legal document that allows an individual to transfer ownership of their assets to a trustee, who will manage the assets for the benefit of the trust’s beneficiaries. The trust is created during the individual’s lifetime, and the individual is referred to as the grantor. The grantor can also be the trustee, or they can appoint a third party to act as the trustee. Living trusts are a popular estate planning tool, as they can help to avoid probate and provide more control over how assets are distributed after the grantor’s death.

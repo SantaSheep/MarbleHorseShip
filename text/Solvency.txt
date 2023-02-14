@@ -1,4 +1,4 @@
-<seo title="Solvency" metakeywords="solvency solvency typically,solvency typically,solvency typically measured,solvency solvency defined" metadescription="Solvency is a measure of the ability of a company or individual to meet their financial obligations.It is typically measured by looking at the ratio of assets to liabilities."/>
+<seo title="Solvency" metakeywords="solvency solvency typically,solvency typically,solvency typically measured,solvency solvency defined" metadescription="Solvency is a measure of the ability of a company or individual to meet their financial obligations.It is typically measured by looking at the ratio of assets to liabilities." />
 ===Introduction to Solvency===
 
 Solvency is a term used to describe the financial health of a company or individual. It is a measure of the ability of a company or individual to meet their financial obligations. Solvency is an important concept for businesses and individuals alike, as it can have a significant impact on their ability to access credit, make investments, and manage their finances.

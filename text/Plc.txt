@@ -1,4 +1,4 @@
-<seo title="Plc" metakeywords="companies plcs,public private plcs,companies plcs known,types companies plcs" metadescription="A Plc, or Public Limited Company, is a type of business entity that is publicly traded on the stock exchange."/>
+<seo title="Plc" metakeywords="companies plcs,public private plcs,companies plcs known,types companies plcs" metadescription="A Plc, or Public Limited Company, is a type of business entity that is publicly traded on the stock exchange." />
 ===Introduction to Plc===
 
 A Plc, or Public Limited Company, is a type of business entity that is publicly traded on the stock exchange. It is a limited liability company, meaning that the shareholders are not personally liable for the companyâ€™s debts or liabilities. Plcs are typically large companies that have a wide range of shareholders, and are subject to more stringent regulations than other types of companies. Plcs are also known as public companies, and are the most common type of company in the United Kingdom.

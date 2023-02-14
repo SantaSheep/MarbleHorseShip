@@ -1,4 +1,4 @@
-<seo title="Cloud Computing" metakeywords="cloud computing,utilizing cloud computing,cloud computing used,cloud computing cloud" metadescription="Cloud computing is a model of computing that allows users to access applications and services over the Internet."/>
+<seo title="Cloud Computing" metakeywords="cloud computing,utilizing cloud computing,cloud computing used,cloud computing cloud" metadescription="Cloud computing is a model of computing that allows users to access applications and services over the Internet." />
 ===Introduction to Cloud Computing===
 
 Cloud computing is a type of computing that utilizes a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer. It is a model of computing that allows users to access applications and services over the Internet, without having to install and maintain the hardware and software necessary to run them. Cloud computing is becoming increasingly popular as businesses and individuals look for ways to reduce costs and increase efficiency.

@@ -1,4 +1,4 @@
-<seo title="Emerson Electric" metakeywords="management emerson electric,introduction emerson electric,emerson electric global,history emerson electric" metadescription="Emerson Electric is a global technology and engineering company that provides innovative solutions to customers in the industrial, commercial, and consumer markets."/>
+<seo title="Emerson Electric" metakeywords="management emerson electric,introduction emerson electric,emerson electric global,history emerson electric" metadescription="Emerson Electric is a global technology and engineering company that provides innovative solutions to customers in the industrial, commercial, and consumer markets." />
 ===Introduction to Emerson Electric===
 
 Emerson Electric is a global technology and engineering company that provides innovative solutions to customers in the industrial, commercial, and consumer markets. Founded in 1890, the company has grown to become a leader in the industry, with operations in more than 150 countries and over 130,000 employees. Emerson Electric is a publicly traded company on the New York Stock Exchange (NYSE: EMR).

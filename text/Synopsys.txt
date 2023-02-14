@@ -1,4 +1,4 @@
-<seo title="Synopsys" metakeywords="chip socs synopsys,socs synopsys provides,socs synopsys,ics socs company" metadescription="Synopsys is a leading provider of electronic design automation (EDA) software and services."/>
+<seo title="Synopsys" metakeywords="chip socs synopsys,socs synopsys provides,socs synopsys,ics socs company" metadescription="Synopsys is a leading provider of electronic design automation (EDA) software and services." />
 ===Introduction to Synopsys===
 
 Synopsys is a leading provider of electronic design automation (EDA) software and services. Founded in 1986, the company has grown to become a global leader in the design and verification of integrated circuits (ICs) and systems-on-chip (SoCs). Synopsys provides a comprehensive suite of EDA tools and services that enable customers to design, verify, and implement their ICs and SoCs. The company also offers a wide range of IP cores, design services, and software solutions to help customers accelerate their product development cycles.

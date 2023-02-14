@@ -1,4 +1,4 @@
-<seo title="Eb It Da" metakeywords="ebitda measure,ebitda ebitda measure,ebitda used measure,definition ebitda ebitda" metadescription="Ebitda, or Earnings Before Interest, Taxes, Depreciation, and Amortization, is a financial metric used to measure a company’s profitability."/>
+<seo title="Eb It Da" metakeywords="ebitda measure,ebitda ebitda measure,ebitda used measure,definition ebitda ebitda" metadescription="Ebitda, or Earnings Before Interest, Taxes, Depreciation, and Amortization, is a financial metric used to measure a company’s profitability." />
 ===Introduction to Ebitda===
 
 Ebitda, or Earnings Before Interest, Taxes, Depreciation, and Amortization, is a financial metric used to measure a company’s profitability. It is a non-GAAP measure of a company’s [[Financial Performance|financial performance]] and is often used to compare companies in the same industry. Ebitda is a useful tool for investors and analysts to assess a company’s financial health and performance.

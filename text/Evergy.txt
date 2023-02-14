@@ -1,4 +1,4 @@
-<seo title="Evergy" metakeywords="evergy regulated utility,evergy provides energy,evergy publicly traded,customers evergy provides" metadescription="Evergy is a leading energy provider in the United States, serving more than 1.6 million customers in Kansas and Missouri."/>
+<seo title="Evergy" metakeywords="evergy regulated utility,evergy provides energy,evergy publicly traded,customers evergy provides" metadescription="Evergy is a leading energy provider in the United States, serving more than 1.6 million customers in Kansas and Missouri." />
 ===Introduction to Evergy===
 
 Evergy is a leading energy provider in the United States, serving more than 1.6 million customers in Kansas and Missouri. The company is a combination of two former utilities, Kansas City Power & Light and KCP& Greater Missouri Operations, and is headquartered in Kansas City, Missouri. Evergy is a publicly traded company on the New York Stock Exchange (NYSE) under the ticker symbol EVRG. The company is a member of the S&P 500 and is a component of the Dow Jones Utility Average.

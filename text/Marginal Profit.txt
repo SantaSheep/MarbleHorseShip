@@ -1,4 +1,4 @@
-<seo title="Marginal Profit" metakeywords="marginal profit defined,marginal profit concept,definition marginal profit,marginal profit context" metadescription="Marginal profit is the difference between the total revenue and total cost of producing one additional unit of a product or service."/>
+<seo title="Marginal Profit" metakeywords="marginal profit defined,marginal profit concept,definition marginal profit,marginal profit context" metadescription="Marginal profit is the difference between the total revenue and total cost of producing one additional unit of a product or service." />
 ===Introduction to Marginal Profit===
 
 Marginal profit is a concept used in economics and business to measure the profitability of a product or service. It is the difference between the total revenue and total cost of producing one additional unit of a product or service. It is used to measure the profitability of a business and to determine the optimal level of production. It is also used to compare the profitability of different products or services.

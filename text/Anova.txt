@@ -1,4 +1,4 @@
-<seo title="Anova" metakeywords="way anova used,types anova way,anova types,types anova" metadescription="Anova, or Analysis of Variance, is a statistical technique used to compare the means of two or more groups of data."/>
+<seo title="Anova" metakeywords="way anova used,types anova way,anova types,types anova" metadescription="Anova, or Analysis of Variance, is a statistical technique used to compare the means of two or more groups of data." />
 ===Introduction to Anova===
 
 Anova, or Analysis of Variance, is a statistical technique used to compare the means of two or more groups of data. It is used to determine if there is a [[Statistically Significant|statistically significant]] difference between the means of the groups. Anova is used in a variety of fields, including finance, economics, and psychology.

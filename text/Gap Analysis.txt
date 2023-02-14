@@ -1,4 +1,4 @@
-<seo title="Gap Analysis" metakeywords="gap analysis process,definition gap analysis,gap analysis type,analysis gap analysis" metadescription="Gap analysis is a process used to identify the differences between two states, such as the current state and the desired state."/>
+<seo title="Gap Analysis" metakeywords="gap analysis process,definition gap analysis,gap analysis type,analysis gap analysis" metadescription="Gap analysis is a process used to identify the differences between two states, such as the current state and the desired state." />
 ===Introduction to Gap Analysis===
 
 Gap analysis is a process used to identify the differences between two states, such as the current state and the desired state. It is a tool used to identify the areas of improvement and to develop strategies to bridge the gap between the two states. Gap analysis is used in many different fields, including business, finance, and healthcare. It is a useful tool for organizations to identify areas of improvement and to develop strategies to bridge the gap between the current and desired states.

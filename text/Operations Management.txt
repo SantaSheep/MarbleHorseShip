@@ -1,4 +1,4 @@
-<seo title="Operations Management" metakeywords="introduction operations management,operations management concerned,operations management process,operations management" metadescription="Operations management is the process of managing the operations of a business or organization."/>
+<seo title="Operations Management" metakeywords="introduction operations management,operations management concerned,operations management process,operations management" metadescription="Operations management is the process of managing the operations of a business or organization." />
 ===Introduction to Operations Management===
 
 Operations management is the process of managing the operations of a business or organization. It involves the planning, organizing, directing, and controlling of the activities that are necessary to produce goods and services. Operations management is a critical component of any successful business, as it helps to ensure that the organization is running efficiently and effectively.

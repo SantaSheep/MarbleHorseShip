@@ -1,4 +1,4 @@
-<seo title="Nasdaq" metakeywords="market nasdaq trading,introduction nasdaq,nasdaq trading,nasdaq market" metadescription="Nasdaq is a global electronic marketplace for buying and selling securities.It is the second-largest stock exchange in the world by market capitalization."/>
+<seo title="Nasdaq" metakeywords="market nasdaq trading,introduction nasdaq,nasdaq trading,nasdaq market" metadescription="Nasdaq is a global electronic marketplace for buying and selling securities.It is the second-largest stock exchange in the world by market capitalization." />
 ===Introduction to Nasdaq===
 
 Nasdaq is a global electronic marketplace for buying and selling securities. It is the second-largest stock exchange in the world by [[Market Capitalization|market capitalization]], behind only the New York Stock Exchange (NYSE). Nasdaq is home to more than 3,000 companies, including some of the world’s most recognizable brands. It is also the home of the world’s first electronic [[Stock Market|stock market]], which was launched in 1971.

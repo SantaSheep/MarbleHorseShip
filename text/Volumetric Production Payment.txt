@@ -1,4 +1,4 @@
-<seo title="Volumetric Production Payment" metakeywords="volumetric production payment,production payment volumetric,vpp benefits producers,payment volumetric production" metadescription="Volumetric Production Payment (VPP) is a payment system used in the oil and gas industry."/>
+<seo title="Volumetric Production Payment" metakeywords="volumetric production payment,production payment volumetric,vpp benefits producers,payment volumetric production" metadescription="Volumetric Production Payment (VPP) is a payment system used in the oil and gas industry." />
 ===Introduction to Volumetric Production Payment===
 
 Volumetric Production Payment (VPP) is a payment system used in the oil and gas industry to pay for the production of oil and gas. It is a form of payment that is based on the volume of production rather than the price of the commodity. VPP is used to ensure that producers are paid for their production in a timely manner and to ensure that the producer is not exposed to price volatility. VPP is also used to incentivize producers to increase production and to ensure that the producer is not exposed to the risk of price fluctuations.

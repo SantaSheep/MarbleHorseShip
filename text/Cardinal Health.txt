@@ -1,4 +1,4 @@
-<seo title="Cardinal Health" metakeywords="cardinal health business,cardinal health operates,cardinal health global,cardinal health founded" metadescription=""/>
+<seo title="Cardinal Health" metakeywords="cardinal health business,cardinal health operates,cardinal health global,cardinal health founded" metadescription="" />
 ===Introduction to Cardinal Health===
 
 Cardinal Health is a global healthcare services and products company that provides medical products, services, and solutions to hospitals, health systems, pharmacies, ambulatory surgery centers, clinical laboratories, and physician offices worldwide. The company was founded in 1971 and is headquartered in Dublin, Ohio. Cardinal Health operates in two segments: Pharmaceutical and Medical. The Pharmaceutical segment distributes branded and generic pharmaceuticals, over-the-counter healthcare products, and other related products to retail and institutional customers. The Medical segment provides medical, surgical, and laboratory products, as well as services to hospitals, ambulatory surgery centers, clinical laboratories, and physician offices.

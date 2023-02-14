@@ -1,4 +1,4 @@
-<seo title="Return On Average Capital Employed Ro Ace" metakeywords="roace financial metric,capital employed roace,roace return average,roace advantages" metadescription="Return on Average Capital Employed (ROACE) is a financial metric used to measure the profitability of a company."/>
+<seo title="Return On Average Capital Employed Ro Ace" metakeywords="roace financial metric,capital employed roace,roace return average,roace advantages" metadescription="Return on Average Capital Employed (ROACE) is a financial metric used to measure the profitability of a company." />
 ===Introduction to Return on Average Capital Employed (ROACE)===
 
 Return on Average [[Capital Employed|Capital Employed]] (ROACE) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s net [[Operating Profit|operating profit]] after taxes (NOPAT) by its average capital employed (ACE). ROACE is a useful metric for investors and analysts to assess the efficiency of a company’s management in generating profits from its capital investments.

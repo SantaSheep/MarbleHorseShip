@@ -1,4 +1,4 @@
-<seo title="Gilead Sciences" metakeywords="gilead sciences,introduction gilead sciences,gilead sciences biopharmaceutical,history gilead sciences" metadescription="Gilead Sciences is a biopharmaceutical company based in Foster City, California."/>
+<seo title="Gilead Sciences" metakeywords="gilead sciences,introduction gilead sciences,gilead sciences biopharmaceutical,history gilead sciences" metadescription="Gilead Sciences is a biopharmaceutical company based in Foster City, California." />
 ===Introduction to Gilead Sciences===
 
 Gilead Sciences is a biopharmaceutical company based in Foster City, California. Founded in 1987, Gilead Sciences is a leader in the development, manufacture, and commercialization of innovative therapeutics for the treatment of life-threatening diseases. Gilead Sciences has a broad portfolio of products and services, including antiviral, oncology, and cardiovascular therapies. Gilead Sciences is committed to providing innovative treatments to improve the lives of patients around the world.

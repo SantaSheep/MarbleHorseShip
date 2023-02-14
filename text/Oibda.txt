@@ -1,4 +1,4 @@
-<seo title="Oibda" metakeywords="oibda operating income,oibda financial metric,income oibda measure,depreciation amortization oibda" metadescription="Operating Income Before Depreciation and Amortization (OIBDA) is a financial metric used to measure a company’s operating performance."/>
+<seo title="Oibda" metakeywords="oibda operating income,oibda financial metric,income oibda measure,depreciation amortization oibda" metadescription="Operating Income Before Depreciation and Amortization (OIBDA) is a financial metric used to measure a company’s operating performance." />
 ===Introduction to OIBDA===
 
 [[Operating Income|Operating Income]] Before Depreciation and Amortization (OIBDA) is a financial metric used to measure a company’s operating performance. It is a measure of a company’s profitability before taking into account the effects of depreciation and amortization. OIBDA is a useful metric for investors and analysts to assess a company’s [[Financial Performance|financial performance]] and compare it to other companies in the same industry.

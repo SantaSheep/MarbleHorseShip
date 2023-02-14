@@ -1,4 +1,4 @@
-<seo title="Pvif" metakeywords="pvif present value,present value pvif,factor pvif financial,cash flow pvif" metadescription="Present Value Interest Factor (PVIF) is a financial concept used to calculate the present value of a future sum of money."/>
+<seo title="Pvif" metakeywords="pvif present value,present value pvif,factor pvif financial,cash flow pvif" metadescription="Present Value Interest Factor (PVIF) is a financial concept used to calculate the present value of a future sum of money." />
 ===Introduction to Present Value Interest Factor (PVIF)===
 
 The [[Present Value|Present Value]] Interest Factor (PVIF) is a financial concept used to calculate the present value of a future sum of money. It is a useful tool for investors and financial advisors to determine the present value of a future [[Cash Flow|cash flow]]. PVIF is also known as the discount factor, as it is used to discount future cash flows to their present value. PVIF is calculated by taking the present value of a future sum of money and dividing it by the future sum of money.

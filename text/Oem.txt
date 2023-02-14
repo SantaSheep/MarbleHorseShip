@@ -1,4 +1,4 @@
-<seo title="Oem" metakeywords="oem concept,oems present challenges,oem term used,oem concept oems" metadescription="Original Equipment Manufacturer (OEM) is a term used to describe a company that manufactures products for another company to resell."/>
+<seo title="Oem" metakeywords="oem concept,oems present challenges,oem term used,oem concept oems" metadescription="Original Equipment Manufacturer (OEM) is a term used to describe a company that manufactures products for another company to resell." />
 ===Introduction to OEM===
 
 Original Equipment Manufacturer (OEM) is a term used to describe a company that manufactures products for another company to resell. OEMs are responsible for the design, development, and production of products that are then sold to other companies. OEMs are an important part of the global economy, as they provide a cost-effective way for companies to produce products without having to invest in their own manufacturing facilities.

@@ -1,4 +1,4 @@
-<seo title="Receivable Turnover Ratio" metakeywords="turnover ratio receivables,receivable turnover ratio,receivable turnover,introduction receivable turnover" metadescription="Receivable Turnover Ratio is a financial metric used to measure the efficiency of a company’s accounts receivable."/>
+<seo title="Receivable Turnover Ratio" metakeywords="turnover ratio receivables,receivable turnover ratio,receivable turnover,introduction receivable turnover" metadescription="Receivable Turnover Ratio is a financial metric used to measure the efficiency of a company’s accounts receivable." />
 ===Introduction to Receivable Turnover Ratio===
 
 Receivable Turnover Ratio is a financial metric used to measure the efficiency of a company’s [[Accounts Receivable|accounts receivable]]. It is calculated by dividing the total net credit sales of a company by its average accounts receivable. This ratio is used to measure the liquidity of a company’s accounts receivable and to assess the company’s ability to collect payments from its customers.

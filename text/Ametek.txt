@@ -1,4 +1,4 @@
-<seo title="Ametek" metakeywords="electronics ametek products,ametek publicly traded,ametek stock,ametek business model" metadescription="Ametek is a global leader in the design and manufacture of electronic instruments and electromechanical devices."/>
+<seo title="Ametek" metakeywords="electronics ametek products,ametek publicly traded,ametek stock,ametek business model" metadescription="Ametek is a global leader in the design and manufacture of electronic instruments and electromechanical devices." />
 ===Introduction to Ametek===
 
 Ametek is a global leader in the design and manufacture of electronic instruments and electromechanical devices. Founded in 1930, the company has grown to become a Fortune 500 company with over 15,000 employees in more than 30 countries. Ametek is a publicly traded company on the New York Stock Exchange (NYSE: AME) and is a component of the S&P 500 index. The company operates in two segments: Electronic Instruments and Electromechanical.

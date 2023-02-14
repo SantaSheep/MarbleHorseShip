@@ -1,4 +1,4 @@
-<seo title="Keynesian Economics" metakeywords="keynesian economics practice,keynesian economics theory,keynesian economics used,theory keynesian economics" metadescription="Keynesian economics is an economic theory developed by British economist John Maynard Keynes in the 1930s."/>
+<seo title="Keynesian Economics" metakeywords="keynesian economics practice,keynesian economics theory,keynesian economics used,theory keynesian economics" metadescription="Keynesian economics is an economic theory developed by British economist John Maynard Keynes in the 1930s." />
 ===Introduction to Keynesian Economics===
 
 Keynesian economics is an economic theory developed by British economist John Maynard Keynes in the 1930s. It is based on the idea that government intervention in the economy can help to stabilize it and promote [[Economic Growth|economic growth]]. Keynesian economics has been used by governments around the world to manage their economies and has been influential in the development of modern macroeconomic theory.

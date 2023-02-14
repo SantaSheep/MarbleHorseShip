@@ -1,4 +1,4 @@
-<seo title="Prospectus" metakeywords="prospectus legal document,definition prospectus prospectus,introduction prospectus prospectus,prospectus document" metadescription="A prospectus is a legal document that provides detailed information about a company’s securities offering."/>
+<seo title="Prospectus" metakeywords="prospectus legal document,definition prospectus prospectus,introduction prospectus prospectus,prospectus document" metadescription="A prospectus is a legal document that provides detailed information about a company’s securities offering." />
 ===Introduction to Prospectus===
 
 A prospectus is a legal document that provides detailed information about a company’s securities offering. It is typically used by companies that are issuing securities to the public for the first time, such as stocks or bonds. The prospectus is an important document for potential investors, as it provides them with the information they need to make an informed decision about whether or not to invest in the company.

@@ -1,4 +1,4 @@
-<seo title="Arpu" metakeywords="arpu financial metric,revenue user arpu,arpu average revenue,customers arpu" metadescription="Average Revenue Per User (ARPU) is a financial metric used to measure the average revenue generated from each user of a product or service."/>
+<seo title="Arpu" metakeywords="arpu financial metric,revenue user arpu,arpu average revenue,customers arpu" metadescription="Average Revenue Per User (ARPU) is a financial metric used to measure the average revenue generated from each user of a product or service." />
 ===Introduction to ARPU===
 
 Average Revenue Per User (ARPU) is a financial metric used to measure the average revenue generated from each user of a product or service. It is a key performance indicator (KPI) used to measure the success of a business in terms of its ability to generate revenue from its customers. ARPU is used to measure the effectiveness of a company’s pricing strategy, customer acquisition and retention efforts, and overall customer satisfaction. ARPU is also used to compare the performance of different companies in the same industry.

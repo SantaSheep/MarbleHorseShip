@@ -1,4 +1,4 @@
-<seo title="Wec Energy Group" metakeywords="wisconsin energy corporation,wec energy group,energy group wisconsin,power company wisconsin" metadescription="Wec Energy Group (formerly Wisconsin Energy Corporation) is a diversified energy company based in Milwaukee, Wisconsin."/>
+<seo title="Wec Energy Group" metakeywords="wisconsin energy corporation,wec energy group,energy group wisconsin,power company wisconsin" metadescription="Wec Energy Group (formerly Wisconsin Energy Corporation) is a diversified energy company based in Milwaukee, Wisconsin." />
 ===Introduction to Wec Energy Group===
 
 Wec Energy Group (formerly Wisconsin Energy Corporation) is a diversified energy company based in Milwaukee, Wisconsin. The company is the parent of Wisconsin Electric Power Company, Wisconsin Gas, and We Energies, which together serve more than 4.5 million electric and natural gas customers in Wisconsin, Michigan, and Illinois. Wec Energy Group is a publicly traded company listed on the New York Stock Exchange under the ticker symbol WEC.

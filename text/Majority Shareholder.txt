@@ -1,4 +1,4 @@
-<seo title="Majority Shareholder" metakeywords="introduction majority shareholder,majority shareholder control,majority shareholder majority,majority shareholders" metadescription="A majority shareholder is an individual or entity that owns more than 50% of the shares of a company."/>
+<seo title="Majority Shareholder" metakeywords="introduction majority shareholder,majority shareholder control,majority shareholder majority,majority shareholders" metadescription="A majority shareholder is an individual or entity that owns more than 50% of the shares of a company." />
 ===Introduction to Majority Shareholder===
 
 A majority shareholder is an individual or entity that owns more than 50% of the shares of a company. This gives them control over the company’s operations and decisions. Majority shareholders are typically the founders of the company, or they may be [[Venture Capital|venture capital]]ists, [[Private Equity|private equity]] firms, or other investors. They are often the largest shareholders in the company and have the most influence over the company’s direction.

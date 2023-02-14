@@ -1,4 +1,4 @@
-<seo title="Child Tax Credit" metakeywords="child tax credit,tax credit child,qualifying child ctc,tax credit ctc" metadescription="The Child Tax Credit (CTC) is a federal tax credit available to taxpayers with qualifying children.The credit can be up to $2,000 per qualifying child."/>
+<seo title="Child Tax Credit" metakeywords="child tax credit,tax credit child,qualifying child ctc,tax credit ctc" metadescription="The Child Tax Credit (CTC) is a federal tax credit available to taxpayers with qualifying children.The credit can be up to $2,000 per qualifying child." />
 ===Introduction to Child Tax Credit===
 
 The Child Tax Credit (CTC) is a federal tax credit available to taxpayers with qualifying children. The CTC is designed to help offset the costs of raising children by providing a tax break to families with dependent children. The CTC is available to taxpayers with qualifying children under the age of 17. The amount of the credit is based on the taxpayer’s income and the number of qualifying children. The CTC is a non-refundable credit, meaning that it can reduce the amount of taxes owed, but it cannot be used to generate a refund.

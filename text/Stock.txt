@@ -1,4 +1,4 @@
-<seo title="Stock" metakeywords="basics investing stocks,stock market basics,basics stock investing,basics stock market" metadescription="The stock market is a place where stocks are bought and sold.There are two main types of stock: common stock and preferred stock."/>
+<seo title="Stock" metakeywords="basics investing stocks,stock market basics,basics stock investing,basics stock market" metadescription="The stock market is a place where stocks are bought and sold.There are two main types of stock: common stock and preferred stock." />
 ===Introduction to Stock===
 
 Stock is a type of security that represents ownership in a company. It is one of the most common investments, and it is a key component of the [[Stock Market|stock market]]. Stock can be bought and sold on the stock market, and it is a popular way for investors to diversify their portfolios. Stock can be a great way to make money, but it is important to understand the risks associated with investing in stock.

@@ -1,4 +1,4 @@
-<seo title="Aggregate Demand" metakeywords="aggregatedemand financial term,concept aggregatedemand used,aggregatedemand important concept,definition aggregatedemand" metadescription="Aggregatedemand is a financial term that refers to the total demand for a particular asset or security across all markets."/>
+<seo title="Aggregate Demand" metakeywords="aggregatedemand financial term,concept aggregatedemand used,aggregatedemand important concept,definition aggregatedemand" metadescription="Aggregatedemand is a financial term that refers to the total demand for a particular asset or security across all markets." />
 ===Introduction to Aggregatedemand===
 
 Aggregatedemand is a financial term that refers to the total demand for a particular asset or security across all markets. It is a measure of the total demand for a particular asset or security, and is used to assess the overall market sentiment for that asset or security. Aggregatedemand is an important concept in [[Financial Market|financial market]]s, as it provides investors with an indication of the overall market sentiment for a particular asset or security.

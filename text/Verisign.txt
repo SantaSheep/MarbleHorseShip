@@ -1,4 +1,4 @@
-<seo title="Verisign" metakeywords="domains verisign business,domains verisign,domains 2000 verisign,verisign business" metadescription="Verisign was founded in 1995 as a spin-off of Network Solutions, Inc. (NSI), which was the first company to register domain names on the internet."/>
+<seo title="Verisign" metakeywords="domains verisign business,domains verisign,domains 2000 verisign,verisign business" metadescription="Verisign was founded in 1995 as a spin-off of Network Solutions, Inc. (NSI), which was the first company to register domain names on the internet." />
 ===Introduction to Verisign===
 
 Verisign is a leading provider of internet infrastructure services, including domain name registration, digital certificates, and other security services. Founded in 1995, Verisign is headquartered in Reston, Virginia and is a publicly traded company on the NASDAQ stock exchange. Verisign is a global leader in providing secure and reliable internet infrastructure services, and is a trusted partner of many of the world’s largest companies and organizations.

@@ -1,4 +1,4 @@
-<seo title="Financial System" metakeywords="financial institutions subject,financial transactions regulation,financial financial subject,financial institutions" metadescription="The financial system is a complex network of institutions, markets, and services."/>
+<seo title="Financial System" metakeywords="financial institutions subject,financial transactions regulation,financial financial subject,financial institutions" metadescription="The financial system is a complex network of institutions, markets, and services." />
 ===Introduction to the Financial System===
 
 The financial system is a complex network of institutions, markets, and services that facilitate the transfer of funds between savers and borrowers. It is an integral part of the global economy, providing the means for individuals, businesses, and governments to access the funds they need to finance their activities. The financial system is composed of a variety of different components, each of which plays an important role in the functioning of the system as a whole.

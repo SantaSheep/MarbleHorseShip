@@ -1,4 +1,4 @@
-<seo title="Western Digital" metakeywords="history western digital,introduction western digital,data storage industry,storage solutions western" metadescription="Western Digital Corporation is a leading provider of data storage solutions."/>
+<seo title="Western Digital" metakeywords="history western digital,introduction western digital,data storage industry,storage solutions western" metadescription="Western Digital Corporation is a leading provider of data storage solutions." />
 ===Introduction===
 
 Western Digital Corporation is a leading provider of data storage solutions. Founded in 1970, the company has grown to become one of the world’s largest suppliers of hard disk drives, solid-state drives, and other storage solutions. Western Digital’s products and services are used in a variety of applications, including consumer electronics, enterprise storage, and [[Cloud Computing|cloud computing]]. In this article, we will discuss the history of Western Digital, its products and services, and its [[Financial Performance|financial performance]].

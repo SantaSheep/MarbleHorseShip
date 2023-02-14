@@ -1,4 +1,4 @@
-<seo title="Wire Transfer" metakeywords="risks associated wiretransfer,types wiretransfer involve,risks wiretransfer wiretransfer,risks wiretransfer" metadescription="Wiretransfer is a type of electronic funds transfer (EFT) that allows for the transfer of money from one bank account to another."/>
+<seo title="Wire Transfer" metakeywords="risks associated wiretransfer,types wiretransfer involve,risks wiretransfer wiretransfer,risks wiretransfer" metadescription="Wiretransfer is a type of electronic funds transfer (EFT) that allows for the transfer of money from one bank account to another." />
 ===Introduction to Wiretransfer===
 
 Wiretransfer is a type of electronic funds transfer (EFT) that allows for the transfer of money from one bank account to another. It is a secure and efficient way to move money between accounts, and is often used for large transactions such as international payments. Wiretransfer is a popular choice for businesses and individuals who need to move money quickly and securely.

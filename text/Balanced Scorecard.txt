@@ -1,4 +1,4 @@
-<seo title="Balanced Scorecard" metakeywords="balanced scorecard provides,introduction balanced scorecard,balanced scorecard developed,balanced scorecard comprehensive" metadescription="BSC is a performance management tool used by organizations to measure and monitor their progress towards achieving their strategic objectives."/>
+<seo title="Balanced Scorecard" metakeywords="balanced scorecard provides,introduction balanced scorecard,balanced scorecard developed,balanced scorecard comprehensive" metadescription="BSC is a performance management tool used by organizations to measure and monitor their progress towards achieving their strategic objectives." />
 ===Introduction to Balanced Scorecard===
 
 The Balanced Scorecard (BSC) is a [[Performance Management|performance management]] tool used by organizations to measure and monitor their progress towards achieving their strategic objectives. It is a comprehensive system that combines financial and non-financial measures to provide a holistic view of an organization’s performance. The BSC is used to track progress, identify areas of improvement, and ensure that the organization is on track to meet its goals.

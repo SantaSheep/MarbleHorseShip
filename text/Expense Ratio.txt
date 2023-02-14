@@ -1,4 +1,4 @@
-<seo title="Expense Ratio" metakeywords="calculating expense ratios,expense ratios,expense ratio measure,ratios expense ratio" metadescription="Expense ratio is a measure of the total costs associated with managing an investment fund or portfolio."/>
+<seo title="Expense Ratio" metakeywords="calculating expense ratios,expense ratios,expense ratio measure,ratios expense ratio" metadescription="Expense ratio is a measure of the total costs associated with managing an investment fund or portfolio." />
 ===Introduction to Expense Ratio===
 
 Expense ratio is a measure of the total costs associated with managing an investment fund or portfolio. It is expressed as a percentage of the fund’s total assets and is calculated by dividing the fund’s operating expenses by its total assets. Expense ratio is an important factor to consider when evaluating the performance of a fund or portfolio, as it can have a significant impact on the [[Return On Investment|return on investment]].

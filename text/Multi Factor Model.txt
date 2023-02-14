@@ -1,4 +1,4 @@
-<seo title="Multi Factor Model" metakeywords="multifactor model financial,introduction multifactor model,applications multifactor model,multifactor model" metadescription="Multifactor model is a financial model used to analyze the performance of a portfolio of investments."/>
+<seo title="Multi Factor Model" metakeywords="multifactor model financial,introduction multifactor model,applications multifactor model,multifactor model" metadescription="Multifactor model is a financial model used to analyze the performance of a portfolio of investments." />
 ===Introduction to Multifactor Model===
 
 The multifactor model is a financial model used to analyze the performance of a portfolio of investments. It is based on the idea that the performance of a portfolio is determined by a combination of factors, such as market risk, sector risk, and company-specific risk. The model is used to identify the sources of risk and return in a portfolio, and to determine the optimal portfolio allocation.

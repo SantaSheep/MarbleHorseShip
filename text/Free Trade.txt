@@ -1,4 +1,4 @@
-<seo title="Free Trade" metakeywords="free trade concept,free trade economic,concept free trade,benefit free trade" metadescription="Free trade is an economic policy that allows countries to trade goods and services without any restrictions or tariffs."/>
+<seo title="Free Trade" metakeywords="free trade concept,free trade economic,concept free trade,benefit free trade" metadescription="Free trade is an economic policy that allows countries to trade goods and services without any restrictions or tariffs." />
 ===Introduction to Free Trade===
 
 Free trade is an economic policy that allows countries to trade goods and services without any restrictions or tariffs. It is based on the idea of [[Comparative Advantage|comparative advantage]], which states that countries should specialize in producing goods and services that they can produce more efficiently than other countries. Free trade has been a major factor in the growth of the global economy, and it has been a major source of [[Economic Growth|economic growth]] for many countries.

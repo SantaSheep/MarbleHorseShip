@@ -1,4 +1,4 @@
-<seo title="Ven N Diagram" metakeywords="venn diagrams useful,venn diagrams developed,venn diagrams used,venn diagrams advantages" metadescription="A Venn diagram is a graphical representation of the relationships between two or more sets of data.Venn diagrams were first developed by John Venn in 1880."/>
+<seo title="Ven N Diagram" metakeywords="venn diagrams useful,venn diagrams developed,venn diagrams used,venn diagrams advantages" metadescription="A Venn diagram is a graphical representation of the relationships between two or more sets of data.Venn diagrams were first developed by John Venn in 1880." />
 ===Introduction to Venn Diagrams===
 
 A Venn diagram is a graphical representation of the relationships between two or more sets of data. It is a type of diagram that uses circles to represent the different sets of data and the relationships between them. The circles are usually drawn in such a way that they overlap, allowing for the comparison of the different sets of data. Venn diagrams are used in many different fields, including mathematics, finance, and business.

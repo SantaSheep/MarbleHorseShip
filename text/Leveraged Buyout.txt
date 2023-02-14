@@ -1,4 +1,4 @@
-<seo title="Leveraged Buyout" metakeywords="introduction leveraged buyouts,leveraged buyouts,leveraged buyouts management,leveraged buyout allows" metadescription="A leveraged buyout is a corporate finance transaction in which a company is purchased using a combination of debt and equity."/>
+<seo title="Leveraged Buyout" metakeywords="introduction leveraged buyouts,leveraged buyouts,leveraged buyouts management,leveraged buyout allows" metadescription="A leveraged buyout is a corporate finance transaction in which a company is purchased using a combination of debt and equity." />
 ===Introduction to Leveraged Buyouts===
 
 A leveraged buyout (LBO) is a type of [[Corporate Finance|corporate finance]] transaction in which a company is purchased using a combination of debt and equity. The debt is typically provided by a [[Financial Institution|financial institution]] such as a bank or [[Private Equity|private equity]] firm, while the equity is provided by the company’s shareholders. The goal of an LBO is to increase the value of the company by using the debt to finance the purchase and then using the company’s [[Cash Flow|cash flow]] to pay off the debt.

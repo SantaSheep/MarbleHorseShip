@@ -1,4 +1,4 @@
-<seo title="Surety" metakeywords="project surety bond,surety bond requirements,types surety bonds,surety bond surety" metadescription="Surety is a form of financial assurance that is used to guarantee the performance of a contract or obligation."/>
+<seo title="Surety" metakeywords="project surety bond,surety bond requirements,types surety bonds,surety bond surety" metadescription="Surety is a form of financial assurance that is used to guarantee the performance of a contract or obligation." />
 ===Introduction to Surety===
 
 Surety is a form of financial assurance that is used to guarantee the performance of a contract or obligation. It is a three-party agreement between a principal (the party who is obligated to perform the contract or obligation), an obligee (the party who is to be protected by the surety), and a surety (the party who guarantees the performance of the principal). Surety is often used in the construction industry, but it can also be used in other industries such as banking, insurance, and government contracts.

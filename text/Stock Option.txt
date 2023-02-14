@@ -1,4 +1,4 @@
-<seo title="Stock Option" metakeywords="stockoptions options options,stockoptions options,stockoptions tax implications,stock stockoptions" metadescription=""/>
+<seo title="Stock Option" metakeywords="stockoptions options options,stockoptions options,stockoptions tax implications,stock stockoptions" metadescription="" />
 ===Introduction to Stockoptions===
 
 Stockoptions are a type of [[Financial Instrument|financial instrument]] that gives the holder the right, but not the obligation, to buy or sell a certain number of shares of a company’s stock at a predetermined price. Stockoptions are typically used by companies to reward and incentivize employees, as well as to provide a way for investors to speculate on the future price of a company’s stock. Stockoptions are a popular form of compensation for executives and other high-level employees, as they can provide a significant financial benefit if the stock price rises.

@@ -1,4 +1,4 @@
-<seo title="Payroll" metakeywords="payroll involves manually,payroll calculations involve,payroll involves using,payroll process calculating" metadescription="Payroll is the process of calculating and distributing wages and salaries to employees."/>
+<seo title="Payroll" metakeywords="payroll involves manually,payroll calculations involve,payroll involves using,payroll process calculating" metadescription="Payroll is the process of calculating and distributing wages and salaries to employees." />
 ===Introduction to Payroll===
 
 Payroll is the process of calculating and distributing wages and salaries to employees. It is a critical component of any business, as it ensures that employees are paid accurately and on time. Payroll is also responsible for [[Withholding Tax|withholding tax]]es and other deductions from employee wages, as well as providing employers with the necessary information to file payroll taxes.

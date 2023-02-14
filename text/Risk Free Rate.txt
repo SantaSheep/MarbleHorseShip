@@ -1,4 +1,4 @@
-<seo title="Risk Free Rate" metakeywords="risk free rate,rates risk free,rate risk free,free rate risk" metadescription="Risk free rate is a term used in finance to refer to the rate of return on an investment that is considered to be completely free of risk."/>
+<seo title="Risk Free Rate" metakeywords="risk free rate,rates risk free,rate risk free,free rate risk" metadescription="Risk free rate is a term used in finance to refer to the rate of return on an investment that is considered to be completely free of risk." />
 ===Introduction to Risk Free Rate===
 
 Risk free rate is a term used in finance to refer to the [[Rate Of Return|rate of return]] on an investment that is considered to be completely free of risk. It is used as a benchmark for other investments, and is often used to compare the [[Expected Return|expected return]] of an investment to the risk free rate. The risk free rate is typically determined by the yield on government bonds, as these are considered to be the safest investments.

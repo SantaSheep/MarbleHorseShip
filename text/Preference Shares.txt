@@ -1,4 +1,4 @@
-<seo title="Preference Shares" metakeywords="introduction preference shares,stock preference shares,preference shares preference,preference shares drawbacks" metadescription="Preference shares, also known as preferred stock, are a type of security that provides certain rights and privileges to the holder."/>
+<seo title="Preference Shares" metakeywords="introduction preference shares,stock preference shares,preference shares preference,preference shares drawbacks" metadescription="Preference shares, also known as preferred stock, are a type of security that provides certain rights and privileges to the holder." />
 ===Introduction to Preference Shares===
 
 Preference shares, also known as [[Preferred Stock|preferred stock]], are a type of security that provides certain rights and privileges to the holder. Preference shares are a hybrid between common stock and debt, as they provide the holder with a fixed dividend and priority in the event of liquidation, but do not have voting rights like common stock. Preference shares are typically issued by companies to raise capital and are often used as a form of long-term financing.

@@ -1,4 +1,4 @@
-<seo title="Population" metakeywords="population measured terms,population term used,population population term,population used measure" metadescription="Population is a term used to describe the number of people living in a particular area."/>
+<seo title="Population" metakeywords="population measured terms,population term used,population population term,population used measure" metadescription="Population is a term used to describe the number of people living in a particular area." />
 ===Introduction to Population===
 
 Population is a term used to describe the number of people living in a particular area. It is an important concept in economics, as it can be used to measure the size of a market, the potential for growth, and the availability of resources. Population can also be used to measure the impact of certain policies or events on a given area. In this article, we will discuss the definition of population, the types of population, and examples of population.

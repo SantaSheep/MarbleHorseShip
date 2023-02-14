@@ -1,4 +1,4 @@
-<seo title="Holding Costs" metakeywords="inventory holding costs,holding costs costs,costs holding costs,holding costs factors" metadescription="Holding costs are the costs associated with storing and maintaining inventory.Holding costs can include storage costs, insurance costs, taxes, and other costs."/>
+<seo title="Holding Costs" metakeywords="inventory holding costs,holding costs costs,costs holding costs,holding costs factors" metadescription="Holding costs are the costs associated with storing and maintaining inventory.Holding costs can include storage costs, insurance costs, taxes, and other costs." />
 ===Introduction to Holding Costs===
 
 Holding costs are the costs associated with storing and maintaining inventory. They are a necessary part of doing business, as inventory must be stored and maintained in order to be sold. Holding costs can include storage costs, insurance costs, taxes, and other costs associated with keeping inventory. Holding costs can be a significant expense for businesses, so it is important to understand how they are calculated and what strategies can be used to reduce them.

@@ -1,4 +1,4 @@
-<seo title="Disposable Income" metakeywords="disposable income defined,definition disposable income,introduction disposable income,income calculating disposable" metadescription=""/>
+<seo title="Disposable Income" metakeywords="disposable income defined,definition disposable income,introduction disposable income,income calculating disposable" metadescription="" />
 ===Introduction to Disposable Income===
 
 Disposable income is a term used to describe the amount of money that an individual or household has available to spend or save after taxes and other deductions have been taken out of their [[Gross Income|gross income]]. It is an important concept in economics and is used to measure the economic well-being of a population. Disposable income is also used to measure the [[Purchasing Power|purchasing power]] of a population and to assess the impact of government policies on the economy.

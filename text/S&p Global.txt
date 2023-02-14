@@ -1,4 +1,4 @@
-<seo title="S&p Global" metakeywords="financial performance global,global index business,global publicly traded,investors insights markets" metadescription="S&P Global is a leading provider of financial market intelligence, data, and analytics."/>
+<seo title="S&p Global" metakeywords="financial performance global,global index business,global publicly traded,investors insights markets" metadescription="S&P Global is a leading provider of financial market intelligence, data, and analytics." />
 ===Introduction to S&P Global===
 
 S&P Global is a leading provider of [[Financial Market|financial market]] intelligence, data, and analytics. The company is headquartered in New York City and has offices in more than 20 countries around the world. S&P Global provides a wide range of services, including ratings, indices, research, and analytics. The company is a subsidiary of S&P Global Inc., a publicly traded company listed on the New York Stock Exchange.

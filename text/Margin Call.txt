@@ -1,4 +1,4 @@
-<seo title="Margin Call" metakeywords="margin liquidation margin,margin trading,margin liquidation,margin investors aware" metadescription="A margin call is a demand from a broker or other financial institution for additional funds to be deposited into a margin account."/>
+<seo title="Margin Call" metakeywords="margin liquidation margin,margin trading,margin liquidation,margin investors aware" metadescription="A margin call is a demand from a broker or other financial institution for additional funds to be deposited into a margin account." />
 ===Introduction to Margin Call===
 
 A margin call is a demand from a broker or other [[Financial Institution|financial institution]] for additional funds to be deposited into a margin account. This demand is made when the value of the securities held in the account falls below a certain level, known as the margin requirement. The purpose of a margin call is to protect the broker or financial institution from losses due to the decline in the value of the securities held in the account.

@@ -1,4 +1,4 @@
-<seo title="Excise Tax" metakeywords="excise taxes typically,example excise taxes,excise taxes,excise taxes imposed" metadescription="Excise taxes are a form of indirect taxation, meaning that the tax is collected from the seller or producer of the goods or services, rather than from the consumer."/>
+<seo title="Excise Tax" metakeywords="excise taxes typically,example excise taxes,excise taxes,excise taxes imposed" metadescription="Excise taxes are a form of indirect taxation, meaning that the tax is collected from the seller or producer of the goods or services, rather than from the consumer." />
 ===Introduction to Excise Tax===
 
 Excise tax is a type of tax imposed on certain goods and services that are considered to be harmful to society. It is a form of indirect taxation, meaning that the tax is collected from the seller or producer of the goods or services, rather than from the consumer. Excise taxes are typically imposed on items such as alcohol, tobacco, gasoline, and certain luxury items. The purpose of an excise tax is to discourage the consumption of these items, as well as to generate revenue for the government.

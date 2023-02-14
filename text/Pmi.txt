@@ -1,4 +1,4 @@
-<seo title="Pmi" metakeywords="mortgage insurance pmi,loan pmi drawbacks,pmi private mortgage,mortgage loan pmi" metadescription="Private Mortgage Insurance (PMI) is a type of insurance that is required by lenders when a borrower takes out a mortgage loan."/>
+<seo title="Pmi" metakeywords="mortgage insurance pmi,loan pmi drawbacks,pmi private mortgage,mortgage loan pmi" metadescription="Private Mortgage Insurance (PMI) is a type of insurance that is required by lenders when a borrower takes out a mortgage loan." />
 ===Introduction to PMI===
 
 Private Mortgage Insurance (PMI) is a type of insurance that is required by lenders when a borrower takes out a mortgage loan. PMI is designed to protect the lender in the event that the borrower defaults on the loan. PMI is typically required when the borrower has a down payment of less than 20% of the purchase price of the home. PMI is paid by the borrower and is typically added to the monthly mortgage payment.

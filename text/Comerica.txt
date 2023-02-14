@@ -1,4 +1,4 @@
-<seo title="Comerica" metakeywords="comerica financial services,comerica banking,comerica financial,comerica comerica financial" metadescription="Comerica is a financial services company based in Dallas, Texas.Founded in 1849, it is one of the oldest and largest financial institutions in the United States."/>
+<seo title="Comerica" metakeywords="comerica financial services,comerica banking,comerica financial,comerica comerica financial" metadescription="Comerica is a financial services company based in Dallas, Texas.Founded in 1849, it is one of the oldest and largest financial institutions in the United States." />
 ===Introduction to Comerica===
 
 Comerica is a financial services company based in Dallas, Texas. Founded in 1849, Comerica is one of the oldest and largest [[Financial Institution|financial institution]]s in the United States. Comerica provides a wide range of banking, investment, and insurance services to individuals, businesses, and institutions. Comerica is a publicly traded company and is listed on the New York Stock Exchange under the ticker symbol CMA.

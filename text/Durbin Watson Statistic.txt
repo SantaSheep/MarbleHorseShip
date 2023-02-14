@@ -1,4 +1,4 @@
-<seo title="Durbin Watson Statistic" metakeywords="durbin watson statistic,autocorrelation durbin watson,statistic durbin watson,watson statistic durbin" metadescription="The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series.The statistic is commonly used in econometrics and finance."/>
+<seo title="Durbin Watson Statistic" metakeywords="durbin watson statistic,autocorrelation durbin watson,statistic durbin watson,watson statistic durbin" metadescription="The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series.The statistic is commonly used in econometrics and finance." />
 ===Introduction to the Durbin Watson Statistic===
 
 The Durbin Watson statistic is a statistical measure used to detect autocorrelation in a [[Time Series|time series]]. Autocorrelation is the correlation of a variable with itself over different time periods. The Durbin Watson statistic is used to detect the presence of autocorrelation in a time series and to measure the strength of the autocorrelation.

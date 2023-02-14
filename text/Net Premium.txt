@@ -1,4 +1,4 @@
-<seo title="Net Premium" metakeywords="net premium defined,definition net premium,net premium calculating,calculating net premium" metadescription="Net Premium is the amount of money that the insurance company keeps after all other expenses have been paid."/>
+<seo title="Net Premium" metakeywords="net premium defined,definition net premium,net premium calculating,calculating net premium" metadescription="Net Premium is the amount of money that the insurance company keeps after all other expenses have been paid." />
 ===Introduction to Net Premium===
 
 Net Premium is a term used in the insurance industry to refer to the amount of money that an insurance company receives from a policyholder after deducting any applicable taxes, fees, and other charges. It is the amount of money that the insurance company keeps after all other expenses have been paid. Net Premium is an important concept in the insurance industry because it is used to determine the profitability of an insurance policy.

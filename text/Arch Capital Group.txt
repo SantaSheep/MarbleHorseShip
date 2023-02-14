@@ -1,4 +1,4 @@
-<seo title="Arch Capital Group" metakeywords="arch capital group,introduction arch capital,market arch capital,capital group arch" metadescription="Arch Capital Group Ltd. is a Bermuda-based provider of insurance, reinsurance, and mortgage insurance."/>
+<seo title="Arch Capital Group" metakeywords="arch capital group,introduction arch capital,market arch capital,capital group arch" metadescription="Arch Capital Group Ltd. is a Bermuda-based provider of insurance, reinsurance, and mortgage insurance." />
 ===Introduction to Arch Capital Group===
 
 Arch Capital Group Ltd. is a Bermuda-based provider of insurance, reinsurance, and mortgage insurance. The company was founded in 2001 and is publicly traded on the NASDAQ Global Select Market. Arch Capital Group is a global leader in the insurance and reinsurance industry, providing a wide range of products and services to its customers. The company has operations in the United States, Europe, and Asia, and is one of the largest providers of insurance and reinsurance in the world.

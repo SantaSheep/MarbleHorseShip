@@ -1,4 +1,4 @@
-<seo title="Atr" metakeywords="market atr measure,atr technical indicator,atr measure,average atr interpretation" metadescription="Average True Range (ATR) is a technical indicator used in the analysis of financial markets."/>
+<seo title="Atr" metakeywords="market atr measure,atr technical indicator,atr measure,average atr interpretation" metadescription="Average True Range (ATR) is a technical indicator used in the analysis of financial markets." />
 ===Introduction to ATR===
 
 Average True Range (ATR) is a technical indicator used in the analysis of [[Financial Market|financial market]]s. It was developed by J. Welles Wilder Jr. in 1978 and is used to measure the volatility of a security or market. ATR is a measure of the degree of price movement over a given period of time, and is often used to identify potential entry and exit points in the market. ATR is a popular indicator among traders and investors, as it can provide insight into the strength of a trend and the potential for future price movements.

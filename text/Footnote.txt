@@ -1,4 +1,4 @@
-<seo title="Footnote" metakeywords="document footnotes typically,documents footnotes used,document footnotes,footnotes examples footnotes" metadescription="A footnote is a reference note that appears at the bottom of a page in a document."/>
+<seo title="Footnote" metakeywords="document footnotes typically,documents footnotes used,document footnotes,footnotes examples footnotes" metadescription="A footnote is a reference note that appears at the bottom of a page in a document." />
 ===Introduction to Footnote===
 
 A footnote is a reference note that appears at the bottom of a page in a document. It is used to provide additional information or to cite sources for the information presented in the document. Footnotes are commonly used in academic and professional writing to provide additional information or to cite sources. They are also used in legal documents to provide additional information or to cite sources. Footnotes are an important part of any document and can be used to provide additional information or to cite sources.

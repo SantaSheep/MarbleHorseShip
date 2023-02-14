@@ -1,4 +1,4 @@
-<seo title="Wash Sale Rule" metakeywords="definition washsale rule,taxes washsale rule,washsale rule introduced,washsale rule tax" metadescription=""/>
+<seo title="Wash Sale Rule" metakeywords="definition washsale rule,taxes washsale rule,washsale rule introduced,washsale rule tax" metadescription="" />
 ===Introduction to Washsale Rule===
 
 The Washsale Rule is a tax law that was created to prevent investors from taking advantage of tax losses by selling a security at a loss and then repurchasing the same security within a certain period of time. The Washsale Rule was created to prevent investors from taking advantage of the tax code by selling a security at a loss and then repurchasing the same security within a certain period of time. The Washsale Rule applies to both stocks and [[Mutual Fund|mutual fund]]s, and it is important for investors to understand how the rule works and how it can affect their investments.

@@ -1,4 +1,4 @@
-<seo title="Current Account" metakeywords="money current accounts,current accounts typically,current accounts type,current accounts" metadescription="A current account is a bank account that allows individuals and businesses to deposit and withdraw funds on a regular basis."/>
+<seo title="Current Account" metakeywords="money current accounts,current accounts typically,current accounts type,current accounts" metadescription="A current account is a bank account that allows individuals and businesses to deposit and withdraw funds on a regular basis." />
 ===Introduction to Currentaccount===
 
 A curren[[T Account|t account]] is a type of bank account that allows individuals and businesses to deposit and withdraw funds on a regular basis. It is a type of checking account that is used for day-to-day transactions, such as paying bills, making purchases, and transferring money. Current accounts are typically used by businesses to manage their [[Cash Flow|cash flow]] and by individuals to manage their finances.

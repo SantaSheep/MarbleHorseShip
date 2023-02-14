@@ -1,4 +1,4 @@
-<seo title="Law Of Large Numbers" metakeywords="law large numbers,large numbers law,numbers law large,applications law large" metadescription="The Law of Large Numbers (LLN) is a fundamental concept in probability theory and statistics."/>
+<seo title="Law Of Large Numbers" metakeywords="law large numbers,large numbers law,numbers law large,applications law large" metadescription="The Law of Large Numbers (LLN) is a fundamental concept in probability theory and statistics." />
 ===Introduction to the Law of Large Numbers===
 
 The Law of Large Numbers (LLN) is a fundamental concept in probability theory and statistics. It states that as the number of trials or observations increases, the average of the results will approach the [[Expected Value|expected value]]. This law is also known as the law of averages or Bernoulli's theorem. The LLN is an important tool for understanding the behavior of [[Random Variable|random variable]]s and for making predictions about the future.

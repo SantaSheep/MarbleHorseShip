@@ -1,4 +1,4 @@
-<seo title="Fdi" metakeywords="introduction fdi,fdi bring challenges,fdi investment,fdi bring benefits" metadescription="Foreign Direct Investment (FDI) is an investment made by a company or individual in one country into a business or company in another country."/>
+<seo title="Fdi" metakeywords="introduction fdi,fdi bring challenges,fdi investment,fdi bring benefits" metadescription="Foreign Direct Investment (FDI) is an investment made by a company or individual in one country into a business or company in another country." />
 ===Introduction to FDI===
 
 Foreign Direct Investment (FDI) is an investment made by a company or individual in one country into a business or company in another country. It is a form of international investment that involves the transfer of capital, technology, and managerial expertise from one country to another. FDI is a major source of capital for many countries, and it can have a significant impact on the economic development of a country.

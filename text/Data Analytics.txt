@@ -1,4 +1,4 @@
-<seo title="Data Analytics" metakeywords="data analytics process,data analytics used,analytics help businesses,data analytics data" metadescription="Data analytics is the process of analyzing large amounts of data to uncover patterns and trends."/>
+<seo title="Data Analytics" metakeywords="data analytics process,data analytics used,analytics help businesses,data analytics data" metadescription="Data analytics is the process of analyzing large amounts of data to uncover patterns and trends." />
 ===Introduction to Data Analytics===
 
 Data analytics is the process of analyzing large amounts of data to uncover patterns and trends. It is used to gain insights into customer behavior, market trends, and other business-related information. Data analytics can be used to make decisions, improve operations, and develop strategies. Data analytics is a powerful tool for businesses to gain a competitive edge.

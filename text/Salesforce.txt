@@ -1,4 +1,4 @@
-<seo title="Salesforce" metakeywords="salesforce marketing,salesforce founded 1999,salesforce,salesforce financial" metadescription=""/>
+<seo title="Salesforce" metakeywords="salesforce marketing,salesforce founded 1999,salesforce,salesforce financial" metadescription="" />
 ===Introduction to Salesforce===
 
 Salesforce is a cloud-based customer relationship management (CRM) platform that helps businesses of all sizes manage their customer relationships, sales, marketing, and operations. Founded in 1999, Salesforce has grown to become one of the most successful and widely used CRM solutions in the world. The company is headquartered in San Francisco, California, and has offices in more than 150 countries. Salesforce offers a wide range of products and services, including customer relationship management, [[Customer Service|customer service]], analytics, marketing automation, and more.

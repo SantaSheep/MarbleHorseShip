@@ -1,4 +1,4 @@
-<seo title="Fiat Money" metakeywords="fiat money disadvantages,fiat money advantages,disadvantages fiat money,fiat money use" metadescription="Fiat money is a type of currency that is not backed by a physical commodity such as gold or silver."/>
+<seo title="Fiat Money" metakeywords="fiat money disadvantages,fiat money advantages,disadvantages fiat money,fiat money use" metadescription="Fiat money is a type of currency that is not backed by a physical commodity such as gold or silver." />
 ===Introduction to Fiat Money===
 
 Fiat money is a type of currency that is not backed by a physical commodity such as gold or silver, but instead is declared legal tender by a government. Fiat money is not redeemable for a commodity, but instead has value only because a government maintains its value, or because parties engaging in exchange agree on its value. Fiat money has been used throughout history, and is still used in many countries today.

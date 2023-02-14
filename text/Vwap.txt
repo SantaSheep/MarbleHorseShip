@@ -1,4 +1,4 @@
-<seo title="Vwap" metakeywords="vwap trading benchmark,average definition vwap,price vwap trading,vwap calculated" metadescription="VWAP is a trading benchmark used by traders to ensure that they are getting the best possible price for their trades."/>
+<seo title="Vwap" metakeywords="vwap trading benchmark,average definition vwap,price vwap trading,vwap calculated" metadescription="VWAP is a trading benchmark used by traders to ensure that they are getting the best possible price for their trades." />
 ===Introduction to VWAP===
 
 Volume-[[Weighted Average|weighted average]] price (VWAP) is a trading benchmark used by traders to ensure that they are getting the best possible price for their trades. It is a measure of the average price of a security over a specific period of time, usually one day. VWAP is calculated by taking the total dollar value of all trades in a security and dividing it by the total number of shares traded. VWAP is used by traders to assess the performance of their trades and to compare the prices they are getting to the market average.

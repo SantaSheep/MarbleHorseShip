@@ -1,4 +1,4 @@
-<seo title="Utility" metakeywords="utility important concept,definition utility,utility measure,utility subjective meaning" metadescription="Utility is a term used in economics and finance to describe the satisfaction or benefit that a consumer receives from a good or service."/>
+<seo title="Utility" metakeywords="utility important concept,definition utility,utility measure,utility subjective meaning" metadescription="Utility is a term used in economics and finance to describe the satisfaction or benefit that a consumer receives from a good or service." />
 ===Introduction to Utility===
 
 Utility is a term used in economics and finance to describe the satisfaction or benefit that a consumer receives from a good or service. It is a measure of the usefulness of a product or service and is used to compare different products or services. Utility is an important concept in economics and finance, as it helps to explain why people make certain decisions and how they value different goods and services.

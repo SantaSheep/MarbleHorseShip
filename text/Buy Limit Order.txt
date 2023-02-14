@@ -1,4 +1,4 @@
-<seo title="Buy Limit Order" metakeywords="buy limit orders,buy limit order,placing buy limit,limit order buy" metadescription="A buy limit order is a type of order used in trading that instructs a broker to buy a security at a specified price or lower."/>
+<seo title="Buy Limit Order" metakeywords="buy limit orders,buy limit order,placing buy limit,limit order buy" metadescription="A buy limit order is a type of order used in trading that instructs a broker to buy a security at a specified price or lower." />
 ===Introduction to Buy Limit Order===
 
 A buy [[Limit Order|limit order]] is a type of order used in trading that instructs a broker to buy a security at a specified price or lower. This type of order is used to limit the amount of money a trader is willing to pay for a security. Buy limit orders are typically used by investors who are looking to buy a security at a lower price than the current market price.

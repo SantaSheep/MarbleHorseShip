@@ -1,4 +1,4 @@
-<seo title="Ltm" metakeywords="company ltm measure,ltm financial term,investing company ltm,ltm measure company" metadescription="LTM is a financial term used to measure the performance of a company over a period of time."/>
+<seo title="Ltm" metakeywords="company ltm measure,ltm financial term,investing company ltm,ltm measure company" metadescription="LTM is a financial term used to measure the performance of a company over a period of time." />
 ===Introduction to LTM===
 
 LTM stands for “Last Twelve Months” and is a financial term used to measure the performance of a company over a period of time. It is a useful tool for investors and analysts to assess the financial health of a company and to make informed decisions about investing in the company. LTM is a measure of the company’s performance over the last twelve months, and is calculated by taking the average of the company’s financial results over the last twelve months.

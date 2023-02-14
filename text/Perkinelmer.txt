@@ -1,4 +1,4 @@
-<seo title="Perkinelmer" metakeywords="introduction perkinelmer,perkinelmer founded 1937,perkin elmer corporation,perkinelmer founded" metadescription="PerkinElmer is a global leader in providing innovative solutions for the health and safety of people and the environment."/>
+<seo title="Perkinelmer" metakeywords="introduction perkinelmer,perkinelmer founded 1937,perkin elmer corporation,perkinelmer founded" metadescription="PerkinElmer is a global leader in providing innovative solutions for the health and safety of people and the environment." />
 ===Introduction to PerkinElmer===
 
 PerkinElmer is a global leader in providing innovative solutions for the health and safety of people and the environment. Founded in 1937, the company has grown to become a leader in the life sciences, diagnostics, and applied markets. PerkinElmer has a presence in more than 150 countries and employs over 10,000 people worldwide. The company is headquartered in Waltham, Massachusetts and is listed on the New York Stock Exchange (NYSE: PKI).

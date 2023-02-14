@@ -1,4 +1,4 @@
-<seo title="Interest Rate" metakeywords="variable rates typically,fixed variable rates,variable fixed rates,affecting rates rates" metadescription="Interest rates are used to determine the cost of borrowing money and the return on investments.They are also used to measure the risk associated with a particular investment."/>
+<seo title="Interest Rate" metakeywords="variable rates typically,fixed variable rates,variable fixed rates,affecting rates rates" metadescription="Interest rates are used to determine the cost of borrowing money and the return on investments.They are also used to measure the risk associated with a particular investment." />
 ===Introduction to Interest Rate===
 
 Interest rate is a key concept in finance and economics. It is the rate at which a lender charges a borrower for the use of money. Interest rates are typically expressed as a percentage of the principal amount borrowed. Interest rates are used to determine the cost of borrowing money, the [[Return On Investment|return on investment]]s, and the [[Cost Of Capital|cost of capital]]. Interest rates are also used to measure the risk associated with a particular investment.

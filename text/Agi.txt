@@ -1,4 +1,4 @@
-<seo title="Agi" metakeywords="income agi calculated,income agi used,gross income agi,income agi" metadescription="Adjusted Gross Income (AGI) is an important financial term used to calculate an individual’s taxable income."/>
+<seo title="Agi" metakeywords="income agi calculated,income agi used,gross income agi,income agi" metadescription="Adjusted Gross Income (AGI) is an important financial term used to calculate an individual’s taxable income." />
 ===Introduction to AGI===
 
 Adjusted [[Gross Income|Gross Income]] (AGI) is an important financial term used to calculate an individual’s [[Taxable Income|taxable income]]. AGI is used to determine the amount of taxes an individual owes to the government. It is also used to determine eligibility for certain tax credits and deductions. AGI is calculated by subtracting certain deductions from an individual’s gross income. This article will provide an overview of AGI, including its definition, components, calculation, and taxation.

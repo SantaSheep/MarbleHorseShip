@@ -1,4 +1,4 @@
-<seo title="Invested Capital" metakeywords="company invested capital,introduction invested capital,debt capital invested,companies invested capital" metadescription="Invested capital is a financial term that refers to the total amount of money that has been invested in a company or business."/>
+<seo title="Invested Capital" metakeywords="company invested capital,introduction invested capital,debt capital invested,companies invested capital" metadescription="Invested capital is a financial term that refers to the total amount of money that has been invested in a company or business." />
 ===Introduction to Invested Capital===
 
 Invested capital is a financial term that refers to the total amount of money that has been invested in a company or business. It is a measure of the total amount of capital that has been used to finance the operations of a business. Invested capital is an important concept in finance and accounting, as it is used to measure the financial health of a company. It is also used to assess the potential [[Return On Investment|return on investment]] for a company.

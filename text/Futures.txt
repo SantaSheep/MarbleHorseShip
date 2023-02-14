@@ -1,4 +1,4 @@
-<seo title="Futures" metakeywords="futures financial contracts,futures contracts futures,futures trading futures,futures contracts" metadescription="Futures are financial contracts that obligate the buyer to purchase an asset or the seller to sell an asset at a predetermined future date and price."/>
+<seo title="Futures" metakeywords="futures financial contracts,futures contracts futures,futures trading futures,futures contracts" metadescription="Futures are financial contracts that obligate the buyer to purchase an asset or the seller to sell an asset at a predetermined future date and price." />
 ===Introduction to Futures===
 
 Futures are financial contracts that obligate the buyer to purchase an asset or the seller to sell an asset, such as a commodity or [[Financial Instrument|financial instrument]], at a predetermined future date and price. Futures are used by investors and traders to speculate on the future price of an asset or to hedge against price fluctuations. [[Futures Contract|Futures contract]]s are standardized and traded on exchanges, such as the Chicago Mercantile Exchange (CME).

@@ -1,4 +1,4 @@
-<seo title="Discount Rate" metakeywords="introduction discount rate,rates discount rate,rates discount rates,calculating discount rates" metadescription="Discount rate is a term used in finance to refer to the rate of return used to discount future cash flows to their present value."/>
+<seo title="Discount Rate" metakeywords="introduction discount rate,rates discount rate,rates discount rates,calculating discount rates" metadescription="Discount rate is a term used in finance to refer to the rate of return used to discount future cash flows to their present value." />
 ===Introduction to Discount Rate===
 
 Discount rate is a term used in finance to refer to the [[Rate Of Return|rate of return]] used to discount future [[Cash Flow|cash flow]]s to their [[Present Value|present value]]. It is used to calculate the present value of a future cash flow, which is the amount of money that would be received today if the cash flow were received in the future. The discount rate is an important concept in finance, as it is used to determine the value of investments and to compare different investments.

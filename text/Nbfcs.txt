@@ -1,4 +1,4 @@
-<seo title="Nbfcs" metakeywords="bank india nbfcs,nbfcs india regulations,functioning nbfcs india,nbfcs non banking" metadescription="Non-Banking Financial Companies (NBFCs) are financial institutions that provide banking services but do not have a banking license."/>
+<seo title="Nbfcs" metakeywords="bank india nbfcs,nbfcs india regulations,functioning nbfcs india,nbfcs non banking" metadescription="Non-Banking Financial Companies (NBFCs) are financial institutions that provide banking services but do not have a banking license." />
 ===Introduction to Non-Banking Financial Companies (NBFCs)===
 
 Non-Banking Financial Companies (NBFCs) are [[Financial Institution|financial institution]]s that provide banking services but do not have a banking license. They are regulated by the Reserve Bank of India (RBI) and are subject to the provisions of the Companies Act, 2013. NBFCs are an important part of the [[Financial System|financial system]] in India and play a vital role in providing credit to the unbanked and underbanked population.

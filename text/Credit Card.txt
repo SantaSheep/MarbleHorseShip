@@ -1,4 +1,4 @@
-<seo title="Credit Card" metakeywords="risks creditcards,credit cards consumers,credit card understanding,risks creditcards credit" metadescription="A credit card is a payment card issued by a financial institution that allows the cardholder to purchase goods and services on credit."/>
+<seo title="Credit Card" metakeywords="risks creditcards,credit cards consumers,credit card understanding,risks creditcards credit" metadescription="A credit card is a payment card issued by a financial institution that allows the cardholder to purchase goods and services on credit." />
 ===Introduction to Creditcard===
 
 A credit card is a payment card issued by a [[Financial Institution|financial institution]] that allows the cardholder to purchase goods and services on credit. Credit cards are a form of revolving credit, meaning that the cardholder can pay for purchases over time, with interest charged on any unpaid balance. Credit cards are widely accepted in most countries, and are one of the most popular forms of payment for online purchases.

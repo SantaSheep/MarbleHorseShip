@@ -1,4 +1,4 @@
-<seo title="Business Ethics" metakeywords="impact business ethics,ethics financial sector,adopting business ethics,business ethics important" metadescription="Business ethics is a set of principles and standards that guide the behavior of individuals and organizations in the business world."/>
+<seo title="Business Ethics" metakeywords="impact business ethics,ethics financial sector,adopting business ethics,business ethics important" metadescription="Business ethics is a set of principles and standards that guide the behavior of individuals and organizations in the business world." />
 ===Introduction to Business Ethics===
 
 Business ethics is a set of principles and standards that guide the behavior of individuals and organizations in the business world. It is a form of applied ethics that examines ethical principles and moral or ethical problems that arise in a business environment. Business ethics applies to all aspects of business conduct and is relevant to the conduct of individuals and entire organizations.

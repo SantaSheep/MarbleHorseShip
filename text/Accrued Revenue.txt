@@ -1,4 +1,4 @@
-<seo title="Accrued Revenue" metakeywords="accrued revenue concept,example accrued revenue,accrued revenue defined,examples accrued revenue" metadescription="Accrued revenue is a type of income that is earned but not yet received."/>
+<seo title="Accrued Revenue" metakeywords="accrued revenue concept,example accrued revenue,accrued revenue defined,examples accrued revenue" metadescription="Accrued revenue is a type of income that is earned but not yet received." />
 ===Introduction to Accrued Revenue===
 
 Accrued revenue is a type of income that is earned but not yet received. It is a form of accounting that is used to recognize revenue that has been earned but not yet received. Accrued revenue is a concept that is used to ensure that the company’s [[Financial Statements|financial statements]] accurately reflect the amount of revenue that has been earned. This concept is important for businesses to understand and use in order to accurately report their [[Financial Performance|financial performance]].

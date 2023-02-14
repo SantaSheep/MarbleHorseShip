@@ -1,4 +1,4 @@
-<seo title="Fibonacci Lines" metakeywords="fibonacci lines useful,fibonacci lines technical,fibonacci lines used,use fibonacci lines" metadescription="Fibonacci lines are a technical analysis tool used by traders to identify potential support and resistance levels in the markets."/>
+<seo title="Fibonacci Lines" metakeywords="fibonacci lines useful,fibonacci lines technical,fibonacci lines used,use fibonacci lines" metadescription="Fibonacci lines are a technical analysis tool used by traders to identify potential support and resistance levels in the markets." />
 ===Introduction to Fibonacci Lines===
 
 Fibonacci lines are a [[Technical Analysis|technical analysis]] tool used by traders to identify potential support and resistance levels in the markets. They are based on the Fibonacci sequence, which is a series of numbers where each number is the sum of the two preceding numbers. The Fibonacci sequence is believed to be a natural phenomenon that can be found in nature, and it is believed to be applicable to the markets as well.

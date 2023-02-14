@@ -1,4 +1,4 @@
-<seo title="Six Sigma" metakeywords="sigma business management,improvement sigma methodology,process improvement sigma,methodology sigma" metadescription="Six Sigma was developed in the 1980s by Motorola, Inc. as a way to improve the quality of their products and services."/>
+<seo title="Six Sigma" metakeywords="sigma business management,improvement sigma methodology,process improvement sigma,methodology sigma" metadescription="Six Sigma was developed in the 1980s by Motorola, Inc. as a way to improve the quality of their products and services." />
 ===Introduction to Six Sigma===
 
 Six Sigma is a business management strategy that seeks to improve the quality of products and services by reducing defects and errors. It is a data-driven approach that uses statistical analysis and other tools to identify and eliminate sources of variation in processes. The goal of Six Sigma is to reduce the number of defects to a level of 3.4 defects per million opportunities.

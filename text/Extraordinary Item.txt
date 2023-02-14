@@ -1,4 +1,4 @@
-<seo title="Extraordinary Item" metakeywords="extraordinary items reported,reported extraordinary item,expenses examples extraordinary,income losses items" metadescription="Extraordinary items are reported separately from the normal operating activities of a business."/>
+<seo title="Extraordinary Item" metakeywords="extraordinary items reported,reported extraordinary item,expenses examples extraordinary,income losses items" metadescription="Extraordinary items are reported separately from the normal operating activities of a business." />
 ===Introduction to Extraordinary Items===
 
 Extraordinary items are non-recurring, unusual, and infrequent items that are reported separately from the normal [[Operating Activities|operating activities]] of a business. These items are reported on the [[Income Statement|income statement]] and are not part of the company’s regular operations. They are typically one-time events that are not expected to occur again in the future. Examples of extraordinary items include natural disasters, lawsuits, and other non-recurring events.

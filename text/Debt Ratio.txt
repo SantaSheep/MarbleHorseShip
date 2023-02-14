@@ -1,4 +1,4 @@
-<seo title="Debt Ratio" metakeywords="ratio measures debt,debt ratio used,ratio debt ratio,debt ratio financial" metadescription="Debt ratio is a financial ratio that measures the amount of debt a company has relative to its total assets."/>
+<seo title="Debt Ratio" metakeywords="ratio measures debt,debt ratio used,ratio debt ratio,debt ratio financial" metadescription="Debt ratio is a financial ratio that measures the amount of debt a company has relative to its total assets." />
 ===Introduction to Debt Ratio===
 
 Debt ratio is a financial ratio that measures the amount of debt a company has relative to its total assets. It is calculated by dividing [[Total Liabilities|total liabilities]] by total assets. The debt ratio is an important measure of a company’s financial health and is used by investors and creditors to assess the risk of investing in or lending to a company. A higher debt ratio indicates that a company is more leveraged and has a higher risk of defaulting on its debt obligations.

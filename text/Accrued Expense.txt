@@ -1,4 +1,4 @@
-<seo title="Accrued Expense" metakeywords="examples accrued expense,examples accrued expenses,accrued expenses typically,expense accrued expenses" metadescription="Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid."/>
+<seo title="Accrued Expense" metakeywords="examples accrued expense,examples accrued expenses,accrued expenses typically,expense accrued expenses" metadescription="Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid." />
 ===Introduction to Accrued Expense===
 
 Accrued expense is an accounting term used to describe an expense that has been incurred but not yet paid. It is a liability that is recorded on the [[Balance Sheet|balance sheet]] of a company and is usually recorded as an expense in the [[Income Statement|income statement]]. Accrued expenses are also known as accrued liabilities and are typically recorded when goods or services have been received but not yet paid for.

@@ -1,4 +1,4 @@
-<seo title="Liquidity" metakeywords="factors affecting liquidity,liquidity factors,factors affect liquidity,security liquidity" metadescription="Liquidity is an important concept in finance, as it is a measure of how easily an asset can be converted into cash."/>
+<seo title="Liquidity" metakeywords="factors affecting liquidity,liquidity factors,factors affect liquidity,security liquidity" metadescription="Liquidity is an important concept in finance, as it is a measure of how easily an asset can be converted into cash." />
 ===Introduction to Liquidity===
 
 Liquidity is a term used to describe the ability of an asset or security to be converted into cash quickly and without significant loss of value. It is an important concept in finance, as it is a measure of how easily an asset can be converted into cash. Liquidity is important for businesses, investors, and [[Financial Institution|financial institution]]s, as it allows them to quickly access cash when needed. Liquidity is also important for the overall functioning of the [[Financial System|financial system]], as it allows for the efficient transfer of funds between different parties.

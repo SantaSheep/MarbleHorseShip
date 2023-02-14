@@ -1,4 +1,4 @@
-<seo title="Intel" metakeywords="technology industry intel,intel business,intel intel corporation,intel corporation" metadescription="Intel was founded in 1968 by Robert Noyce and Gordon Moore."/>
+<seo title="Intel" metakeywords="technology industry intel,intel business,intel intel corporation,intel corporation" metadescription="Intel was founded in 1968 by Robert Noyce and Gordon Moore." />
 ===Introduction to Intel===
 
 Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It is one of the world’s largest semiconductor chip makers and is the inventor of the x86 series of microprocessors, the processors found in most personal computers. Intel supplies processors for computer system manufacturers such as Apple, Lenovo, HP, and Dell. Intel also manufactures motherboard chipsets, network interface controllers and integrated circuits, flash memory, graphics chips, embedded processors and other devices related to communications and computing.

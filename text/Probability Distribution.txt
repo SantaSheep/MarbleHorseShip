@@ -1,4 +1,4 @@
-<seo title="Probability Distribution" metakeywords="types probability distributions,probability distributions used,probability distributions,applications probability distributions" metadescription="Probability distribution is a mathematical function that describes the likelihood of a given event occurring."/>
+<seo title="Probability Distribution" metakeywords="types probability distributions,probability distributions used,probability distributions,applications probability distributions" metadescription="Probability distribution is a mathematical function that describes the likelihood of a given event occurring." />
 ===Introduction to Probability Distribution===
 
 Probability distribution is a mathematical function that describes the likelihood of a given event occurring. It is used to describe the probability of a certain outcome or set of outcomes in a given situation. Probability distributions are used in a variety of fields, including finance, economics, and statistics. They are also used to model the behavior of [[Random Variable|random variable]]s, such as stock prices or the outcomes of dice rolls.

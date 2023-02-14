@@ -1,4 +1,4 @@
-<seo title="General Dynamics" metakeywords="general dynamics,general dynamics general,general dynamics founded,general dynamics expanded" metadescription="General Dynamics was founded in 1952 by aerospace pioneer and former U.S. Navy Admiral, John S. McCain."/>
+<seo title="General Dynamics" metakeywords="general dynamics,general dynamics general,general dynamics founded,general dynamics expanded" metadescription="General Dynamics was founded in 1952 by aerospace pioneer and former U.S. Navy Admiral, John S. McCain." />
 ===Introduction to General Dynamics===
 
 General Dynamics is a global aerospace and defense company that provides a wide range of products and services to customers in the United States and around the world. The company was founded in 1952 and is headquartered in Falls Church, Virginia. General Dynamics is a publicly traded company and is listed on the New York Stock Exchange under the ticker symbol GD. The company has a [[Market Capitalization|market capitalization]] of over $50 billion and employs over 100,000 people worldwide.

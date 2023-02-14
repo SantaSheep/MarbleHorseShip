@@ -1,4 +1,4 @@
-<seo title="Price Earnings Ratio" metakeywords="price earnings ratio,earnings ratio price,ratio price earnings,earnings ratio ratio" metadescription="Price Earnings Ratio (P/E Ratio) is a financial metric used to measure the relative value of a company’s stock."/>
+<seo title="Price Earnings Ratio" metakeywords="price earnings ratio,earnings ratio price,ratio price earnings,earnings ratio ratio" metadescription="Price Earnings Ratio (P/E Ratio) is a financial metric used to measure the relative value of a company’s stock." />
 ===Introduction to Price Earnings Ratio===
 
 The Price Earnings Ratio (P/E Ratio) is a financial metric used to measure the relative value of a company’s stock. It is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). The P/E ratio is a widely used tool for investors to compare the relative value of different stocks and to assess the overall health of a company.

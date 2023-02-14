@@ -1,4 +1,4 @@
-<seo title="Aum" metakeywords="investments aum typically,portfolios aum,portfolios aum used,investments aum" metadescription="AUM is defined as the total market value of all assets managed by a financial institution or individual."/>
+<seo title="Aum" metakeywords="investments aum typically,portfolios aum,portfolios aum used,investments aum" metadescription="AUM is defined as the total market value of all assets managed by a financial institution or individual." />
 ===Introduction to AUM===
 
 AUM, or Assets Under Management, is a term used in the financial industry to refer to the total value of assets that are managed by a [[Financial Institution|financial institution]] or individual. It is a measure of the size of a financial institution or individual's portfolio and is used to assess the performance of the portfolio. AUM is an important metric for investors, as it provides an indication of the size and scope of the portfolio and the potential for returns.

@@ -1,4 +1,4 @@
-<seo title="Rsi" metakeywords="rsi technical indicator,market calculation rsi,use rsi trend,calculation rsi" metadescription="Relative Strength Index (RSI) is a technical indicator used to measure the strength of a security’s price movement."/>
+<seo title="Rsi" metakeywords="rsi technical indicator,market calculation rsi,use rsi trend,calculation rsi" metadescription="Relative Strength Index (RSI) is a technical indicator used to measure the strength of a security’s price movement." />
 ===Introduction to RSI===
 
 Relative Strength Index (RSI) is a technical indicator used to measure the strength of a security’s price movement. It is a momentum oscillator that compares the magnitude of recent gains and losses over a specified time period to measure speed and change of price movements of a security. RSI is a widely used indicator in [[Technical Analysis|technical analysis]] and is used to identify overbought and oversold conditions in the market.

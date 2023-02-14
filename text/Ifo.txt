@@ -1,4 +1,4 @@
-<seo title="Ifo" metakeywords="ifo index developed,ifo index,conclusion ifo index,ifo index provides" metadescription="The term Ifo stands for “Index of Financial Optimism’ and is a measure of the overall sentiment of the financial markets."/>
+<seo title="Ifo" metakeywords="ifo index developed,ifo index,conclusion ifo index,ifo index provides" metadescription="The term Ifo stands for “Index of Financial Optimism’ and is a measure of the overall sentiment of the financial markets." />
 ===Introduction to Ifo===
 
 The term Ifo stands for “Index of Financial Optimism” and is a measure of the overall sentiment of the [[Financial Market|financial market]]s. It is a composite index that is calculated by taking into account the opinions of a variety of financial experts and market participants. The index is used to gauge the overall sentiment of the financial markets and to provide an indication of the direction of the markets. The index is published monthly by the Ifo Institute for Economic Research in Germany.

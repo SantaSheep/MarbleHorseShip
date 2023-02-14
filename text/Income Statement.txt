@@ -1,4 +1,4 @@
-<seo title="Income Statement" metakeywords="income statements types,income statement typically,introduction income statement,types income statements" metadescription="An income statement is a financial statement that summarizes a company’s financial performance over a specific period of time."/>
+<seo title="Income Statement" metakeywords="income statements types,income statement typically,introduction income statement,types income statements" metadescription="An income statement is a financial statement that summarizes a company’s financial performance over a specific period of time." />
 ===Introduction to Income Statement===
 
 An income statement is a financial statement that summarizes a company’s [[Financial Performance|financial performance]] over a specific period of time. It is also known as a profit and loss statement (P&) or a statement of operations. The income statement is one of the three major [[Financial Statements|financial statements]] used to assess a company’s financial position, along with the [[Balance Sheet|balance sheet]] and the statement of [[Cash Flow|cash flow]]s.

@@ -1,4 +1,4 @@
-<seo title="Gross Receipts" metakeywords="gross receipts defined,definition gross receipts,gross receipts used,taxes gross receipts" metadescription="Gross receipts are the total amount of money received by a business or individual from the sale of goods or services."/>
+<seo title="Gross Receipts" metakeywords="gross receipts defined,definition gross receipts,gross receipts used,taxes gross receipts" metadescription="Gross receipts are the total amount of money received by a business or individual from the sale of goods or services." />
 ===Introduction to Gross Receipts===
 
 Gross receipts are a financial term used to describe the total amount of money received by a business or individual from the sale of goods or services. Gross receipts are an important measure of a business’s [[Financial Performance|financial performance]] and are used to calculate taxes and other financial obligations. Gross receipts are also used to measure the success of a business’s marketing and sales efforts.

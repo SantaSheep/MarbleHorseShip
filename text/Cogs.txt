@@ -1,4 +1,4 @@
-<seo title="Cogs" metakeywords="cogs cost goods,goods sold cogs,cogs defined cost,goods cogs used" metadescription="Cogs is an important concept in accounting and finance.It is a measure of the cost of goods that have been sold during a given period of time."/>
+<seo title="Cogs" metakeywords="cogs cost goods,goods sold cogs,cogs defined cost,goods cogs used" metadescription="Cogs is an important concept in accounting and finance.It is a measure of the cost of goods that have been sold during a given period of time." />
 ===Introduction to Cogs===
 
 Cogs, or cost of goods sold, is an important concept in accounting and finance. It is a measure of the cost of goods that have been sold during a given period of time. Cogs is used to calculate the [[Gross Profit|gross profit]] of a business, which is the difference between the total revenue and the cost of goods sold. Cogs is also used to measure the efficiency of a business in terms of its ability to generate profits from the sale of goods.

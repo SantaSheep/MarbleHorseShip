@@ -1,4 +1,4 @@
-<seo title="Subsidiary" metakeywords="subsidiaries provide companies,definition subsidiary subsidiary,subsidiaries types,subsidiaries types subsidiaries" metadescription="A subsidiary is a business entity that is owned or controlled by another company, known as the parent company."/>
+<seo title="Subsidiary" metakeywords="subsidiaries provide companies,definition subsidiary subsidiary,subsidiaries types,subsidiaries types subsidiaries" metadescription="A subsidiary is a business entity that is owned or controlled by another company, known as the parent company." />
 ===Introduction to Subsidiary===
 
 A subsidiary is a business entity that is owned or controlled by another company, known as the [[Parent Company|parent company]]. The parent company is typically the larger, more established company, while the subsidiary is the smaller, less established company. The parent company has the power to control the subsidiary, and the subsidiary is legally and financially separate from the parent company. Subsidiaries are often used by companies to expand their operations, diversify their product offerings, and gain access to new markets.

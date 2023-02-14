@@ -1,4 +1,4 @@
-<seo title="Operating Income" metakeywords="operating income measure,introduction operating income,operating income operating,operating income important" metadescription="Operating income is a measure of a company’s financial performance that is used to assess the profitability of a business."/>
+<seo title="Operating Income" metakeywords="operating income measure,introduction operating income,operating income operating,operating income important" metadescription="Operating income is a measure of a company’s financial performance that is used to assess the profitability of a business." />
 ===Introduction to Operating Income===
 
 Operating income is a measure of a company’s [[Financial Performance|financial performance]] that is used to assess the profitability of a business. It is calculated by subtracting operating expenses from total revenue. Operating income is also known as [[Operating Profit|operating profit]], [[Operating Earnings|operating earnings]], or EBIT (earnings before interest and taxes). Operating income is an important metric for investors and analysts to assess the financial health of a company.

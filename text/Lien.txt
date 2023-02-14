@@ -1,4 +1,4 @@
-<seo title="Lien" metakeywords="types liens used,types liens typically,liens statutory,different types liens" metadescription="A lien is a legal claim or right against a property that is held by a creditor as security for a debt or other obligation."/>
+<seo title="Lien" metakeywords="types liens used,types liens typically,liens statutory,different types liens" metadescription="A lien is a legal claim or right against a property that is held by a creditor as security for a debt or other obligation." />
 ===Introduction to Liens===
 
 A lien is a legal claim or right against a property that is held by a creditor as security for a debt or other obligation. A lien is a form of security interest that is used to secure the payment of a debt or other obligation. Liens are typically used in the context of [[Real Estate|real estate]], but can also be used in other contexts such as vehicles, boats, and other personal property. Liens are a form of security interest that is used to secure the payment of a debt or other obligation.

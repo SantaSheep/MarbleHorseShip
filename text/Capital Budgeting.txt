@@ -1,4 +1,4 @@
-<seo title="Capital Budgeting" metakeywords="capital budgeting,capital budgeting decisions,budgeting capital budgeting,introduction capital budgeting" metadescription="Capital budgeting is the process of evaluating and selecting long-term investments that are expected to generate income over time."/>
+<seo title="Capital Budgeting" metakeywords="capital budgeting,capital budgeting decisions,budgeting capital budgeting,introduction capital budgeting" metadescription="Capital budgeting is the process of evaluating and selecting long-term investments that are expected to generate income over time." />
 ===Introduction to Capital Budgeting===
 
 Capital budgeting is the process of evaluating and selecting long-term investments that are expected to generate income over time. It is a critical component of financial management and is used to determine the viability of investments such as new equipment, facilities, and other [[Capital Project|capital project]]s. Capital budgeting decisions are typically made by senior management and involve a significant amount of resources and time.

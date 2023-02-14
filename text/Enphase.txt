@@ -1,4 +1,4 @@
-<seo title="Enphase" metakeywords="enphase microinverter,enphase microinverter systems,product enphase microinverter,customers enphase microinverter" metadescription="Enphase was founded in 2006 by Raghu Belur and Martin Fornage.The company’s first product, the Enphase Microinverter System, was released in 2008."/>
+<seo title="Enphase" metakeywords="enphase microinverter,enphase microinverter systems,product enphase microinverter,customers enphase microinverter" metadescription="Enphase was founded in 2006 by Raghu Belur and Martin Fornage.The company’s first product, the Enphase Microinverter System, was released in 2008." />
 ===Introduction to Enphase===
 
 Enphase Energy is a global energy technology company that designs, manufactures, and sells microinverter systems for the solar photovoltaic industry. Founded in 2006, Enphase has become a leader in the solar energy industry, providing innovative solutions to residential and commercial customers. Enphase’s microinverter systems are designed to maximize the efficiency of solar energy systems, allowing customers to get the most out of their solar energy investments.

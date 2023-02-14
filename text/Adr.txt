@@ -1,4 +1,4 @@
-<seo title="Adr" metakeywords="foreign companies adrs,adrs investing,associated adrs investing,adrs listed exchanges" metadescription="American Depositary Receipts (ADRs) are a type of financial instrument that allows foreign companies to list their shares on U.S. stock exchanges."/>
+<seo title="Adr" metakeywords="foreign companies adrs,adrs investing,associated adrs investing,adrs listed exchanges" metadescription="American Depositary Receipts (ADRs) are a type of financial instrument that allows foreign companies to list their shares on U.S. stock exchanges." />
 ===Introduction to ADR===
 
 American Depositary Receipts (ADRs) are a type of [[Financial Instrument|financial instrument]] that allows foreign companies to list their shares on U.S. stock exchanges. ADRs are created when a [[U.s. Bank|U.S. bank]] purchases shares of a foreign company and issues receipts for those shares. The ADRs are then listed on U.S. exchanges, allowing investors to buy and sell the foreign companyâ€™s shares without having to purchase the actual shares. ADRs are denominated in U.S. dollars and are traded in the same manner as domestic stocks.

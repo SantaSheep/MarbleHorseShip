@@ -1,4 +1,4 @@
-<seo title="Libor" metakeywords="libor used,libor libor used,introduction libor,libor widely used" metadescription="Libor is the most widely used benchmark rate in the world."/>
+<seo title="Libor" metakeywords="libor used,libor libor used,introduction libor,libor widely used" metadescription="Libor is the most widely used benchmark rate in the world." />
 ===Introduction to Libor===
 
 The London Interbank Offered Rate (LIBOR) is a benchmark [[Interest Rate|interest rate]] that is used to determine the cost of borrowing for banks and other [[Financial Institution|financial institution]]s. It is the most widely used benchmark rate in the world and is used to set the interest rates for a variety of financial products, including mortgages, [[Credit Card|credit card]]s, and other loans. LIBOR is set daily by the British Bankers' Association (BBA) and is based on the average interest rate that banks charge each other for short-term loans.

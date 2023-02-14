@@ -1,4 +1,4 @@
-<seo title="Operating Expense Ratio" metakeywords="operating expense ratio,expense ratio oer,ratio operating expense,expense ratio operating" metadescription="The Operating Expense Ratio (OER) is a financial metric used to measure the efficiency of a company’s operations."/>
+<seo title="Operating Expense Ratio" metakeywords="operating expense ratio,expense ratio oer,ratio operating expense,expense ratio operating" metadescription="The Operating Expense Ratio (OER) is a financial metric used to measure the efficiency of a company’s operations." />
 ===Introduction to Operating Expense Ratio===
 
 The Operating [[Expense Ratio|Expense Ratio]] (OER) is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing a company’s operating expenses by its total revenue. The OER is a useful tool for investors and analysts to assess the financial health of a company and its ability to generate profits.

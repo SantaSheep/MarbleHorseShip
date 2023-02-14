@@ -1,4 +1,4 @@
-<seo title="Deferred Revenue" metakeywords="examples deferred revenue,example deferred revenue,introduction deferred revenue,deferred revenue" metadescription="Deferred revenue is a type of accounting transaction that occurs when a company receives payment for goods or services that have not yet been delivered."/>
+<seo title="Deferred Revenue" metakeywords="examples deferred revenue,example deferred revenue,introduction deferred revenue,deferred revenue" metadescription="Deferred revenue is a type of accounting transaction that occurs when a company receives payment for goods or services that have not yet been delivered." />
 ===Introduction to Deferred Revenue===
 
 Deferred revenue is a type of accounting transaction that occurs when a company receives payment for goods or services that have not yet been delivered. The payment is recorded as a liability on the company’s [[Balance Sheet|balance sheet]] until the goods or services are delivered. Deferred revenue is also known as [[Unearned Revenue|unearned revenue]], deferred income, or unearned income.

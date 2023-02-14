@@ -1,4 +1,4 @@
-<seo title="Li Fo Reserve" metakeywords="lifo reserve accounting,lifo reserve difference,lifo reserve calculated,lifo reserve balance" metadescription="The LIFO Reserve is an accounting term used to describe the difference between the cost of inventory under the Last-In-First-Out (LIFO) and the First-in-first-out (FIFo) method."/>
+<seo title="Li Fo Reserve" metakeywords="lifo reserve accounting,lifo reserve difference,lifo reserve calculated,lifo reserve balance" metadescription="The LIFO Reserve is an accounting term used to describe the difference between the cost of inventory under the Last-In-First-Out (LIFO) and the First-in-first-out (FIFo) method." />
 ===Introduction to Lifo Reserve===
 
 LIFO Reserve is an accounting term used to describe the difference between the cost of inventory under the Last-In-First-Out (LIFO) method and the cost of inventory under the First-In-First-Out (FIFO) method. The LIFO Reserve is the difference between the two costs and is used to adjust the cost of goods sold and the ending inventory balance. The LIFO Reserve is also known as the LIFO Layer or the LIFO Reserve Balance.

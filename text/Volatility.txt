@@ -1,4 +1,4 @@
-<seo title="Volatility" metakeywords="measuring volatility,methods measuring volatility,volatility used measure,volatility methods measuring" metadescription="Volatility is a measure of how much the price of a security or asset can change over a given period of time."/>
+<seo title="Volatility" metakeywords="measuring volatility,methods measuring volatility,volatility used measure,volatility methods measuring" metadescription="Volatility is a measure of how much the price of a security or asset can change over a given period of time." />
 ===Introduction to Volatility===
 
 Volatility is a measure of the amount of risk associated with a security or asset. It is a measure of how much the price of a security or asset can change over a given period of time. Volatility is often used to measure the risk of an investment, as it is a measure of how much the price of a security or asset can change over a given period of time. Volatility can be used to measure the risk of an investment, as it is a measure of how much the price of a security or asset can change over a given period of time.

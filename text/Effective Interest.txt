@@ -1,4 +1,4 @@
-<seo title="Effective Interest" metakeywords="earning effective rate,effective rate calculated,effective rate nominal,rate effective rate" metadescription="Effective interest is a method of calculating the true cost of borrowing money."/>
+<seo title="Effective Interest" metakeywords="earning effective rate,effective rate calculated,effective rate nominal,rate effective rate" metadescription="Effective interest is a method of calculating the true cost of borrowing money." />
 ===Introduction to Effective Interest===
 
 Effective interest is a method of calculating the true cost of borrowing money. It takes into account the [[Time Value Of Money|time value of money]], which is the concept that money has a different value depending on when it is received or paid out. This method of calculating interest is used by banks, lenders, and other [[Financial Institution|financial institution]]s to determine the true cost of borrowing money. It is also used to calculate the [[Return On Investment|return on investment]]s.

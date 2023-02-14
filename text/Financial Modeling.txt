@@ -1,4 +1,4 @@
-<seo title="Financial Modeling" metakeywords="financial modeling process,financial modeling financial,financial modeling provides,modeling financial modeling" metadescription="Financial modeling is a process used to create a numerical representation of a financial situation."/>
+<seo title="Financial Modeling" metakeywords="financial modeling process,financial modeling financial,financial modeling provides,modeling financial modeling" metadescription="Financial modeling is a process used to create a numerical representation of a financial situation." />
 ===Introduction to Financial Modeling===
 
 Financial modeling is a process used to create a numerical representation of a financial situation. It is used to analyze and forecast the performance of a business, project, or financial product. Financial models are used to evaluate the potential of investments, assess the risk of a particular investment, and to make decisions about the allocation of resources. Financial models are used by a variety of stakeholders, including investors, lenders, and management.

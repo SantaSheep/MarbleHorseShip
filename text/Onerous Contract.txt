@@ -1,4 +1,4 @@
-<seo title="Onerous Contract" metakeywords="definition onerous contract,contracts onerous contracts,onerous contracts legally,contracts onerous" metadescription="An onerous contract is a legally binding agreement between two or more parties that is difficult or burdensome to fulfill."/>
+<seo title="Onerous Contract" metakeywords="definition onerous contract,contracts onerous contracts,onerous contracts legally,contracts onerous" metadescription="An onerous contract is a legally binding agreement between two or more parties that is difficult or burdensome to fulfill." />
 ===Introduction to Onerous Contract===
 
 An onerous contract is a legally binding agreement between two or more parties that is difficult or burdensome to fulfill. It is a type of contract that is not beneficial to one or more of the parties involved. Onerous contracts are often used in business transactions, such as when a company takes on a loan or enters into a lease agreement. The terms of the contract are usually unfavorable to one of the parties, and the other party is usually in a better position to negotiate the terms.

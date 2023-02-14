@@ -1,4 +1,4 @@
-<seo title="Earnest Money" metakeywords="introduction earnest money,earnest money typically,cash earnest money,definition earnest money" metadescription="Earnest money is a deposit made by a buyer to a seller as part of a real estate transaction."/>
+<seo title="Earnest Money" metakeywords="introduction earnest money,earnest money typically,cash earnest money,definition earnest money" metadescription="Earnest money is a deposit made by a buyer to a seller as part of a real estate transaction." />
 ===Introduction to Earnest Money===
 
 Earnest money is a deposit made by a buyer to a seller as part of a [[Real Estate|real estate]] transaction. It is a way for the buyer to demonstrate their commitment to the purchase and to show that they are serious about the transaction. The earnest money is typically held in an escrow account until the transaction is completed.

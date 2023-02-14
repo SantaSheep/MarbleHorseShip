@@ -1,4 +1,4 @@
-<seo title="Co As E Theorem" metakeywords="economics coase theorem,criticisms coase theorem,coase theorem criticized,coase theorem coase" metadescription="The Coase Theorem is a fundamental economic concept developed by Nobel Prize-winning economist Ronald Coase in 1960."/>
+<seo title="Co As E Theorem" metakeywords="economics coase theorem,criticisms coase theorem,coase theorem criticized,coase theorem coase" metadescription="The Coase Theorem is a fundamental economic concept developed by Nobel Prize-winning economist Ronald Coase in 1960." />
 ===Introduction to the Coase Theorem===
 
 The Coase Theorem is a fundamental economic concept developed by Nobel Prize-winning economist Ronald Coase in 1960. It states that when there are no transaction costs, the allocation of resources will be independent of the legal structure of the property rights. In other words, the Coase Theorem suggests that the legal structure of property rights does not matter when it comes to the efficient allocation of resources. This theorem has been widely used in the fields of economics, law, and public policy.

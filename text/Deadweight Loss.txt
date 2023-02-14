@@ -1,4 +1,4 @@
-<seo title="Deadweight Loss" metakeywords="deadweight loss economic,deadweight loss taxation,resources deadweight loss,deadweight loss creating" metadescription="Deadweight loss is the loss of economic efficiency that occurs when the market fails to allocate resources efficiently."/>
+<seo title="Deadweight Loss" metakeywords="deadweight loss economic,deadweight loss taxation,resources deadweight loss,deadweight loss creating" metadescription="Deadweight loss is the loss of economic efficiency that occurs when the market fails to allocate resources efficiently." />
 ===Introduction to Deadweight Loss===
 
 Deadweight loss is an economic concept that refers to the loss of economic efficiency that occurs when the market fails to allocate resources efficiently. It is a measure of the cost to society of market inefficiency, and is calculated as the difference between the total benefit of a market transaction and the benefit that is actually achieved. Deadweight loss can be caused by a variety of factors, including taxes, subsidies, [[Price Ceiling|price ceiling]]s, price floors, and externalities.

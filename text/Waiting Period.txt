@@ -1,4 +1,4 @@
-<seo title="Waiting Period" metakeywords="definition waiting period,waiting periods waiting,waiting periods used,waiting period used" metadescription="A waiting period is a period of time between when an event occurs and when a benefit or action is available."/>
+<seo title="Waiting Period" metakeywords="definition waiting period,waiting periods waiting,waiting periods used,waiting period used" metadescription="A waiting period is a period of time between when an event occurs and when a benefit or action is available." />
 ===Introduction to Waiting Period===
 
 A waiting period is a period of time between when an event occurs and when a benefit or action is available. This period of time is often used to ensure that the benefit or action is appropriate and that the person or entity receiving it is eligible. Waiting periods are commonly used in the financial world, where they are used to protect the interests of both parties involved in a transaction.

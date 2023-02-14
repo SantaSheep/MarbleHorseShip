@@ -1,4 +1,4 @@
-<seo title="Asset Turnover" metakeywords="calculating asset turnover,calculation asset turnover,introduction asset turnover,asset turnover financial" metadescription="Asset turnover is a financial ratio that measures the efficiency of a company’s use of its assets.It is calculated by dividing the total sales of a. company by its total assets."/>
+<seo title="Asset Turnover" metakeywords="calculating asset turnover,calculation asset turnover,introduction asset turnover,asset turnover financial" metadescription="Asset turnover is a financial ratio that measures the efficiency of a company’s use of its assets.It is calculated by dividing the total sales of a. company by its total assets." />
 ===Introduction to Asset Turnover===
 
 Asset turnover is a financial ratio that measures the efficiency of a company’s use of its assets. It is calculated by dividing the total sales of a company by its total assets. This ratio is used to measure how efficiently a company is using its assets to generate sales. It is an important measure of a company’s performance and is used by investors and analysts to evaluate a company’s financial health.

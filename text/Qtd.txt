@@ -1,4 +1,4 @@
-<seo title="Qtd" metakeywords="qtd acronym quarter,qtd financial term,qtd acronym,recent quarter qtd" metadescription="Qtd is an acronym for “quarter to date’ and is a financial term used to refer to the performance of a company or investment over a specific period of time."/>
+<seo title="Qtd" metakeywords="qtd acronym quarter,qtd financial term,qtd acronym,recent quarter qtd" metadescription="Qtd is an acronym for “quarter to date’ and is a financial term used to refer to the performance of a company or investment over a specific period of time." />
 ===Introduction to Qtd===
 
 Qtd is an acronym for “quarter to date” and is a financial term used to refer to the performance of a company or investment over a specific period of time. It is a useful tool for investors and analysts to track the performance of a company or investment over a specific period of time. Qtd is often used in conjunction with other financial metrics such as year-to-date (YTD) and month-to-date (MTD) to provide a more comprehensive view of a company’s performance.

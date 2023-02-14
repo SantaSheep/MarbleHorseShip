@@ -1,4 +1,4 @@
-<seo title="Make To Order" metakeywords="mto production process,order mto production,mto production,make order production" metadescription="Make To Order (MTO) is a production process that allows customers to customize their orders and have them produced to their exact specifications."/>
+<seo title="Make To Order" metakeywords="mto production process,order mto production,mto production,make order production" metadescription="Make To Order (MTO) is a production process that allows customers to customize their orders and have them produced to their exact specifications." />
 ===Introduction===
 
 Make To Order (MTO) is a production process that is used in manufacturing and [[Supply Chain|supply chain]] management. It is a process that allows customers to customize their orders and have them produced to their exact specifications. This process is used in many industries, including automotive, aerospace, and electronics. It is a popular choice for companies that need to produce products quickly and efficiently. In this article, we will discuss the definition of Make To Order, the advantages and disadvantages of using this process, and the conclusion.

@@ -1,4 +1,4 @@
-<seo title="Gearing Ratio" metakeywords="gearing ratio financial,gearing ratio debt,equity gearing ratio,gearing ratios account" metadescription="Gearing ratio is a financial metric used to measure the degree of leverage used by a company.It is calculated by dividing the total debt of a company by its total equity."/>
+<seo title="Gearing Ratio" metakeywords="gearing ratio financial,gearing ratio debt,equity gearing ratio,gearing ratios account" metadescription="Gearing ratio is a financial metric used to measure the degree of leverage used by a company.It is calculated by dividing the total debt of a company by its total equity." />
 ===Introduction to Gearing Ratio===
 
 Gearing ratio is a financial metric used to measure the degree of leverage used by a company. It is calculated by dividing the total debt of a company by its total equity. The higher the gearing ratio, the more debt a company has relative to its equity. Gearing ratio is an important measure of a company’s financial health and can be used to assess the risk associated with investing in a company.

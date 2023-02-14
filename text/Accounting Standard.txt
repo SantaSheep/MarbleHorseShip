@@ -1,4 +1,4 @@
-<seo title="Accounting Standard" metakeywords="accounting standards developed,accounting standards generally,accounting standards,accounting standards used" metadescription="Accounting standards are a set of rules and regulations that govern the preparation and presentation of financial statements."/>
+<seo title="Accounting Standard" metakeywords="accounting standards developed,accounting standards generally,accounting standards,accounting standards used" metadescription="Accounting standards are a set of rules and regulations that govern the preparation and presentation of financial statements." />
 ===Introduction to Accounting Standard===
 
 Accounting standards are a set of rules and regulations that govern the preparation and presentation of [[Financial Statements|financial statements]]. They are designed to ensure that financial statements are prepared in a consistent and reliable manner, and that they provide a true and fair view of a company’s financial position. Accounting standards are developed by the International Accounting Standards Board (IASB) and are adopted by countries around the world.

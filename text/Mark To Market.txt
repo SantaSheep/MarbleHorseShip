@@ -1,4 +1,4 @@
-<seo title="Mark To Market" metakeywords="mark market accounting,mark market method,introduction mark market,liabilities mark market" metadescription="Mark-to-market (MTM) is an accounting method used to value assets and liabilities on a company’s balance sheet.It is based on the principle that assets and."/>
+<seo title="Mark To Market" metakeywords="mark market accounting,mark market method,introduction mark market,liabilities mark market" metadescription="Mark-to-market (MTM) is an accounting method used to value assets and liabilities on a company’s balance sheet.It is based on the principle that assets and." />
 ===Introduction to Mark-to-Market===
 
 Mark-to-market (MTM) is an [[Accounting Method|accounting method]] used to value assets and liabilities on a company’s [[Balance Sheet|balance sheet]]. It is a way of measuring the [[Fair Value|fair value]] of a company’s assets and liabilities by taking into account current market prices. The mark-to-market method is used to ensure that a company’s [[Financial Statements|financial statements]] accurately reflect the current market value of its assets and liabilities.

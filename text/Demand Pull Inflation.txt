@@ -1,4 +1,4 @@
-<seo title="Demand Pull Inflation" metakeywords="demand pull inflation,inflation examples demand,inflation demand pull,inflation example demand" metadescription="Demand-pull inflation is one of the two main types of inflation, the other being cost-push inflation."/>
+<seo title="Demand Pull Inflation" metakeywords="demand pull inflation,inflation examples demand,inflation demand pull,inflation example demand" metadescription="Demand-pull inflation is one of the two main types of inflation, the other being cost-push inflation." />
 ===Introduction to Demand-Pull Inflation===
 
 Demand-pull inflation is an economic phenomenon in which an increase in [[Aggregate Demand|aggregate demand]] leads to an increase in the general price level. It is one of the two main types of inflation, the other being cost-push inflation. Demand-pull inflation is caused by an increase in aggregate demand, which is the total amount of goods and services demanded in an economy. This increase in demand can be caused by a variety of factors, such as an increase in government spending, an increase in consumer spending, or an increase in investment.

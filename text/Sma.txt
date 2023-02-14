@@ -1,4 +1,4 @@
-<seo title="Sma" metakeywords="moving average sma,sma technical analysis,moving average,calculating sma" metadescription="Simple Moving Average (SMA) is a technical analysis tool used to identify trends in financial markets."/>
+<seo title="Sma" metakeywords="moving average sma,sma technical analysis,moving average,calculating sma" metadescription="Simple Moving Average (SMA) is a technical analysis tool used to identify trends in financial markets." />
 ===Introduction to SMA===
 
 Simple [[Moving Average|Moving Average]] (SMA) is a [[Technical Analysis|technical analysis]] tool used to identify trends in [[Financial Market|financial market]]s. It is a widely used indicator that is used to measure the average price of a security over a given period of time. The SMA is calculated by taking the average of the closing prices of a security over a certain number of periods. The SMA is a lagging indicator, meaning that it is based on past data and is not predictive of future price movements.

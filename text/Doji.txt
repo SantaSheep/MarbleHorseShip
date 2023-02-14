@@ -1,4 +1,4 @@
-<seo title="Doji" metakeywords="doji pattern characterized,doji pattern,analysis doji pattern,indicators doji pattern" metadescription="Doji is a Japanese candlestick pattern that is used in technical analysis to identify potential reversals in the market."/>
+<seo title="Doji" metakeywords="doji pattern characterized,doji pattern,analysis doji pattern,indicators doji pattern" metadescription="Doji is a Japanese candlestick pattern that is used in technical analysis to identify potential reversals in the market." />
 ===Introduction to Doji===
 
 Doji is a Japanese candlestick pattern that is used in [[Technical Analysis|technical analysis]] to identify potential reversals in the market. It is one of the most widely used and recognized patterns in the world of technical analysis. The Doji pattern is composed of a single candle with a long upper and lower shadow. The open and close of the candle are at the same price, or very close to it. This pattern is used to indicate that the market is in a state of indecision, and that the bulls and bears are in a tug of war.

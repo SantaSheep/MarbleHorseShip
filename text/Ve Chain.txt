@@ -1,4 +1,4 @@
-<seo title="Ve Chain" metakeywords="vechain technology vechain,vechain use cases,vechain platform,vechain technology" metadescription="Vechain was founded in 2015 by Sunny Lu, a former Chief Information Officer of Louis Vuitton China."/>
+<seo title="Ve Chain" metakeywords="vechain technology vechain,vechain use cases,vechain platform,vechain technology" metadescription="Vechain was founded in 2015 by Sunny Lu, a former Chief Information Officer of Louis Vuitton China." />
 ===Introduction to Vechain===
 
 Vechain is a blockchain-based platform that enables businesses to track and manage their [[Supply Chain|supply chain]] operations. It is a distributed ledger technology (DLT) that provides a secure and transparent way to track the movement of goods and services. Vechain is designed to provide businesses with a secure and efficient way to track and manage their supply chain operations. The platform is used by businesses to track the movement of goods and services, as well as to ensure the authenticity of products. Vechain also provides a platform for businesses to securely store and share data.

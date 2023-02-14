@@ -1,4 +1,4 @@
-<seo title="Per Capita" metakeywords="percapita defined average,percapita gdp,percapita concept percapita,economic conclusion percapita" metadescription="Percapita is a term used in economics to refer to the average amount of money or resources available to each person in a given population."/>
+<seo title="Per Capita" metakeywords="percapita defined average,percapita gdp,percapita concept percapita,economic conclusion percapita" metadescription="Percapita is a term used in economics to refer to the average amount of money or resources available to each person in a given population." />
 ===Introduction to Percapita===
 
 Percapita is a term used in economics and finance to refer to the average amount of money or resources available to each person in a given population. It is a measure of the average income or wealth of a population, and is often used to compare the economic well-being of different countries or regions. Percapita is also used to measure the economic development of a country or region over time.

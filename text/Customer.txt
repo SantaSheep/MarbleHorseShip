@@ -1,4 +1,4 @@
-<seo title="Customer" metakeywords="definition customer ordered,customer orders,customer ordered process,ordering customer orders" metadescription="Customer ordered is a term used to describe the process of ordering goods or services from a company or supplier."/>
+<seo title="Customer" metakeywords="definition customer ordered,customer orders,customer ordered process,ordering customer orders" metadescription="Customer ordered is a term used to describe the process of ordering goods or services from a company or supplier." />
 ===Introduction to Customer Ordered===
 
 Customer ordered is a term used to describe the process of ordering goods or services from a company or supplier. It is a common practice in the business world and is used to ensure that customers receive the products or services they need in a timely manner. Customer ordered is a key component of [[Customer Service|customer service]] and is essential for businesses to maintain a good relationship with their customers.

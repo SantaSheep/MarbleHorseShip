@@ -1,4 +1,4 @@
-<seo title="Hierarchy Of Gaap" metakeywords="gaap hierarchy gaap,hierarchy gaap accounting,hierarchy gaap important,introduction hierarchy gaap" metadescription="GAAP stands for Generally Accepted Accounting Principles."/>
+<seo title="Hierarchy Of Gaap" metakeywords="gaap hierarchy gaap,hierarchy gaap accounting,hierarchy gaap important,introduction hierarchy gaap" metadescription="GAAP stands for Generally Accepted Accounting Principles." />
 ===Introduction to Hierarchy of GAAP===
 
 The Hierarchy of GAAP is a set of [[Accounting Standard|accounting standard]]s that are used to ensure the accuracy and consistency of financial reporting. GAAP stands for Generally Accepted [[Accounting Principles|Accounting Principles]] and is a set of rules and regulations that must be followed by all companies in order to produce accurate [[Financial Statements|financial statements]]. The Hierarchy of GAAP is a way of organizing the various accounting standards into a logical order, making it easier for companies to understand and adhere to the rules.

@@ -1,4 +1,4 @@
-<seo title="Peg Ratio" metakeywords="price earnings ratio,ratio price earnings,earnings ratio financial,earnings ratio" metadescription="The Price/Earnings (P/E) ratio is a financial metric used to measure the relative value of a company’s stock."/>
+<seo title="Peg Ratio" metakeywords="price earnings ratio,ratio price earnings,earnings ratio financial,earnings ratio" metadescription="The Price/Earnings (P/E) ratio is a financial metric used to measure the relative value of a company’s stock." />
 ===Introduction to P/E Ratio===
 
 The Price/Earnings (P/E) ratio is a financial metric used to measure the relative value of a company’s stock. It is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). The P/E ratio is a widely used tool by investors to compare the relative value of different stocks and to determine the potential [[Return On Investment|return on investment]].

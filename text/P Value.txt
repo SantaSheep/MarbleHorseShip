@@ -1,4 +1,4 @@
-<seo title="P Value" metakeywords="null hypothesis value,hypothesis value expressed,hypothesis value,hypothesis value calculated" metadescription="P Value is a statistical measure used to assess the strength of evidence in a hypothesis test."/>
+<seo title="P Value" metakeywords="null hypothesis value,hypothesis value expressed,hypothesis value,hypothesis value calculated" metadescription="P Value is a statistical measure used to assess the strength of evidence in a hypothesis test." />
 ===Introduction to P Value===
 
 P Value is a statistical measure used to assess the strength of evidence in a hypothesis test. It is a measure of the probability that the observed data would occur if the [[Null Hypothesis|null hypothesis]] were true. The P Value is used to determine whether the observed data is [[Statistically Significant|statistically significant]] or not. It is a measure of the likelihood that the observed data would occur if the null hypothesis were true.

@@ -1,4 +1,4 @@
-<seo title="Trade" metakeywords="trades involve exchange,risks associated trading,trading trading benefits,risks trading trading" metadescription="Trade is the exchange of goods and services between two or more parties.There are many different types of trades, each with its own set of rules and regulations."/>
+<seo title="Trade" metakeywords="trades involve exchange,risks associated trading,trading trading benefits,risks trading trading" metadescription="Trade is the exchange of goods and services between two or more parties.There are many different types of trades, each with its own set of rules and regulations." />
 ===Introduction to Trade===
 
 Trade is the exchange of goods and services between two or more parties. It is an essential part of the global economy, as it allows for the efficient allocation of resources and the creation of wealth. Trade can take many forms, from bartering to complex financial transactions. It is a key component of international relations, as countries rely on trade to acquire the resources they need to survive and thrive.

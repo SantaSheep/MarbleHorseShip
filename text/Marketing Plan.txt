@@ -1,4 +1,4 @@
-<seo title="Marketing Plan" metakeywords="developing marketing plan,marketing plan developing,marketing strategy outlines,marketing plan marketing" metadescription="A marketing plan is a comprehensive document that outlines the goals, objectives, and strategies that a business will use to reach its target market."/>
+<seo title="Marketing Plan" metakeywords="developing marketing plan,marketing plan developing,marketing strategy outlines,marketing plan marketing" metadescription="A marketing plan is a comprehensive document that outlines the goals, objectives, and strategies that a business will use to reach its target market." />
 ===Introduction to Marketing Plan===
 
 A marketing plan is a document that outlines the strategies and tactics that a business will use to promote its products or services. It is a comprehensive document that outlines the goals, objectives, and strategies that a business will use to reach its [[Target Market|target market]]. The marketing plan is an essential tool for any business, as it provides a roadmap for how the business will achieve its goals.

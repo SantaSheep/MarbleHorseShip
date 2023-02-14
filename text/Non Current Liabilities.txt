@@ -1,4 +1,4 @@
-<seo title="Non Current Liabilities" metakeywords="noncurrent liabilities financial,noncurrent liabilities typically,liabilities noncurrent liabilities,introduction noncurrent liabilities" metadescription="Noncurrent liabilities are financial obligations that are due to be paid more than one year in the future."/>
+<seo title="Non Current Liabilities" metakeywords="noncurrent liabilities financial,noncurrent liabilities typically,liabilities noncurrent liabilities,introduction noncurrent liabilities" metadescription="Noncurrent liabilities are financial obligations that are due to be paid more than one year in the future." />
 ===Introduction to Noncurrent Liabilities===
 
 Non[[Current Liabilities|current liabilities]] are financial obligations that are due to be paid more than one year in the future. These liabilities are also known as long-term liabilities and are typically reported on a company’s [[Balance Sheet|balance sheet]]. Noncurrent liabilities are important for businesses to understand and manage as they can have a significant impact on a company’s financial health.

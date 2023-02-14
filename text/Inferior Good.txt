@@ -1,4 +1,4 @@
-<seo title="Inferior Good" metakeywords="economy inferior goods,inferior goods characteristics,inferior goods typically,inferior goods examples" metadescription="Inferior good is an economic term used to describe a type of good whose demand decreases when the consumer’s income increases."/>
+<seo title="Inferior Good" metakeywords="economy inferior goods,inferior goods characteristics,inferior goods typically,inferior goods examples" metadescription="Inferior good is an economic term used to describe a type of good whose demand decreases when the consumer’s income increases." />
 ===Introduction to Inferior Good===
 
 Inferior good is an economic term used to describe a type of good whose demand decreases when the consumer’s income increases. This is in contrast to normal goods, which are goods whose demand increases when the consumer’s income increases. Inferior goods are typically lower-quality, lower-priced goods that are consumed by lower-income households. Inferior goods are important to consider when analyzing the impact of changes in income on consumer spending.

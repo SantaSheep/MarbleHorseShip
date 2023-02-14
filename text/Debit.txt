@@ -1,4 +1,4 @@
-<seo title="Debit" metakeywords="debit orders convenient,introduction debit order,questions debit orders,debit orders" metadescription="A debit order is a payment method that allows a customer to authorize a merchant to withdraw a predetermined amount of money from their bank account on a regular basis."/>
+<seo title="Debit" metakeywords="debit orders convenient,introduction debit order,questions debit orders,debit orders" metadescription="A debit order is a payment method that allows a customer to authorize a merchant to withdraw a predetermined amount of money from their bank account on a regular basis." />
 ===Introduction to Debit Order===
 
 A debit order is a payment method that allows a customer to authorize a merchant to withdraw a predetermined amount of money from their bank account on a regular basis. This type of payment is often used for recurring payments such as monthly bills, subscriptions, and loan payments. Debit orders are a convenient and secure way to make payments, as they are processed electronically and require no manual intervention.

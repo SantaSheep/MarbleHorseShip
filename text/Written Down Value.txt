@@ -1,4 +1,4 @@
-<seo title="Written Down Value" metakeywords="asset written value,written value asset,definition written value,inventory written value" metadescription="Written down value is a term used in accounting to refer to the value of an asset that has been reduced over time due to depreciation, amortization, or other factors."/>
+<seo title="Written Down Value" metakeywords="asset written value,written value asset,definition written value,inventory written value" metadescription="Written down value is a term used in accounting to refer to the value of an asset that has been reduced over time due to depreciation, amortization, or other factors." />
 ===Introduction to Written Down Value===
 
 Written down value is a term used in accounting to refer to the value of an asset that has been reduced over time due to depreciation, amortization, or other factors. It is an important concept in accounting because it helps to determine the value of an asset for tax and financial reporting purposes. Written down value is also used to calculate the cost of goods sold and to determine the value of inventory.

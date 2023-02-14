@@ -1,4 +1,4 @@
-<seo title="Z Test" metakeywords="statistical test used,statistical test,test test statistical,test statistical" metadescription="Z Test is a statistical test used to compare the means of two populations.It is used to determine if the difference between two means is statistically significant."/>
+<seo title="Z Test" metakeywords="statistical test used,statistical test,test test statistical,test statistical" metadescription="Z Test is a statistical test used to compare the means of two populations.It is used to determine if the difference between two means is statistically significant." />
 ===Introduction to Z Test===
 
 The Z Test is a statistical test used to compare the means of two populations. It is used to determine if the difference between two means is [[Statistically Significant|statistically significant]]. The Z Test is a parametric test, meaning that it assumes that the data follows a [[Normal Distribution|normal distribution]]. It is also a one-tailed test, meaning that i[[T Test|t test]]s for a difference in one direction only. The Z Test is used in a variety of fields, including finance, economics, and psychology.

@@ -1,4 +1,4 @@
-<seo title="Debt Equity Ratio" metakeywords="debt equity ratio,equity ratio debt,ratio debt equity,leverage ratio debt" metadescription="The debt-equity ratio is a financial metric used to measure the relative proportion of a company’s debt and equity."/>
+<seo title="Debt Equity Ratio" metakeywords="debt equity ratio,equity ratio debt,ratio debt equity,leverage ratio debt" metadescription="The debt-equity ratio is a financial metric used to measure the relative proportion of a company’s debt and equity." />
 ===Introduction to Debt-Equity Ratio===
 
 The debt-equity ratio is a financial metric used to measure the relative proportion of a company’s debt and equity. It is calculated by dividing a company’s [[Total Liabilities|total liabilities]] by its total shareholders’ equity. The debt-equity ratio is also known as the [[Leverage Ratio|leverage ratio]] or the debt-to-equity ratio. It is an important measure of a company’s financial health and is used by investors and creditors to assess the risk associated with investing in or lending to a company.

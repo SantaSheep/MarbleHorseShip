@@ -1,4 +1,4 @@
-<seo title="Revenue Recognition" metakeywords="principles revenue recognition,revenue recognition principles,revenue recognition process,revenue recognition standards" metadescription="Revenue recognition is the process of recognizing revenue when it is earned."/>
+<seo title="Revenue Recognition" metakeywords="principles revenue recognition,revenue recognition principles,revenue recognition process,revenue recognition standards" metadescription="Revenue recognition is the process of recognizing revenue when it is earned." />
 ===Introduction to Revenue Recognition===
 
 Revenue recognition is the process of recognizing revenue when it is earned. It is an important concept in accounting and is used to determine when and how much revenue should be recognized. Revenue recognition is used to ensure that companies are accurately reporting their [[Financial Performance|financial performance]].

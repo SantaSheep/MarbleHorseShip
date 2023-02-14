@@ -1,4 +1,4 @@
-<seo title="Net Sales" metakeywords="net sales defined,net sales term,calculating net sales,definition net sales" metadescription="Net sales is defined as the total amount of revenue generated from the sale of goods and services, minus any discounts, returns, and allowances."/>
+<seo title="Net Sales" metakeywords="net sales defined,net sales term,calculating net sales,definition net sales" metadescription="Net sales is defined as the total amount of revenue generated from the sale of goods and services, minus any discounts, returns, and allowances." />
 ===Introduction to Net Sales===
 
 Net sales is a term used in the financial world to refer to the total amount of revenue generated from the sale of goods and services. It is a key metric used to measure the performance of a business and is often used to compare the performance of a business over time. Net sales is an important indicator of a company's financial health and can be used to assess the overall profitability of a business.

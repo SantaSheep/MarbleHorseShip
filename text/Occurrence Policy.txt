@@ -1,4 +1,4 @@
-<seo title="Occurrence Policy" metakeywords="occurrence policies typically,occurrence policy provides,occurrence policy type,occurrence policies provide" metadescription="An occurrence policy is a type of insurance policy that provides coverage for losses that occur during the policy period, regardless of when the claim is made."/>
+<seo title="Occurrence Policy" metakeywords="occurrence policies typically,occurrence policy provides,occurrence policy type,occurrence policies provide" metadescription="An occurrence policy is a type of insurance policy that provides coverage for losses that occur during the policy period, regardless of when the claim is made." />
 ===Introduction to Occurrence Policy===
 
 An occurrence policy is a type of insurance policy that provides coverage for losses that occur during the policy period, regardless of when the claim is made. This type of policy is typically used to protect businesses from losses that may occur due to unforeseen circumstances. It is important to note that an occurrence policy does not cover losses that occur after the policy period has ended.

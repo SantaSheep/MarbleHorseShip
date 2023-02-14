@@ -1,4 +1,4 @@
-<seo title="Loan To Deposit Ratio" metakeywords="deposit ratio ldr,ldr financial metric,loan deposit ratio,ratio ldr financial" metadescription="Loan To Deposit Ratio (LDR) is a financial metric used to measure the amount of loans a bank has issued relative to deposits it has taken in."/>
+<seo title="Loan To Deposit Ratio" metakeywords="deposit ratio ldr,ldr financial metric,loan deposit ratio,ratio ldr financial" metadescription="Loan To Deposit Ratio (LDR) is a financial metric used to measure the amount of loans a bank has issued relative to deposits it has taken in." />
 ===Introduction to Loan To Deposit Ratio===
 
 The Loan To Deposit Ratio (LDR) is a financial metric used to measure the amount of loans a bank has issued relative to the amount of deposits it has taken in. It is an important indicator of a bank’s liquidity and solvency, and is used by regulators to assess the risk of a bank becoming insolvent. The higher the LDR, the more loans a bank has issued relative to its deposits, and the greater the risk of insolvency.

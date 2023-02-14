@@ -1,4 +1,4 @@
-<seo title="Line Of Best Fit" metakeywords="fit interpreting line,best fit calculated,regression line,best fit interpreting" metadescription="The line of best fit is a statistical tool used to determine the relationship between two variables.It is also known as the linear regression line or the least squares line."/>
+<seo title="Line Of Best Fit" metakeywords="fit interpreting line,best fit calculated,regression line,best fit interpreting" metadescription="The line of best fit is a statistical tool used to determine the relationship between two variables.It is also known as the linear regression line or the least squares line." />
 ===Introduction to Line of Best Fit===
 
 The line of best fit is a statistical tool used to determine the relationship between two variables. It is a line that best represents the data points on a graph. The line of best fit is also known as the linear regression line or the [[Least Squares|least squares]] line. It is used to predict the value of one variable based on the value of another variable. It is a useful tool for analyzing data and making predictions.

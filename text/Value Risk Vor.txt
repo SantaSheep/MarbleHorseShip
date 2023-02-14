@@ -1,4 +1,4 @@
-<seo title="Value Risk Vor" metakeywords="introduction value risk,value risk types,manage value risk,value risk including" metadescription="Value risk is a risk that is associated with the potential for a financial asset to lose value due to changes in market conditions."/>
+<seo title="Value Risk Vor" metakeywords="introduction value risk,value risk types,manage value risk,value risk including" metadescription="Value risk is a risk that is associated with the potential for a financial asset to lose value due to changes in market conditions." />
 ===Introduction to Value Risk===
 
 Value risk is a type of risk that is associated with the potential for a [[Financial Asset|financial asset]] to lose value due to changes in market conditions. It is a risk that investors must consider when making investment decisions. Value risk can be caused by a variety of factors, including changes in economic conditions, changes in the value of a currency, or changes in the value of a commodity. Value risk can also be caused by changes in the political or social environment, or by changes in the company's [[Financial Performance|financial performance]].

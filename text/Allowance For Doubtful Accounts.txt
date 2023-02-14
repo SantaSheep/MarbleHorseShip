@@ -1,4 +1,4 @@
-<seo title="Allowance For Doubtful Accounts" metakeywords="doubtful accounts afda,accounts afda accounting,accounts estimating afda,accounting treatment afda" metadescription=""/>
+<seo title="Allowance For Doubtful Accounts" metakeywords="doubtful accounts afda,accounts afda accounting,accounts estimating afda,accounting treatment afda" metadescription="" />
 ===Introduction to Allowance for Doubtful Accounts===
 
 Allowance for Doubtful Accounts (AFDA) is an accounting term used to describe the amount of money set aside to cover potential losses from customer accounts that may not be collected. This allowance is used to reduce the amount of [[Accounts Receivable|accounts receivable]] reported on the [[Balance Sheet|balance sheet]]. AFDA is also known as [[Bad Debt|bad debt]] allowance, allowance for bad debts, or allowance for uncollectible accounts.

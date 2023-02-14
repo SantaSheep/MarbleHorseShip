@@ -1,4 +1,4 @@
-<seo title="Variability" metakeywords="variability term used,variability variability term,variability term,variability variability caused" metadescription=" Variability is a term used to describe the degree of change in a given set of data."/>
+<seo title="Variability" metakeywords="variability term used,variability variability term,variability term,variability variability caused" metadescription=" Variability is a term used to describe the degree of change in a given set of data." />
 ===Introduction to Variability===
 
 Variability is a term used to describe the degree of change in a given set of data. It is a measure of how much a set of data varies from its average or [[Expected Value|expected value]]. Variability is an important concept in finance, as it can be used to measure the risk associated with a particular investment or financial decision. Variability can be measured in terms of [[Standard Deviation|standard deviation]], which is a measure of how much a set of data deviates from its mean. Variability can also be measured in terms of volatility, which is a measure of how much a set of data changes over time.

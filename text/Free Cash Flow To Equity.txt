@@ -1,4 +1,4 @@
-<seo title="Free Cash Flow To Equity" metakeywords="cash flow fcfe,equity fcfe calculated,fcfe operating cash,equity fcfe defined" metadescription=""/>
+<seo title="Free Cash Flow To Equity" metakeywords="cash flow fcfe,equity fcfe calculated,fcfe operating cash,equity fcfe defined" metadescription="" />
 ===Introduction to Free Cash Flow to Equity===
 
 Free [[Cash Flow|Cash Flow]] to Equity (FCFE) is a financial metric used to measure the amount of cash available to the equity holders of a company after all expenses, investments, and debt payments have been made. It is a measure of the company’s ability to generate cash for its shareholders and is an important indicator of the company’s financial health. FCFE is used by investors to assess the company’s ability to generate cash for its shareholders and is an important indicator of the company’s financial health.

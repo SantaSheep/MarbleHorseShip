@@ -1,4 +1,4 @@
-<seo title="Double Bottom" metakeywords="doublebottom financial term,doublebottom concept doublebottom,doublebottom concept,concept doublebottom" metadescription="Doublebottom is a financial term used to describe a situation in which a company's stock price falls to a low point, then rebounds to a higher level."/>
+<seo title="Double Bottom" metakeywords="doublebottom financial term,doublebottom concept doublebottom,doublebottom concept,concept doublebottom" metadescription="Doublebottom is a financial term used to describe a situation in which a company's stock price falls to a low point, then rebounds to a higher level." />
 ===Introduction to Doublebottom===
 
 Doublebottom is a financial term used to describe a situation in which a company's stock price falls to a low point, then rebounds to a higher level. It is a common occurrence in the [[Stock Market|stock market]], and is often seen as a sign of a company's resilience and potential for growth. The term is derived from the shape of the stock chart, which resembles a double bottom.

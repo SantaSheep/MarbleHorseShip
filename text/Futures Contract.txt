@@ -1,4 +1,4 @@
-<seo title="Futures Contract" metakeywords="financial futures contracts,futures contracts futures,futures contracts,introduction futures contracts" metadescription="A futures contract is an agreement between two parties to buy or sell a specific asset at a predetermined price at a specified time in the future."/>
+<seo title="Futures Contract" metakeywords="financial futures contracts,futures contracts futures,futures contracts,introduction futures contracts" metadescription="A futures contract is an agreement between two parties to buy or sell a specific asset at a predetermined price at a specified time in the future." />
 ===Introduction to Futures Contracts===
 
 A futures contract is an agreement between two parties to buy or sell a specific asset at a predetermined price at a specified time in the future. Futures contracts are used to hedge against price fluctuations in the underlying asset, as well as to speculate on the future price of the asset. Futures contracts are traded on exchanges, and are standardized in terms of quantity, quality, and delivery date.

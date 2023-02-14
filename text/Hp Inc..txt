@@ -1,4 +1,4 @@
-<seo title="Hp Inc." metakeywords="financial performance hp,hp publicly traded,hp founded 1939,hp product" metadescription="HP Inc. was founded in 1939 by Bill Hewlett and Dave Packard in a Palo Alto, California garage."/>
+<seo title="Hp Inc." metakeywords="financial performance hp,hp publicly traded,hp founded 1939,hp product" metadescription="HP Inc. was founded in 1939 by Bill Hewlett and Dave Packard in a Palo Alto, California garage." />
 ===Introduction to HP Inc.===
 
 HP Inc. is a global technology company that provides products, technologies, software, solutions, and services to consumers, small and medium-sized businesses, and large enterprises. HP Inc. was formed in 2015 when Hewlett-Packard Company split into two separate entities, HP Inc. and [[Hewlett Packard Enterprise|Hewlett Packard Enterprise]]. HP Inc. is headquartered in Palo Alto, California and is a publicly traded company on the New York Stock Exchange (NYSE) under the ticker symbol HPQ.

@@ -1,4 +1,4 @@
-<seo title="Texas Ratio" metakeywords="texas ratio useful,texas ratio developed,texas ratio used,insolvent texas ratio" metadescription="The Texas Ratio is a financial metric used to measure the financial health of a bank or other financial institution."/>
+<seo title="Texas Ratio" metakeywords="texas ratio useful,texas ratio developed,texas ratio used,insolvent texas ratio" metadescription="The Texas Ratio is a financial metric used to measure the financial health of a bank or other financial institution." />
 ===Introduction to the Texas Ratio===
 
 The Texas Ratio is a financial metric used to measure the financial health of a bank or other [[Financial Institution|financial institution]]. It is a ratio of a bank's non-performing assets to its total assets and is used to assess the risk of a bank becoming insolvent. The Texas Ratio was developed by Gerard Cassidy, a banking analyst at RBC [[Capital Markets|Capital Markets]], in the early 1990s. It is named after the state of Texas, where Cassidy was based at the time.

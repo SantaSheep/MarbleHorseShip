@@ -1,4 +1,4 @@
-<seo title="Variance" metakeywords="population variance measure,variance variance used,variance used,variance important concept" metadescription="variance is a measure of how much a set of numbers is spread out from its average.It is used in many fields, including finance, economics, and statistics."/>
+<seo title="Variance" metakeywords="population variance measure,variance variance used,variance used,variance important concept" metadescription="variance is a measure of how much a set of numbers is spread out from its average.It is used in many fields, including finance, economics, and statistics." />
 ===Introduction to Variance===
 
 Variance is a measure of how much a set of numbers is spread out from its average. It is a measure of the dispersion of a set of data points from their mean. Variance is an important concept in statistics and is used to measure the spread of a data set. Variance is also used to measure the risk associated with investments.

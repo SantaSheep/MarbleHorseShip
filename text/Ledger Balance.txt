@@ -1,4 +1,4 @@
-<seo title="Ledger Balance" metakeywords="definition ledger balance,ledger balances,ledger balances provide,examples ledger balances" metadescription="Ledger balance is a term used in accounting and finance to refer to the amount of money that is available in an account."/>
+<seo title="Ledger Balance" metakeywords="definition ledger balance,ledger balances,ledger balances provide,examples ledger balances" metadescription="Ledger balance is a term used in accounting and finance to refer to the amount of money that is available in an account." />
 ===Introduction to Ledger Balance===
 
 Ledger balance is a term used in accounting and finance to refer to the amount of money that is available in an account. It is the sum of all the transactions that have been made in the account, including deposits, withdrawals, and transfers. The ledger balance is the amount of money that is available to the account holder at any given time. It is important to note that the ledger balance does not include any pending transactions or transactions that have not yet been processed.

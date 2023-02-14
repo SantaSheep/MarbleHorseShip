@@ -1,4 +1,4 @@
-<seo title="Days Working Capital" metakeywords="days working capital,working capital days,working capital calculated,working capital" metadescription="Days Working Capital is a financial metric used to measure a company’s liquidity and short-term financial health."/>
+<seo title="Days Working Capital" metakeywords="days working capital,working capital days,working capital calculated,working capital" metadescription="Days Working Capital is a financial metric used to measure a company’s liquidity and short-term financial health." />
 ===Introduction to Days Working Capital===
 
 Days [[Working Capital|Working Capital]] is a financial metric used to measure a company’s liquidity and short-term financial health. It is calculated by dividing the company’s [[Current Assets|current assets]] by its [[Current Liabilities|current liabilities]]. The result is expressed in days, which indicates how many days the company can operate without having to borrow money or sell assets. This metric is important for investors and creditors, as it provides insight into the company’s ability to pay its short-term obligations.

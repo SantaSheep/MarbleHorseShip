@@ -1,4 +1,4 @@
-<seo title="Mode" metakeywords="mode statistical measure,mode useful measure,mode mode statistical,mode statistical" metadescription=" mode is a statistical measure that is used to describe the most frequently occurring value in a set of data."/>
+<seo title="Mode" metakeywords="mode statistical measure,mode useful measure,mode mode statistical,mode statistical" metadescription=" mode is a statistical measure that is used to describe the most frequently occurring value in a set of data." />
 ===Introduction to Mode===
 
 Mode is a statistical measure that is used to describe the most frequently occurring value in a set of data. It is a measure of central tendency, which is a measure of the center of a data set. Mode is often used to describe the most common value in a set of data, such as the most common age in a population or the most common score on a test. Mode is a useful measure of central tendency because it is easy to calculate and interpret.

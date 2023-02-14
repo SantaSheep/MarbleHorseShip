@@ -1,4 +1,4 @@
-<seo title="Straddle" metakeywords="straddle trading strategy,straddle involves selling,price definition straddle,straddle straddle trading" metadescription="Straddle is a trading strategy that involves simultaneously buying and selling options of the same underlying asset at the same strike price and expiration date."/>
+<seo title="Straddle" metakeywords="straddle trading strategy,straddle involves selling,price definition straddle,straddle straddle trading" metadescription="Straddle is a trading strategy that involves simultaneously buying and selling options of the same underlying asset at the same strike price and expiration date." />
 ===Introduction to Straddle===
 
 Straddle is a financial term that refers to a trading strategy used by investors to profit from price movements in a security. It involves simultaneously buying and selling options of the same underlying asset at the same [[Strike Price|strike price]] and expiration date. The strategy is used to capitalize on the volatility of the underlying asset and can be used to hedge against risk or to speculate on the direction of the asset’s price.

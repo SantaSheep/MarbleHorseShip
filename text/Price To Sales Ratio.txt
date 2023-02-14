@@ -1,4 +1,4 @@
-<seo title="Price To Sales Ratio" metakeywords="price sales ratio,sales ratio price,sales ratio useful,sales ratio ratio" metadescription="Price To Sales Ratio (P/S Ratio) is a financial metric used to measure the value of a company relative to its sales."/>
+<seo title="Price To Sales Ratio" metakeywords="price sales ratio,sales ratio price,sales ratio useful,sales ratio ratio" metadescription="Price To Sales Ratio (P/S Ratio) is a financial metric used to measure the value of a company relative to its sales." />
 ===Introduction to Price To Sales Ratio===
 
 The Price To Sales Ratio (P/S Ratio) is a financial metric used to measure the value of a company relative to its sales. It is calculated by dividing the [[Market Capitalization|market capitalization]] of a company by its total sales over a given period of time. The P/S Ratio is a useful tool for investors to compare the relative value of different companies in the same industry. It is also used to compare the value of a company to its peers in the same industry.

@@ -1,4 +1,4 @@
-<seo title="Bill Of Materials" metakeywords="materials bom document,materials materials bom,materials bom,materials typically includes" metadescription="A Bill of Materials (BOM) is a document that outlines the components and materials needed to create a product."/>
+<seo title="Bill Of Materials" metakeywords="materials bom document,materials materials bom,materials bom,materials typically includes" metadescription="A Bill of Materials (BOM) is a document that outlines the components and materials needed to create a product." />
 ===Introduction to Bill Of Materials===
 
 A Bill of Materials (BOM) is a document that outlines the components and materials needed to create a product. It is used by manufacturers, suppliers, and other stakeholders to ensure that the product is created accurately and efficiently. The BOM is an essential part of the product development process, as it provides a comprehensive list of all the components and materials needed to create the product. It also serves as a reference for the product’s design and production.

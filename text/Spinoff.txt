@@ -1,4 +1,4 @@
-<seo title="Spinoff" metakeywords="spinoffs reasons company,company reasons spinoffs,companies spinoffs,shareholders spinoffs provide" metadescription="A spinoff is a type of corporate restructuring in which a company transfers a portion of its assets and liabilities to the new entity."/>
+<seo title="Spinoff" metakeywords="spinoffs reasons company,company reasons spinoffs,companies spinoffs,shareholders spinoffs provide" metadescription="A spinoff is a type of corporate restructuring in which a company transfers a portion of its assets and liabilities to the new entity." />
 ===Introduction to Spinoff===
 
 A spinoff is a type of corporate restructuring in which a company creates a new business entity by transferring a portion of its assets and liabilities to the new entity. The new entity is then spun off as a separate company, usually with its own management team and [[Board Of Directors|board of directors]]. Spinoffs are typically used to unlock value from a company’s existing assets and to create new opportunities for growth. They can also be used to reduce the size of a company and to focus on core operations.

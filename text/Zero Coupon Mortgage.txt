@@ -1,4 +1,4 @@
-<seo title="Zero Coupon Mortgage" metakeywords="zero coupon mortgage,mortgage zero coupon,zero coupon loan,disadvantages zero coupon" metadescription="A zero coupon mortgage is a type of mortgage loan that does not require the borrower to make any payments until the loan is due."/>
+<seo title="Zero Coupon Mortgage" metakeywords="zero coupon mortgage,mortgage zero coupon,zero coupon loan,disadvantages zero coupon" metadescription="A zero coupon mortgage is a type of mortgage loan that does not require the borrower to make any payments until the loan is due." />
 ===Introduction to Zero Coupon Mortgage===
 
 A zero coupon mortgage is a type of mortgage loan that does not require the borrower to make any payments until the loan is due. This type of loan is typically used by investors who are looking to purchase a property with a low down payment and no monthly payments. The loan is structured so that the borrower pays the full amount of the loan at the end of the loan term. This type of loan is also known as a zero-interest loan or a zero-coupon loan.

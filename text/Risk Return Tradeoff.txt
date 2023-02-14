@@ -1,4 +1,4 @@
-<seo title="Risk Return Tradeoff" metakeywords="tradeoff risk return,risk return tradeoff,return tradeoff risk,return tradeoff investors" metadescription="The risk-return tradeoff is a key concept in financial markets.It is used to determine the expected return of an investment based on its risk."/>
+<seo title="Risk Return Tradeoff" metakeywords="tradeoff risk return,risk return tradeoff,return tradeoff risk,return tradeoff investors" metadescription="The risk-return tradeoff is a key concept in financial markets.It is used to determine the expected return of an investment based on its risk." />
 ===Introduction to Risk-Return Tradeoff===
 
 The risk-return tradeoff is a fundamental concept in finance that describes the relationship between the risk and return of an investment. It states that the higher the risk of an investment, the higher the [[Expected Return|expected return]]. Conversely, the lower the risk of an investment, the lower the expected return. This concept is used by investors to make decisions about which investments to make and how to allocate their portfolios.

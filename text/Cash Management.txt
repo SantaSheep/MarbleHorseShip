@@ -1,4 +1,4 @@
-<seo title="Cash Management" metakeywords="manage cash flow,management cash management,management strategies cash,cash management strategies" metadescription="Cash management is the process of managing the cash flow of a business or organization.It involves the efficient use of cash to maximize returns and minimize risk."/>
+<seo title="Cash Management" metakeywords="manage cash flow,management cash management,management strategies cash,cash management strategies" metadescription="Cash management is the process of managing the cash flow of a business or organization.It involves the efficient use of cash to maximize returns and minimize risk." />
 ===Introduction to Cash Management===
 
 Cash management is the process of managing the [[Cash Flow|cash flow]] of a business or organization. It involves the efficient use of cash to maximize returns and minimize risk. Cash management is an important part of financial planning and involves the careful monitoring of cash inflows and outflows. Cash management is essential for businesses to ensure that they have enough cash on hand to meet their short-term and long-term financial obligations.

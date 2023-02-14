@@ -1,4 +1,4 @@
-<seo title="Treasury Stock" metakeywords="stock disadvantages treasury,treasury stock advantages,treasury stock disadvantages,disadvantages treasury stock" metadescription="Treasury stock is a term used to describe the shares of a company that have been repurchased by the company itself."/>
+<seo title="Treasury Stock" metakeywords="stock disadvantages treasury,treasury stock advantages,treasury stock disadvantages,disadvantages treasury stock" metadescription="Treasury stock is a term used to describe the shares of a company that have been repurchased by the company itself." />
 ===Introduction to Treasury Stock===
 
 Treasury stock is a term used to describe the shares of a company that have been repurchased by the company itself. These shares are not cancelled, but rather held in the company’s treasury. Treasury stock is also referred to as “treasury shares” or “reacquired stock”. Treasury stock is not considered to be outstanding stock, and therefore does not have voting rights or receive dividends.

@@ -1,4 +1,4 @@
-<seo title="Gross Income" metakeywords="gross income defined,gross income example,gross income term,definition gross income" metadescription="Gross income is the total amount of money earned by an individual or business before any deductions or taxes are taken out."/>
+<seo title="Gross Income" metakeywords="gross income defined,gross income example,gross income term,definition gross income" metadescription="Gross income is the total amount of money earned by an individual or business before any deductions or taxes are taken out." />
 ===Introduction to Gross Income===
 
 Gross income is a term used to describe the total amount of money earned by an individual or business before any deductions or taxes are taken out. It is the total amount of money that is earned from all sources, including wages, salaries, investments, and other sources of income. Gross income is an important concept in the world of finance and taxation, as it is used to calculate taxes and other financial obligations.

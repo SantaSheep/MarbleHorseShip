@@ -1,4 +1,4 @@
-<seo title="Netting" metakeywords="netting netting benefits,netting benefits,netting reduces money,benefits netting reduces" metadescription="Netting is a financial term that refers to the process of offsetting financial obligations between two or more parties."/>
+<seo title="Netting" metakeywords="netting netting benefits,netting benefits,netting reduces money,benefits netting reduces" metadescription="Netting is a financial term that refers to the process of offsetting financial obligations between two or more parties." />
 ===Introduction to Netting===
 
 Netting is a financial term that refers to the process of offsetting financial obligations between two or more parties. It is a process of reducing the amount of money owed by one party to another by offsetting the amount owed with the amount owed by the other party. This process is used to reduce the amount of money that needs to be exchanged between the parties, and it can be used to reduce the risk of default on a loan or other financial obligation. Netting is a common practice in the financial industry, and it is used to reduce the amount of money that needs to be exchanged between parties.

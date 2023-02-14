@@ -1,4 +1,4 @@
-<seo title="Balance Sheet" metakeywords="balance sheet,introduction balance sheet,balance sheets,balance sheet provides" metadescription="A balance sheet is a financial statement that provides a snapshot of a company’s financial position at a given point in time."/>
+<seo title="Balance Sheet" metakeywords="balance sheet,introduction balance sheet,balance sheets,balance sheet provides" metadescription="A balance sheet is a financial statement that provides a snapshot of a company’s financial position at a given point in time." />
 ===Introduction to Balance Sheet===
 
 A balance sheet is a financial statement that provides a snapshot of a company’s financial position at a given point in time. It is one of the three primary [[Financial Statements|financial statements]] used to assess a company’s financial health, along with the [[Income Statement|income statement]] and the statement of [[Cash Flow|cash flow]]s. The balance sheet is also known as the statement of financial position.

@@ -1,4 +1,4 @@
-<seo title="Z Score" metakeywords="zscore financial metric,company conclusion zscore,equity ratio zscore,zscore zscore calculated" metadescription="Zscore is a financial metric used to measure the financial health of a company."/>
+<seo title="Z Score" metakeywords="zscore financial metric,company conclusion zscore,equity ratio zscore,zscore zscore calculated" metadescription="Zscore is a financial metric used to measure the financial health of a company." />
 ===Introduction to Zscore===
 
 Zscore is a financial metric used to measure the financial health of a company. It is a measure of the distance between a company's current financial position and its bankruptcy threshold. The Zscore is calculated using a combination of financial ratios, such as the [[Current Ratio|current ratio]], [[Quick Ratio|quick ratio]], and debt-to-equity ratio. The Zscore is used to assess the likelihood of a company going bankrupt in the near future.

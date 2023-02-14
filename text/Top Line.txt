@@ -1,4 +1,4 @@
-<seo title="Top Line" metakeywords="topline total revenue,revenue components topline,topline financial term,income topline" metadescription="Topline is a financial term used to describe the total revenue of a company or organization."/>
+<seo title="Top Line" metakeywords="topline total revenue,revenue components topline,topline financial term,income topline" metadescription="Topline is a financial term used to describe the total revenue of a company or organization." />
 ===Introduction to Topline===
 
 Topline is a financial term used to describe the total revenue of a company or organization. It is a key indicator of a company's financial health and performance, and is often used to compare the performance of different companies or organizations. Topline is also used to measure the overall performance of a company or organization over time.

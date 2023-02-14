@@ -1,4 +1,4 @@
-<seo title="Levered Free Cash Flow" metakeywords="cash flow levered,cash flow lfcf,lfcf operating cash,free cash flow" metadescription="Levered free cash flow (LFCF) is a financial metric used to measure the amount of cash available to a company after taking into account its debt obligations."/>
+<seo title="Levered Free Cash Flow" metakeywords="cash flow levered,cash flow lfcf,lfcf operating cash,free cash flow" metadescription="Levered free cash flow (LFCF) is a financial metric used to measure the amount of cash available to a company after taking into account its debt obligations." />
 ===Introduction to Levered Free Cash Flow===
 
 Levered free [[Cash Flow|cash flow]] (LFCF) is a financial metric used to measure the amount of cash available to a company after taking into account its debt obligations. It is a measure of a company’s financial health and is used to assess the company’s ability to pay its debt and other financial obligations. LFCF is an important metric for investors and creditors as it provides an indication of the company’s ability to generate cash flow and pay its debts.

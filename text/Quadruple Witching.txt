@@ -1,4 +1,4 @@
-<seo title="Quadruple Witching" metakeywords="market quadruplewitching works,market quadruplewitching,benefit quadruplewitching provides,quadruplewitching provide traders" metadescription="Quadruplewitching is a term used to describe the simultaneous expiration of stock index futures, stock index options, stock options, and single stock futures."/>
+<seo title="Quadruple Witching" metakeywords="market quadruplewitching works,market quadruplewitching,benefit quadruplewitching provides,quadruplewitching provide traders" metadescription="Quadruplewitching is a term used to describe the simultaneous expiration of stock index futures, stock index options, stock options, and single stock futures." />
 ===Introduction to Quadruplewitching===
 
 Quadruplewitching is a term used to describe the simultaneous expiration of stock index futures, stock index options, [[Stock Option|stock option]]s, and single stock futures. It occurs four times a year on the third Friday of March, June, September, and December. This event is significant because it can cause large amounts of volatility in the [[Stock Market|stock market]], as well as large trading volumes.

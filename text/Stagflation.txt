@@ -1,4 +1,4 @@
-<seo title="Stagflation" metakeywords="stagflation effects stagflation,stagflation economic phenomenon,stagflation stagflation caused,stagflation effects" metadescription="Stagflation is an economic phenomenon that occurs when an economy experiences both high inflation and high unemployment at the same time."/>
+<seo title="Stagflation" metakeywords="stagflation effects stagflation,stagflation economic phenomenon,stagflation stagflation caused,stagflation effects" metadescription="Stagflation is an economic phenomenon that occurs when an economy experiences both high inflation and high unemployment at the same time." />
 ===Introduction to Stagflation===
 
 Stagflation is an economic phenomenon that occurs when an economy experiences both high inflation and high unemployment at the same time. This phenomenon is often seen as a sign of economic stagnation, as it indicates that the economy is not growing and is instead stuck in a state of stagnation. Stagflation is a difficult economic situation to address, as it requires both fiscal and [[Monetary Policy|monetary policy]] to be adjusted in order to bring the economy back to a healthy state.

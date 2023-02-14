@@ -1,4 +1,4 @@
-<seo title="Transfer Of Risk" metakeywords="risk transfer involves,risk transfer making,risk transfer different,risk transfer" metadescription="Transfer of risk is a way of managing risk by transferring the potential losses from one party to another."/>
+<seo title="Transfer Of Risk" metakeywords="risk transfer involves,risk transfer making,risk transfer different,risk transfer" metadescription="Transfer of risk is a way of managing risk by transferring the potential losses from one party to another." />
 ===Introduction to Transfer of Risk===
 
 Transfer of risk is a financial concept that involves the transfer of potential losses from one party to another. It is a way of managing risk by transferring the potential losses from one party to another. This can be done through insurance, hedging, or other [[Financial Instrument|financial instrument]]s. Transfer of risk is an important concept in the financial world, as it helps to reduce the potential losses that can occur due to unforeseen events.

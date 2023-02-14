@@ -1,4 +1,4 @@
-<seo title="Qip" metakeywords="securities qip,institutional placement qip,qip qualified institutional,debentures securities qip" metadescription="Qualified Institutional Placement (QIP) is a process used by Indian companies to raise capital from the public."/>
+<seo title="Qip" metakeywords="securities qip,institutional placement qip,qip qualified institutional,debentures securities qip" metadescription="Qualified Institutional Placement (QIP) is a process used by Indian companies to raise capital from the public." />
 ===Introduction to Qip===
 
 Qualified Institutional Placement (QIP) is a process used by Indian companies to raise capital from the public. It is a method of raising funds from the public by issuing equity shares, debentures, or any other securities. QIP is a relatively new concept in India and has been gaining popularity in recent years. It is a cost-effective way for companies to raise capital and is often used by companies that are not listed on the stock exchange.

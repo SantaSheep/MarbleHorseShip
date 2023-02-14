@@ -1,4 +1,4 @@
-<seo title="Skew Ness" metakeywords="skewness skewness measure,skewness measure,skewness important concept,skewness used" metadescription="Skewness is a measure of the asymmetry of a probability distribution."/>
+<seo title="Skew Ness" metakeywords="skewness skewness measure,skewness measure,skewness important concept,skewness used" metadescription="Skewness is a measure of the asymmetry of a probability distribution." />
 ===Introduction to Skewness===
 
 Skewness is a measure of the asymmetry of a [[Probability Distribution|probability distribution]]. It is a measure of the degree to which a distribution is not symmetrical. Skewness is used to describe the shape of a distribution and can be used to identify outliers or extreme values in a dataset. Skewness is an important concept in finance, as it can be used to identify potential risks and opportunities in the markets.

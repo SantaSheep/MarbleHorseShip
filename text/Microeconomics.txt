@@ -1,4 +1,4 @@
-<seo title="Microeconomics" metakeywords="microeconomic theory microeconomic,microeconomic theory study,microeconomic theory,microeconomics" metadescription="Microeconomics is a branch of economics that studies the behavior of individual economic agents, such as households and firms."/>
+<seo title="Microeconomics" metakeywords="microeconomic theory microeconomic,microeconomic theory study,microeconomic theory,microeconomics" metadescription="Microeconomics is a branch of economics that studies the behavior of individual economic agents, such as households and firms." />
 ===Introduction to Microeconomics===
 
 Microeconomics is a branch of economics that studies the behavior of individual economic agents, such as households and firms, and how they interact with each other in markets. It focuses on the decisions of these agents and how they affect the supply and demand of goods and services. Microeconomics is concerned with the allocation of scarce resources among competing uses, and the determination of prices and quantities of goods and services in markets. It is also concerned with the distribution of income and wealth among individuals and households.

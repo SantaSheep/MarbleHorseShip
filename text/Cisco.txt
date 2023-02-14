@@ -1,4 +1,4 @@
-<seo title="Cisco" metakeywords="technology industry cisco,cisco highly profitable,business model cisco,cisco business model" metadescription="Cisco Systems, Inc. is a multinational technology conglomerate headquartered in San Jose, California."/>
+<seo title="Cisco" metakeywords="technology industry cisco,cisco highly profitable,business model cisco,cisco business model" metadescription="Cisco Systems, Inc. is a multinational technology conglomerate headquartered in San Jose, California." />
 ===Introduction to Cisco===
 
 Cisco Systems, Inc. is a multinational technology conglomerate headquartered in San Jose, California. Founded in 1984, Cisco is one of the world’s largest networking equipment manufacturers and is a leader in the development of Internet Protocol (IP)-based networking technologies. Cisco’s products and services are used by businesses, governments, and consumers around the world to build and maintain their networks. Cisco is also a major provider of cloud-based services, such as its WebEx collaboration platform.

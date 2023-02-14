@@ -1,4 +1,4 @@
-<seo title="Income Effect" metakeywords="introduction income effect,income effect economic,income effect,income effect impacts" metadescription="The income effect is an economic concept that describes how changes in income can affect consumer behavior."/>
+<seo title="Income Effect" metakeywords="introduction income effect,income effect economic,income effect,income effect impacts" metadescription="The income effect is an economic concept that describes how changes in income can affect consumer behavior." />
 ===Introduction to the Income Effect===
 
 The income effect is an economic concept that describes how changes in income can affect consumer behavior. It is based on the idea that when a person’s income increases, they will be able to purchase more goods and services. This increased [[Purchasing Power|purchasing power]] can lead to changes in consumer behavior, such as increased spending or saving. The income effect is an important concept in economics, as it can help to explain how changes in income can affect the overall economy.

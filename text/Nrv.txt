@@ -1,4 +1,4 @@
-<seo title="Nrv" metakeywords="nrv used accounting,liabilities uses nrv,concept nrv used,company liquidity nrv" metadescription="Nrv, or Net Realizable Value, is a financial term used to describe the estimated amount of money that a company can expect to receive from the sale of its assets."/>
+<seo title="Nrv" metakeywords="nrv used accounting,liabilities uses nrv,concept nrv used,company liquidity nrv" metadescription="Nrv, or Net Realizable Value, is a financial term used to describe the estimated amount of money that a company can expect to receive from the sale of its assets." />
 ===Introduction to Nrv===
 
 Nrv, or Net Realizable Value, is a financial term used to describe the estimated amount of money that a company can expect to receive from the sale of its assets. It is an important concept in accounting and finance, as it helps to determine the value of a company's assets and liabilities. In this article, we will discuss the definition of Nrv, its history, its uses, and its advantages and disadvantages.

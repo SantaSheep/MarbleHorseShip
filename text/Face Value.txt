@@ -1,4 +1,4 @@
-<seo title="Face Value" metakeywords="facevalue financial term,facevalue important financial,finance facevalue used,finance facevalue" metadescription="Facevalue is the nominal or stated value of a security, such as a bond or stock.It is the amount that the issuer of the security promises to pay the holder at maturity."/>
+<seo title="Face Value" metakeywords="facevalue financial term,facevalue important financial,finance facevalue used,finance facevalue" metadescription="Facevalue is the nominal or stated value of a security, such as a bond or stock.It is the amount that the issuer of the security promises to pay the holder at maturity." />
 ===Introduction to Facevalue===
 
 Facevalue is a financial term that refers to the nominal or stated value of a security, such as a bond or stock. It is also known as [[Par Value|par value]] or par. Facevalue is the amount that the issuer of the security promises to pay the holder at maturity. It is important to note that the facevalue of a security does not necessarily reflect its market value.

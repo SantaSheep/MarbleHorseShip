@@ -1,4 +1,4 @@
-<seo title="Sustainable Growth Rate" metakeywords="sustainable growth rate,growth rate sgr,rate sustainable growth,calculating sustainable growth" metadescription="Sustainable growth rate (SGR) is a measure of the rate at which a company can grow without having to increase its debt or equity financing."/>
+<seo title="Sustainable Growth Rate" metakeywords="sustainable growth rate,growth rate sgr,rate sustainable growth,calculating sustainable growth" metadescription="Sustainable growth rate (SGR) is a measure of the rate at which a company can grow without having to increase its debt or equity financing." />
 ===Introduction to Sustainable Growth Rate===
 
 The sustainable growth rate (SGR) is a measure of the rate at which a company can grow without having to increase its debt or equity financing. It is calculated by taking the company's [[Return On Equity|return on equity]] (ROE) and subtracting the company's dividend payout ratio (DPR). The SGR is an important metric for investors and analysts to consider when evaluating a company's potential for long-term growth.

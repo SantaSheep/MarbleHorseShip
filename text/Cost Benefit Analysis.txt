@@ -1,4 +1,4 @@
-<seo title="Cost Benefit Analysis" metakeywords="cost benefit analysis,benefit analysis cba,evaluating costs benefits,evaluate costs benefits" metadescription="Cost Benefit Analysis (CBA) is a method of evaluating the costs and benefits of a project or decision."/>
+<seo title="Cost Benefit Analysis" metakeywords="cost benefit analysis,benefit analysis cba,evaluating costs benefits,evaluate costs benefits" metadescription="Cost Benefit Analysis (CBA) is a method of evaluating the costs and benefits of a project or decision." />
 ===Introduction to Cost Benefit Analysis===
 
 Cost Benefit Analysis (CBA) is a method of evaluating the costs and benefits of a project or decision. It is a tool used to determine whether a project or decision is worth pursuing or not. CBA is used to compare the costs and benefits of different options and to determine which option is the most cost-effective. It is a quantitative approach to decision-making that helps to identify the most efficient and effective way to achieve a desired outcome.

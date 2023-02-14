@@ -1,4 +1,4 @@
-<seo title="Capital Goods" metakeywords="introduction capital goods,capital goods provide,capital goods affects,capital goods important" metadescription="Capital goods are physical assets used in the production of goods and services.Examples of capital goods include machinery, tools, buildings, and equipment."/>
+<seo title="Capital Goods" metakeywords="introduction capital goods,capital goods provide,capital goods affects,capital goods important" metadescription="Capital goods are physical assets used in the production of goods and services.Examples of capital goods include machinery, tools, buildings, and equipment." />
 ===Introduction to Capital Goods===
 
 Capital goods are physical assets used in the production of goods and services. They are also known as producer goods, industrial goods, or real capital. Capital goods are used to produce other goods and services, and they are not consumed directly. Examples of capital goods include machinery, tools, buildings, and equipment. Capital goods are an important part of the economy, as they are used to produce the goods and services that are consumed by consumers.

@@ -1,4 +1,4 @@
-<seo title="Financial Statement Analysis" metakeywords="analyzing financial statements,financial statement analysis,analysis financial statement,statement analysis financial" metadescription=""/>
+<seo title="Financial Statement Analysis" metakeywords="analyzing financial statements,financial statement analysis,analysis financial statement,statement analysis financial" metadescription="" />
 ===Introduction to Financial Statement Analysis===
 
 Financial statement analysis is the process of analyzing a company’s [[Financial Statements|financial statements]] in order to assess its financial health and performance. Financial statement analysis involves examining a company’s [[Income Statement|income statement]], [[Balance Sheet|balance sheet]], and [[[[Cash Flow|Cash Flow]] Statement|cash flow statement]] in order to gain insight into its financial position and performance. Financial statement analysis can be used to assess a company’s liquidity, solvency, profitability, and efficiency.

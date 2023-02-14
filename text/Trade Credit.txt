@@ -1,4 +1,4 @@
-<seo title="Trade Credit" metakeywords="introduction trade credit,trade credit beneficial,risks trade credit,trade credit type" metadescription="Trade credit is a form of financing that allows businesses to purchase goods and services from suppliers on credit."/>
+<seo title="Trade Credit" metakeywords="introduction trade credit,trade credit beneficial,risks trade credit,trade credit type" metadescription="Trade credit is a form of financing that allows businesses to purchase goods and services from suppliers on credit." />
 ===Introduction to Trade Credit===
 
 Trade credit is a form of financing that allows businesses to purchase goods and services from suppliers on credit. This type of financing is often used by businesses to manage their [[Cash Flow|cash flow]] and to purchase goods and services without having to pay for them upfront. Trade credit is a common form of financing for businesses of all sizes, from small businesses to large corporations.

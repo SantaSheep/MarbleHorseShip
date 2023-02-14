@@ -1,4 +1,4 @@
-<seo title="Net Income" metakeywords="financial performance netincome,netincome operating expenses,costs calculating netincome,netincome financial term" metadescription="Netincome is a financial term that refers to the total amount of money a company or individual earns after all expenses and taxes have been deducted."/>
+<seo title="Net Income" metakeywords="financial performance netincome,netincome operating expenses,costs calculating netincome,netincome financial term" metadescription="Netincome is a financial term that refers to the total amount of money a company or individual earns after all expenses and taxes have been deducted." />
 ===Introduction to Netincome===
 
 Netincome is a financial term that refers to the total amount of money a company or individual earns after all expenses and taxes have been deducted. It is also known as net profit or net earnings and is the most important measure of a company's [[Financial Performance|financial performance]]. Netincome is used to measure the profitability of a business and is a key indicator of its financial health.

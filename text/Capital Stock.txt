@@ -1,4 +1,4 @@
-<seo title="Capital Stock" metakeywords="financing capitalstock important,capitalstock important concept,capitalstock equity,company definition capitalstock" metadescription="Capitalstock is a term used to describe the total amount of money that a company has available to invest in its operations."/>
+<seo title="Capital Stock" metakeywords="financing capitalstock important,capitalstock important concept,capitalstock equity,company definition capitalstock" metadescription="Capitalstock is a term used to describe the total amount of money that a company has available to invest in its operations." />
 ===Introduction to Capitalstock===
 
 Capitalstock is a term used to describe the total amount of money that a company has available to invest in its operations. It is the sum of all the money that has been invested in the company, including equity, debt, and other forms of financing. Capitalstock is an important concept in finance, as it is used to measure the financial health of a company and to determine the amount of risk associated with investing in the company.

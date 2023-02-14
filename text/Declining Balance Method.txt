@@ -1,4 +1,4 @@
-<seo title="Declining Balance Method" metakeywords="method calculating depreciation,declining balance method,disadvantages declining balance,using declining balance" metadescription="The declining balance method is a method of calculating depreciation for an asset."/>
+<seo title="Declining Balance Method" metakeywords="method calculating depreciation,declining balance method,disadvantages declining balance,using declining balance" metadescription="The declining balance method is a method of calculating depreciation for an asset." />
 ===Introduction to Declining Balance Method===
 
 The declining balance method is a method of calculating depreciation for an asset. It is a type of [[Accelerated Depreciation|accelerated depreciation]], meaning that the depreciation expense is higher in the early years of the asset’s life and decreases over time. This method is used to reflect the fact that an asset’s value decreases more rapidly in the early years of its life than in the later years. The declining balance method is used to calculate the depreciation expense for an asset over its [[Useful Life|useful life]].

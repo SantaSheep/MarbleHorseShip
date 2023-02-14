@@ -1,4 +1,4 @@
-<seo title="Value Engineering" metakeywords="definition value engineering,value engineering used,introduction value engineering,value engineering help" metadescription="Value engineering is a systematic approach to improving the value of products, services, and processes."/>
+<seo title="Value Engineering" metakeywords="definition value engineering,value engineering used,introduction value engineering,value engineering help" metadescription="Value engineering is a systematic approach to improving the value of products, services, and processes." />
 ===Introduction to Value Engineering===
 
 Value engineering is a systematic approach to improving the value of products, services, and processes. It is a process of analyzing the cost of a product or service and determining ways to reduce the cost without sacrificing quality or performance. Value engineering is used to identify and eliminate unnecessary costs and to improve the overall value of a product or service. It is a cost-saving technique that can be used to reduce costs while maintaining quality and performance.

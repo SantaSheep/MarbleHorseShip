@@ -1,4 +1,4 @@
-<seo title="Net Debt" metakeywords="debt netdebt measure,netdebt financial term,total debt netdebt,debt conclusion netdebt" metadescription="Netdebt is a financial term used to describe the total amount of debt a company has after subtracting its cash and cash equivalents."/>
+<seo title="Net Debt" metakeywords="debt netdebt measure,netdebt financial term,total debt netdebt,debt conclusion netdebt" metadescription="Netdebt is a financial term used to describe the total amount of debt a company has after subtracting its cash and cash equivalents." />
 ===Introduction to Netdebt===
 
 Netdebt is a financial term used to describe the total amount of debt a company has after subtracting its [[Cash And Cash Equivalents|cash and cash equivalents]]. It is a measure of a company’s financial health and is used to assess the company’s ability to pay off its debt. Netdebt is an important metric for investors and creditors to consider when evaluating a company’s financial position.

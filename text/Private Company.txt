@@ -1,4 +1,4 @@
-<seo title="Private Company" metakeywords="private companies disadvantages,private companies advantages,disadvantages private companies,private companies advantage" metadescription="A private company is a business entity that is owned by a small group of individuals."/>
+<seo title="Private Company" metakeywords="private companies disadvantages,private companies advantages,disadvantages private companies,private companies advantage" metadescription="A private company is a business entity that is owned by a small group of individuals." />
 ===Introduction to Private Company===
 
 A private company is a type of business entity that is owned by a small group of individuals, usually family members or close friends. Private companies are not publicly traded and are not required to disclose financial information to the public. Private companies are typically smaller than public companies and are often closely held by a small group of shareholders. Private companies are not subject to the same regulations as public companies, which can provide them with greater flexibility in their operations.

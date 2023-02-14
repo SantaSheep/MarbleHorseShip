@@ -1,4 +1,4 @@
-<seo title="Affiliate Marketing" metakeywords="affiliate marketing efforts,introduction affiliate marketing,successful affiliate marketing,marketing affiliate marketing" metadescription=""/>
+<seo title="Affiliate Marketing" metakeywords="affiliate marketing efforts,introduction affiliate marketing,successful affiliate marketing,marketing affiliate marketing" metadescription="" />
 ===Introduction to Affiliate Marketing===
 
 Affiliate marketing is a type of performance-based marketing in which a business rewards one or more affiliates for each visitor or customer brought by the affiliate's own marketing efforts. Affiliates are typically independent contractors who promote the products or services of a business in exchange for a commission on the sales they generate. Affiliate marketing is a popular way to monetize websites, blogs, and [[Social Media|social media]] accounts.

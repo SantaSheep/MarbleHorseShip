@@ -1,4 +1,4 @@
-<seo title="Probate" metakeywords="probate formal process,probate process used,process probate,probate process" metadescription="Probate is the legal process of administering the estate of a deceased person."/>
+<seo title="Probate" metakeywords="probate formal process,probate process used,process probate,probate process" metadescription="Probate is the legal process of administering the estate of a deceased person." />
 ===Introduction to Probate===
 
 Probate is a legal process that is used to settle the estate of a deceased person. It is a court-supervised process that is used to identify and distribute the assets of the deceased person to their heirs and beneficiaries. Probate is a necessary process that must be completed in order to ensure that the deceased person's assets are distributed according to their wishes.

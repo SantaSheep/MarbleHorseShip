@@ -1,4 +1,4 @@
-<seo title="Duration" metakeywords="duration bond,duration duration bond,risk duration measure,duration measure risk" metadescription=" duration is a measure of the time it takes for a bond's price to return to its original value after a change in interest rates."/>
+<seo title="Duration" metakeywords="duration bond,duration duration bond,risk duration measure,duration measure risk" metadescription=" duration is a measure of the time it takes for a bond's price to return to its original value after a change in interest rates." />
 ===Introduction to Duration===
 
 Duration is a measure of the sensitivity of a bond's price to changes in [[Interest Rate|interest rate]]s. It is a key concept in fixed income investing and is used to measure the risk of a bond portfolio. Duration is a measure of the time it takes for a bond's price to return to its original value after a change in interest rates. It is an important tool for investors to understand the risk of their bond portfolios and to make informed decisions about their investments.

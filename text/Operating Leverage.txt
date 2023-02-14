@@ -1,4 +1,4 @@
-<seo title="Operating Leverage" metakeywords="leverage operating leverage,disadvantages operating leverage,introduction operating leverage,operating leverage" metadescription="Operating leverage is a financial term used to describe the degree to which a company’s operations are leveraged, or financed, by debt."/>
+<seo title="Operating Leverage" metakeywords="leverage operating leverage,disadvantages operating leverage,introduction operating leverage,operating leverage" metadescription="Operating leverage is a financial term used to describe the degree to which a company’s operations are leveraged, or financed, by debt." />
 ===Introduction to Operating Leverage===
 
 Operating leverage is a financial term used to describe the degree to which a company’s operations are leveraged, or financed, by debt. Operating leverage is a measure of how much a company’s profits are affected by changes in its [[Operating Cost|operating cost]]s. It is calculated by dividing a company’s total operating costs by its total sales. The higher the operating leverage, the more sensitive a company’s profits are to changes in its operating costs.

@@ -1,4 +1,4 @@
-<seo title="Free Cash Flow Firm" metakeywords="free cash flow,firm free cash,fcff financial term,cash flow firm" metadescription="Free Cash Flow Firm (FCFF) is a financial term used to describe a company that generates a positive free cash flow."/>
+<seo title="Free Cash Flow Firm" metakeywords="free cash flow,firm free cash,fcff financial term,cash flow firm" metadescription="Free Cash Flow Firm (FCFF) is a financial term used to describe a company that generates a positive free cash flow." />
 ===Introduction to Free Cash Flow Firm===
 
 Free [[Cash Flow|Cash Flow]] Firm (FCFF) is a financial term used to describe a company that generates a positive [[Free Cash Flow|free cash flow]]. Free cash flow is the amount of cash that a company has available after all expenses, including [[Capital Expenditure|capital expenditure]]s, have been paid. It is a measure of a company's financial health and is used to determine the value of a company. FCFF is an important concept for investors and analysts to understand when evaluating a company's [[Financial Performance|financial performance]].

@@ -1,4 +1,4 @@
-<seo title="Non Performing Assets" metakeywords="non performing assets,performing assets loans,unsecured npas loans,assets npas loans" metadescription="Non-performing assets (NPAs) are loans or advances that have been classified by a lender or creditor as unlikely to be repaid in full."/>
+<seo title="Non Performing Assets" metakeywords="non performing assets,performing assets loans,unsecured npas loans,assets npas loans" metadescription="Non-performing assets (NPAs) are loans or advances that have been classified by a lender or creditor as unlikely to be repaid in full." />
 ===Introduction to Non Performing Assets===
 
 Non-performing assets (NPAs) are loans or advances that have been classified by a lender or creditor as unlikely to be repaid in full. NPAs are a major concern for lenders and creditors, as they can have a significant impact on a [[Financial Institution|financial institution]]’s profitability and liquidity. As such, lenders and creditors must take steps to manage and reduce their NPAs in order to remain profitable and solvent.

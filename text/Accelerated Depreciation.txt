@@ -1,4 +1,4 @@
-<seo title="Accelerated Depreciation" metakeywords="accelerated depreciation methods,accelerated depreciation method,depreciation accelerated depreciation,accelerated depreciation" metadescription="Accelerated depreciation is a method of accounting for the depreciation of an asset over its useful life."/>
+<seo title="Accelerated Depreciation" metakeywords="accelerated depreciation methods,accelerated depreciation method,depreciation accelerated depreciation,accelerated depreciation" metadescription="Accelerated depreciation is a method of accounting for the depreciation of an asset over its useful life." />
 ===Introduction to Accelerated Depreciation===
 
 Accelerated depreciation is a method of accounting for the depreciation of an asset over its [[Useful Life|useful life]]. It is a way of recognizing the cost of an asset more quickly than traditional methods of depreciation. This method of accounting is used to reduce the amount of [[Taxable Income|taxable income]] reported by a business. Accelerated depreciation is used to reduce the amount of taxes a business pays in the short term, while still recognizing the cost of the asset over its useful life.

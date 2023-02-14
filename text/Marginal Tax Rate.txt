@@ -1,4 +1,4 @@
-<seo title="Marginal Tax Rate" metakeywords="marginal tax rates,concept marginal tax,marginal tax rate,tax rate marginal" metadescription="Marginal tax rate is the rate of taxation applied to an individualâ€™s income or profits."/>
+<seo title="Marginal Tax Rate" metakeywords="marginal tax rates,concept marginal tax,marginal tax rate,tax rate marginal" metadescription="Marginal tax rate is the rate of taxation applied to an individualâ€™s income or profits." />
 ===Introduction to Marginal Tax Rate===
 
 Marginal tax rate is a term used to describe the rate of taxation applied to an individualâ€™s income or profits. It is the rate of tax applied to the last dollar earned by an individual or business. It is important to understand the concept of marginal tax rate in order to make informed decisions about taxes and investments.

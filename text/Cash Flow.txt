@@ -1,4 +1,4 @@
-<seo title="Cash Flow" metakeywords="cashflow management cashflow,cashflow important concept,cashflow term used,cashflow business understanding" metadescription="Cashflow is the difference between the money coming into a business and the money going out."/>
+<seo title="Cash Flow" metakeywords="cashflow management cashflow,cashflow important concept,cashflow term used,cashflow business understanding" metadescription="Cashflow is the difference between the money coming into a business and the money going out." />
 ===Introduction to Cashflow===
 
 Cashflow is a term used to describe the movement of money in and out of a business. It is an important concept in financial management, as it can provide insight into the financial health of a business. Cashflow is the difference between the money coming into a business and the money going out. It is important to understand cashflow in order to make informed decisions about the financial health of a business.

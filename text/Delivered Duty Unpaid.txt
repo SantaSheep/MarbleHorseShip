@@ -1,4 +1,4 @@
-<seo title="Delivered Duty Unpaid" metakeywords="duty unpaid ddu,unpaid delivered duty,importation goods ddu,disadvantages delivered duty" metadescription="Delivered Duty Unpaid (DDU) is a term used in international trade to describe a delivery of goods."/>
+<seo title="Delivered Duty Unpaid" metakeywords="duty unpaid ddu,unpaid delivered duty,importation goods ddu,disadvantages delivered duty" metadescription="Delivered Duty Unpaid (DDU) is a term used in international trade to describe a delivery of goods." />
 ===Introduction to Delivered Duty Unpaid===
 
 Delivered Duty Unpaid (DDU) is a term used in international trade to describe a delivery of goods where the seller is responsible for the cost of transporting the goods to the buyer’s destination, but not for any duties, taxes, or other fees associated with the importation of the goods. DDU is one of the most commonly used terms in international trade, and is often used in conjunction with other terms such as Delivered Duty Paid (DDP) and Free on Board (FOB).

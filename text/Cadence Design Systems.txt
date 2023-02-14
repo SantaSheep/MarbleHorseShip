@@ -1,4 +1,4 @@
-<seo title="Cadence Design Systems" metakeywords="cadence design systems,design systems cadence,systems cadence design,cadence design" metadescription="Cadence Design Systems is a leading provider of electronic design automation (EDA) software and services."/>
+<seo title="Cadence Design Systems" metakeywords="cadence design systems,design systems cadence,systems cadence design,cadence design" metadescription="Cadence Design Systems is a leading provider of electronic design automation (EDA) software and services." />
 ===Introduction to Cadence Design Systems===
 
 Cadence Design Systems is a leading provider of electronic design automation (EDA) software and services. The company was founded in 1988 and is headquartered in San Jose, California. Cadence Design Systems provides a comprehensive suite of software and services for the design, verification, and implementation of integrated circuits (ICs) and systems-on-chip (SoCs). The company’s products and services are used by customers in the semiconductor, consumer electronics, automotive, aerospace, and defense industries.

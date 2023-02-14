@@ -1,4 +1,4 @@
-<seo title="Cash Budget" metakeywords="definition cashbudget,needs definition cashbudget,definition cashbudget cashbudget,cashbudget financial tool" metadescription="Cashbudget is a budgeting technique that helps businesses and individuals to plan and manage their cash flow."/>
+<seo title="Cash Budget" metakeywords="definition cashbudget,needs definition cashbudget,definition cashbudget cashbudget,cashbudget financial tool" metadescription="Cashbudget is a budgeting technique that helps businesses and individuals to plan and manage their cash flow." />
 ===Introduction to Cashbudget===
 
 Cashbudget is a financial tool used to plan and manage [[Cash Flow|cash flow]]. It is a budgeting technique that helps businesses and individuals to plan and manage their cash flow. It is a tool that helps to identify and manage cash inflows and outflows, and to ensure that the cash flow is sufficient to meet the needs of the business or individual. Cashbudget is an important tool for businesses and individuals to ensure that their cash flow is sufficient to meet their needs.

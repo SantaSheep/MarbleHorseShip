@@ -1,4 +1,4 @@
-<seo title="Net Operating Loss" metakeywords="net operating loss,net operating losses,operating loss nol,loss nol defined" metadescription="Net Operating Loss (NOL) is a term used in accounting and finance to describe a situation in which a company’s operating expenses exceed its operating income."/>
+<seo title="Net Operating Loss" metakeywords="net operating loss,net operating losses,operating loss nol,loss nol defined" metadescription="Net Operating Loss (NOL) is a term used in accounting and finance to describe a situation in which a company’s operating expenses exceed its operating income." />
 ===Introduction to Net Operating Loss===
 
 Net [[Operating Loss|Operating Loss]] (NOL) is a term used in accounting and finance to describe a situation in which a company’s operating expenses exceed its [[Operating Income|operating income]]. This can occur when a company’s sales are lower than expected, or when its costs are higher than expected. In such cases, the company’s net operating loss is the difference between its operating income and its operating expenses. NOLs can be used to reduce a company’s tax liability, and can be carried forward to future years.

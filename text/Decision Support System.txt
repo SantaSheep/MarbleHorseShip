@@ -1,4 +1,4 @@
-<seo title="Decision Support System" metakeywords="decision support systems,decision support dss,systems decision support,decision making dsss" metadescription="A Decision Support System (DSS) is a computer-based system that assists decision makers in making decisions."/>
+<seo title="Decision Support System" metakeywords="decision support systems,decision support dss,systems decision support,decision making dsss" metadescription="A Decision Support System (DSS) is a computer-based system that assists decision makers in making decisions." />
 ===Introduction to Decision Support System===
 
 A Decision Support System (DSS) is a computer-based system that assists decision makers in making decisions. It is a tool that helps to analyze data and present it in a way that is easy to understand and interpret. DSSs are used in a variety of industries, including finance, healthcare, and government. They are designed to provide decision makers with the information they need to make informed decisions.

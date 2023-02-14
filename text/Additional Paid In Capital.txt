@@ -1,4 +1,4 @@
-<seo title="Additional Paid In Capital" metakeywords="additional paid capital,paid capital additional,paid capital provides,capital additional paid" metadescription="Additional paid-in capital is a financial term used to describe the amount of money that a company has received from investors in exchange for stock."/>
+<seo title="Additional Paid In Capital" metakeywords="additional paid capital,paid capital additional,paid capital provides,capital additional paid" metadescription="Additional paid-in capital is a financial term used to describe the amount of money that a company has received from investors in exchange for stock." />
 ===Introduction to Additional Paid-in Capital===
 
 Additional paid-in capital is a financial term used to describe the amount of money that a company has received from investors in exchange for stock. This money is not considered to be part of the company’s [[Retained Earnings|retained earnings]], and is instead recorded as a separate line item on the company’s [[Balance Sheet|balance sheet]]. Additional paid-in capital is also known as “[[Contributed Capital|contributed capital]]” or “capital surplus”.

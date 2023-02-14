@@ -1,4 +1,4 @@
-<seo title="Activity Ratio" metakeywords="activity ratio financial,activity ratio means,ratios activity ratios,activity ratio used" metadescription="Activity ratio is a financial metric used to measure the efficiency of a company’s operations.Activity ratio is also known as turnover ratio or asset turnover ratio."/>
+<seo title="Activity Ratio" metakeywords="activity ratio financial,activity ratio means,ratios activity ratios,activity ratio used" metadescription="Activity ratio is a financial metric used to measure the efficiency of a company’s operations.Activity ratio is also known as turnover ratio or asset turnover ratio." />
 ===Introduction to Activity Ratio===
 
 Activity ratio is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing a company’s total assets by its total sales. Activity ratio is used to measure the efficiency of a company’s operations and to compare the performance of different companies in the same industry. Activity ratio is also known as turnover ratio or [[Asset Turnover|asset turnover]] ratio.

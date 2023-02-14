@@ -1,4 +1,4 @@
-<seo title="Trust" metakeywords="administering trust trusts,different types trusts,types trusts purpose,trusts charitable trusts" metadescription="A trust is a legal arrangement in which one or more persons, known as trustees, hold legal title to property."/>
+<seo title="Trust" metakeywords="administering trust trusts,different types trusts,types trusts purpose,trusts charitable trusts" metadescription="A trust is a legal arrangement in which one or more persons, known as trustees, hold legal title to property." />
 ===Introduction to Trust===
 
 A trust is a legal arrangement in which one or more persons, known as trustees, hold legal title to property for the benefit of one or more persons, known as beneficiaries. Trusts are created for a variety of reasons, including estate planning, asset protection, and tax planning. Trusts can be used to manage assets, provide for the care of dependents, and provide for the distribution of assets upon death.

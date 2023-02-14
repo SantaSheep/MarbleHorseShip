@@ -1,4 +1,4 @@
-<seo title="Technical Analysis" metakeywords="technical analysis method,market technical analysis,securities technical analysis,technical analysis" metadescription="Technical analysis is a form of market analysis that uses charts and other tools to identify patterns and trends in the market."/>
+<seo title="Technical Analysis" metakeywords="technical analysis method,market technical analysis,securities technical analysis,technical analysis" metadescription="Technical analysis is a form of market analysis that uses charts and other tools to identify patterns and trends in the market." />
 ===Introduction to Technical Analysis===
 
 Technical analysis is a method of analyzing [[Financial Market|financial market]]s and securities by studying past price movements and trading volume. It is a form of market analysis that uses charts and other tools to identify patterns and trends in the market. Technical analysis is used by traders and investors to make decisions about when to buy and sell securities. Technical analysis is based on the idea that prices move in trends and that past price movements can be used to predict future price movements.

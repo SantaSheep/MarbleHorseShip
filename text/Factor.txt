@@ -1,4 +1,4 @@
-<seo title="Factor" metakeywords="asset factors risk,factors risk management,factors investment strategies,investment types factors" metadescription="Factor is a term used in finance to describe a measure of risk associated with a particular investment."/>
+<seo title="Factor" metakeywords="asset factors risk,factors risk management,factors investment strategies,investment types factors" metadescription="Factor is a term used in finance to describe a measure of risk associated with a particular investment." />
 ===Introduction to Factor===
 
 Factor is a term used in finance to describe a measure of risk associated with a particular investment. It is used to assess the potential return of an investment and to determine the amount of risk associated with it. Factors are used to evaluate the performance of a portfolio or an individual security. Factors can be used to identify potential opportunities and to assess the risk associated with a particular investment.

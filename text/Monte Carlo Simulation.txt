@@ -1,4 +1,4 @@
-<seo title="Monte Carlo Simulation" metakeywords="monte carlo simulation,simulation monte carlo,carlo simulation disadvantages,carlo simulation advantages" metadescription="Monte Carlo simulation is a mathematical technique used to model and analyze the behavior of complex systems."/>
+<seo title="Monte Carlo Simulation" metakeywords="monte carlo simulation,simulation monte carlo,carlo simulation disadvantages,carlo simulation advantages" metadescription="Monte Carlo simulation is a mathematical technique used to model and analyze the behavior of complex systems." />
 ===Introduction to Monte Carlo Simulation===
 
 Monte Carlo simulation is a mathematical technique used to model and analyze the behavior of complex systems. It is a computer-based method of simulating a system's behavior by randomly generating a large number of possible outcomes and then analyzing the results. Monte Carlo simulation is used in a variety of fields, including finance, engineering, and economics.

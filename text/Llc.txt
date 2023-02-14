@@ -1,4 +1,4 @@
-<seo title="Llc" metakeywords="llcs advantages disadvantages,formation llcs,llcs different types,choose llc" metadescription="A limited liability company (LLC) is a business structure that combines the limited liability of a corporation with the flexibility and pass-through taxation of a partnership."/>
+<seo title="Llc" metakeywords="llcs advantages disadvantages,formation llcs,llcs different types,choose llc" metadescription="A limited liability company (LLC) is a business structure that combines the limited liability of a corporation with the flexibility and pass-through taxation of a partnership." />
 ===Introduction to LLC===
 
 A limited liability company (LLC) is a business structure that combines the limited liability of a corporation with the flexibility and pass-through taxation of a partnership. LLCs are popular among small business owners because they provide the same limited liability protection as a corporation, but with fewer formalities and paperwork. LLCs are also attractive to investors because they offer the potential for tax savings.

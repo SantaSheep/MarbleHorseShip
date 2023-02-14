@@ -1,4 +1,4 @@
-<seo title="Simple Random Sample" metakeywords="simple random sample,random sample study,random sample simple,sample definition simple" metadescription="Simple random sampling is a sampling method used in statistical analysis."/>
+<seo title="Simple Random Sample" metakeywords="simple random sample,random sample study,random sample simple,sample definition simple" metadescription="Simple random sampling is a sampling method used in statistical analysis." />
 ===Introduction to Simple Random Sample===
 
 A simple random sample is a type of sampling method used in statistical analysis. It is a method of selecting a subset of individuals from a larger population in order to study the characteristics of the population as a whole. This type of sampling is used in a variety of fields, including economics, sociology, psychology, and marketing. The goal of a simple random sample is to ensure that each individual in the population has an equal chance of being selected for the sample.

@@ -1,4 +1,4 @@
-<seo title="Ter" metakeywords="expense ratio ter,ter total expense,ter fund calculated,ter includes costs" metadescription=""/>
+<seo title="Ter" metakeywords="expense ratio ter,ter total expense,ter fund calculated,ter includes costs" metadescription="" />
 ===Introduction to TER===
 
 TER, or Total [[Expense Ratio|Expense Ratio]], is a measure of the total costs associated with investing in a [[Mutual Fund|mutual fund]] or exchange-traded fund (ETF). It is expressed as a percentage of the fund’s total assets and is used to compare the costs of different funds. The TER is an important factor to consider when selecting a fund, as it can have a significant impact on the performance of the fund over time.

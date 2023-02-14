@@ -1,4 +1,4 @@
-<seo title="Non Operating Expense" metakeywords="non operating expense,non operating expenses,expense non operating,expenses non operating" metadescription="Non operating expenses are costs incurred by a business that are not related to the core operations of the business."/>
+<seo title="Non Operating Expense" metakeywords="non operating expense,non operating expenses,expense non operating,expenses non operating" metadescription="Non operating expenses are costs incurred by a business that are not related to the core operations of the business." />
 ===Introduction to Non Operating Expense===
 
 Non operating expenses are costs incurred by a business that are not related to the core operations of the business. These expenses are typically one-time or infrequent costs that are not part of the normal day-to-day operations of the business. Non operating expenses can include costs such as legal fees, restructuring costs, and other non-recurring costs. Non operating expenses are important to consider when analyzing a company’s [[Financial Statements|financial statements]], as they can have a significant impact on the company’s profitability.

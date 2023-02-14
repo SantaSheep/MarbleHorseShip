@@ -1,4 +1,4 @@
-<seo title="Boston Scientific" metakeywords="medical device companies,boston scientific products,medical device company,devices use cardiology" metadescription="Boston Scientific is a global medical device company that develops, manufactures, and markets innovative medical devices and services."/>
+<seo title="Boston Scientific" metakeywords="medical device companies,boston scientific products,medical device company,devices use cardiology" metadescription="Boston Scientific is a global medical device company that develops, manufactures, and markets innovative medical devices and services." />
 ===Introduction to Boston Scientific===
 
 Boston Scientific is a global medical device company that develops, manufactures, and markets innovative medical devices and services. Founded in 1979, the company has grown to become one of the world’s leading medical device companies, with operations in more than 100 countries and over 30,000 employees. Boston Scientific is dedicated to transforming lives through innovative medical solutions that improve the health of patients around the world.

@@ -1,4 +1,4 @@
-<seo title="Billing Cycle" metakeywords="generally billing cycles,billing cycles used,billing cycle typically,billing cycles" metadescription="A billing cycle is a period of time in which a customer is billed for goods or services."/>
+<seo title="Billing Cycle" metakeywords="generally billing cycles,billing cycles used,billing cycle typically,billing cycles" metadescription="A billing cycle is a period of time in which a customer is billed for goods or services." />
 ===Introduction to Billing Cycle===
 
 A billing cycle is a period of time in which a customer is billed for goods or services. It is the time between the start of a billing period and the end of the same period. The length of a billing cycle can vary depending on the type of service or product being billed for. Generally, billing cycles are set up to coincide with the customerâ€™s payment schedule. For example, a customer may be billed every month, every quarter, or every year.

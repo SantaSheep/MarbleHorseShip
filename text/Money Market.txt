@@ -1,4 +1,4 @@
-<seo title="Money Market" metakeywords="moneymarket instruments typically,risk moneymarket instruments,moneymarket investments subject,debt instruments moneymarket" metadescription="Moneymarket is a financial market that deals with short-term borrowing and lending of funds."/>
+<seo title="Money Market" metakeywords="moneymarket instruments typically,risk moneymarket instruments,moneymarket investments subject,debt instruments moneymarket" metadescription="Moneymarket is a financial market that deals with short-term borrowing and lending of funds." />
 ===Introduction to Moneymarket===
 
 Moneymarket is a [[Financial Market|financial market]] that deals with short-term borrowing and lending of funds. It is a segment of the [[Financial System|financial system]] that provides liquidity to the economy by allowing investors to borrow and lend money for short-term periods. Moneymarket instruments are typically used by investors to manage their [[Cash Flow|cash flow]] and to hedge against [[Interest Rate|interest rate]] risk. Moneymarket instruments are also used by governments and corporations to raise short-term capital.

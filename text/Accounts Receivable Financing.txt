@@ -1,4 +1,4 @@
-<seo title="Accounts Receivable Financing" metakeywords="accounts receivable financing,invoices type financing,invoice financing,invoice financing type" metadescription="Accounts receivable financing is a type of financing that allows businesses to access cash from their unpaid invoices."/>
+<seo title="Accounts Receivable Financing" metakeywords="accounts receivable financing,invoices type financing,invoice financing,invoice financing type" metadescription="Accounts receivable financing is a type of financing that allows businesses to access cash from their unpaid invoices." />
 ===Introduction to Accounts Receivable Financing===
 
 [[Accounts Receivable|Accounts receivable]] financing, also known as invoice financing, is a type of financing that allows businesses to access cash from their unpaid invoices. This type of financing is a great option for businesses that need to access cash quickly and don’t have the time or resources to wait for customers to pay their invoices. Accounts receivable financing is a great way for businesses to bridge the gap between when they need cash and when their customers pay their invoices.

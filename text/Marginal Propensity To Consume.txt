@@ -1,4 +1,4 @@
-<seo title="Marginal Propensity To Consume" metakeywords="marginal propensity consume,propensity consume marginal,consumer spending mpc,propensity consume economic" metadescription="Marginal propensity to consume (MPC) is an economic term that measures the proportion of an individual’s additional income that is spent on consumption."/>
+<seo title="Marginal Propensity To Consume" metakeywords="marginal propensity consume,propensity consume marginal,consumer spending mpc,propensity consume economic" metadescription="Marginal propensity to consume (MPC) is an economic term that measures the proportion of an individual’s additional income that is spent on consumption." />
 ===Introduction to Marginal Propensity to Consume===
 
 Marginal propensity to consume (MPC) is an economic term that measures the proportion of an individual’s additional income that is spent on consumption. It is a key indicator of consumer behavior and is used to measure the impact of changes in income on consumer spending. MPC is an important concept in macroeconomics, as it helps to explain how changes in income affect the overall economy.

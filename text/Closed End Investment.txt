@@ -1,4 +1,4 @@
-<seo title="Closed End Investment" metakeywords="closed end investments,closed end investment,end investments typically,end investments type" metadescription="Closed end investments are a type of investment that is not actively traded on the stock market."/>
+<seo title="Closed End Investment" metakeywords="closed end investments,closed end investment,end investments typically,end investments type" metadescription="Closed end investments are a type of investment that is not actively traded on the stock market." />
 ===Introduction to Closed End Investment===
 
 Closed end investment is a type of investment that is not actively traded on the [[Stock Market|stock market]]. Instead, it is a type of investment that is sold in a fixed number of shares and is not subject to the fluctuations of the stock market. Closed end investments are typically managed by a professional fund manager who is responsible for selecting the investments and managing the portfolio. The fund manager is also responsible for setting the price of the shares and ensuring that the fund is properly diversified.

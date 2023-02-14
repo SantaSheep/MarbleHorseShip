@@ -1,4 +1,4 @@
-<seo title="Operating Loss" metakeywords="operating loss term,operating loss,introduction operating loss,operating loss situation" metadescription="Operating loss is a term used to describe a situation in which a company’s operating expenses exceed its operating income."/>
+<seo title="Operating Loss" metakeywords="operating loss term,operating loss,introduction operating loss,operating loss situation" metadescription="Operating loss is a term used to describe a situation in which a company’s operating expenses exceed its operating income." />
 ===Introduction to Operating Loss===
 
 Operating loss is a term used to describe a situation in which a company’s operating expenses exceed its [[Operating Income|operating income]]. This can occur when a company’s sales are not sufficient to cover its costs of production, or when a company’s expenses are too high relative to its sales. Operating loss can have a significant impact on a company’s [[Financial Performance|financial performance]] and can lead to financial distress if not addressed.

@@ -1,4 +1,4 @@
-<seo title="Current Assets" metakeywords="current assets typically,current assets important,current assets difficult,assets current assets" metadescription="Current assets are assets that are expected to be converted into cash or used up within one year."/>
+<seo title="Current Assets" metakeywords="current assets typically,current assets important,current assets difficult,assets current assets" metadescription="Current assets are assets that are expected to be converted into cash or used up within one year." />
 ===Introduction to Current Assets===
 
 Current assets are assets that are expected to be converted into cash or used up within one year. They are also known as short-term assets and are typically used to fund day-to-day operations. Current assets are important for businesses because they provide liquidity and help to ensure that the business can meet its short-term obligations.

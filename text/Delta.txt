@@ -1,4 +1,4 @@
-<seo title="Delta" metakeywords="option position delta,delta defined,delta option calculated,delta delta defined" metadescription="Delta is a financial term that is used to measure the rate of change in the price of an option or other derivative security."/>
+<seo title="Delta" metakeywords="option position delta,delta defined,delta option calculated,delta delta defined" metadescription="Delta is a financial term that is used to measure the rate of change in the price of an option or other derivative security." />
 ===Introduction to Delta===
 
 Delta is a financial term that is used to measure the rate of change in the price of an option or other derivative security. It is a measure of the sensitivity of the option's price to changes in the underlying asset's price. Delta is an important concept in options trading, as it helps traders to understand how changes in the underlying asset's price will affect the option's price. Delta is also used to measure the risk associated with an option position, as it can be used to calculate the potential profit or loss from a given position.

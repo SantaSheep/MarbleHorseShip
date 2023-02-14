@@ -1,4 +1,4 @@
-<seo title="J It Ter" metakeywords="jitter defined,jitter term used,jitter important concept,jitter term" metadescription="Jitter is a term used in the financial world to describe the variability of a financial instrument's price over time."/>
+<seo title="J It Ter" metakeywords="jitter defined,jitter term used,jitter important concept,jitter term" metadescription="Jitter is a term used in the financial world to describe the variability of a financial instrument's price over time." />
 ===Introduction to Jitter===
 
 Jitter is a term used in the financial world to describe the variability of a [[Financial Instrument|financial instrument]]'s price over time. It is a measure of the volatility of a financial instrument and is often used to assess the risk associated with investing in a particular asset. Jitter can be used to measure the risk of a portfolio or to compare the performance of different investments. Jitter is an important concept for investors to understand, as it can help them make informed decisions about their investments.

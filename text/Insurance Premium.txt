@@ -1,4 +1,4 @@
-<seo title="Insurance Premium" metakeywords="insurance premiums factors,insurance premiums based,insurance premium determined,calculate insurance premiums" metadescription="Insurance premiums are used to cover the cost of providing insurance coverage."/>
+<seo title="Insurance Premium" metakeywords="insurance premiums factors,insurance premiums based,insurance premium determined,calculate insurance premiums" metadescription="Insurance premiums are used to cover the cost of providing insurance coverage." />
 ===Introduction to Insurance Premium===
 
 Insurance premium is the amount of money that an individual or business pays to an insurance company for an insurance policy. It is the price of the insurance policy and is usually paid on a regular basis, such as monthly or annually. Insurance premiums are used to cover the cost of providing insurance coverage, including the cost of claims and [[Administrative Expenses|administrative expenses]]. Insurance premiums are typically based on the risk associated with the policyholder, such as their age, health, and driving record.

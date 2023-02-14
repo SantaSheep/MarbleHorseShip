@@ -1,4 +1,4 @@
-<seo title="Bond Valuation" metakeywords="introduction bond valuation,bond valuation used,bond valuation process,bond valuation factors" metadescription="Bond valuation is a financial analysis technique used to determine the present value of a bond."/>
+<seo title="Bond Valuation" metakeywords="introduction bond valuation,bond valuation used,bond valuation process,bond valuation factors" metadescription="Bond valuation is a financial analysis technique used to determine the present value of a bond." />
 ===Introduction to Bond Valuation===
 
 Bond valuation is the process of determining the [[Fair Value|fair value]] of a bond. It is a [[Financial Analysis|financial analysis]] technique used to determine the [[Present Value|present value]] of a bond, taking into account the bond’s [[Face Value|face value]], coupon rate, maturity date, and other factors. Bond valuation is important for investors, as it helps them to determine the potential return on their investment. Bond valuation is also used by companies to determine the cost of issuing bonds and to assess the risk associated with investing in bonds.

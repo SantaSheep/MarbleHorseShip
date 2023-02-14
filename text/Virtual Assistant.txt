@@ -1,4 +1,4 @@
-<seo title="Virtual Assistant" metakeywords="virtual assistant businesses,virtual assistants provide,virtual assistant va,virtual assistant services" metadescription="A virtual assistant (VA) is a professional who provides administrative, technical, or creative assistance to clients remotely."/>
+<seo title="Virtual Assistant" metakeywords="virtual assistant businesses,virtual assistants provide,virtual assistant va,virtual assistant services" metadescription="A virtual assistant (VA) is a professional who provides administrative, technical, or creative assistance to clients remotely." />
 ===Introduction to Virtual Assistant===
 
 A virtual assistant (VA) is a professional who provides administrative, technical, or creative assistance to clients remotely. VAs are typically self-employed and work from home or a remote office. They are often hired by businesses to help with tasks such as [[Customer Service|customer service]], data entry, bookkeeping, research, and other administrative tasks. VAs are also used by individuals to help with tasks such as scheduling appointments, managing [[Social Media|social media]] accounts, and other personal tasks.

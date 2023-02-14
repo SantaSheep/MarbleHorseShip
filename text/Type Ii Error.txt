@@ -1,4 +1,4 @@
-<seo title="Type Ii Error" metakeywords="type error significant,type error statistical,type error probability,type error strategy" metadescription="Type  Error is a statistical concept that is used to describe the probability of incorrectly rejecting a true null hypothesis."/>
+<seo title="Type Ii Error" metakeywords="type error significant,type error statistical,type error probability,type error strategy" metadescription="Type  Error is a statistical concept that is used to describe the probability of incorrectly rejecting a true null hypothesis." />
 ===Introduction to Type  Error===
 
 Type  Error is a statistical concept that is used to describe the probability of incorrectly rejecting a true [[Null Hypothesis|null hypothesis]]. It is also known as a false negative, and is the opposite of a Type  Error, which is a false positive. Type  Error is an important concept in the field of finance, as it can have a significant impact on the accuracy of financial decisions.

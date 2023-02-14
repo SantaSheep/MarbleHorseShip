@@ -1,4 +1,4 @@
-<seo title="Stock Market" metakeywords="introduction stockmarket,introduction stockmarket stock,investing stock market,markets stocks" metadescription="The stock market is a financial market where stocks, bonds, and other securities are bought and sold."/>
+<seo title="Stock Market" metakeywords="introduction stockmarket,introduction stockmarket stock,investing stock market,markets stocks" metadescription="The stock market is a financial market where stocks, bonds, and other securities are bought and sold." />
 ===Introduction to Stockmarket===
 
 The stock market is a [[Financial Market|financial market]] where stocks, bonds, and other securities are bought and sold. It is a place where investors can buy and sell shares of publicly traded companies. The stock market is a key component of the global economy, as it provides a platform for companies to raise capital and for investors to buy and sell shares of those companies. The stock market is also a source of liquidity for investors, as it allows them to quickly and easily buy and sell shares of companies.

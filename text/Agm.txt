@@ -1,4 +1,4 @@
-<seo title="Agm" metakeywords="agm meeting shareholders,general meeting agm,agm shareholders,meeting agm meeting" metadescription="Annual General Meetings (AGMs) are an important part of corporate governance."/>
+<seo title="Agm" metakeywords="agm meeting shareholders,general meeting agm,agm shareholders,meeting agm meeting" metadescription="Annual General Meetings (AGMs) are an important part of corporate governance." />
 ===Introduction to AGM===
 
 An Annual General Meeting (AGM) is a meeting of shareholders of a company or other organization, typically held once a year. At the AGM, shareholders are given the opportunity to vote on important matters such as the election of directors, the approval of [[Financial Statements|financial statements]], and the appointment of auditors. The AGM is also a forum for shareholders to ask questions and receive answers from the [[Board Of Directors|board of directors]].

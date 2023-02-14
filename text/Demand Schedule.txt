@@ -1,4 +1,4 @@
-<seo title="Demand Schedule" metakeywords="demand schedule factors,demand schedules demand,demand schedules,demand schedules used" metadescription="Demand Schedule is a graphical representation of the relationship between price and quantity demanded."/>
+<seo title="Demand Schedule" metakeywords="demand schedule factors,demand schedules demand,demand schedules,demand schedules used" metadescription="Demand Schedule is a graphical representation of the relationship between price and quantity demanded." />
 ===Introduction to Demand Schedule===
 
 Demand Schedule is a tool used by economists to analyze the relationship between the price of a good or service and the quantity of that good or service that consumers are willing and able to purchase. It is a graphical representation of the relationship between price and quantity demanded, and is used to predict how changes in price will affect the quantity of a good or service that consumers are willing to purchase. Demand Schedules are used to analyze the demand for a good or service, and to determine the optimal price for a good or service.

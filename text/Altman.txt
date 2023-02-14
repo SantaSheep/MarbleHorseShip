@@ -1,4 +1,4 @@
-<seo title="Altman" metakeywords="altman financial metric,company altman score,altman score useful,altman score developed" metadescription="Altman is a financial metric used to measure the financial health of a company.It was developed by Edward  Altman in 1968."/>
+<seo title="Altman" metakeywords="altman financial metric,company altman score,altman score useful,altman score developed" metadescription="Altman is a financial metric used to measure the financial health of a company.It was developed by Edward  Altman in 1968." />
 ===Introduction to Altman===
 
 Altman is a financial metric used to measure the financial health of a company. It was developed by Edward  Altman in 1968 and is used to assess the probability of a company going bankrupt. The Altman Z-score is a combination of five financial ratios that measure a company’s liquidity, profitability, leverage, and activity. It is used to determine the likelihood of a company defaulting on its debt obligations.

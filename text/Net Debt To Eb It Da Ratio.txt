@@ -1,4 +1,4 @@
-<seo title="Net Debt To Eb It Da Ratio" metakeywords="debt ebitda ratio,net debt ebitda,debt ebitda formula,total debt ebitda" metadescription="The Net Debt To Ebitda Ratio is used to assess a company’s ability to pay off its debt obligations."/>
+<seo title="Net Debt To Eb It Da Ratio" metakeywords="debt ebitda ratio,net debt ebitda,debt ebitda formula,total debt ebitda" metadescription="The Net Debt To Ebitda Ratio is used to assess a company’s ability to pay off its debt obligations." />
 ===Introduction to Net Debt To Ebitda Ratio===
 
 The [[Net Debt|Net Debt]] To Ebitda Ratio is a financial ratio used to measure a company’s financial health. It is calculated by dividing a company’s total debt by its Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA). This ratio is used to assess a company’s ability to pay off its debt obligations and is an important indicator of a company’s financial health.

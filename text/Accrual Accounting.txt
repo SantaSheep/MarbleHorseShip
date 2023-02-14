@@ -1,4 +1,4 @@
-<seo title="Accrual Accounting" metakeywords="disadvantages accrual accounting,advantages accrual accounting,accrual accounting advantages,disadvantage accrual accounting" metadescription="Accrual accounting records economic events as they occur, regardless of when cash is exchanged."/>
+<seo title="Accrual Accounting" metakeywords="disadvantages accrual accounting,advantages accrual accounting,accrual accounting advantages,disadvantage accrual accounting" metadescription="Accrual accounting records economic events as they occur, regardless of when cash is exchanged." />
 ===Introduction to Accrual Accounting===
 
 Accrual accounting is an [[Accounting Method|accounting method]] that records economic events as they occur, regardless of when cash is exchanged. This method of accounting is used to match revenues and expenses to the period in which they were incurred, rather than when they were paid or received. Accrual accounting is the most commonly used accounting method in the United States and is required for companies that are publicly traded.

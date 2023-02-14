@@ -1,4 +1,4 @@
-<seo title="Corp Social Responsibility" metakeywords="social responsibility csr,benefits implementing csr,csr practices business,csr concept" metadescription="Corporate Social Responsibility (CSR) is a concept that has been gaining traction in the business world in recent years."/>
+<seo title="Corp Social Responsibility" metakeywords="social responsibility csr,benefits implementing csr,csr practices business,csr concept" metadescription="Corporate Social Responsibility (CSR) is a concept that has been gaining traction in the business world in recent years." />
 ===Introduction to Corporate Social Responsibility===
 
 Corporate [[Social Responsibility|Social Responsibility]] (CSR) is a concept that has been gaining traction in the business world in recent years. It is a concept that encourages businesses to take responsibility for their actions and to consider the social and environmental impacts of their decisions. CSR is a way for businesses to demonstrate their commitment to ethical and sustainable practices, and to show that they are taking steps to improve the world around them.

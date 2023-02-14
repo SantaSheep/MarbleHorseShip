@@ -1,4 +1,4 @@
-<seo title="Tender" metakeywords="tender process typically,process tender process,tender process,process tender involves" metadescription="Tender is a process of submitting a proposal for a contract or project.It is a formal offer to provide goods or services at a specified price and within a specified timeframe."/>
+<seo title="Tender" metakeywords="tender process typically,process tender process,tender process,process tender involves" metadescription="Tender is a process of submitting a proposal for a contract or project.It is a formal offer to provide goods or services at a specified price and within a specified timeframe." />
 ===Introduction to Tender===
 
 Tender is a process of submitting a proposal for a contract or project. It is a formal offer to provide goods or services at a specified price and within a specified timeframe. Tender is a common practice in the business world and is used to select the most suitable supplier or contractor for a particular job. The process of tender involves the submission of bids by potential suppliers or contractors, and the selection of the most suitable one based on criteria such as price, quality, and delivery time.

@@ -1,4 +1,4 @@
-<seo title="Obligatory Reinsurance" metakeywords="introduction obligatory reinsurance,reinsurance obligatory reinsurance,obligatory reinsurance provides,types obligatory reinsurance" metadescription="Obligatory reinsurance is a type of insurance that is required by law in certain countries."/>
+<seo title="Obligatory Reinsurance" metakeywords="introduction obligatory reinsurance,reinsurance obligatory reinsurance,obligatory reinsurance provides,types obligatory reinsurance" metadescription="Obligatory reinsurance is a type of insurance that is required by law in certain countries." />
 ===Introduction to Obligatory Reinsurance===
 
 Obligatory reinsurance is a type of insurance that is required by law in certain countries. It is a form of [[Risk Management|risk management]] that is used to protect insurers from large losses due to catastrophic events. Obligatory reinsurance is also known as compulsory reinsurance, mandatory reinsurance, or statutory reinsurance. It is a form of risk transfer that is used to spread the risk of large losses among multiple insurers.

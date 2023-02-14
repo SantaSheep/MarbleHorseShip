@@ -1,4 +1,4 @@
-<seo title="Bcr" metakeywords="bcr measure risk,definition bcr,definition bcr bcr,bcr measure" metadescription="Bcr is an acronym for Bank Credit Risk, which is a measure of the risk associated with a bank’s creditworthiness."/>
+<seo title="Bcr" metakeywords="bcr measure risk,definition bcr,definition bcr bcr,bcr measure" metadescription="Bcr is an acronym for Bank Credit Risk, which is a measure of the risk associated with a bank’s creditworthiness." />
 ===Introduction to Bcr===
 
 Bcr is an acronym for Bank [[Credit Risk|Credit Risk]], which is a measure of the risk associated with a bank’s creditworthiness. It is used to assess the potential for losses due to a bank’s inability to meet its financial obligations. Bcr is an important tool for investors, regulators, and other stakeholders in the banking industry. It is used to evaluate the creditworthiness of a bank and to determine the amount of capital that should be held by the bank to cover potential losses.

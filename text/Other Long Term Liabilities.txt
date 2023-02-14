@@ -1,4 +1,4 @@
-<seo title="Other Long Term Liabilities" metakeywords="term liabilities typically,long term liabilities,term liabilities long,liabilities long term" metadescription="Other long-term liabilities are financial obligations that are not classified as current liabilities."/>
+<seo title="Other Long Term Liabilities" metakeywords="term liabilities typically,long term liabilities,term liabilities long,liabilities long term" metadescription="Other long-term liabilities are financial obligations that are not classified as current liabilities." />
 ===Introduction to Other Long-Term Liabilities===
 
 Other long-term liabilities are financial obligations that are not classified as [[Current Liabilities|current liabilities]]. These liabilities are typically due in more than one year and are not expected to be paid off within the [[Curren[[T Account|t Account]]|current account]]ing period. Other long-term liabilities are typically used to finance long-term investments or to fund the purchase of assets. They are also used to finance the operations of a business.

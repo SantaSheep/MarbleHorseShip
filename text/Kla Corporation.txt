@@ -1,4 +1,4 @@
-<seo title="Kla Corporation" metakeywords="introduction kla corporation,kla corporation publicly,kla corporation,kla corporation experienced" metadescription="Kla Corporation is a publicly traded company that specializes in the design, manufacture, and sale of semiconductor products."/>
+<seo title="Kla Corporation" metakeywords="introduction kla corporation,kla corporation publicly,kla corporation,kla corporation experienced" metadescription="Kla Corporation is a publicly traded company that specializes in the design, manufacture, and sale of semiconductor products." />
 ===Introduction to Kla Corporation===
 
 Kla Corporation is a publicly traded company that specializes in the design, manufacture, and sale of semiconductor products. Founded in 1997, Kla Corporation is headquartered in Milpitas, California and is listed on the NASDAQ stock exchange. The company has a global presence with offices in the United States, Europe, and Asia. Kla Corporation is a leader in the semiconductor industry, providing products and services to customers in the automotive, consumer electronics, industrial, and medical markets.

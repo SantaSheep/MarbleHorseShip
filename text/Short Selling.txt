@@ -1,4 +1,4 @@
-<seo title="Short Selling" metakeywords="shortselling financial strategy,shortselling financial,shortselling risky,shortselling involves selling" metadescription="Shortselling is a financial strategy used by investors to make profits by betting against the market."/>
+<seo title="Short Selling" metakeywords="shortselling financial strategy,shortselling financial,shortselling risky,shortselling involves selling" metadescription="Shortselling is a financial strategy used by investors to make profits by betting against the market." />
 ===Introduction to Shortselling===
 
 Shortselling is a financial strategy used by investors to make profits by betting against the market. It involves selling borrowed securities in the hope that the price of the security will fall, allowing the investor to buy back the security at a lower price and pocket the difference. Shortselling is a risky strategy, but it can be a lucrative one if done correctly.

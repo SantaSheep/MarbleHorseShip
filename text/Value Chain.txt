@@ -1,4 +1,4 @@
-<seo title="Value Chain" metakeywords="valuechain valuechain concept,valuechain concept,valuechain term used,introduction valuechain" metadescription="Valuechain is a term used to describe the process of creating value for a company or organization."/>
+<seo title="Value Chain" metakeywords="valuechain valuechain concept,valuechain concept,valuechain term used,introduction valuechain" metadescription="Valuechain is a term used to describe the process of creating value for a company or organization." />
 ===Introduction to Valuechain===
 
 Valuechain is a term used to describe the process of creating value for a company or organization. It is a concept that has been around for decades, but has become increasingly important in the modern business world. Valuechain is a way of looking at the entire process of creating value for a company or organization, from the initial idea to the final product or service. It is a way of understanding how the different parts of a business interact and how they can be used to create value.

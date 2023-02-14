@@ -1,4 +1,4 @@
-<seo title="Ucc 1 Statement" metakeywords="debtor ucc statement,creditor ucc statement,ucc statement creditor,debtor property ucc" metadescription="The UCC 1 Statement is a legal document that is used to secure a creditor’s interest in a debtor's personal property."/>
+<seo title="Ucc 1 Statement" metakeywords="debtor ucc statement,creditor ucc statement,ucc statement creditor,debtor property ucc" metadescription="The UCC 1 Statement is a legal document that is used to secure a creditor’s interest in a debtor's personal property." />
 ===Introduction to UCC 1 Statement===
 
 The UCC 1 Statement is a legal document that is used to secure a creditor’s interest in a debtor’s personal property. It is also known as a financing statement and is used to provide notice to third parties that the creditor has a security interest in the debtor’s property. The UCC 1 Statement is a form that is filed with the appropriate state agency and is used to perfect a security interest in the debtor’s personal property.

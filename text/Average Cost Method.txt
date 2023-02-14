@@ -1,4 +1,4 @@
-<seo title="Average Cost Method" metakeywords="average cost method,cost method average,method average cost,use average cost" metadescription="The Average Cost Method is a method of inventory valuation used to determine the cost of goods sold.It takes into account all costs associated with the purchase of goods."/>
+<seo title="Average Cost Method" metakeywords="average cost method,cost method average,method average cost,use average cost" metadescription="The Average Cost Method is a method of inventory valuation used to determine the cost of goods sold.It takes into account all costs associated with the purchase of goods." />
 ===Introduction to Average Cost Method===
 
 The Average Cost Method is a method of inventory valuation used to determine the cost of goods sold and the cost of inventory on hand. This method is based on the assumption that the cost of goods sold and the cost of inventory on hand are equal to the average cost of all goods purchased during the period. This method is used by companies to determine the cost of goods sold and the cost of inventory on hand for financial reporting purposes.

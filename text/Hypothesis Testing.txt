@@ -1,4 +1,4 @@
-<seo title="Hypothesis Testing" metakeywords="examples hypothesis testing,introduction hypothesis testing,hypothesis tests,hypothesis testing hypothesis" metadescription="Hypothesis testing is used to make decisions about a population based on a sample of data.It is used in many fields, including economics, finance, and medicine."/>
+<seo title="Hypothesis Testing" metakeywords="examples hypothesis testing,introduction hypothesis testing,hypothesis tests,hypothesis testing hypothesis" metadescription="Hypothesis testing is used to make decisions about a population based on a sample of data.It is used in many fields, including economics, finance, and medicine." />
 ===Introduction to Hypothesis Testing===
 
 Hypothesis testing is a statistical technique used to test a hypothesis about a population parameter. It is used to make decisions about a population based on a sample of data. Hypothesis testing is used in many fields, including economics, finance, and medicine. The goal of hypothesis testing is to determine whether a hypothesis is true or false.

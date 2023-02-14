@@ -1,4 +1,4 @@
-<seo title="Per Capita Gdp" metakeywords="capita gdp measure,introduction capita gdp,capita gdp factors,capita gdp used" metadescription="Per capita GDP is calculated by dividing a country’s gross domestic product (GDP) by its population."/>
+<seo title="Per Capita Gdp" metakeywords="capita gdp measure,introduction capita gdp,capita gdp factors,capita gdp used" metadescription="Per capita GDP is calculated by dividing a country’s gross domestic product (GDP) by its population." />
 ===Introduction to Per Capita GDP===
 
 [[Per Capita|Per capita]] GDP is a measure of a country’s economic output per person. It is used to compare the economic output of different countries and to measure the economic progress of a country over time. Per capita GDP is calculated by dividing a country’s gross domestic product (GDP) by its population.

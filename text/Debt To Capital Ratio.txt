@@ -1,4 +1,4 @@
-<seo title="Debt To Capital Ratio" metakeywords="debt capital ratio,capital ratio debt,ratio debt capital,ratio measures debt" metadescription="Debt to capital ratio is a financial ratio that measures the amount of debt a company has relative to its total capital.It is used to assess the financial health of a company."/>
+<seo title="Debt To Capital Ratio" metakeywords="debt capital ratio,capital ratio debt,ratio debt capital,ratio measures debt" metadescription="Debt to capital ratio is a financial ratio that measures the amount of debt a company has relative to its total capital.It is used to assess the financial health of a company." />
 ===Introduction to Debt to Capital Ratio===
 
 Debt to capital ratio is a financial ratio that measures the amount of debt a company has relative to its total capital. It is used to assess the financial health of a company and is an important indicator of a company’s ability to pay its debts. The ratio is calculated by dividing the total debt of a company by its total capital. A higher debt to capital ratio indicates that a company is more leveraged and has a higher risk of defaulting on its debt.

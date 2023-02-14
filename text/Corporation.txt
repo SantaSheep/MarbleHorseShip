@@ -1,4 +1,4 @@
-<seo title="Corporation" metakeywords="corporation concept,advantages disadvantages corporations,definition corporation corporation,definition corporation" metadescription="A corporation is a legal entity created by individuals, stockholders, or shareholders with the purpose of operating for profit."/>
+<seo title="Corporation" metakeywords="corporation concept,advantages disadvantages corporations,definition corporation corporation,definition corporation" metadescription="A corporation is a legal entity created by individuals, stockholders, or shareholders with the purpose of operating for profit." />
 ===Definition of Corporation===
 
 A corporation is a legal entity created by individuals, stockholders, or shareholders, with the purpose of operating for profit. Corporations are separate from their owners and are allowed to enter into contracts, sue and be sued, own assets, remit federal and state taxes, and borrow money from [[Financial Institution|financial institution]]s. Corporations are also allowed to issue stock and can be publicly traded on a stock exchange.

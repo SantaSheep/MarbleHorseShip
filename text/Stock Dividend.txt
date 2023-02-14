@@ -1,4 +1,4 @@
-<seo title="Stock Dividend" metakeywords="stockdividends type dividend,stockdividend type dividend,shares benefits stockdividend,stockdividend tax implications" metadescription="A stockdividend is a dividend payment made to shareholders in the form of additional shares of the company’s stock."/>
+<seo title="Stock Dividend" metakeywords="stockdividends type dividend,stockdividend type dividend,shares benefits stockdividend,stockdividend tax implications" metadescription="A stockdividend is a dividend payment made to shareholders in the form of additional shares of the company’s stock." />
 ===Introduction to Stockdividend===
 
 A stockdividend is a type of dividend payment made to shareholders in the form of additional shares of the company’s stock. This type of dividend is usually paid out when a company has a large amount of cash on hand and wants to reward its shareholders without having to pay out cash. Stockdividends are also known as scrip dividends or bonus shares.

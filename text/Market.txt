@@ -1,4 +1,4 @@
-<seo title="Market" metakeywords="market structure,market structure market,market structure structure,competition market structure" metadescription="A market is an economic system that facilitates the exchange of goods and services between buyers and sellers."/>
+<seo title="Market" metakeywords="market structure,market structure market,market structure structure,competition market structure" metadescription="A market is an economic system that facilitates the exchange of goods and services between buyers and sellers." />
 ===Introduction to Market===
 
 A market is an economic system that facilitates the exchange of goods and services between buyers and sellers. It is a place where buyers and sellers come together to negotiate prices and exchange goods and services. Markets can be physical or virtual, and can be organized in a variety of ways, such as through auctions, bargaining, or fixed prices. The market is an important part of the economy, as it allows for the efficient allocation of resources and the efficient distribution of goods and services.

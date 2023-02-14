@@ -1,4 +1,4 @@
-<seo title="Hoa" metakeywords="hoa concept,purpose hoa,hoa concept hoa,hoa benefits hoa" metadescription="HOA stands for Homeowners Association, and is a type of organization that is responsible for the maintenance and upkeep of a residential community."/>
+<seo title="Hoa" metakeywords="hoa concept,purpose hoa,hoa concept hoa,hoa benefits hoa" metadescription="HOA stands for Homeowners Association, and is a type of organization that is responsible for the maintenance and upkeep of a residential community." />
 ===Introduction to Hoa===
 
 HOA stands for Homeowners Association, and is a type of organization that is responsible for the maintenance and upkeep of a residential community. It is typically composed of homeowners who live in the community and are responsible for the enforcement of rules and regulations, as well as the collection of dues and fees. The purpose of an HOA is to ensure that the community is kept in a safe and orderly manner, and that all homeowners are held to the same standards.

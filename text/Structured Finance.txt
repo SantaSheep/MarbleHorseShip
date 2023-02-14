@@ -1,4 +1,4 @@
-<seo title="Structured Finance" metakeywords="structured finance instruments,risks structured finance,structured finance used,structured finance type" metadescription="Structured finance is a financial instrument that is used to manage risk and provide capital to businesses."/>
+<seo title="Structured Finance" metakeywords="structured finance instruments,risks structured finance,structured finance used,structured finance type" metadescription="Structured finance is a financial instrument that is used to manage risk and provide capital to businesses." />
 ===Introduction to Structured Finance===
 
 Structured finance is a type of [[Financial Instrument|financial instrument]] that is used to manage risk and provide capital to businesses. It is a form of financial engineering that involves the use of complex financial instruments and techniques to create a structure that can be used to manage risk and provide capital. Structured finance is used by businesses, governments, and other entities to manage their [[Financial Risk|financial risk]]s and to provide capital for investments.

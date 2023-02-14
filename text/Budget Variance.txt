@@ -1,4 +1,4 @@
-<seo title="Budget Variance" metakeywords="budget variance occurs,cause budget variance,budget variance important,budget variance analyzing" metadescription="Budget variance is a measure of how well a business is managing its finances."/>
+<seo title="Budget Variance" metakeywords="budget variance occurs,cause budget variance,budget variance important,budget variance analyzing" metadescription="Budget variance is a measure of how well a business is managing its finances." />
 ===Introduction to Budget Variance===
 
 Budget variance is a term used to describe the difference between the actual amount of money spent and the amount of money that was budgeted for a particular period of time. It is a measure of how well a business is managing its finances and can be used to identify areas where the budget is not being followed or where there are potential problems. Budget variance can be used to identify areas where the budget is not being followed or where there are potential problems.

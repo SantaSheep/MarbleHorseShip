@@ -1,4 +1,4 @@
-<seo title="Wacc" metakeywords="wacc financial metric,wacc cost equity,cost capital wacc,cost debt wacc" metadescription="Weighted Average Cost of Capital (WACC) is a financial metric used to measure the cost of capital for a company."/>
+<seo title="Wacc" metakeywords="wacc financial metric,wacc cost equity,cost capital wacc,cost debt wacc" metadescription="Weighted Average Cost of Capital (WACC) is a financial metric used to measure the cost of capital for a company." />
 ===Introduction to WACC===
 
 [[Weighted Average|Weighted Average]] [[Cost Of Capital|Cost of Capital]] (WACC) is a financial metric used to measure the cost of capital for a company. It is a weighted average of the [[Cost Of Equity|cost of equity]] and the [[Cost Of Debt|cost of debt]], and is used to determine the cost of financing for a company. WACC is an important metric for investors and analysts to consider when evaluating a company’s [[Financial Performance|financial performance]] and potential for future growth.

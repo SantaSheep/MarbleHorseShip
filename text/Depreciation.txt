@@ -1,4 +1,4 @@
-<seo title="Depreciation" metakeywords="understanding depreciation,depreciation important concept,asset understanding depreciation,different types depreciation" metadescription="Depreciation is an accounting term used to describe the gradual decrease in the value of an asset over time."/>
+<seo title="Depreciation" metakeywords="understanding depreciation,depreciation important concept,asset understanding depreciation,different types depreciation" metadescription="Depreciation is an accounting term used to describe the gradual decrease in the value of an asset over time." />
 ===Introduction to Depreciation===
 
 Depreciation is an accounting term used to describe the gradual decrease in the value of an asset over time. It is a non-cash expense that is used to spread the cost of an asset over its [[Useful Life|useful life]]. Depreciation is used to account for the wear and tear of an asset due to usage, age, or obsolescence. It is an important concept in accounting and finance, as it allows companies to accurately reflect the cost of an asset in their [[Financial Statements|financial statements]].

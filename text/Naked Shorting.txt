@@ -1,4 +1,4 @@
-<seo title="Naked Shorting" metakeywords="traders execute nakedshorting,naked short selling,markets nakedshorting,nakedshorting markets" metadescription="Nakedshorting is a form of stock market trading that involves selling shares of a company without first borrowing the shares or ensuring that the shares can be borrowed."/>
+<seo title="Naked Shorting" metakeywords="traders execute nakedshorting,naked short selling,markets nakedshorting,nakedshorting markets" metadescription="Nakedshorting is a form of stock market trading that involves selling shares of a company without first borrowing the shares or ensuring that the shares can be borrowed." />
 ===Introduction to Nakedshorting===
 
 Nakedshorting is a form of [[Stock Market|stock market]] trading that involves selling shares of a company without first borrowing the shares or ensuring that the shares can be borrowed. This practice is also known as “naked [[Short Selling|short selling]]” or “uncovered short selling.” Nakedshorting is a controversial practice that has been the subject of much debate in the financial world.

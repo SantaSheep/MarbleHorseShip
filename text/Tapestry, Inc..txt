@@ -1,4 +1,4 @@
-<seo title="Tapestry, Inc." metakeywords="tapestry parent company,tapestry founded 1973,tapestry global fashion,tapestry founded" metadescription="Tapestry,  is a global fashion house that designs and markets luxury accessories and lifestyle brands."/>
+<seo title="Tapestry, Inc." metakeywords="tapestry parent company,tapestry founded 1973,tapestry global fashion,tapestry founded" metadescription="Tapestry,  is a global fashion house that designs and markets luxury accessories and lifestyle brands." />
 ===Introduction to Tapestry===
 
 ,

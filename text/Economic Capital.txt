@@ -1,4 +1,4 @@
-<seo title="Economic Capital" metakeywords="economic capital term,economic capital defined,definition economic capital,economic capital provides" metadescription="Economic capital is an important concept in finance and economics.It provides a way to measure the financial health of an organization or individual."/>
+<seo title="Economic Capital" metakeywords="economic capital term,economic capital defined,definition economic capital,economic capital provides" metadescription="Economic capital is an important concept in finance and economics.It provides a way to measure the financial health of an organization or individual." />
 ===Introduction to Economic Capital===
 
 Economic capital is a term used to describe the financial resources available to an organization or individual to support their operations and investments. It is a measure of the financial strength of an organization or individual and is used to assess their ability to meet their financial obligations. Economic capital is an important concept in finance and economics, as it provides a way to measure the financial health of an organization or individual.

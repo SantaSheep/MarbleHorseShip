@@ -1,4 +1,4 @@
-<seo title="Participation Rate" metakeywords="participation rate defined,definition participation rate,participation rate participation,participation rate factors" metadescription="Participation rate is a measure of the number of people who are actively participating in an economy or a particular activity."/>
+<seo title="Participation Rate" metakeywords="participation rate defined,definition participation rate,participation rate participation,participation rate factors" metadescription="Participation rate is a measure of the number of people who are actively participating in an economy or a particular activity." />
 ===Introduction to Participation Rate===
 
 Participation rate is a measure of the number of people who are actively participating in an economy or a particular activity. It is used to gauge the level of economic activity in a given area or sector. It is also used to measure the level of engagement of people in a particular activity or sector. The participation rate is an important indicator of economic health and can be used to assess the overall performance of an economy.

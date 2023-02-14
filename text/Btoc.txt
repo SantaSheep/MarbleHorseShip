@@ -1,4 +1,4 @@
-<seo title="Btoc" metakeywords="introduction b2c,b2c type commerce,consumers b2c transactions,consumer b2c transactions" metadescription="Business-to-consumer (B2C) is a type of e-commerce transaction that involves the sale of goods and services from a business to an individual consumer."/>
+<seo title="Btoc" metakeywords="introduction b2c,b2c type commerce,consumers b2c transactions,consumer b2c transactions" metadescription="Business-to-consumer (B2C) is a type of e-commerce transaction that involves the sale of goods and services from a business to an individual consumer." />
 ===Introduction to B2C===
 
 Business-to-consumer (B2C) is a type of e-commerce transaction that involves the sale of goods and services from a business to an individual consumer. B2C transactions are typically conducted online, but can also take place in physical stores. B2C is a subset of e-commerce, which is the buying and selling of goods and services over the internet. B2C is one of the most popular forms of e-commerce, as it allows businesses to reach a large number of potential customers quickly and easily.

@@ -1,4 +1,4 @@
-<seo title="Market Failure" metakeywords="market failure externalities,market failure example,types market failure,market failure examples" metadescription="Market failure is a situation in which the free market fails to allocate resources efficiently."/>
+<seo title="Market Failure" metakeywords="market failure externalities,market failure example,types market failure,market failure examples" metadescription="Market failure is a situation in which the free market fails to allocate resources efficiently." />
 ===Introduction to Market Failure===
 
 Market failure is a term used to describe a situation in which the [[Free Market|free market]] fails to allocate resources efficiently. This can occur when the market does not produce the desired outcome, or when the market does not produce the most efficient outcome. Market failure can be caused by a variety of factors, including externalities, imperfect information, [[Public Good|public good]]s, and natural monopolies. Market failure can lead to inefficient outcomes, such as overproduction or underproduction of goods and services, or misallocation of resources.

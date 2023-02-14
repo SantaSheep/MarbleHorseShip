@@ -1,4 +1,4 @@
-<seo title="Ge Healthcare" metakeywords="ge healthcare technologies,ge medical systems,introduction ge healthcare,medical systems ge" metadescription="GE Healthcare is a global leader in medical technology, digital solutions, and services."/>
+<seo title="Ge Healthcare" metakeywords="ge healthcare technologies,ge medical systems,introduction ge healthcare,medical systems ge" metadescription="GE Healthcare is a global leader in medical technology, digital solutions, and services." />
 ===Introduction to GE Healthcare===
 
 GE Healthcare is a global leader in medical technology, digital solutions, and services. It is a subsidiary of [[General Electric|General Electric]] Company (GE) and is headquartered in Chicago, Illinois. GE Healthcare provides a wide range of products and services to healthcare providers, including diagnostic imaging, medical diagnostics, patient monitoring, and life sciences. It also provides healthcare IT solutions, such as electronic health records, analytics, and cloud-based services. GE Healthcare has a presence in more than 100 countries and serves customers in over 180 countries.

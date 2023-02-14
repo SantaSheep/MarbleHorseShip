@@ -1,4 +1,4 @@
-<seo title="Kiwi Bond" metakeywords="investing kiwi bonds,kiwi bonds drawbacks,introduction kiwi bonds,types kiwi bonds" metadescription="Kiwi bonds are a type of debt security issued by the New Zealand government.They are denominated in New Zealand dollars and are issued in both fixed and floating rate formats."/>
+<seo title="Kiwi Bond" metakeywords="investing kiwi bonds,kiwi bonds drawbacks,introduction kiwi bonds,types kiwi bonds" metadescription="Kiwi bonds are a type of debt security issued by the New Zealand government.They are denominated in New Zealand dollars and are issued in both fixed and floating rate formats." />
 ===Introduction to Kiwi Bonds===
 
 Kiwi bonds are a type of debt security issued by the New Zealand government. They are denominated in New Zealand dollars and are issued in both fixed and floating rate formats. The bonds are issued by the New Zealand Debt Management Office (NZDMO) and are available to both domestic and international investors. The bonds are typically issued with maturities of up to 10 years and are backed by the full faith and credit of the New Zealand government.

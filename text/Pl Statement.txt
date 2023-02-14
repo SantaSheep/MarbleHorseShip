@@ -1,4 +1,4 @@
-<seo title="Pl Statement" metakeywords="plstatement financial statement,plstatements balance sheet,plstatement plstatements used,plstatements used" metadescription="A plstatement is a financial statement that provides a comprehensive overview of a company’s financial position."/>
+<seo title="Pl Statement" metakeywords="plstatement financial statement,plstatements balance sheet,plstatement plstatements used,plstatements used" metadescription="A plstatement is a financial statement that provides a comprehensive overview of a company’s financial position." />
 ===Introduction to Plstatement===
 
 A plstatement is a financial statement that provides a comprehensive overview of a company’s financial position. It is used to assess the financial health of a company and to make decisions about its future. Plstatements are typically prepared by a company’s accounting department and are used by investors, creditors, and other stakeholders to evaluate the company’s [[Financial Performance|financial performance]]. Plstatements are also used by regulators to ensure that companies are complying with applicable laws and regulations.

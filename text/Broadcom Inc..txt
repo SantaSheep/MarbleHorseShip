@@ -1,4 +1,4 @@
-<seo title="Broadcom Inc." metakeywords="broadcom business,broadcom business model,broadcom broadcom business,business model broadcom" metadescription="Broadcom Inc. designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions."/>
+<seo title="Broadcom Inc." metakeywords="broadcom business,broadcom business model,broadcom broadcom business,business model broadcom" metadescription="Broadcom Inc. designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions." />
 ===Introduction to Broadcom Inc.===
 
 Broadcom Inc. is a global technology leader in semiconductor solutions for wired and wireless communications. The company designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions. Broadcom Inc. is headquartered in San Jose, California and has operations in more than 25 countries. The company is listed on the NASDAQ stock exchange and is a component of the S&P 500 index.

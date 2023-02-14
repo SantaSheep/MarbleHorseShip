@@ -1,4 +1,4 @@
-<seo title="Loss Carry Back" metakeywords="losscarryback losscarryback tax,losscarryback tax,losscarryback financial term,losscarryback tax strategy" metadescription="Losscarryback is a tax strategy that allows businesses to use losses from one year to offset profits from a previous year."/>
+<seo title="Loss Carry Back" metakeywords="losscarryback losscarryback tax,losscarryback tax,losscarryback financial term,losscarryback tax strategy" metadescription="Losscarryback is a tax strategy that allows businesses to use losses from one year to offset profits from a previous year." />
 ===Introduction to Losscarryback===
 
 Losscarryback is a financial term used to describe a tax strategy that allows businesses to use losses from one year to offset profits from a previous year. This strategy can be used to reduce the amount of taxes a business owes in a given year. Losscarryback is a popular tax strategy among businesses, as it can help them save money on taxes and increase their [[Cash Flow|cash flow]].

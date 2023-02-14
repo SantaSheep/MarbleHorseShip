@@ -1,4 +1,4 @@
-<seo title="Regression" metakeywords="applications regression,common types regression,regression types regression,applications regression regression" metadescription="Regression is a statistical technique used to analyze the relationship between two or more variables."/>
+<seo title="Regression" metakeywords="applications regression,common types regression,regression types regression,applications regression regression" metadescription="Regression is a statistical technique used to analyze the relationship between two or more variables." />
 ===Introduction to Regression===
 
 Regression is a statistical technique used to analyze the relationship between two or more variables. It is used to predict the value of one variable based on the values of other variables. Regression is a powerful tool for understanding the relationships between different variables and for making predictions about [[Future Value|future value]]s.

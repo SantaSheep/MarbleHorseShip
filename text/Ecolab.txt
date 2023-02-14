@@ -1,4 +1,4 @@
-<seo title="Ecolab" metakeywords="ecolab business,ecolab founded,ecolab ecolab founded,year ecolab business" metadescription="Ecolab is a global leader in water, hygiene, and energy technologies and services."/>
+<seo title="Ecolab" metakeywords="ecolab business,ecolab founded,ecolab ecolab founded,year ecolab business" metadescription="Ecolab is a global leader in water, hygiene, and energy technologies and services." />
 ===Introduction to Ecolab===
 
 Ecolab is a global leader in water, hygiene, and energy technologies and services. Founded in 1923, the company has grown to become a Fortune 500 company with operations in more than 170 countries. Ecolab’s mission is to provide innovative solutions to help customers reduce their environmental impact, improve operational efficiency, and increase profitability. The company’s products and services are used in a variety of industries, including foodservice, hospitality, healthcare, and industrial.

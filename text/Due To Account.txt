@@ -1,4 +1,4 @@
-<seo title="Due To Account" metakeywords="receivable account accounts,payment accounts,payable account accounts,payment accounts payable" metadescription="Due To Account is a type of financial account that is used to track the flow of funds between two parties."/>
+<seo title="Due To Account" metakeywords="receivable account accounts,payment accounts,payable account accounts,payment accounts payable" metadescription="Due To Account is a type of financial account that is used to track the flow of funds between two parties." />
 ===Introduction to Due To Account===
 
 Due To Account is a type of financial account that is used to track the flow of funds between two parties. It is a type of account that is used to record the transactions between two parties, such as a customer and a supplier. This type of account is used to record the payments that are made by the customer to the supplier, as well as the payments that are received by the supplier from the customer. This type of account is also used to track the amount of money that is owed by the customer to the supplier, and the amount of money that is owed by the supplier to the customer.

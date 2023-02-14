@@ -1,4 +1,4 @@
-<seo title="Net Worth" metakeywords="networth important concept,determine networth,assets determine networth,knowing networth" metadescription="Networth is a measure of an individual’s financial health and is often used to assess their financial stability.It is composed of two main components: assets and liabilities."/>
+<seo title="Net Worth" metakeywords="networth important concept,determine networth,assets determine networth,knowing networth" metadescription="Networth is a measure of an individual’s financial health and is often used to assess their financial stability.It is composed of two main components: assets and liabilities." />
 ===Introduction to Networth===
 
 Networth is a term used to describe the total value of an individual’s assets minus their liabilities. It is a measure of an individual’s financial health and is often used to assess their financial stability. Networth is an important concept to understand for anyone looking to manage their finances and build wealth.

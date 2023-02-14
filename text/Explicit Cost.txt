@@ -1,4 +1,4 @@
-<seo title="Explicit Cost" metakeywords="business explicit costs,costs explicit costs,explicit costs include,taxes explicit costs" metadescription="Explicit cost is a term used in economics and finance to refer to the direct costs associated with producing a good or service."/>
+<seo title="Explicit Cost" metakeywords="business explicit costs,costs explicit costs,explicit costs include,taxes explicit costs" metadescription="Explicit cost is a term used in economics and finance to refer to the direct costs associated with producing a good or service." />
 ===Introduction to Explicit Cost===
 
 Explicit cost is a term used in economics and finance to refer to the [[Direct Cost|direct cost]]s associated with producing a good or service. Explicit costs are those that are directly incurred by a business, such as wages, materials, and rent. These costs are easily identifiable and can be measured in monetary terms. Explicit costs are also known as out-of-pocket costs, as they are paid directly by the business.

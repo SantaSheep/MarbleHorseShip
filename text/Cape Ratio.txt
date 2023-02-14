@@ -1,4 +1,4 @@
-<seo title="Cape Ratio" metakeywords="cape ratio financial,market cape ratio,cape ratio used,cape ratio useful" metadescription="Cape Ratio is a financial metric used to measure the value of a company’s stock relative to its earnings."/>
+<seo title="Cape Ratio" metakeywords="cape ratio financial,market cape ratio,cape ratio used,cape ratio useful" metadescription="Cape Ratio is a financial metric used to measure the value of a company’s stock relative to its earnings." />
 ===Introduction to Cape Ratio===
 
 The Cape Ratio, also known as the Cyclically Adjusted Price-to-Earnings Ratio, is a financial metric used to measure the value of a company’s stock relative to its earnings. It is a long-term measure of a company’s stock price and is used to determine whether a stock is overvalued or undervalued. The Cape Ratio is a useful tool for investors who are looking to make long-term investments in a company’s stock.

@@ -1,4 +1,4 @@
-<seo title="Goodwill" metakeywords="accounting treatment goodwill,goodwill deductible acquired,acquisition process goodwill,asset valuation goodwill" metadescription="Goodwill is the difference between the purchase price of the acquired company and the fair market value of its net assets."/>
+<seo title="Goodwill" metakeywords="accounting treatment goodwill,goodwill deductible acquired,acquisition process goodwill,asset valuation goodwill" metadescription="Goodwill is the difference between the purchase price of the acquired company and the fair market value of its net assets." />
 ===Introduction to Goodwill===
 
 Goodwill is an [[In[[Tangible Asset|tangible Asset]]|intangible asset]] that is created when one company acquires another. It is the difference between the purchase price of the acquired company and the [[Fair Market Value|fair market value]] of its net assets. Goodwill is an important concept in accounting and finance, as it can have a significant impact on the [[Financial Statements|financial statements]] of a company.

@@ -1,4 +1,4 @@
-<seo title="Yield" metakeywords="evaluating investment yield,investment yield,yield investment,investment yield investment" metadescription="Yield is an important concept in finance and is used to evaluate the performance of investments."/>
+<seo title="Yield" metakeywords="evaluating investment yield,investment yield,yield investment,investment yield investment" metadescription="Yield is an important concept in finance and is used to evaluate the performance of investments." />
 ===Introduction to Yield===
 
 Yield is a measure of the return on an investment. It is typically expressed as a percentage of the original investment and is used to compare different investments. Yield is an important concept in finance and is used to evaluate the performance of investments. Yield can be calculated for stocks, bonds, [[Mutual Fund|mutual fund]]s, and other investments.

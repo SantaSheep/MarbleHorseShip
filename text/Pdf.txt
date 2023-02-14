@@ -1,4 +1,4 @@
-<seo title="Pdf" metakeywords="pdfs advantages file,pdfs advantages,pdfs disadvantages,pdfs disadvantages easily" metadescription="PDF, or Portable Document Format, was developed by Adobe Systems in 1993."/>
+<seo title="Pdf" metakeywords="pdfs advantages file,pdfs advantages,pdfs disadvantages,pdfs disadvantages easily" metadescription="PDF, or Portable Document Format, was developed by Adobe Systems in 1993." />
 ===Introduction to PDF===
 
 PDF, or Portable Document Format, is a file format developed by Adobe Systems in 1993. It is used to store documents in a format that is independent of the application software, hardware, and operating system used to create it. PDFs are widely used for sharing documents, as they can be viewed on any device and are not easily editable.

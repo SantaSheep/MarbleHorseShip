@@ -1,4 +1,4 @@
-<seo title="Double Entry" metakeywords="double entry accounting,entry accounting developed,entry accounting,entry accounting provides" metadescription="Double entry is a system of accounting that requires two entries for each transaction."/>
+<seo title="Double Entry" metakeywords="double entry accounting,entry accounting developed,entry accounting,entry accounting provides" metadescription="Double entry is a system of accounting that requires two entries for each transaction." />
 ===Introduction to Double Entry===
 
 Double entry is a system of accounting that requires two entries for each transaction. This system is used to ensure accuracy and to provide a complete record of all financial transactions. Double entry is based on the concept of debits and credits, which are used to record the financial transactions of a business. The double entry system is used by businesses of all sizes, from small businesses to large corporations.

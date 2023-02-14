@@ -1,4 +1,4 @@
-<seo title="Demand" metakeywords="concepts economics demand,demand economic concept,demand demand defined,factors influence demand" metadescription="Demand is a key factor in determining the price of a good or service, as well as the quantity of goods and services that are produced."/>
+<seo title="Demand" metakeywords="concepts economics demand,demand economic concept,demand demand defined,factors influence demand" metadescription="Demand is a key factor in determining the price of a good or service, as well as the quantity of goods and services that are produced." />
 ===Introduction to Demand===
 
 Demand is an economic concept that refers to the quantity of a good or service that consumers are willing and able to purchase at a given price. It is one of the most important concepts in economics, as it is the basis for understanding how markets work and how prices are determined. Demand is a key factor in determining the price of a good or service, as well as the quantity of goods and services that are produced. Demand is also an important factor in determining the level of economic activity in an economy.

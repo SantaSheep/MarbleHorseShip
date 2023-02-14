@@ -1,4 +1,4 @@
-<seo title="Petty Cash" metakeywords="pettycash concept pettycash,pettycash concept,concept pettycash,advantages pettycash" metadescription="Pettycash is a small amount of money kept on hand for small, everyday expenses."/>
+<seo title="Petty Cash" metakeywords="pettycash concept pettycash,pettycash concept,concept pettycash,advantages pettycash" metadescription="Pettycash is a small amount of money kept on hand for small, everyday expenses." />
 ===Introduction to Pettycash===
 
 Pettycash is a small amount of money kept on hand for small, everyday expenses. It is typically used in businesses to cover minor expenses that are too small to be paid for with a check or [[Credit Card|credit card]]. Pettycash is usually kept in a locked box or drawer and is managed by a designated person, such as an accountant or bookkeeper. Pettycash is also known as imprest money, float money, or change fund.

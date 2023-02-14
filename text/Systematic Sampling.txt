@@ -1,4 +1,4 @@
-<seo title="Systematic Sampling" metakeywords="systematic sampling used,disadvantages systematic sampling,systematic sampling disadvantages,advantages systematic sampling" metadescription="Systematic sampling is a method of selecting a sample from a population in which each member of the population has an equal chance of being selected."/>
+<seo title="Systematic Sampling" metakeywords="systematic sampling used,disadvantages systematic sampling,systematic sampling disadvantages,advantages systematic sampling" metadescription="Systematic sampling is a method of selecting a sample from a population in which each member of the population has an equal chance of being selected." />
 ===Introduction to Systematic Sampling===
 
 Systematic sampling is a type of probability sampling method used in statistical analysis. It is a method of selecting a sample from a population in which each member of the population has an equal chance of being selected. Systematic sampling is used to ensure that the sample is representative of the population and that the results of the analysis are reliable.

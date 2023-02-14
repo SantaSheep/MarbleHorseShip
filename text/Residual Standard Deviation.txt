@@ -1,4 +1,4 @@
-<seo title="Residual Standard Deviation" metakeywords="residual standard deviation,standard deviation rsd,standard deviation residual,deviation rsd used" metadescription="Residual standard deviation (RSD) is a measure of the variability of a set of data points from a regression line."/>
+<seo title="Residual Standard Deviation" metakeywords="residual standard deviation,standard deviation rsd,standard deviation residual,deviation rsd used" metadescription="Residual standard deviation (RSD) is a measure of the variability of a set of data points from a regression line." />
 ===Introduction to Residual Standard Deviation===
 
 Residual [[Standard Deviation|standard deviation]] (RSD) is a measure of the variability of a set of data points from a regression line. It is used to measure the accuracy of a regression model and to compare different models. RSD is also known as the [[Standard Error|standard error]] of the regression.

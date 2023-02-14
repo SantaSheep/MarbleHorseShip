@@ -1,4 +1,4 @@
-<seo title="Multinational Corporation" metakeywords="introduction multinational corporations,multinational corporations concept,concept multinational corporations,multinational corporations mncs" metadescription="A multinational corporation (MNC) is a large business enterprise that operates in multiple countries."/>
+<seo title="Multinational Corporation" metakeywords="introduction multinational corporations,multinational corporations concept,concept multinational corporations,multinational corporations mncs" metadescription="A multinational corporation (MNC) is a large business enterprise that operates in multiple countries." />
 ===Introduction to Multinational Corporations===
 
 A multinational corporation (MNC) is a large business enterprise that operates in multiple countries. It is a corporate structure that has operations in more than one country, and typically has its headquarters in one of the countries in which it operates. MNCs are typically large, well-established companies that have a global presence and are able to take advantage of [[Economies Of Scale|economies of scale]] and access to resources in multiple countries.

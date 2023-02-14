@@ -1,4 +1,4 @@
-<seo title="Cpm" metakeywords="cost advertising cpm,advertised cpm,advertising cpm used,introduction cpm cost" metadescription="Cost Per Mille (CPM) is a financial term used to measure the cost of advertising."/>
+<seo title="Cpm" metakeywords="cost advertising cpm,advertised cpm,advertising cpm used,introduction cpm cost" metadescription="Cost Per Mille (CPM) is a financial term used to measure the cost of advertising." />
 ===Introduction to CPM===
 
 Cost Per Mille (CPM) is a financial term used to measure the cost of advertising. It is a metric used to calculate the cost of an advertisement for every thousand impressions it receives. CPM is used to measure the effectiveness of an advertisement and to determine the cost of a campaign. It is a popular metric used by advertisers to measure the success of their campaigns and to determine the cost of their advertising.

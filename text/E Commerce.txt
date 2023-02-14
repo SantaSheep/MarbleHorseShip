@@ -1,4 +1,4 @@
-<seo title="E Commerce" metakeywords="introduction ecommerce ecommerce,ecommerce electronic commerce,introduction ecommerce,different types ecommerce" metadescription="Ecommerce, or electronic commerce, is the buying and selling of goods and services over the internet."/>
+<seo title="E Commerce" metakeywords="introduction ecommerce ecommerce,ecommerce electronic commerce,introduction ecommerce,different types ecommerce" metadescription="Ecommerce, or electronic commerce, is the buying and selling of goods and services over the internet." />
 ===Introduction to Ecommerce===
 
 Ecommerce, or electronic commerce, is the buying and selling of goods and services over the internet. It is a form of business that has grown rapidly in recent years, and is now a major part of the global economy. Ecommerce is used by businesses of all sizes, from small mom-and-pop shops to large [[Multinational Corporation|multinational corporation]]s. It is also used by consumers to purchase goods and services from online retailers.

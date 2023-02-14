@@ -1,4 +1,4 @@
-<seo title="Net Premiums Written" metakeywords="net premiums written,calculating net premiums,calculation net premiums,premiums written calculated" metadescription="Net premiums written is a financial term used to describe the total amount of premiums collected by an insurance company from its policyholders."/>
+<seo title="Net Premiums Written" metakeywords="net premiums written,calculating net premiums,calculation net premiums,premiums written calculated" metadescription="Net premiums written is a financial term used to describe the total amount of premiums collected by an insurance company from its policyholders." />
 ===Introduction to Net Premiums Written===
 
 [[Net Premium|Net premium]]s written is a financial term used to describe the total amount of premiums collected by an insurance company from its policyholders. It is a key metric used to measure the performance of an insurance company and is used to calculate the company’s profitability. Net premiums written is an important indicator of the company’s ability to generate revenue and is used to assess the company’s financial health.

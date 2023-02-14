@@ -1,4 +1,4 @@
-<seo title="T Test" metakeywords="statistical test used,test statistical,statistical test,test statistical test" metadescription="The T Test is used to determine if there is a statistically significant difference between the means of two groups."/>
+<seo title="T Test" metakeywords="statistical test used,test statistical,statistical test,test statistical test" metadescription="The T Test is used to determine if there is a statistically significant difference between the means of two groups." />
 ===Introduction to T Test===
 
 The T Test is a statistical test used to compare the means of two independent samples. It is used to determine if there is a [[Statistically Significant|statistically significant]] difference between the means of two groups. The T Test is a parametric test, meaning that it assumes that the data follows a [[Normal Distribution|normal distribution]]. It is also a two-tailed test, meaning that it tests for differences in both directions.

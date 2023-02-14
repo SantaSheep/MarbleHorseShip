@@ -1,4 +1,4 @@
-<seo title="External Debt" metakeywords="introduction external debt,causes external debt,debt external debt,external debt" metadescription=" external debt is a measure of a country’s financial obligations to other countries and international organizations."/>
+<seo title="External Debt" metakeywords="introduction external debt,causes external debt,debt external debt,external debt" metadescription=" external debt is a measure of a country’s financial obligations to other countries and international organizations." />
 ===Introduction to External Debt===
 
 External debt is a term used to describe the total amount of money owed by a country to foreign creditors. It is a measure of a country’s financial obligations to other countries and international organizations. External debt can be divided into two categories: public debt and private debt. Public debt is debt owed by a government to foreign creditors, while private debt is debt owed by individuals, businesses, and other entities to foreign creditors. External debt can be a source of [[Economic Growth|economic growth]] and development, but it can also be a source of financial instability if not managed properly.

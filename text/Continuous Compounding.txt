@@ -1,4 +1,4 @@
-<seo title="Continuous Compounding" metakeywords="continuous compounding financial,compounding financial concept,continuous compounding,compounding continuous compounding" metadescription="Continuous compounding is the process of reinvesting interest earned on an investment."/>
+<seo title="Continuous Compounding" metakeywords="continuous compounding financial,compounding financial concept,continuous compounding,compounding continuous compounding" metadescription="Continuous compounding is the process of reinvesting interest earned on an investment." />
 ===Introduction to Continuous Compounding===
 
 Continuous compounding is a financial concept that refers to the process of continuously reinvesting interest earned on an investment. This process allows for the compounding of interest to occur on a continuous basis, rather than at regular intervals. This type of compounding can be used to calculate the [[Future Value|future value]] of an investment, as well as the [[Present Value|present value]] of a future payment. Continuous compounding is a powerful tool for investors, as it can help them maximize their returns over time.

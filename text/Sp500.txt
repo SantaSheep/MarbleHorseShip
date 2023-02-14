@@ -1,4 +1,4 @@
-<seo title="Sp500" metakeywords="500 stock market,stock market indices,500 market capitalization,market capitalizations 500" metadescription="The S&P 500 is a stock market index that tracks the performance of 500 large-cap companies listed on the New York Stock Exchange (NYSE) and the Nasdaq."/>
+<seo title="Sp500" metakeywords="500 stock market,stock market indices,500 market capitalization,market capitalizations 500" metadescription="The S&P 500 is a stock market index that tracks the performance of 500 large-cap companies listed on the New York Stock Exchange (NYSE) and the Nasdaq." />
 ===Introduction to the S&P 500===
 
 The S&P 500, or Standard & Poor's 500, is a [[Stock Market|stock market]] index that tracks the performance of 500 large-cap companies listed on the New York Stock Exchange (NYSE) and the Nasdaq. It is one of the most widely followed and closely watched stock market indices in the world. The S&P 500 is a market-capitalization-weighted index, meaning that the larger companies have a greater influence on the index's performance than smaller companies.

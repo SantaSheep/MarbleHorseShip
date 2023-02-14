@@ -1,4 +1,4 @@
-<seo title="Unit Cost" metakeywords="unitcost defined cost,definition unitcost unitcost,unitcost unitcost defined,definition unitcost" metadescription="Unitcost is a financial term used to describe the cost of a single unit of a product or service."/>
+<seo title="Unit Cost" metakeywords="unitcost defined cost,definition unitcost unitcost,unitcost unitcost defined,definition unitcost" metadescription="Unitcost is a financial term used to describe the cost of a single unit of a product or service." />
 ===Introduction to Unitcost===
 
 Unitcost is a financial term used to describe the cost of a single unit of a product or service. It is a useful tool for businesses to measure the cost of production and to compare the cost of different products or services. Unitcost is also used to measure the cost of a product or service over time, allowing businesses to track changes in cost and make decisions about pricing and production.

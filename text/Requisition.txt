@@ -1,4 +1,4 @@
-<seo title="Requisition" metakeywords="definition requisition requisition,requisitions typically used,definition requisition,requisitions purchase requisitions" metadescription="A requisition is a formal request for goods, services, or funds.It is typically used in the context of business and finance."/>
+<seo title="Requisition" metakeywords="definition requisition requisition,requisitions typically used,definition requisition,requisitions purchase requisitions" metadescription="A requisition is a formal request for goods, services, or funds.It is typically used in the context of business and finance." />
 ===Introduction to Requisition===
 
 A requisition is a formal request for goods, services, or funds. It is typically used in the context of business and finance, and is often used to initiate a purchase order or to request payment for goods or services. Requisitions are typically used in the context of a company's internal processes, but can also be used to request funds from external sources. Requisitions are an important part of the financial management process, as they provide a way for companies to track and manage their spending.

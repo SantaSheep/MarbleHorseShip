@@ -1,4 +1,4 @@
-<seo title="Depletion" metakeywords="depletion depletion accounting,depletion accounting method,depletion accounting,depletion taxation" metadescription="Depletion is an accounting method used to allocate the cost of extracting natural resources from the earth."/>
+<seo title="Depletion" metakeywords="depletion depletion accounting,depletion accounting method,depletion accounting,depletion taxation" metadescription="Depletion is an accounting method used to allocate the cost of extracting natural resources from the earth." />
 ===Introduction to Depletion===
 
 Depletion is an [[Accounting Method|accounting method]] used to allocate the cost of extracting natural resources from the earth. It is a non-cash expense that is used to account for the reduction in the value of a natural resource over time. Depletion is used to account for the cost of extracting natural resources such as oil, gas, timber, and minerals. It is similar to depreciation, which is used to account for the reduction in the value of [[Tangible Asset|tangible asset]]s such as buildings and equipment.

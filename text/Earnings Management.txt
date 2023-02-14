@@ -1,4 +1,4 @@
-<seo title="Earnings Management" metakeywords="earnings management involves,earnings management used,earnings management defined,definition earnings management" metadescription="Earnings management is a controversial practice that has been the subject of much debate in the accounting world."/>
+<seo title="Earnings Management" metakeywords="earnings management involves,earnings management used,earnings management defined,definition earnings management" metadescription="Earnings management is a controversial practice that has been the subject of much debate in the accounting world." />
 ===Introduction to Earnings Management===
 
 Earnings management is a term used to describe the practice of manipulating [[Financial Statements|financial statements]] to achieve a desired outcome. It is a form of accounting manipulation that is used to influence the perception of a company’s [[Financial Performance|financial performance]]. Earnings management is a controversial practice that has been the subject of much debate in the accounting world.

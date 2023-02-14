@@ -1,4 +1,4 @@
-<seo title="External It Y" metakeywords="externalities negative externalities,negative externalities,externalities positive externalities,externalities example" metadescription="Externality is an economic concept that refers to the unintended consequences of an economic activity on a third party."/>
+<seo title="External It Y" metakeywords="externalities negative externalities,negative externalities,externalities positive externalities,externalities example" metadescription="Externality is an economic concept that refers to the unintended consequences of an economic activity on a third party." />
 ===Introduction to Externality===
 
 Externality is an economic concept that refers to the unintended consequences of an economic activity on a third party. It is a cost or benefit that is not taken into account by the parties involved in the economic activity. Externality can be positive or negative, and it can have a significant impact on the [[Financial Market|financial market]]s.

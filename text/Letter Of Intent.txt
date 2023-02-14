@@ -1,4 +1,4 @@
-<seo title="Letter Of Intent" metakeywords="definition letter intent,letter intent loi,letter intent typically,letter intent document" metadescription="Letter of intent (LOI) is a document that outlines the terms of a proposed agreement between two or more parties."/>
+<seo title="Letter Of Intent" metakeywords="definition letter intent,letter intent loi,letter intent typically,letter intent document" metadescription="Letter of intent (LOI) is a document that outlines the terms of a proposed agreement between two or more parties." />
 ===Introduction to Letter of Intent===
 
 A letter of intent (LOI) is a document that outlines the terms of a proposed agreement between two or more parties. It is typically used in business transactions, such as mergers and acquisitions, [[Joint Venture|joint venture]]s, and other [[Strategic Alliance|strategic alliance]]s. The letter of intent is not legally binding, but it serves as a starting point for negotiations and provides a framework for the parties to work from. It is also used to demonstrate the parties’ commitment to the deal and to provide a basis for further negotiations.

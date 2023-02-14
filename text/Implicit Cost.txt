@@ -1,4 +1,4 @@
-<seo title="Implicit Cost" metakeywords="business implicit costs,implicit cost businesses,businesses implicit costs,costs implicit costs" metadescription="Implicit costs are not recorded in the books of accounts, but they still have an impact on the profitability of a business."/>
+<seo title="Implicit Cost" metakeywords="business implicit costs,implicit cost businesses,businesses implicit costs,costs implicit costs" metadescription="Implicit costs are not recorded in the books of accounts, but they still have an impact on the profitability of a business." />
 ===Introduction to Implicit Cost===
 
 Implicit cost is a type of economic cost that is not directly associated with a monetary transaction. It is the cost of an opportunity that is not taken, or the cost of resources that are not used. Implicit costs are not recorded in the books of accounts, but they still have an impact on the profitability of a business. Implicit costs are also known as imputed costs, notional costs, or economic costs.

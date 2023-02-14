@@ -1,4 +1,4 @@
-<seo title="Procurement" metakeywords="procurement involves,procurement process,supplier procurement,different types procurement" metadescription=""/>
+<seo title="Procurement" metakeywords="procurement involves,procurement process,supplier procurement,different types procurement" metadescription="" />
 ===Introduction to Procurement===
 
 Procurement is the process of acquiring goods, services, or works from an external source, often through a bidding process or a [[Request For Proposal|request for proposal]] (RFP). It is a critical part of the [[Supply Chain|supply chain]] management process, as it involves the selection of suppliers, negotiation of contracts, and the management of the relationship between the buyer and the supplier. Procurement is a complex process that requires careful planning and execution in order to ensure that the best value is obtained for the organization.

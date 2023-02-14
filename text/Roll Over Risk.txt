@@ -1,4 +1,4 @@
-<seo title="Roll Over Risk" metakeywords="rollover risk risk,introduction rollover risk,types rollover risk,rollover risk type" metadescription="Rollover risk is a type of financial risk that arises when a financial instrument is rolled over from one period to another."/>
+<seo title="Roll Over Risk" metakeywords="rollover risk risk,introduction rollover risk,types rollover risk,rollover risk type" metadescription="Rollover risk is a type of financial risk that arises when a financial instrument is rolled over from one period to another." />
 ===Introduction to Rollover Risk===
 
 Rollover risk is a type of [[Financial Risk|financial risk]] that arises when a [[Financial Instrument|financial instrument]], such as a loan or a bond, is rolled over from one period to another. This type of risk is most commonly associated with fixed-income investments, such as bonds, but can also be applicable to other types of investments, such as derivatives. Rollover risk is the risk that the terms of the new instrument may be different from the terms of the original instrument, resulting in a loss of value or a change in the [[Expected Return|expected return]].

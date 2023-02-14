@@ -1,4 +1,4 @@
-<seo title="Royalty" metakeywords="royalty payments typically,royalty agreements,agreements royalty agreements,royalty agreements contracts" metadescription="Royalty is a payment made to an individual or entity for the use of their intellectual property."/>
+<seo title="Royalty" metakeywords="royalty payments typically,royalty agreements,agreements royalty agreements,royalty agreements contracts" metadescription="Royalty is a payment made to an individual or entity for the use of their intellectual property." />
 ===Introduction to Royalty===
 
 Royalty is a payment made to an individual or entity for the use of their intellectual property, such as a patent, copyright, trademark, or trade secret. Royalty payments are typically made in exchange for the right to use the intellectual property in a specific manner, such as for the production of a product or the sale of a service. Royalty payments are typically based on a percentage of the revenue generated from the use of the intellectual property.

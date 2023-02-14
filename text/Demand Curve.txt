@@ -1,4 +1,4 @@
-<seo title="Demand Curve" metakeywords="demand curve types,curve demand curves,types demand curves,demand curve demand" metadescription="A demand curve is a graphical representation of the relationship between the price of a good or service and the quantity that consumers are willing and able to purchase."/>
+<seo title="Demand Curve" metakeywords="demand curve types,curve demand curves,types demand curves,demand curve demand" metadescription="A demand curve is a graphical representation of the relationship between the price of a good or service and the quantity that consumers are willing and able to purchase." />
 ===Introduction to Demand Curve===
 
 A demand curve is a graphical representation of the relationship between the price of a good or service and the quantity of that good or service that consumers are willing and able to purchase. It is used to illustrate the [[Law Of Demand|law of demand]], which states that as the price of a good or service increases, the quantity demanded decreases. The demand curve is a fundamental tool in economics and is used to analyze consumer behavior, market trends, and the effects of government policies.

@@ -1,4 +1,4 @@
-<seo title="Tax Bracket" metakeywords="taxbrackets tax brackets,tax brackets,tax brackets tax,calculating taxbrackets" metadescription="Taxbracket is a term used to describe the range of income levels that are subject to different tax rates."/>
+<seo title="Tax Bracket" metakeywords="taxbrackets tax brackets,tax brackets,tax brackets tax,calculating taxbrackets" metadescription="Taxbracket is a term used to describe the range of income levels that are subject to different tax rates." />
 ===Introduction to Taxbracket===
 
 Taxbracket is a term used to describe the range of income levels that are subject to different tax rates. Tax brackets are used to determine the amount of taxes an individual or business must pay. Tax brackets are determined by the Internal Revenue Service (IRS) and are based on the amount of income earned. Tax brackets are used to ensure that individuals and businesses pay their fair share of taxes.

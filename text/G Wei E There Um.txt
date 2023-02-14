@@ -1,4 +1,4 @@
-<seo title="G Wei E There Um" metakeywords="gwei ethereum advantages,gwei ethereum disadvantages,advantages gwei ethereum,disadvantages gwei ethereum" metadescription="Gwei Ethereum was created in 2015 by Vitalik Buterin, the founder of Ethereum.It is a unit of account, meaning it is used to measure the value of goods and services."/>
+<seo title="G Wei E There Um" metakeywords="gwei ethereum advantages,gwei ethereum disadvantages,advantages gwei ethereum,disadvantages gwei ethereum" metadescription="Gwei Ethereum was created in 2015 by Vitalik Buterin, the founder of Ethereum.It is a unit of account, meaning it is used to measure the value of goods and services." />
 ===Introduction to Gwei Ethereum===
 
 Gwei Ethereum is a unit of measurement used to measure the value of Ethereum, a cryptocurrency. It is the smallest denomination of Ethereum, and is used to measure the cost of transactions on the Ethereum network. Gwei Ethereum is a unit of account, meaning it is used to measure the value of goods and services. It is also used to measure the cost of transactions on the Ethereum network.

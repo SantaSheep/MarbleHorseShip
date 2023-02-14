@@ -1,4 +1,4 @@
-<seo title="Overhead" metakeywords="overhead costs generally,variable overhead costs,overhead costs vary,calculating overhead costs" metadescription="Overhead is a term used to describe the costs associated with running a business that are not directly related to the production of goods or services."/>
+<seo title="Overhead" metakeywords="overhead costs generally,variable overhead costs,overhead costs vary,calculating overhead costs" metadescription="Overhead is a term used to describe the costs associated with running a business that are not directly related to the production of goods or services." />
 ===Introduction to Overhead===
 
 Overhead is a term used to describe the costs associated with running a business that are not directly related to the production of goods or services. These costs include rent, utilities, insurance, taxes, and other administrative costs. Overhead is an important part of any business’s budget and can have a significant impact on the profitability of the business.

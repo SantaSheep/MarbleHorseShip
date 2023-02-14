@@ -1,4 +1,4 @@
-<seo title="Variable Overhead Spending Variance" metakeywords="overhead spending variance,spending variance vosv,overhead spending variable,budgeted variable overhead" metadescription=" Variable Overhead Spending Variance (VOSV) is a financial term used to measure the difference between actual and budgeted overhead spending."/>
+<seo title="Variable Overhead Spending Variance" metakeywords="overhead spending variance,spending variance vosv,overhead spending variable,budgeted variable overhead" metadescription=" Variable Overhead Spending Variance (VOSV) is a financial term used to measure the difference between actual and budgeted overhead spending." />
 ===Introduction to Variable Overhead Spending Variance===
 
 [[Variable Overhead|Variable Overhead]] Spending Variance (VOSV) is a financial term used to measure the difference between actual and budgeted overhead spending. It is a key indicator of a company’s [[Financial Performance|financial performance]] and is used to identify areas of potential cost savings. VOSV is an important tool for financial managers to monitor and control overhead spending.

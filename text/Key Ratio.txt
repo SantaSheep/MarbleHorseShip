@@ -1,4 +1,4 @@
-<seo title="Key Ratio" metakeywords="company key ratios,key ratios calculated,introduction key ratios,calculating key ratios" metadescription="Key ratios are a set of financial metrics used to measure the performance of a company."/>
+<seo title="Key Ratio" metakeywords="company key ratios,key ratios calculated,introduction key ratios,calculating key ratios" metadescription="Key ratios are a set of financial metrics used to measure the performance of a company." />
 ===Introduction to Key Ratios===
 
 Key ratios are a set of financial metrics used to measure the performance of a company. They are used to compare a company’s performance to that of its peers, industry averages, and other benchmarks. Key ratios are also used to assess the financial health of a company and to make decisions about investing in the company. Key ratios are an important tool for investors, analysts, and other stakeholders in understanding the [[Financial Performance|financial performance]] of a company.

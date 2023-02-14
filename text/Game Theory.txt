@@ -1,4 +1,4 @@
-<seo title="Game Theory" metakeywords="game theory developed,games game theory,game theory branch,game theory" metadescription="Game theory was first developed by John von Neumann and Oskar Morgenstern in the 1940s."/>
+<seo title="Game Theory" metakeywords="game theory developed,games game theory,game theory branch,game theory" metadescription="Game theory was first developed by John von Neumann and Oskar Morgenstern in the 1940s." />
 ===Introduction to Game Theory===
 
 Game theory is a branch of mathematics that studies strategic decision making in situations where two or more players interact. It is used to analyze a wide range of economic, political, and social situations. Game theory is used to understand how people interact with each other and how they make decisions in order to maximize their own benefit. It is also used to analyze the behavior of firms and governments in competitive markets.

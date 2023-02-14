@@ -1,4 +1,4 @@
-<seo title="O Cf Ratio" metakeywords="ocfratio financial metric,ocfratio operating cash,calculating ocfratio,formula calculating ocfratio" metadescription="The Ocfratio, or Operating Cash Flow Ratio, is a financial metric used to measure the liquidity of a company."/>
+<seo title="O Cf Ratio" metakeywords="ocfratio financial metric,ocfratio operating cash,calculating ocfratio,formula calculating ocfratio" metadescription="The Ocfratio, or Operating Cash Flow Ratio, is a financial metric used to measure the liquidity of a company." />
 ===Introduction to the Ocfratio===
 
 The Ocfratio, or Operating [[Cash Flow|Cash Flow]] Ratio, is a financial metric used to measure the liquidity of a company. It is calculated by dividing the company’s [[Operating Cash Flow|operating cash flow]] by its [[Total Liabilities|total liabilities]]. The Ocfratio is a useful tool for investors and analysts to assess the financial health of a company and its ability to meet its short-term obligations.

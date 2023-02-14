@@ -1,4 +1,4 @@
-<seo title="Quarter Over Quarter" metakeywords="quarter qoq useful,qoq financial term,quarter qoq used,quarter quarter qoq" metadescription="Quarter over quarter (QOQ) is a financial term used to compare the performance of a company or sector over a period of three months."/>
+<seo title="Quarter Over Quarter" metakeywords="quarter qoq useful,qoq financial term,quarter qoq used,quarter quarter qoq" metadescription="Quarter over quarter (QOQ) is a financial term used to compare the performance of a company or sector over a period of three months." />
 ===Introduction to Quarter Over Quarter===
 
 Quarter over quarter (QOQ) is a financial term used to compare the performance of a company or sector over a period of three months. It is a useful tool for investors and analysts to assess the performance of a company or sector over a period of time. QOQ is used to compare the performance of a company or sector from one quarter to the next. It is a useful tool for investors and analysts to assess the performance of a company or sector over a period of time.

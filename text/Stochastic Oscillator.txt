@@ -1,4 +1,4 @@
-<seo title="Stochastic Oscillator" metakeywords="applications stochastic oscillator,stochastic oscillator used,oscillator technical indicator,stochastic oscillator technical" metadescription="The Stochastic Oscillator is a technical indicator used in the analysis of financial markets."/>
+<seo title="Stochastic Oscillator" metakeywords="applications stochastic oscillator,stochastic oscillator used,oscillator technical indicator,stochastic oscillator technical" metadescription="The Stochastic Oscillator is a technical indicator used in the analysis of financial markets." />
 ===Introduction to Stochastic Oscillator===
 
 The Stochastic Oscillator is a technical indicator used in the analysis of [[Financial Market|financial market]]s. It is used to measure the momentum of price movements and to identify potential overbought and oversold conditions. The Stochastic Oscillator was developed by George Lane in the 1950s and is one of the most widely used technical indicators in the world.

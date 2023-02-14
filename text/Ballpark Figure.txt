@@ -1,4 +1,4 @@
-<seo title="Ballpark Figure" metakeywords="definition ballpark figure,phrase ballpark used,using ballpark figures,ballpark figure example" metadescription="A ballpark figure is a rough estimate of a value or cost.It is not an exact figure, but rather a general idea of what the cost or value may be."/>
+<seo title="Ballpark Figure" metakeywords="definition ballpark figure,phrase ballpark used,using ballpark figures,ballpark figure example" metadescription="A ballpark figure is a rough estimate of a value or cost.It is not an exact figure, but rather a general idea of what the cost or value may be." />
 ===Introduction to Ballpark Figure===
 
 A ballpark figure is a rough estimate of a value or cost. It is often used in business and finance to quickly provide an approximate value for a particular item or service. It is not an exact figure, but rather a general idea of what the cost or value may be. The term is derived from the phrase “in the ballpark”, which is used to describe something that is close to the mark.

@@ -1,4 +1,4 @@
-<seo title="Loan To Cost Ratio Lt C" metakeywords="cost ratio ltc,ratio ltc loan,ltc ratio debt,ltc financial metric" metadescription="Loan to cost ratio (LTC) is a key indicator of the financial health of a project.The higher the LTC ratio, the more debt financing is used to fund the project."/>
+<seo title="Loan To Cost Ratio Lt C" metakeywords="cost ratio ltc,ratio ltc loan,ltc ratio debt,ltc financial metric" metadescription="Loan to cost ratio (LTC) is a key indicator of the financial health of a project.The higher the LTC ratio, the more debt financing is used to fund the project." />
 ===Introduction to Loan To Cost Ratio (LTC)===
 
 Loan to cost ratio (LTC) is a financial metric used to measure the amount of debt financing used to fund a project relative to the total cost of the project. It is a key indicator of the financial health of a project and is used to assess the risk associated with the project. The higher the LTC ratio, the more debt financing is used to fund the project and the higher the risk associated with the project.

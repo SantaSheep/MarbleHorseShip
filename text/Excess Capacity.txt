@@ -1,4 +1,4 @@
-<seo title="Excess Capacity" metakeywords="excess capacity situation,introduction excess capacity,excess capacity occur,excess capacity term" metadescription=""/>
+<seo title="Excess Capacity" metakeywords="excess capacity situation,introduction excess capacity,excess capacity occur,excess capacity term" metadescription="" />
 ===Introduction to Excess Capacity===
 
 Excess capacity is a term used in economics to describe a situation in which the amount of production capacity available in an industry exceeds the amount of demand for the goods or services produced by that industry. This can occur when an industry is producing more than what the market can absorb, resulting in a surplus of goods or services. Excess capacity can also occur when an industry is producing at a rate that is below the potential output of the industry. In either case, excess capacity can lead to a decrease in profits and an increase in costs for the industry.

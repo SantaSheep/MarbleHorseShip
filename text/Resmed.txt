@@ -1,4 +1,4 @@
-<seo title="Resmed" metakeywords="resmed impact healthcare,resmed global medical,resmed products services,healthcare industry resmed" metadescription=""/>
+<seo title="Resmed" metakeywords="resmed impact healthcare,resmed global medical,resmed products services,healthcare industry resmed" metadescription="" />
 ===Introduction to Resmed===
 
 Resmed is a global medical device company that specializes in the development, manufacturing, and marketing of products and services for the diagnosis, treatment, and management of sleep-disordered breathing and other respiratory disorders. Founded in 1989, Resmed has grown to become a leader in the sleep and respiratory care industry, with a presence in more than 100 countries and a portfolio of products and services that span the entire continuum of care. Resmed’s products and services are designed to improve the quality of life for people with sleep-disordered breathing and other respiratory disorders, and to reduce the burden of these conditions on healthcare systems.

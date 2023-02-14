@@ -1,4 +1,4 @@
-<seo title="Working Capital" metakeywords="liabilities working capital,working capital important,introduction working capital,working capital" metadescription="Working capital is a financial term used to describe the amount of money a business has available to cover its short-term expenses."/>
+<seo title="Working Capital" metakeywords="liabilities working capital,working capital important,introduction working capital,working capital" metadescription="Working capital is a financial term used to describe the amount of money a business has available to cover its short-term expenses." />
 ===Introduction to Working Capital===
 
 Working capital is a financial term used to describe the amount of money a business has available to cover its short-term expenses. It is the difference between a company’s [[Current Assets|current assets]] and its [[Current Liabilities|current liabilities]]. Working capital is an important measure of a company’s financial health and is used to assess its ability to pay its short-term obligations.

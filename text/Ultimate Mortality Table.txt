@@ -1,4 +1,4 @@
-<seo title="Ultimate Mortality Table" metakeywords="ultimate mortality table,mortality table used,mortality table ultimate,mortality table developed" metadescription="The Ultimate Mortality Table is a statistical tool used to measure the mortality rate of a population."/>
+<seo title="Ultimate Mortality Table" metakeywords="ultimate mortality table,mortality table used,mortality table ultimate,mortality table developed" metadescription="The Ultimate Mortality Table is a statistical tool used to measure the mortality rate of a population." />
 ===Introduction to Ultimate Mortality Table===
 
 The Ultimate [[Mortality Table|Mortality Table]] is a statistical tool used to measure the mortality rate of a population. It is used to calculate the probability of death for a given age group. The table is based on the mortality rates of a population over a period of time. It is used to estimate the life expectancy of a population and to calculate the expected number of deaths in a given year. The table is also used to calculate the expected number of survivors in a given year.

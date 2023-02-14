@@ -1,4 +1,4 @@
-<seo title="Open Market Operations" metakeywords="open market operations,market operations omo,operations open market,introduction open market" metadescription="Open market operations (OMO) are a type of monetary policy used by central banks to influence the money supply and interest rates in an economy."/>
+<seo title="Open Market Operations" metakeywords="open market operations,market operations omo,operations open market,introduction open market" metadescription="Open market operations (OMO) are a type of monetary policy used by central banks to influence the money supply and interest rates in an economy." />
 ===Introduction to Open Market Operations===
 
 Open market operations (OMO) are a type of [[Monetary Policy|monetary policy]] used by central banks to influence the [[Money Supply|money supply]] and [[Interest Rate|interest rate]]s in an economy. OMOs involve the buying and selling of government securities in the open market in order to increase or decrease the money supply. OMOs are used to control inflation, stabilize currency [[Exchange Rate|exchange rate]]s, and promote [[Economic Growth|economic growth]].

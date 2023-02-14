@@ -1,4 +1,4 @@
-<seo title="Exw" metakeywords="exw terms,exw term used,exw term,exw abbreviation" metadescription="Exw, or Ex Works, is a term used in international trade to describe a transaction in which the seller is responsible for delivering goods to a designated location."/>
+<seo title="Exw" metakeywords="exw terms,exw term used,exw term,exw abbreviation" metadescription="Exw, or Ex Works, is a term used in international trade to describe a transaction in which the seller is responsible for delivering goods to a designated location." />
 ===Introduction to Exw===
 
 Exw, or Ex Works, is a term used in international trade to describe a transaction in which the seller is responsible for delivering goods to a designated location, but the buyer is responsible for all other costs and risks associated with the transaction. This type of transaction is often used when the buyer and seller are located in different countries and the buyer is responsible for arranging transportation and customs clearance. Exw is a common term used in international trade and is often used in conjunction with other terms such as FOB (Free On Board) and CIF (Cost, Insurance, and Freight).

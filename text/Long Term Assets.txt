@@ -1,4 +1,4 @@
-<seo title="Long Term Assets" metakeywords="longterm assets typically,company longterm assets,longterm assets value,valuation longterm assets" metadescription="Longterm assets are assets that are held by a company for more than one year."/>
+<seo title="Long Term Assets" metakeywords="longterm assets typically,company longterm assets,longterm assets value,valuation longterm assets" metadescription="Longterm assets are assets that are held by a company for more than one year." />
 ===Introduction to Longterm Assets===
 
 Longterm assets are assets that are held by a company for more than one year. These assets are typically used to generate income or to provide services over a long period of time. Longterm assets are also known as non-[[Current Assets|current assets]] and are typically reported on the [[Balance Sheet|balance sheet]] of a company. Longterm assets are important for a company’s financial health as they provide a source of income and can be used to finance operations.

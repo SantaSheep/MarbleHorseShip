@@ -1,4 +1,4 @@
-<seo title="Normal Distribution" metakeywords="normal distribution characterized,applications normal distribution,normal distribution type,normal distribution used" metadescription="Normal distribution is a symmetric, unimodal probability distribution that is defined by its mean, median, and mode."/>
+<seo title="Normal Distribution" metakeywords="normal distribution characterized,applications normal distribution,normal distribution type,normal distribution used" metadescription="Normal distribution is a symmetric, unimodal probability distribution that is defined by its mean, median, and mode." />
 ===Introduction to Normal Distribution===
 
 Normal distribution is a type of [[Probability Distribution|probability distribution]] that is commonly used in finance and economics. It is also known as the Gaussian distribution or the [[Bell Curve|bell curve]]. The normal distribution is a symmetric, unimodal probability distribution that is defined by its mean, median, and mode. It is used to describe the probability of a given event occurring within a certain range of values.

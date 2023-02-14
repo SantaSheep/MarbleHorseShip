@@ -1,4 +1,4 @@
-<seo title="Reconciliation" metakeywords="reconciliation used different,reconciliation process used,reconciliation used finance,bank reconciliation type" metadescription="Reconciliation is used in many different areas of finance, including accounting, banking, and investments."/>
+<seo title="Reconciliation" metakeywords="reconciliation used different,reconciliation process used,reconciliation used finance,bank reconciliation type" metadescription="Reconciliation is used in many different areas of finance, including accounting, banking, and investments." />
 ===Introduction to Reconciliation===
 
 Reconciliation is a process used to ensure that two sets of records are in agreement. It is a process of comparing two sets of records to ensure accuracy and completeness. Reconciliation is used in many different areas of finance, including accounting, banking, and investments. It is an important process that helps to ensure accuracy and completeness of financial records.

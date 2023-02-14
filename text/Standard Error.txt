@@ -1,4 +1,4 @@
-<seo title="Standard Error" metakeywords="examples standard error,standard error used,example standard error,introduction standard error" metadescription="Standard Error is defined as the standard deviation of the sampling distribution of a statistic."/>
+<seo title="Standard Error" metakeywords="examples standard error,standard error used,example standard error,introduction standard error" metadescription="Standard Error is defined as the standard deviation of the sampling distribution of a statistic." />
 ===Introduction to Standard Error===
 
 Standard Error is a statistical measure of the variability of a sample statistic from its population mean. It is used to measure the accuracy of a sample statistic in relation to the population mean. Standard Error is an important concept in statistics and is used to measure the accuracy of a sample statistic in relation to the population mean.

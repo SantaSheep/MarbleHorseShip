@@ -1,4 +1,4 @@
-<seo title="Fiduciary" metakeywords="fiduciary fiduciary term,fiduciary term used,definition fiduciary fiduciary,fiduciary term" metadescription="Fiduciary is a term used to describe a person or entity that is legally obligated to act in the best interests of another person."/>
+<seo title="Fiduciary" metakeywords="fiduciary fiduciary term,fiduciary term used,definition fiduciary fiduciary,fiduciary term" metadescription="Fiduciary is a term used to describe a person or entity that is legally obligated to act in the best interests of another person." />
 ===Introduction to Fiduciary===
 
 Fiduciary is a term used to describe a person or entity that is legally obligated to act in the best interests of another person or entity. This legal obligation is known as a fiduciary duty and is typically found in relationships between a trustee and a beneficiary, a lawyer and a client, or a financial advisor and a client. Fiduciary duties are based on trust and require the fiduciary to act in the best interests of the beneficiary or client, even if it means sacrificing their own interests.

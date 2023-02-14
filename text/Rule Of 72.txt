@@ -1,4 +1,4 @@
-<seo title="Rule Of 72" metakeywords="72 rule,calculate rule 72,72 simple calculation,divide 72 annual" metadescription="The Rule of 72 is a financial concept that is used to estimate the amount of time it will take for an investment to double in value."/>
+<seo title="Rule Of 72" metakeywords="72 rule,calculate rule 72,72 simple calculation,divide 72 annual" metadescription="The Rule of 72 is a financial concept that is used to estimate the amount of time it will take for an investment to double in value." />
 ===Introduction to the Rule of 72===
 
 The Rule of 72 is a financial concept that is used to estimate the amount of time it will take for an investment to double in value. It is a simple calculation that can be used to compare different investments and determine which one will yield the highest return. The Rule of 72 is based on the concept of [[Compound Interest|compound interest]], which is the interest earned on the principal plus any interest that has been earned in the past. The Rule of 72 is a useful tool for investors to understand the power of compounding and to make informed decisions about their investments.

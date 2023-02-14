@@ -1,4 +1,4 @@
-<seo title="Liquidity Ratios" metakeywords="cash ratio liquidity,liquidity ratios assess,liquidity ratios used,use liquidity ratios" metadescription="Liquidity ratios are a set of financial metrics used to measure a company’s ability to pay off its short-term obligations."/>
+<seo title="Liquidity Ratios" metakeywords="cash ratio liquidity,liquidity ratios assess,liquidity ratios used,use liquidity ratios" metadescription="Liquidity ratios are a set of financial metrics used to measure a company’s ability to pay off its short-term obligations." />
 ===Introduction to Liquidity Ratios===
 
 Liquidity ratios are a set of financial metrics used to measure a company’s ability to pay off its short-term obligations. These ratios are important for investors and creditors to assess the financial health of a company. Liquidity ratios are used to determine the company’s ability to meet its short-term debt obligations and to assess the company’s overall financial stability.

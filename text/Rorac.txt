@@ -1,4 +1,4 @@
-<seo title="Rorac" metakeywords="rorac financial metric,return capital rorac,rorac return risk,rorac defined ratio" metadescription="RORAC is a financial metric used to measure the efficiency of a company’s capital structure."/>
+<seo title="Rorac" metakeywords="rorac financial metric,return capital rorac,rorac return risk,rorac defined ratio" metadescription="RORAC is a financial metric used to measure the efficiency of a company’s capital structure." />
 ===Introduction to RORAC===
 
 RORAC, or Return on Risk Adjusted Capital, is a financial metric used to measure the efficiency of a company’s [[Capital Structure|capital structure]]. It is a measure of the return on capital that is adjusted for the risk associated with the capital. RORAC is used to compare the performance of different companies and to assess the risk-adjusted return of a company’s capital structure.

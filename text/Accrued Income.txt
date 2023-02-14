@@ -1,4 +1,4 @@
-<seo title="Accrued Income" metakeywords="examples accrued income,income accrued income,accrued income income,accrued income type" metadescription="Accrued income is an important concept in accounting and finance.It allows businesses to recognize income that has been earned but not yet received."/>
+<seo title="Accrued Income" metakeywords="examples accrued income,income accrued income,accrued income income,accrued income type" metadescription="Accrued income is an important concept in accounting and finance.It allows businesses to recognize income that has been earned but not yet received." />
 ===Introduction to Accrued Income===
 
 Accrued income is a type of income that is earned but not yet received. It is a form of income that is recognized in the accounting period in which it is earned, even though the actual cash may not be received until a later period. Accrued income is an important concept in accounting and finance, as it allows businesses to recognize income that has been earned but not yet received.

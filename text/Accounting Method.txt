@@ -1,4 +1,4 @@
-<seo title="Accounting Method" metakeywords="disadvantages accounting method,accounting methods,accounting method accounting,accounting method important" metadescription="Accounting methods are used to determine the timing and amount of revenue and expenses to be reported in the financial statements."/>
+<seo title="Accounting Method" metakeywords="disadvantages accounting method,accounting methods,accounting method accounting,accounting method important" metadescription="Accounting methods are used to determine the timing and amount of revenue and expenses to be reported in the financial statements." />
 ===Introduction to Accounting Method===
 
 Accounting method is a set of rules and procedures used to record and report financial transactions. It is the basis for the preparation of [[Financial Statements|financial statements]] and other financial reports. Accounting methods are used to determine the timing and amount of revenue and expenses to be reported in the financial statements. The two most comm[[On Account|on account]]ing methods are the cash basis and the accrual basis.

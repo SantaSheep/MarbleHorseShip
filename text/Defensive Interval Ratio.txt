@@ -1,4 +1,4 @@
-<seo title="Defensive Interval Ratio" metakeywords="defensive interval ratio,ratio defensive interval,interval ratio defensive,calculating defensive interval" metadescription="The Defensive Interval Ratio (DIR) is a financial ratio used to measure the liquidity of a company."/>
+<seo title="Defensive Interval Ratio" metakeywords="defensive interval ratio,ratio defensive interval,interval ratio defensive,calculating defensive interval" metadescription="The Defensive Interval Ratio (DIR) is a financial ratio used to measure the liquidity of a company." />
 ===Introduction to Defensive Interval Ratio===
 
 The Defensive Interval Ratio (DIR) is a financial ratio used to measure the liquidity of a company. It is calculated by dividing the company’s [[Current Assets|current assets]] by its [[Current Liabilities|current liabilities]]. The DIR is used to assess the ability of a company to meet its short-term obligations. It is also used to compare the liquidity of different companies in the same industry.

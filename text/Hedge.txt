@@ -1,4 +1,4 @@
-<seo title="Hedge" metakeywords="hedging involves,hedging involves taking,hedging beneficial,different types hedging" metadescription="Hedge is a financial term used to describe a strategy used to reduce the risk of an investment.It is a form of risk management that is used to protect against potential losses."/>
+<seo title="Hedge" metakeywords="hedging involves,hedging involves taking,hedging beneficial,different types hedging" metadescription="Hedge is a financial term used to describe a strategy used to reduce the risk of an investment.It is a form of risk management that is used to protect against potential losses." />
 ===Introduction to Hedge===
 
 Hedge is a financial term used to describe a strategy used to reduce the risk of an investment. It is a form of [[Risk Management|risk management]] that is used to protect against potential losses. Hedge strategies involve taking an offsetting position in a different asset or security to reduce the risk of the original investment. This strategy is used by investors to protect their portfolios from market volatility and to reduce the risk of losses.

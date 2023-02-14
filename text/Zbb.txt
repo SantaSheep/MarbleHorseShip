@@ -1,4 +1,4 @@
-<seo title="Zbb" metakeywords="zbb useful budgeting,zbb budgeting method,zbb budgeting,budgeting zbb budgeting" metadescription="Zero-based budgeting (ZBB) is a budgeting method that requires all expenses to be justified for each new period."/>
+<seo title="Zbb" metakeywords="zbb useful budgeting,zbb budgeting method,zbb budgeting,budgeting zbb budgeting" metadescription="Zero-based budgeting (ZBB) is a budgeting method that requires all expenses to be justified for each new period." />
 ===Introduction to ZBB===
 
 Zero-based budgeting (ZBB) is a budgeting method that requires all expenses to be justified for each new period. This means that all expenses must be re-evaluated and approved for each budget period, rather than simply carrying over the previous period’s budget. ZBB is a popular budgeting method used by businesses and organizations to ensure that all expenses are necessary and that resources are being used efficiently.

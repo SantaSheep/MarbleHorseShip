@@ -1,4 +1,4 @@
-<seo title="Accounting Cycle" metakeywords="accounting cycle involves,steps accounting cycle,accounting cycle consists,accounting cycle accounting" metadescription="The accounting cycle is a series of steps that companies use to record and report their financial transactions."/>
+<seo title="Accounting Cycle" metakeywords="accounting cycle involves,steps accounting cycle,accounting cycle consists,accounting cycle accounting" metadescription="The accounting cycle is a series of steps that companies use to record and report their financial transactions." />
 ===Introduction to the Accounting Cycle===
 
 The accounting cycle is a series of steps that companies use to record and report their financial transactions. It is a continuous process that begins when a transaction occurs and ends when the [[Financial Statements|financial statements]] are prepared. The accounting cycle is an important part of the financial reporting process and is used to ensure accuracy and consistency in the financial statements.

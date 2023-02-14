@@ -1,4 +1,4 @@
-<seo title="Gnp" metakeywords="gnp indicator economic,gnp used measure,gnp measure,country calculating gnp" metadescription="Gross National Product (GNP) is a measure of the total value of all goods and services produced by a country in a given year."/>
+<seo title="Gnp" metakeywords="gnp indicator economic,gnp used measure,gnp measure,country calculating gnp" metadescription="Gross National Product (GNP) is a measure of the total value of all goods and services produced by a country in a given year." />
 ===Introduction to Gross National Product (GNP)===
 
 Gross National Product (GNP) is a measure of the total value of all goods and services produced by a country in a given year. It is one of the most commonly used indicators of a country’s economic performance and is used to compare the economic performance of different countries. GNP is also used to measure the size of a country’s economy and to assess the economic health of a country.

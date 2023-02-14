@@ -1,4 +1,4 @@
-<seo title="Due From Account" metakeywords="owed type account,money owed type,receivable accounts,accounts receivable account" metadescription="Due From Account is a type of liability account that is used to record the amount of money that is owed to the business or individual."/>
+<seo title="Due From Account" metakeywords="owed type account,money owed type,receivable accounts,accounts receivable account" metadescription="Due From Account is a type of liability account that is used to record the amount of money that is owed to the business or individual." />
 ===Introduction to Due From Account===
 
 Due From Account is a type of financial account that is used to track the amount of money that is owed to a business or individual. It is a type of liability account that is used to record the amount of money that is owed to the business or individual. This type of account is typically used to track the amount of money that is owed to the business or individual by customers, vendors, or other businesses. It is important to note that this type of account is not used to track the amount of money that is owed by the business or individual.

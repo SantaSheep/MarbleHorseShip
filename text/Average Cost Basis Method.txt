@@ -1,4 +1,4 @@
-<seo title="Average Cost Basis Method" metakeywords="average cost basis,cost basis investment,cost basis method,method average cost" metadescription="The Average Cost Basis Method is used to calculate the cost of a security or other asset that has been purchased multiple times over a period of time."/>
+<seo title="Average Cost Basis Method" metakeywords="average cost basis,cost basis investment,cost basis method,method average cost" metadescription="The Average Cost Basis Method is used to calculate the cost of a security or other asset that has been purchased multiple times over a period of time." />
 ===Introduction to Average Cost Basis Method===
 
 The Average Cost Basis Method is a method of calculating the cost basis of an investment. It is used to determine the cost of an investment for tax purposes. The Average Cost Basis Method is used to calculate the cost of a security or other asset that has been purchased multiple times over a period of time. This method is used to calculate the cost of an investment for tax purposes, as well as to determine the gain or loss on the sale of the investment.

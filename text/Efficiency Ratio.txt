@@ -1,4 +1,4 @@
-<seo title="Efficiency Ratio" metakeywords="calculating efficiency ratios,efficiency ratios efficiency,efficiency ratio financial,efficiency ratio efficiency" metadescription="The efficiency ratio is a financial metric used to measure the efficiency of a company’s operations."/>
+<seo title="Efficiency Ratio" metakeywords="calculating efficiency ratios,efficiency ratios efficiency,efficiency ratio financial,efficiency ratio efficiency" metadescription="The efficiency ratio is a financial metric used to measure the efficiency of a company’s operations." />
 ===Introduction to Efficiency Ratio===
 
 The efficiency ratio is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing a company’s operating expenses by its total revenue. The efficiency ratio is used to assess the company’s ability to generate profits from its operations. It is also used to compare the efficiency of different companies in the same industry.

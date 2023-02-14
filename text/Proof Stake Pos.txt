@@ -1,4 +1,4 @@
-<seo title="Proof Stake Pos" metakeywords="proof stake pos,pos proof stake,advantages proof stake,proof stake advantages" metadescription="Proof of Stake is a consensus algorithm used in blockchain networks to validate transactions and secure the network."/>
+<seo title="Proof Stake Pos" metakeywords="proof stake pos,pos proof stake,advantages proof stake,proof stake advantages" metadescription="Proof of Stake is a consensus algorithm used in blockchain networks to validate transactions and secure the network." />
 ===Introduction to Proof Stake Pos===
 
 Proof Stake Pos (Proof of Stake) is a consensus algorithm used in blockchain networks to validate transactions and secure the network. It is an alternative to the more commonly used Proof of Work (PoW) consensus algorithm. The main difference between the two is that PoW requires miners to solve complex mathematical puzzles in order to validate transactions, while PoS requires users to stake their coins in order to validate transactions. This means that users who stake their coins are rewarded with transaction fees for validating transactions.

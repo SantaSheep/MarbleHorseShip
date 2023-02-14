@@ -1,4 +1,4 @@
-<seo title="Vix" metakeywords="volatility vix,vix measure,market volatility vix,vix used measure" metadescription="The VIX is a measure of the implied volatility of the S&P 500 index options."/>
+<seo title="Vix" metakeywords="volatility vix,vix measure,market volatility vix,vix used measure" metadescription="The VIX is a measure of the implied volatility of the S&P 500 index options." />
 ===Introduction to VIX===
 
 The VIX, or the Chicago Board Options Exchange Volatility Index, is a measure of the implied volatility of the S&P 500 index options. It is often referred to as the “fear index” because it is used to gauge investor sentiment and market volatility. The VIX is calculated and published by the Chicago Board Options Exchange (CBOE) and is widely used by investors and traders to gauge market sentiment and to make investment decisions.

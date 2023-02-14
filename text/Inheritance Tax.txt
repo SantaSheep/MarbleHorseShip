@@ -1,4 +1,4 @@
-<seo title="Inheritance Tax" metakeywords="introduction inheritance tax,inheritance tax typically,inheritance tax,laws inheritance tax" metadescription="Inheritance tax is a form of taxation that is imposed on the transfer of wealth from one person to another."/>
+<seo title="Inheritance Tax" metakeywords="introduction inheritance tax,inheritance tax typically,inheritance tax,laws inheritance tax" metadescription="Inheritance tax is a form of taxation that is imposed on the transfer of wealth from one person to another." />
 ===Introduction to Inheritance Tax===
 
 Inheritance tax is a tax imposed on the transfer of property from one person to another upon the death of the original owner. It is also known as estate tax or death duty. Inheritance tax is a form of taxation that is imposed on the transfer of wealth from one person to another. It is a tax on the estate of the deceased, which is the total value of all the assets owned by the deceased at the time of death. The tax is imposed on the estate of the deceased, not on the beneficiaries of the estate.

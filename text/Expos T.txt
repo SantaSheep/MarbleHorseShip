@@ -1,4 +1,4 @@
-<seo title="Expos T" metakeywords="expost analysis advantages,expost analysis disadvantages,definition expost,definition expost expost" metadescription="Expost is a financial term used to describe the analysis of past financial data.It is a method of analyzing financial data that has already been collected."/>
+<seo title="Expos T" metakeywords="expost analysis advantages,expost analysis disadvantages,definition expost,definition expost expost" metadescription="Expost is a financial term used to describe the analysis of past financial data.It is a method of analyzing financial data that has already been collected." />
 ===Introduction to Expost===
 
 Expost is a financial term used to describe the analysis of past financial data. It is a method of analyzing financial data that has already been collected and is used to gain insight into the performance of a company or industry. Expost analysis is often used to compare the performance of a company or industry over time, or to compare the performance of different companies or industries. Expost analysis can also be used to identify trends in the financial data and to make predictions about future performance.

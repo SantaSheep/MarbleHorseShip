@@ -1,4 +1,4 @@
-<seo title="Fca" metakeywords="regulations fca faces,fca effectively regulate,fca regulates,financial conduct authority" metadescription="The Financial Conduct Authority was established in 2013.It is an independent body that regulates the conduct of financial services firms and the markets in which they operate."/>
+<seo title="Fca" metakeywords="regulations fca faces,fca effectively regulate,fca regulates,financial conduct authority" metadescription="The Financial Conduct Authority was established in 2013.It is an independent body that regulates the conduct of financial services firms and the markets in which they operate." />
 ===Introduction to Fca===
 
 Fca stands for Financial Conduct Authority, which is a financial regulator in the United Kingdom. It is an independent body that regulates the conduct of financial services firms and the markets in which they operate. The FCA is responsible for ensuring that firms comply with the relevant laws and regulations, and that they treat their customers fairly. The FCA also has the power to take enforcement action against firms that breach the rules.

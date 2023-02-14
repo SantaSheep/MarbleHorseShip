@@ -1,4 +1,4 @@
-<seo title="Walk Through Test" metakeywords="walk test ensure,introduction walk test,purpose walk test,walk test typically" metadescription="A Walk Through Test is a type of financial audit that is used to assess the accuracy and completeness of a company’s financial records."/>
+<seo title="Walk Through Test" metakeywords="walk test ensure,introduction walk test,purpose walk test,walk test typically" metadescription="A Walk Through Test is a type of financial audit that is used to assess the accuracy and completeness of a company’s financial records." />
 ===Introduction to Walk Through Test===
 
 A Walk Through Test is a type of financial audit that is used to assess the accuracy and completeness of a company’s financial records. It is a process that involves a detailed review of the company’s [[Financial Statements|financial statements]], accounts, and other financial documents. The purpose of the test is to identify any discrepancies or errors in the financial records and to ensure that the company is in compliance with applicable laws and regulations. The test is typically conducted by an independent auditor or a qualified accountant.

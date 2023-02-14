@@ -1,4 +1,4 @@
-<seo title="Call Option" metakeywords="advantages calloptions options,introduction calloption option,disadvantages calloptions,advantages calloptions" metadescription="A call option is a financial derivative that gives the holder the right, but not the obligation, to buy an underlying asset at a predetermined price."/>
+<seo title="Call Option" metakeywords="advantages calloptions options,introduction calloption option,disadvantages calloptions,advantages calloptions" metadescription="A call option is a financial derivative that gives the holder the right, but not the obligation, to buy an underlying asset at a predetermined price." />
 ===Introduction to Calloption===
 
 A call option is a type of financial derivative that gives the holder the right, but not the obligation, to buy an underlying asset at a predetermined price on or before a specified date. Call options are typically used by investors to speculate on the future price of an asset or to hedge against potential losses. They are also used by companies to raise capital and to manage risk.

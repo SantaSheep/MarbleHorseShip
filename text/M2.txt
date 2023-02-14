@@ -1,4 +1,4 @@
-<seo title="M2" metakeywords="inflation affects m2,impact m2 economy,m2 measure money,economy m2 important" metadescription="M2 is a broader measure of money than M1, which only includes currency and demand deposits."/>
+<seo title="M2" metakeywords="inflation affects m2,impact m2 economy,m2 measure money,economy m2 important" metadescription="M2 is a broader measure of money than M1, which only includes currency and demand deposits." />
 ===Introduction to M2===
 
 M2 is a measure of the [[Money Supply|money supply]] in an economy. It is a broader measure of money than M1, which only includes currency and demand deposits. M2 includes all of the components of M1, as well as savings deposits, [[Money Market|money market]] [[Mutual Fund|mutual fund]]s, and other time deposits. M2 is an important indicator of economic activity and is closely watched by economists and central banks.

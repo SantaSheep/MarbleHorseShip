@@ -1,4 +1,4 @@
-<seo title="Escrow" metakeywords="escrow commonly used,escrow main benefits,benefits escrow provides,introduction escrow" metadescription=""/>
+<seo title="Escrow" metakeywords="escrow commonly used,escrow main benefits,benefits escrow provides,introduction escrow" metadescription="" />
 ===Introduction to Escrow===
 
 Escrow is a financial term that refers to a contractual arrangement in which a third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are met as overseen by the escrow company. Escrow is commonly used in [[Real Estate|real estate]] transactions, but it can also be used in other types of transactions such as online purchases, business mergers, and even international trade.

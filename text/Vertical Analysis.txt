@@ -1,4 +1,4 @@
-<seo title="Vertical Analysis" metakeywords="definition vertical analysis,vertical analysis used,vertical analysis,vertical analysis allows" metadescription="Vertical analysis is a financial analysis technique used to compare different financial statements of a company over a period of time."/>
+<seo title="Vertical Analysis" metakeywords="definition vertical analysis,vertical analysis used,vertical analysis,vertical analysis allows" metadescription="Vertical analysis is a financial analysis technique used to compare different financial statements of a company over a period of time." />
 ===Introduction to Vertical Analysis===
 
 Vertical analysis is a [[Financial Analysis|financial analysis]] technique used to compare different [[Financial Statements|financial statements]] of a company over a period of time. It is a type of comparative analysis that looks at the relative size of different line items on a financial statement. Vertical analysis is also known as common-size analysis because it expresses each item on the financial statement as a percentage of a base figure. This base figure is usually the total assets or total sales of the company.

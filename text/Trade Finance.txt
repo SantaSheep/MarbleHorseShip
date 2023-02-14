@@ -1,4 +1,4 @@
-<seo title="Trade Finance" metakeywords="introduction tradefinance tradefinance,international trade tradefinance,introduction tradefinance,trade tradefinance used" metadescription="Tradefinance is used to cover the costs associated with the purchase and sale of goods and services between two or more countries."/>
+<seo title="Trade Finance" metakeywords="introduction tradefinance tradefinance,international trade tradefinance,introduction tradefinance,trade tradefinance used" metadescription="Tradefinance is used to cover the costs associated with the purchase and sale of goods and services between two or more countries." />
 ===Introduction to Tradefinance===
 
 Tradefinance is a form of financing that is used to facilitate international trade. It is a type of financial service that is used to provide financial support to businesses that are involved in international trade. Tradefinance is used to cover the costs associated with the purchase and sale of goods and services between two or more countries. It is a form of financing that is used to help businesses manage the risks associated with international trade.

@@ -1,4 +1,4 @@
-<seo title="Pro Rata" metakeywords="definition pro rata,example pro rata,pro rata used,benefit pro rata" metadescription="Pro Rata is a method of allocating a sum of money or other resources among a group of people or entities in proportion to their respective shares."/>
+<seo title="Pro Rata" metakeywords="definition pro rata,example pro rata,pro rata used,benefit pro rata" metadescription="Pro Rata is a method of allocating a sum of money or other resources among a group of people or entities in proportion to their respective shares." />
 ===Introduction to Pro Rata===
 
 Pro Rata is a Latin term meaning “in proportion” and is used in a variety of financial contexts. It is a method of allocating a sum of money or other resources among a group of people or entities in proportion to their respective shares. Pro Rata is used in a variety of financial contexts, including insurance, investments, taxes, and debt. It is a way of fairly and equitably distributing resources among those who are entitled to them.

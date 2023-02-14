@@ -1,4 +1,4 @@
-<seo title="Break Even Point" metakeywords="breakeven point concept,breakeven point economics,business breakeven point,finance breakeven point" metadescription=""/>
+<seo title="Break Even Point" metakeywords="breakeven point concept,breakeven point economics,business breakeven point,finance breakeven point" metadescription="" />
 ===Introduction to Breakeven Point===
 
 Breakeven point is a concept used in finance, economics, and business to determine the point at which a company or individual will no longer be making a loss and will instead break even. It is a key concept in understanding the financial health of a business or individual and is used to make decisions about investments, pricing, and other financial matters.

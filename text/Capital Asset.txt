@@ -1,4 +1,4 @@
-<seo title="Capital Asset" metakeywords="assets taxation capital,capital assets taxation,capital assets accounting,taxation capital assets" metadescription="Capital assets are assets that are used in the production of income or for the purpose of generating wealth."/>
+<seo title="Capital Asset" metakeywords="assets taxation capital,capital assets taxation,capital assets accounting,taxation capital assets" metadescription="Capital assets are assets that are used in the production of income or for the purpose of generating wealth." />
 ===Introduction to Capital Asset===
 
 A capital asset is an asset that is used in the production of income or for the purpose of generating wealth. Capital assets can include [[Tangible Asset|tangible asset]]s such as [[Real Estate|real estate]], equipment, and machinery, as well as [[Intangible Asset|intangible asset]]s such as patents, copyrights, and trademarks. Capital assets are typically held for a long period of time and are not intended to be sold or exchanged in the near future.

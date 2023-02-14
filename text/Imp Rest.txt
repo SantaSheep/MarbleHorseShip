@@ -1,4 +1,4 @@
-<seo title="Imp Rest" metakeywords="imprest financial term,imprest imprest accounting,imprest accounting,definition imprest imprest" metadescription="Imprest is a system of accounting and budgeting in which a certain amount of money is set aside for a specific purpose."/>
+<seo title="Imp Rest" metakeywords="imprest financial term,imprest imprest accounting,imprest accounting,definition imprest imprest" metadescription="Imprest is a system of accounting and budgeting in which a certain amount of money is set aside for a specific purpose." />
 ===Introduction to Imprest===
 
 Imprest is a financial term that refers to a system of accounting and budgeting in which a certain amount of money is set aside for a specific purpose. This system is used by businesses, governments, and other organizations to manage their finances and ensure that funds are allocated properly. The term imprest is derived from the Latin word imprestare, which means “to set aside.” In this system, a certain amount of money is set aside in a special account and is used to cover expenses related to the specific purpose. This system is used to ensure that funds are not misused or overspent.

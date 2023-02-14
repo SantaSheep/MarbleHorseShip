@@ -1,4 +1,4 @@
-<seo title="Fiscal Year End" metakeywords="end fiscal year,fiscal year end,year end fiscal,statements end fiscal" metadescription="Fiscal year end (FYE) is an important concept in accounting and finance."/>
+<seo title="Fiscal Year End" metakeywords="end fiscal year,fiscal year end,year end fiscal,statements end fiscal" metadescription="Fiscal year end (FYE) is an important concept in accounting and finance." />
 ===Introduction to Fiscal Year End===
 
 [[Fiscal Year|Fiscal year]] end (FYE) is an important concept in accounting and finance. It is the date at which a company's [[Financial Statements|financial statements]] are prepared and the end of the company's fiscal year. The fiscal year end is used to determine the company's [[Financial Performance|financial performance]] for the year and to calculate taxes. It is also used to compare the company's performance to other companies in the same industry.

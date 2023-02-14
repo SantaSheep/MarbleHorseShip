@@ -1,4 +1,4 @@
-<seo title="Maturity Mismatch" metakeywords="maturity mismatch financial,maturity mismatch financ,maturities liabilities,short maturities liabilities" metadescription="Maturity mismatch is a financial term that refers to the situation in which the maturities of assets and liabilities do not match."/>
+<seo title="Maturity Mismatch" metakeywords="maturity mismatch financial,maturity mismatch financ,maturities liabilities,short maturities liabilities" metadescription="Maturity mismatch is a financial term that refers to the situation in which the maturities of assets and liabilities do not match." />
 ===Introduction to Maturity Mismatch===
 
 Maturity mismatch is a financial term that refers to the situation in which the maturities of assets and liabilities do not match. This mismatch can create a risk for [[Financial Institution|financial institution]]s, as it can lead to liquidity problems and other issues. In this article, we will discuss the types of maturity mismatch, the causes of maturity mismatch, the effects of maturity mismatch, and strategies to mitigate maturity mismatch.

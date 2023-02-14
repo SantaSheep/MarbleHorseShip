@@ -1,4 +1,4 @@
-<seo title="Over The Counter Market" metakeywords="otc markets,otc markets used,market otc market,markets additionally otc" metadescription="Over The Counter (OTC) market is a decentralized market for trading securities that are not listed on a formal exchange."/>
+<seo title="Over The Counter Market" metakeywords="otc markets,otc markets used,market otc market,markets additionally otc" metadescription="Over The Counter (OTC) market is a decentralized market for trading securities that are not listed on a formal exchange." />
 ===Introduction to Over The Counter Market===
 
 The Over The Counter (OTC) market is a decentralized market for trading securities that are not listed on a formal exchange. It is a type of market that is not regulated by a central authority, and instead is made up of a network of dealers who negotiate directly with each other. OTC markets are often used for trading securities that are not widely traded, such as [[Penny Stock|penny stock]]s, or for trading securities that are not listed on a formal exchange.

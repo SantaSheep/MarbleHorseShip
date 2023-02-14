@@ -1,4 +1,4 @@
-<seo title="Bank" metakeywords="bank regulations banks,banks risks associated,risks banks provide,bank regulations" metadescription="A bank is a financial institution that provides a variety of services to its customers."/>
+<seo title="Bank" metakeywords="bank regulations banks,banks risks associated,risks banks provide,bank regulations" metadescription="A bank is a financial institution that provides a variety of services to its customers." />
 ===Introduction to Bank===
 
 A bank is a [[Financial Institution|financial institution]] that provides a variety of services to its customers, including the acceptance of deposits, the granting of loans, and the provision of other financial services. Banks are regulated by both federal and state governments, and are subject to a variety of laws and regulations. Banks are also subject to a variety of risks, including [[Credit Risk|credit risk]], [[Liquidity Risk|liquidity risk]], and market risk.

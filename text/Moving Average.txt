@@ -1,4 +1,4 @@
-<seo title="Moving Average" metakeywords="moving averages used,moving averages useful,uses moving averages,types moving averages" metadescription="A moving average (MA) is a technical analysis tool used to smooth out short-term price fluctuations and highlight longer-term trends."/>
+<seo title="Moving Average" metakeywords="moving averages used,moving averages useful,uses moving averages,types moving averages" metadescription="A moving average (MA) is a technical analysis tool used to smooth out short-term price fluctuations and highlight longer-term trends." />
 ===Introduction to Moving Average===
 
 A moving average (MA) is a [[Technical Analysis|technical analysis]] tool used to smooth out short-term price fluctuations and highlight longer-term trends. It is a type of lagging indicator, meaning it is based on past data and is used to predict future trends. Moving averages are used to identify support and resistance levels, as well as to generate buy and sell signals.

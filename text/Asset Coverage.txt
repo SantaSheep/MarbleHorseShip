@@ -1,4 +1,4 @@
-<seo title="Asset Coverage" metakeywords="assetcoverage assetcoverage measure,assetcoverage important measure,definition assetcoverage assetcoverage,assetcoverage financial term" metadescription=" Assetcoverage is a financial term that refers to the amount of assets a company has relative to its liabilities."/>
+<seo title="Asset Coverage" metakeywords="assetcoverage assetcoverage measure,assetcoverage important measure,definition assetcoverage assetcoverage,assetcoverage financial term" metadescription=" Assetcoverage is a financial term that refers to the amount of assets a company has relative to its liabilities." />
 ===Introduction to Assetcoverage===
 
 Assetcoverage is a financial term that refers to the amount of assets a company has relative to its liabilities. It is a measure of a company's financial health and is used to assess the risk of a company defaulting on its debt. Assetcoverage is an important concept for investors and creditors alike, as it provides an indication of the company's ability to meet its financial obligations.

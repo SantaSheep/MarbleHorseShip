@@ -1,4 +1,4 @@
-<seo title="Smart Contracts" metakeywords="smart contracts concept,contracts concept smart,smart contracts,introduction smart contracts" metadescription="Smart contracts are digital contracts that are self-executing and self-enforcing."/>
+<seo title="Smart Contracts" metakeywords="smart contracts concept,contracts concept smart,smart contracts,introduction smart contracts" metadescription="Smart contracts are digital contracts that are self-executing and self-enforcing." />
 ===Introduction to Smart Contracts===
 
 Smart contracts are digital contracts that are self-executing and self-enforcing. They are computer protocols that facilitate, verify, and enforce the negotiation and performance of a contract. Smart contracts are designed to reduce the need for trust between parties, as they are automatically executed when certain conditions are met. Smart contracts are used in a variety of industries, including finance, insurance, [[Real Estate|real estate]], and healthcare.

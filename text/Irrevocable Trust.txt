@@ -1,4 +1,4 @@
-<seo title="Irrevocable Trust" metakeywords="irrevocable trusts used,irrevocable trusts purpose,benefits irrevocable trusts,irrevocable trusts types" metadescription="An irrevocable trust is a legal arrangement in which a person transfers assets to a trustee for the benefit of a third party."/>
+<seo title="Irrevocable Trust" metakeywords="irrevocable trusts used,irrevocable trusts purpose,benefits irrevocable trusts,irrevocable trusts types" metadescription="An irrevocable trust is a legal arrangement in which a person transfers assets to a trustee for the benefit of a third party." />
 ===Introduction to Irrevocable Trusts===
 
 An irrevocable trust is a legal arrangement in which a person, known as the grantor, transfers assets to a trustee to be held and managed for the benefit of a third party, known as the beneficiary. The grantor relinquishes all control over the assets and the trust is legally binding. Irrevocable trusts are commonly used for estate planning, asset protection, and tax planning.

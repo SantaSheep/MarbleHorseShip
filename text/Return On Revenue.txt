@@ -1,4 +1,4 @@
-<seo title="Return On Revenue" metakeywords="return revenue ror,revenue ror calculated,return revenue return,total revenue ror" metadescription="Return on Revenue (ROR) is a financial metric used to measure the efficiency of a company’s operations."/>
+<seo title="Return On Revenue" metakeywords="return revenue ror,revenue ror calculated,return revenue return,total revenue ror" metadescription="Return on Revenue (ROR) is a financial metric used to measure the efficiency of a company’s operations." />
 ===Introduction to Return on Revenue===
 
 Return on Revenue (ROR) is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing the company’s [[Net Income|net income]] by its total revenue. ROR is a useful tool for investors and analysts to assess the profitability of a company and compare it to other companies in the same industry. ROR is also used to evaluate the performance of a company over time.

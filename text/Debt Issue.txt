@@ -1,4 +1,4 @@
-<seo title="Debt Issue" metakeywords="debt issues types,issues types debt,debt issues provide,types debt issues" metadescription="Debt issue is a financial instrument used by companies to raise capital."/>
+<seo title="Debt Issue" metakeywords="debt issues types,issues types debt,debt issues provide,types debt issues" metadescription="Debt issue is a financial instrument used by companies to raise capital." />
 ===Introduction to Debt Issue===
 
 Debt issue is a [[Financial Instrument|financial instrument]] used by companies to raise capital. It is a form of borrowing that involves the issuance of bonds, notes, or other [[Debt Instrument|debt instrument]]s to investors in exchange for cash. The debt instruments are typically issued with a fixed [[Interest Rate|interest rate]] and a maturity date. The proceeds from the debt issue are used to finance the companyâ€™s operations, [[Capital Expenditure|capital expenditure]]s, or other investments. Debt issues are a common way for companies to raise capital and can be used to finance a variety of projects.

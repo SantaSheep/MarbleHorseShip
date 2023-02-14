@@ -1,4 +1,4 @@
-<seo title="Kpi" metakeywords="performance indicators kpis,using kpis organizations,kpis purpose application,kpis metrics" metadescription="Key Performance Indicators (KPIs) are metrics used to measure the performance of an organization or individual against predetermined goals."/>
+<seo title="Kpi" metakeywords="performance indicators kpis,using kpis organizations,kpis purpose application,kpis metrics" metadescription="Key Performance Indicators (KPIs) are metrics used to measure the performance of an organization or individual against predetermined goals." />
 ===Introduction to KPI===
 
 Key Performance Indicators (KPIs) are metrics used to measure the performance of an organization or individual against predetermined goals. KPIs are used to measure the success of a business, department, or individual in achieving their goals. KPIs are used to track progress and identify areas of improvement. They are also used to compare performance against industry benchmarks and competitors. KPIs are used to measure the performance of a business, department, or individual in achieving their goals.

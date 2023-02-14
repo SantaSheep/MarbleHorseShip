@@ -1,4 +1,4 @@
-<seo title="Rona" metakeywords="rona financial term,rona measure risk,rona important financial,financial obligations rona" metadescription="Rona is an important concept in finance and is used to assess the risk of a company or individual taking on a loan or other financial obligation."/>
+<seo title="Rona" metakeywords="rona financial term,rona measure risk,rona important financial,financial obligations rona" metadescription="Rona is an important concept in finance and is used to assess the risk of a company or individual taking on a loan or other financial obligation." />
 ===Introduction to Rona===
 
 Rona is a financial term that refers to the risk of a company or individual not being able to meet their financial obligations. It is a measure of the likelihood that a company or individual will default on their debt or other financial obligations. Rona is an important concept in finance and is used to assess the risk of a company or individual taking on a loan or other financial obligation.

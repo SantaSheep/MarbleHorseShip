@@ -1,4 +1,4 @@
-<seo title="Subordinated Debt" metakeywords="subordinated debt disadvantages,subordinated debt considered,subordinated debt,disadvantages subordinated debt" metadescription="Subordinated debt is a type of debt that ranks lower in priority than other debt in the event of a company’s liquidation."/>
+<seo title="Subordinated Debt" metakeywords="subordinated debt disadvantages,subordinated debt considered,subordinated debt,disadvantages subordinated debt" metadescription="Subordinated debt is a type of debt that ranks lower in priority than other debt in the event of a company’s liquidation." />
 ===Introduction to Subordinated Debt===
 
 Subordinated debt, also known as subordinated loan or junior debt, is a type of debt that ranks lower in priority than other debt in the event of a company’s liquidation. This means that if a company goes bankrupt, the holders of subordinated debt will receive payment only after the holders of senior debt have been paid. Subordinated debt is typically issued by companies to raise capital for expansion or other purposes. It is also used by banks to raise capital to meet regulatory requirements.

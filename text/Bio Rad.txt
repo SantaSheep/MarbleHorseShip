@@ -1,4 +1,4 @@
-<seo title="Bio Rad" metakeywords="introduction bio rad,diagnostics life science,conclusion bio rad,bio rad founded" metadescription="Bio Rad is a global leader in life science research and clinical diagnostics."/>
+<seo title="Bio Rad" metakeywords="introduction bio rad,diagnostics life science,conclusion bio rad,bio rad founded" metadescription="Bio Rad is a global leader in life science research and clinical diagnostics." />
 ===Introduction to Bio Rad===
 
 Bio Rad is a global leader in life science research and clinical diagnostics. Founded in 1952, the company has grown to become a trusted provider of innovative products and services to the scientific and healthcare communities. Bio Rad offers a wide range of products and services, including laboratory instruments, reagents, and software, as well as clinical diagnostics and research services. The company has a presence in more than 100 countries and employs over 8,000 people worldwide.

@@ -1,4 +1,4 @@
-<seo title="Business Risk" metakeywords="introduction business risk,managing business risk,business risk risks,manage business risk" metadescription="Business risk is the potential for a business to suffer losses due to external factors such as economic downturns, competition, or changes in the market."/>
+<seo title="Business Risk" metakeywords="introduction business risk,managing business risk,business risk risks,manage business risk" metadescription="Business risk is the potential for a business to suffer losses due to external factors such as economic downturns, competition, or changes in the market." />
 ===Introduction to Business Risk===
 
 Business risk is the potential for a business to suffer losses due to external factors such as economic downturns, competition, or changes in the market. It is an inherent part of any business and can have a significant impact on the success or failure of a business. Business risk can be managed through careful planning and analysis, but it is impossible to completely eliminate. Understanding the different types of business risk and how to assess and manage them is essential for any business.

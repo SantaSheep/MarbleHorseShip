@@ -1,4 +1,4 @@
-<seo title="Dover Corporation" metakeywords="introduction dover corporation,dover corporation operates,history dover corporation,dover corporation diversified" metadescription="Dover Corporation is a diversified global manufacturer and marketer of industrial products and services."/>
+<seo title="Dover Corporation" metakeywords="introduction dover corporation,dover corporation operates,history dover corporation,dover corporation diversified" metadescription="Dover Corporation is a diversified global manufacturer and marketer of industrial products and services." />
 ===Introduction to Dover Corporation===
 
 Dover Corporation is a diversified global manufacturer and marketer of industrial products and services. The company operates in four business segments: Engineered Systems, Fluids, Refrigeration & Food Equipment, and Energy. Dover Corporation is headquartered in Downers Grove, Illinois and has operations in more than 30 countries. The company has a long history of providing innovative solutions to customers in a wide range of industries, including automotive, aerospace, energy, food and beverage, healthcare, and industrial.

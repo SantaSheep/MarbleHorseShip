@@ -1,4 +1,4 @@
-<seo title="Bank Statement" metakeywords="statement reading bank,read bank statement,bank statement reading,bank statements typically" metadescription="Bank statements provide a detailed record of all transactions, including deposits, withdrawals, fees, and interest earned."/>
+<seo title="Bank Statement" metakeywords="statement reading bank,read bank statement,bank statement reading,bank statements typically" metadescription="Bank statements provide a detailed record of all transactions, including deposits, withdrawals, fees, and interest earned." />
 ===Introduction to Bank Statement===
 
 A bank statement is a document issued by a [[Financial Institution|financial institution]] that provides a summary of a customer’s account activity over a given period of time. Bank statements are typically issued monthly or quarterly and provide a detailed record of all transactions, including deposits, withdrawals, fees, and interest earned. Bank statements are an important tool for managing finances and tracking spending, and they can also be used to detect fraud or errors.

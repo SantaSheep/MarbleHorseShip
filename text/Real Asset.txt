@@ -1,4 +1,4 @@
-<seo title="Real Asset" metakeywords="investing realassets,risks investing realassets,investing realassets realassets,benefits investing realassets" metadescription="Realassets are tangible assets that have a physical form and can be used to generate income or appreciate in value."/>
+<seo title="Real Asset" metakeywords="investing realassets,risks investing realassets,investing realassets realassets,benefits investing realassets" metadescription="Realassets are tangible assets that have a physical form and can be used to generate income or appreciate in value." />
 ===Introduction to Realasset===
 
 Realassets are [[Tangible Asset|tangible asset]]s that have a physical form and can be used to generate income or appreciate in value. Realassets include [[Real Estate|real estate]], commodities, precious metals, and other physical assets. Realassets are distinct from [[Financial Asset|financial asset]]s, which are investments that are not tangible and are not backed by physical assets. Realassets are often seen as a safe and reliable form of investment, as they are not subject to the same market volatility as financial assets.

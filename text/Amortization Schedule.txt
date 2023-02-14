@@ -1,4 +1,4 @@
-<seo title="Amortization Schedule" metakeywords="amortization schedules amortization,amortization schedules,schedules amortization schedules,schedule amortization schedule" metadescription="An amortization schedule is a table that outlines the periodic payments made on a loan or other type of debt."/>
+<seo title="Amortization Schedule" metakeywords="amortization schedules amortization,amortization schedules,schedules amortization schedules,schedule amortization schedule" metadescription="An amortization schedule is a table that outlines the periodic payments made on a loan or other type of debt." />
 ===Introduction to Amortization Schedule===
 
 An amortization schedule is a table that outlines the periodic payments made on a loan or other type of debt. It shows the amount of principal and interest paid each period, as well as the remaining balance of the loan. An amortization schedule is typically used to calculate the repayment of a loan over a period of time. It is also used to determine the amount of interest paid on a loan over its lifetime.

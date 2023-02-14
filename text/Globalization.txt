@@ -1,4 +1,4 @@
-<seo title="Globalization" metakeywords="economy globalization,globalization history globalization,introduction globalization,globalization impact globalization" metadescription="Globalization is the process of integrating economies, cultures, and societies across the world."/>
+<seo title="Globalization" metakeywords="economy globalization,globalization history globalization,introduction globalization,globalization impact globalization" metadescription="Globalization is the process of integrating economies, cultures, and societies across the world." />
 ===Introduction to Globalization===
 
 Globalization is the process of integrating economies, cultures, and societies across the world. It is a process of interaction and integration among people, companies, and governments of different nations, a process driven by international trade and investment and aided by information technology. This process has effects on the environment, on culture, on political systems, on economic development and prosperity, and on human physical well-being in societies around the world.

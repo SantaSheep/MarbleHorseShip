@@ -1,4 +1,4 @@
-<seo title="Opportunity Cost" metakeywords="opportunity cost concept,opportunity cost example,definition opportunity cost,opportunity cost defined" metadescription="Opportunity cost is the cost of an alternative that must be forgone in order to pursue a certain action."/>
+<seo title="Opportunity Cost" metakeywords="opportunity cost concept,opportunity cost example,definition opportunity cost,opportunity cost defined" metadescription="Opportunity cost is the cost of an alternative that must be forgone in order to pursue a certain action." />
 ===Introduction to Opportunity Cost===
 
 Opportunity cost is an economic concept that refers to the cost of an alternative that must be forgone in order to pursue a certain action. It is the cost of the next best alternative that is not chosen. Opportunity cost is an important concept in economics and finance, as it helps to determine the optimal decision when faced with multiple choices.

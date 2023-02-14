@@ -1,4 +1,4 @@
-<seo title="Zero Coupon Bond" metakeywords="coupon bonds disadvantages,zero coupon bonds,disadvantages zero coupon,zero coupon bond" metadescription="A zero coupon bond is a type of bond that does not pay periodic interest payments."/>
+<seo title="Zero Coupon Bond" metakeywords="coupon bonds disadvantages,zero coupon bonds,disadvantages zero coupon,zero coupon bond" metadescription="A zero coupon bond is a type of bond that does not pay periodic interest payments." />
 ===Introduction to Zero Coupon Bonds===
 
 A zero coupon bond is a type of bond that does not pay periodic interest payments. Instead, the bond is issued at a discount to its [[Face Value|face value]], and the investor receives the full face value of the bond when it matures. Zero coupon bonds are also known as deep discount bonds or accrual bonds. Zero coupon bonds are attractive to investors because they offer a guaranteed [[Return On Investment|return on investment]], and they can be used to diversify a portfolio.

@@ -1,4 +1,4 @@
-<seo title="Unqualified Opinion" metakeywords="definition unqualified opinion,types unqualified opinion,unqualified opinion provides,types unqualified opinions" metadescription="An unqualified opinion is a type of opinion issued by an auditor or other financial professional in response to a financial statement."/>
+<seo title="Unqualified Opinion" metakeywords="definition unqualified opinion,types unqualified opinion,unqualified opinion provides,types unqualified opinions" metadescription="An unqualified opinion is a type of opinion issued by an auditor or other financial professional in response to a financial statement." />
 ===Introduction to Unqualified Opinion===
 
 An unqualified opinion is a type of opinion issued by an auditor or other financial professional in response to a financial statement. It is the most favorable opinion that can be issued and indicates that the financial statement is free from material misstatements and is presented in accordance with the applicable financial reporting framework. An unqualified opinion is also known as a “clean opinion” or “unmodified opinion” and is the most common type of opinion issued by auditors.

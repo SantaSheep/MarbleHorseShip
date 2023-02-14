@@ -1,4 +1,4 @@
-<seo title="Ebit" metakeywords="ebit used measure,calculation ebit,conclusion ebit useful,ebit useful metric" metadescription="Ebit, or Earnings Before Interest and Taxes, is a financial term used to measure a company’s profitability.It is calculated by subtracting operating expenses from total revenue."/>
+<seo title="Ebit" metakeywords="ebit used measure,calculation ebit,conclusion ebit useful,ebit useful metric" metadescription="Ebit, or Earnings Before Interest and Taxes, is a financial term used to measure a company’s profitability.It is calculated by subtracting operating expenses from total revenue." />
 ===Introduction to Ebit===
 
 Ebit, or Earnings Before Interest and Taxes, is a financial term used to measure a company’s profitability. It is a measure of a company’s operating performance and is calculated by subtracting operating expenses from total revenue. Ebit is a key metric used by investors and analysts to evaluate a company’s [[Financial Performance|financial performance]].

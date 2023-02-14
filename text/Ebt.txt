@@ -1,4 +1,4 @@
-<seo title="Ebt" metakeywords="ebt financial metric,introduction ebt earnings,definition ebt earnings,revenue ebt important" metadescription="EBT is a financial metric used to measure a company’s profitability before taxes are taken into account.It is calculated by subtracting operating expenses from total revenue."/>
+<seo title="Ebt" metakeywords="ebt financial metric,introduction ebt earnings,definition ebt earnings,revenue ebt important" metadescription="EBT is a financial metric used to measure a company’s profitability before taxes are taken into account.It is calculated by subtracting operating expenses from total revenue." />
 ===Introduction to Ebt===
 
 Earnings Before Tax (EBT) is a financial metric used to measure a company’s profitability before taxes are taken into account. It is a measure of a company’s operating performance and is calculated by subtracting operating expenses from total revenue. EBT is an important metric for investors and analysts to consider when evaluating a company’s financial health.

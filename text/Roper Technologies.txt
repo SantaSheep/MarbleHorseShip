@@ -1,4 +1,4 @@
-<seo title="Roper Technologies" metakeywords="roper technologies diversified,roper technologies operates,roper technologies acquired,technologies roper" metadescription="Roper Technologies is a diversified technology company that designs and develops software, medical devices, and industrial products."/>
+<seo title="Roper Technologies" metakeywords="roper technologies diversified,roper technologies operates,roper technologies acquired,technologies roper" metadescription="Roper Technologies is a diversified technology company that designs and develops software, medical devices, and industrial products." />
 ===Introduction to Roper Technologies===
 
 Roper Technologies is a diversified technology company that designs and develops software, medical devices, and industrial products. The company was founded in 1981 and is headquartered in Sarasota, Florida. Roper Technologies has grown to become a global leader in the technology industry, with operations in more than 20 countries and over 20,000 employees worldwide. The company is listed on the New York Stock Exchange and is a component of the S&P 500 index.

@@ -1,4 +1,4 @@
-<seo title="Exchange Ratio" metakeywords="exchange ratio defined,exchange ratios exchange,stock exchange ratio,ratios exchange ratio" metadescription="Exchange ratio is a key factor in determining the value of a company’s stock in a merger or acquisition."/>
+<seo title="Exchange Ratio" metakeywords="exchange ratio defined,exchange ratios exchange,stock exchange ratio,ratios exchange ratio" metadescription="Exchange ratio is a key factor in determining the value of a company’s stock in a merger or acquisition." />
 ===Introduction to Exchange Ratio===
 
 Exchange ratio is a financial term used to describe the ratio of one company’s stock to another company’s stock in a merger or acquisition. It is a key factor in determining the value of a company’s stock and is used to determine the value of a company’s assets and liabilities. Exchange ratio is also used to determine the value of a company’s stock in a [[Stock Split|stock split]].

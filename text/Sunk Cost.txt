@@ -1,4 +1,4 @@
-<seo title="Sunk Cost" metakeywords="sunk cost defined,definition sunk cost,avoid sunk cost,examples sunk cost" metadescription="Sunk cost is a term used in economics and finance to refer to costs that have already been incurred and cannot be recovered."/>
+<seo title="Sunk Cost" metakeywords="sunk cost defined,definition sunk cost,avoid sunk cost,examples sunk cost" metadescription="Sunk cost is a term used in economics and finance to refer to costs that have already been incurred and cannot be recovered." />
 ===Introduction to Sunk Cost===
 
 Sunk cost is a term used in economics and finance to refer to costs that have already been incurred and cannot be recovered. It is a concept that is used to explain why people may continue to invest in a project or activity even when it is no longer profitable. Sunk cost is an important concept to understand when making decisions about investments and other financial matters.

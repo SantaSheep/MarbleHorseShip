@@ -1,4 +1,4 @@
-<seo title="R Squared" metakeywords="correlation uses squared,squared used assess,data calculating squared,square correlation coefficient" metadescription="R Squared is a measure of how well a regression model fits the data."/>
+<seo title="R Squared" metakeywords="correlation uses squared,squared used assess,data calculating squared,square correlation coefficient" metadescription="R Squared is a measure of how well a regression model fits the data." />
 ===Introduction to R Squared===
 
 R Squared is a statistical measure that is used to assess the goodness of fit of a regression model. It is also known as the [[Coefficient Of Determination|coefficient of determination]] and is used to measure the strength of the relationship between the independent and dependent variables in a regression model. It is a measure of how well the regression model fits the data.

@@ -1,4 +1,4 @@
-<seo title="Trailing Pe" metakeywords="portfolio uses trailingpe,trailingpe financial term,definition trailingpe,trailingpe concept" metadescription="Trailingpe is a financial term used to describe a method of calculating the performance of a portfolio over a period of time."/>
+<seo title="Trailing Pe" metakeywords="portfolio uses trailingpe,trailingpe financial term,definition trailingpe,trailingpe concept" metadescription="Trailingpe is a financial term used to describe a method of calculating the performance of a portfolio over a period of time." />
 ===Introduction to Trailingpe===
 
 Trailingpe is a financial term used to describe a method of calculating the performance of a portfolio over a period of time. It is a measure of the [[Return On Investment|return on investment]] (ROI) of a portfolio and is used to compare the performance of different portfolios. The term is derived from the words “trailing” and “performance” and is used to measure the performance of a portfolio over a period of time.

@@ -1,4 +1,4 @@
-<seo title="Butterfly Spread" metakeywords="short butterfly spread,butterfly spread short,butterfly spread involves,butterfly spread type" metadescription="A butterfly spread is a type of options strategy that involves the simultaneous purchase and sale of four option contracts with three different strike prices."/>
+<seo title="Butterfly Spread" metakeywords="short butterfly spread,butterfly spread short,butterfly spread involves,butterfly spread type" metadescription="A butterfly spread is a type of options strategy that involves the simultaneous purchase and sale of four option contracts with three different strike prices." />
 ===Introduction to Butterflyspread===
 
 A butterfly spread is a type of options strategy that involves the simultaneous purchase and sale of four option contracts with three different [[Strike Price|strike price]]s. The strategy is designed to take advantage of a stock’s expected range of movement over a certain period of time. The butterfly spread is a limited risk, limited reward strategy that is used to capitalize on a stock’s expected range of movement.

@@ -1,4 +1,4 @@
-<seo title="Pivot Point" metakeywords="pivot points used,pivot point technical,uses pivot points,using pivot points" metadescription="Pivot Point is a technical analysis tool used by traders to identify potential support and resistance levels in the market."/>
+<seo title="Pivot Point" metakeywords="pivot points used,pivot point technical,uses pivot points,using pivot points" metadescription="Pivot Point is a technical analysis tool used by traders to identify potential support and resistance levels in the market." />
 ===Introduction to Pivot Point===
 
 Pivot Point is a [[Technical Analysis|technical analysis]] tool used by traders to identify potential support and resistance levels in the market. It is based on the idea that the price of a security will tend to move in a certain direction after reaching a certain level. The pivot point is calculated by taking the average of the high, low, and closing prices of the previous trading day. This average is then used to calculate the support and resistance levels for the current trading day.

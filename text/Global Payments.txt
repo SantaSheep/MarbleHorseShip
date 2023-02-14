@@ -1,4 +1,4 @@
-<seo title="Global Payments" metakeywords="global payments operates,payments global,global payments provides,payments global payments" metadescription="Global Payments provides a wide range of payment solutions, including point-of-sale, online, mobile, and integrated payments."/>
+<seo title="Global Payments" metakeywords="global payments operates,payments global,global payments provides,payments global payments" metadescription="Global Payments provides a wide range of payment solutions, including point-of-sale, online, mobile, and integrated payments." />
 ===Introduction to Global Payments===
 
 Global Payments Inc. is a leading provider of payment technology and software solutions. The company is headquartered in Atlanta, Georgia and operates in more than 30 countries around the world. Global Payments provides a wide range of payment solutions, including point-of-sale, online, mobile, and integrated payments. The company also offers merchant services, such as payment processing, fraud prevention, and data security. Global Payments is a publicly traded company listed on the New York Stock Exchange (NYSE: GPN).

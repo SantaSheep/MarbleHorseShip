@@ -1,4 +1,4 @@
-<seo title="Negative Goodwill" metakeywords="negative goodwill accounting,goodwill negative goodwill,value negative goodwill,disadvantages negative goodwill" metadescription="Negative goodwill is an accounting term used to describe the situation when the fair value of a company’s net assets is greater than the purchase price paid for the company."/>
+<seo title="Negative Goodwill" metakeywords="negative goodwill accounting,goodwill negative goodwill,value negative goodwill,disadvantages negative goodwill" metadescription="Negative goodwill is an accounting term used to describe the situation when the fair value of a company’s net assets is greater than the purchase price paid for the company." />
 ===Introduction to Negative Goodwill===
 
 Negative goodwill is an accounting term used to describe the situation when the [[Fair Value|fair value]] of a company’s net assets is greater than the purchase price paid for the company. This means that the company has been purchased for less than its net asset value. Negative goodwill is also known as a bargain purchase.

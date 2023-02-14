@@ -1,4 +1,4 @@
-<seo title="Shortfall" metakeywords="shortfall important concept,investment shortfall measured,shortfall identified finance,shortfall term used" metadescription="Shortfall is a term used in finance to describe the difference between the expected or desired outcome and the actual outcome."/>
+<seo title="Shortfall" metakeywords="shortfall important concept,investment shortfall measured,shortfall identified finance,shortfall term used" metadescription="Shortfall is a term used in finance to describe the difference between the expected or desired outcome and the actual outcome." />
 ===Introduction to Shortfall===
 
 Shortfall is a term used in finance to describe the difference between the expected or desired outcome and the actual outcome. It is a measure of the gap between the two and can be used to assess the performance of a financial decision or investment. Shortfall can be measured in terms of money, time, or other resources. It is an important concept in finance as it can help identify areas of improvement and inform decisions about future investments.

@@ -1,4 +1,4 @@
-<seo title="Shares" metakeywords="shares investing,investments shares provide,shares provide investors,risks investing shares" metadescription="Shares are a financial instrument that represent ownership in a company."/>
+<seo title="Shares" metakeywords="shares investing,investments shares provide,shares provide investors,risks investing shares" metadescription="Shares are a financial instrument that represent ownership in a company." />
 ===Introduction to Shares===
 
 Shares are a type of [[Financial Instrument|financial instrument]] that represent ownership in a company. They are also known as stocks or equity. When a company issues shares, it is essentially selling a portion of the company to investors. The investors then become shareholders, and they are entitled to a portion of the company’s profits and assets. Shares are traded on stock exchanges, and their prices are determined by the forces of supply and demand.

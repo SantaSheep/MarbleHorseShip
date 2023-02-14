@@ -1,4 +1,4 @@
-<seo title="Mortality Table" metakeywords="mortality tables used,uses mortality tables,mortality table statistical,mortality tables" metadescription="A mortality table is a statistical tool used to calculate the probability of death for a given population."/>
+<seo title="Mortality Table" metakeywords="mortality tables used,uses mortality tables,mortality table statistical,mortality tables" metadescription="A mortality table is a statistical tool used to calculate the probability of death for a given population." />
 ===Introduction to Mortality Table===
 
 A mortality table is a statistical tool used to calculate the probability of death for a given population. It is used to estimate the life expectancy of a population, as well as to calculate the probability of death for a given age. Mortality tables are used in a variety of fields, including insurance, [[Actuarial Science|actuarial science]], and public health.

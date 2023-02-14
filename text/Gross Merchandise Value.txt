@@ -1,4 +1,4 @@
-<seo title="Gross Merchandise Value" metakeywords="gross merchandise value,merchandise value gmv,value gross merchandise,gmv defined total" metadescription="Gross Merchandise Value (GMV) is a financial metric used to measure the total value of goods and services sold through a business."/>
+<seo title="Gross Merchandise Value" metakeywords="gross merchandise value,merchandise value gmv,value gross merchandise,gmv defined total" metadescription="Gross Merchandise Value (GMV) is a financial metric used to measure the total value of goods and services sold through a business." />
 ===Introduction to Gross Merchandise Value===
 
 Gross Merchandise Value (GMV) is a financial metric used to measure the total value of goods and services sold through a business. It is a key indicator of a company’s performance and is used to assess the success of a business’s sales and marketing efforts. GMV is an important metric for businesses to track, as it provides insight into the overall health of the business.

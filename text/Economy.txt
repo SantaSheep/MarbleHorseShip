@@ -1,4 +1,4 @@
-<seo title="Economy" metakeywords="economic systems,types economic systems,economic systems factors,economic systems different" metadescription="The economy is composed of a variety of different elements, including economic systems, factors of production, economic indicators, economic theories, and economic policies."/>
+<seo title="Economy" metakeywords="economic systems,types economic systems,economic systems factors,economic systems different" metadescription="The economy is composed of a variety of different elements, including economic systems, factors of production, economic indicators, economic theories, and economic policies." />
 ===Introduction to the Economy===
 
 The economy is a complex system of production, distribution, and consumption of goods and services. It is the foundation of any society and is the primary determinant of a nation's standard of living. The economy is composed of a variety of different elements, including economic systems, factors of production, economic indicators, economic theories, and economic policies. Each of these elements plays an important role in the functioning of the economy and in the overall health of a nation.

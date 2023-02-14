@@ -1,4 +1,4 @@
-<seo title="Human Resources" metakeywords="human resources financial,human resources strategies,hr strategy financial,human resources challenges" metadescription="Human Resources (HR) is a term used to describe the management of people within an organization."/>
+<seo title="Human Resources" metakeywords="human resources financial,human resources strategies,hr strategy financial,human resources challenges" metadescription="Human Resources (HR) is a term used to describe the management of people within an organization." />
 ===Introduction to Human Resources===
 
 Human Resources (HR) is a term used to describe the management of people within an organization. It is a broad field that encompasses a variety of activities, including recruitment, training, compensation, benefits, and employee relations. HR is responsible for ensuring that an organization has the right people in the right positions to achieve its goals. HR professionals are also responsible for creating and maintaining a positive work environment that encourages employee engagement and productivity.

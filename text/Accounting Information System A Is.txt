@@ -1,4 +1,4 @@
-<seo title="Accounting Information System A Is" metakeywords="accounting information ais,information ais accounting,ais accounting,ais accounting information" metadescription="An Accounting Information System (AIS) is a system of collecting, storing, and processing financial and accounting data that is used by decision makers."/>
+<seo title="Accounting Information System A Is" metakeywords="accounting information ais,information ais accounting,ais accounting,ais accounting information" metadescription="An Accounting Information System (AIS) is a system of collecting, storing, and processing financial and accounting data that is used by decision makers." />
 ===Introduction to Accounting Information System (AIS)===
 
 An Accounting Information System (AIS) is a system of collecting, storing, and processing financial and accounting data that is used by decision makers. It is a computer-based system that is used to record and process accounting transactions and generate [[Financial Statements|financial statements]]. AIS is used to provide information to internal and external users, such as managers, investors, creditors, and tax authorities.

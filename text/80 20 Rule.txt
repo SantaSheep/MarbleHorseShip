@@ -1,4 +1,4 @@
-<seo title="80 20 Rule" metakeywords="pareto principle,pareto principle concept,known pareto principle,20 rule useful" metadescription="The 80/20 Rule was first proposed by Italian economist Vilfredo Pareto in the late 19th century."/>
+<seo title="80 20 Rule" metakeywords="pareto principle,pareto principle concept,known pareto principle,20 rule useful" metadescription="The 80/20 Rule was first proposed by Italian economist Vilfredo Pareto in the late 19th century." />
 ===Introduction to the 80/20 Rule===
 
 The 80/20 Rule, also known as the [[Pareto Principle|Pareto Principle]], is a concept that states that 80% of the effects come from 20% of the causes. This rule is used in many different fields, including economics, business, and finance. It is based on the observation that a small number of inputs are responsible for the majority of outputs. The 80/20 Rule is a useful tool for understanding how to maximize efficiency and productivity in any given situation.

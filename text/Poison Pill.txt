@@ -1,4 +1,4 @@
-<seo title="Poison Pill" metakeywords="poison pill strategy,acquire poison pill,company poison pill,drawback poison pill" metadescription="A poison pill is a defensive tactic used by companies to prevent hostile takeovers."/>
+<seo title="Poison Pill" metakeywords="poison pill strategy,acquire poison pill,company poison pill,drawback poison pill" metadescription="A poison pill is a defensive tactic used by companies to prevent hostile takeovers." />
 ===Introduction to Poisonpill===
 
 A poison pill is a type of defensive tactic used by companies to prevent [[Hostile Takeover|hostile takeover]]s. It is a strategy that is designed to make a company less attractive to potential acquirers by making it more expensive to acquire. The poison pill strategy is typically implemented by issuing additional shares of the company’s stock to existing shareholders at a discounted price. This makes it more expensive for a potential acquirer to purchase a controlling stake in the company. The poison pill strategy is also known as a shareholder rights plan.

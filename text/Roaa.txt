@@ -1,4 +1,4 @@
-<seo title="Roaa" metakeywords="roaa financial ratio,roaa return assets,assets formula roaa,return assets roaa" metadescription="Return on Assets (ROAA) is a financial ratio that measures the profitability of a company by comparing the net income to the total assets of the company."/>
+<seo title="Roaa" metakeywords="roaa financial ratio,roaa return assets,assets formula roaa,return assets roaa" metadescription="Return on Assets (ROAA) is a financial ratio that measures the profitability of a company by comparing the net income to the total assets of the company." />
 ===Introduction to Return on Assets (ROAA)===
 
 [[Return On Assets|Return on Assets]] (ROAA) is a financial ratio that measures the profitability of a company by comparing the [[Net Income|net income]] to the total assets of the company. It is used to measure the efficiency of a company’s management in generating profits from its assets. ROAA is a key indicator of a company’s financial health and is used by investors and analysts to evaluate the performance of a company.

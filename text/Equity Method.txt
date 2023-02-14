@@ -1,4 +1,4 @@
-<seo title="Equity Method" metakeywords="equity method accounting,equity method used,introduction equity method,equity method" metadescription="The equity method is an accounting technique used to account for investments in other companies."/>
+<seo title="Equity Method" metakeywords="equity method accounting,equity method used,introduction equity method,equity method" metadescription="The equity method is an accounting technique used to account for investments in other companies." />
 ===Introduction to Equity Method===
 
 The equity method is an accounting technique used to account for investments in other companies. It is used when an investor has a significant influence over the investee, but does not have control. The equity method is used to record the investor’s share of the investee’s profits and losses, as well as the investor’s share of the investee’s assets and liabilities. The equity method is also used to record the investor’s share of any dividends paid by the investee.

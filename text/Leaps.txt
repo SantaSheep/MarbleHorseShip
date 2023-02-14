@@ -1,4 +1,4 @@
-<seo title="Leaps" metakeywords="leaps options,investing leaps,leaps options options,investing leaps making" metadescription="LEAPS are a type of stock option that allows investors to purchase the right to buy or sell a stock at a later date."/>
+<seo title="Leaps" metakeywords="leaps options,investing leaps,leaps options options,investing leaps making" metadescription="LEAPS are a type of stock option that allows investors to purchase the right to buy or sell a stock at a later date." />
 ===Introduction to LEAPS===
 
 LEAPS, or Long-term Equity Anticipation Securities, are a type of [[Stock Option|stock option]] that allows investors to purchase the right to buy or sell a stock at a predetermined price at a later date. LEAPS are similar to regular stock options, but they have a much longer expiration date, typically up to three years. LEAPS are a popular investment tool for investors who want to take advantage of long-term price movements in a stock without having to commit to a long-term investment.

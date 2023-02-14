@@ -1,4 +1,4 @@
-<seo title="Accruals" metakeywords="definition accruals accruals,accruals type accounting,definition accruals,using accruals" metadescription="Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date."/>
+<seo title="Accruals" metakeywords="definition accruals accruals,accruals type accounting,definition accruals,using accruals" metadescription="Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date." />
 ===Introduction to Accruals===
 
 Accruals are a type of accounting transaction that involves the recognition of income or expenses that have been incurred but not yet paid or received. Accruals are used to ensure that a company’s [[Financial Statements|financial statements]] accurately reflect the company’s financial position at any given time. Accruals are an important part of the accounting process and are used to ensure that a company’s financial statements are accurate and up-to-date.

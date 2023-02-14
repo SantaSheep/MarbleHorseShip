@@ -1,4 +1,4 @@
-<seo title="Unfavorable Variance" metakeywords="unfavorable variance important,introduction unfavorable variance,unfavorable variance impact,unfavorable variance used" metadescription="Unfavorable variance is a term used in financial analysis to describe the difference between actual results and expected results."/>
+<seo title="Unfavorable Variance" metakeywords="unfavorable variance important,introduction unfavorable variance,unfavorable variance impact,unfavorable variance used" metadescription="Unfavorable variance is a term used in financial analysis to describe the difference between actual results and expected results." />
 ===Introduction to Unfavorable Variance===
 
 Unfavorable variance is a term used in [[Financial Analysis|financial analysis]] to describe the difference between actual results and expected results. It is a measure of how much a company’s performance has deviated from what was expected. Unfavorable variance can be used to identify areas of potential improvement and to help managers make better decisions.

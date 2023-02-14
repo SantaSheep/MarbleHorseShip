@@ -1,4 +1,4 @@
-<seo title="After Tax Real Rate Of Return" metakeywords="tax real rate,real rate return,rate return tax,calculating tax real" metadescription="After tax real rate of return is a measure of the return on an investment after taking into account the effects of taxes and inflation."/>
+<seo title="After Tax Real Rate Of Return" metakeywords="tax real rate,real rate return,rate return tax,calculating tax real" metadescription="After tax real rate of return is a measure of the return on an investment after taking into account the effects of taxes and inflation." />
 ===Introduction to After Tax Real Rate of Return===
 
 The after tax real [[Rate Of Return|rate of return]] is a measure of the return on an investment after taking into account the effects of taxes and inflation. It is a useful tool for investors to compare the returns of different investments and to determine the true value of an investment. The after tax real rate of return is calculated by subtracting the rate of inflation from the nominal rate of return and then subtracting the applicable taxes from the result.

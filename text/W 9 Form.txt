@@ -1,4 +1,4 @@
-<seo title="W 9 Form" metakeywords="w9form provide irs,w9form beneficial taxpayer,purpose w9form provide,w9form requires taxpayer" metadescription="The W9form is an Internal Revenue Service (IRS) form used by businesses and individuals to provide their taxpayer identification number (TIN) to the IRS."/>
+<seo title="W 9 Form" metakeywords="w9form provide irs,w9form beneficial taxpayer,purpose w9form provide,w9form requires taxpayer" metadescription="The W9form is an Internal Revenue Service (IRS) form used by businesses and individuals to provide their taxpayer identification number (TIN) to the IRS." />
 ===Introduction to W9form===
 
 The W9form is an Internal Revenue Service (IRS) form used by businesses and individuals to provide their taxpayer identification number (TIN) to the IRS. It is also used to report payments made to the taxpayer. The form is used to report income, such as wages, salaries, commissions, and other forms of income. The form is also used to report payments made to independent contractors, such as freelancers, consultants, and other non-employees.

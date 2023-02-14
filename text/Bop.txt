@@ -1,4 +1,4 @@
-<seo title="Bop" metakeywords="country balance payments,introduction bop balance,definition bop balance,balance payments bop" metadescription="The concept of Balance of Payments (BOP) was first developed in the late 19th century by the British economist, John Maynard Keynes."/>
+<seo title="Bop" metakeywords="country balance payments,introduction bop balance,definition bop balance,balance payments bop" metadescription="The concept of Balance of Payments (BOP) was first developed in the late 19th century by the British economist, John Maynard Keynes." />
 ===Introduction to Bop===
 
 Balance of Payments (BOP) is an important concept in international economics and finance. It is a record of all economic transactions between a country and the rest of the world over a given period of time. It is used to measure a country’s economic performance and to assess its ability to pay for imports and service its [[External Debt|external debt]]. The BOP is also used to determine a country’s [[Exchange Rate|exchange rate]] and to assess its international competitiveness.

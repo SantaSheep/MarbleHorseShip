@@ -1,4 +1,4 @@
-<seo title="Golden Cross" metakeywords="goldencross technical analysis,concept goldencross introduced,goldencross concept goldencross,goldencross concept" metadescription="Goldencross is a technical analysis term used to describe a situation in which a short-term moving average crosses above a long- term moving average."/>
+<seo title="Golden Cross" metakeywords="goldencross technical analysis,concept goldencross introduced,goldencross concept goldencross,goldencross concept" metadescription="Goldencross is a technical analysis term used to describe a situation in which a short-term moving average crosses above a long- term moving average." />
 ===Introduction to Goldencross===
 
 Goldencross is a [[Technical Analysis|technical analysis]] term used to describe a situation in which a short-term [[Moving Average|moving average]] crosses above a long-term moving average. This is seen as a bullish signal, indicating that the price of the security is likely to rise. The term is derived from the fact that the short-term moving average is said to “cross over” the long-term moving average, creating a “golden cross” pattern.

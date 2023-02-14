@@ -1,4 +1,4 @@
-<seo title="American Airlines Group" metakeywords="american airlines group,airlines group american,introduction american airlines,merger american airlines" metadescription="American Airlines Group (AAG) is a major American airline holding company."/>
+<seo title="American Airlines Group" metakeywords="american airlines group,airlines group american,introduction american airlines,merger american airlines" metadescription="American Airlines Group (AAG) is a major American airline holding company." />
 ===Introduction to American Airlines Group===
 
 American Airlines Group (AAG) is a major American airline [[Holding Company|holding company]] headquartered in Fort Worth, Texas. It is the world’s largest airline when measured by fleet size, revenue, scheduled passengers carried, and number of destinations served. AAG operates a mainline fleet of over 900 aircraft, with hubs in Charlotte, Dallas/Fort Worth, Los Angeles, Miami, New York, Philadelphia, Phoenix, and Washington,  It also operates regional service under the American Eagle brand.

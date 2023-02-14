@@ -1,4 +1,4 @@
-<seo title="Allegion" metakeywords="systems allegion provides,security systems allegion,allegion products services,allegion operates" metadescription="Allegion was founded in 2013 as a spin-off from Ingersoll Rand."/>
+<seo title="Allegion" metakeywords="systems allegion provides,security systems allegion,allegion products services,allegion operates" metadescription="Allegion was founded in 2013 as a spin-off from Ingersoll Rand." />
 ===Introduction to Allegion===
 
 Allegion is a global provider of security and safety solutions. The company was founded in 2013 as a spin-off from [[Ingersoll Rand|Ingersoll Rand]], and is headquartered in Ireland. Allegion operates in more than 120 countries and employs over 8,000 people worldwide. The company’s products and services are used in a variety of applications, including residential, commercial, and institutional buildings. Allegion’s portfolio includes a wide range of products, including door hardware, access control systems, electronic locks, and security systems.

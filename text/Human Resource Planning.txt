@@ -1,4 +1,4 @@
-<seo title="Human Resource Planning" metakeywords="human resource planning,resource planning hrp,planning human resource,planning hrp process" metadescription="Human resource planning is a critical component of any organization’s strategic planning process."/>
+<seo title="Human Resource Planning" metakeywords="human resource planning,resource planning hrp,planning human resource,planning hrp process" metadescription="Human resource planning is a critical component of any organization’s strategic planning process." />
 ===Introduction to Human Resource Planning===
 
 Human resource planning (HRP) is the process of anticipating and planning for the future needs of an organization’s workforce. It is a critical component of any organization’s strategic planning process and is used to ensure that the organization has the right number of employees with the right skills in the right place at the right time. HRP is a continuous process that involves analyzing current and future workforce needs, developing strategies to meet those needs, and implementing those strategies.

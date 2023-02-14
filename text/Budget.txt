@@ -1,4 +1,4 @@
-<seo title="Budget" metakeywords="budgeting budgeting beneficial,important create budget,budgeting budgeting,budgeting" metadescription="A budget is a financial plan that outlines how an individual, business, or organization will allocate its resources over a specific period of time."/>
+<seo title="Budget" metakeywords="budgeting budgeting beneficial,important create budget,budgeting budgeting,budgeting" metadescription="A budget is a financial plan that outlines how an individual, business, or organization will allocate its resources over a specific period of time." />
 ===Introduction to Budget===
 
 A budget is a financial plan that outlines how an individual, business, or organization will allocate its resources over a specific period of time. It is a tool used to manage finances and ensure that resources are used efficiently and effectively. A budget typically includes income, expenses, and savings goals. It is important to create a budget that is realistic and achievable, as it will help to ensure that financial goals are met.

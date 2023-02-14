@@ -1,4 +1,4 @@
-<seo title="Loss Development" metakeywords="loss development concept,definition loss development,settlement loss development,loss development estimation" metadescription="Loss development is a concept used in the insurance industry to describe the process of estimating the ultimate cost of a claim."/>
+<seo title="Loss Development" metakeywords="loss development concept,definition loss development,settlement loss development,loss development estimation" metadescription="Loss development is a concept used in the insurance industry to describe the process of estimating the ultimate cost of a claim." />
 ===Introduction to Loss Development===
 
 Loss development is a concept used in the insurance industry to describe the process of estimating the ultimate cost of a claim. It is a process of predicting the total cost of a claim over its life cycle, from the time of the initial loss to the time of final settlement. Loss development is an important part of the insurance industry, as it helps insurers to accurately assess the cost of a claim and to determine the appropriate reserves to set aside for future claims.

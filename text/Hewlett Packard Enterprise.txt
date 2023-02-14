@@ -1,4 +1,4 @@
-<seo title="Hewlett Packard Enterprise" metakeywords="introduction hewlett packard,hewlett packard enterprise,history hewlett packard,enterprise hewlett packard" metadescription="Hewlett Packard Enterprise (HPE) is a global technology company that provides a wide range of products and services to its customers."/>
+<seo title="Hewlett Packard Enterprise" metakeywords="introduction hewlett packard,hewlett packard enterprise,history hewlett packard,enterprise hewlett packard" metadescription="Hewlett Packard Enterprise (HPE) is a global technology company that provides a wide range of products and services to its customers." />
 ===Introduction to Hewlett Packard Enterprise===
 
 Hewlett Packard Enterprise (HPE) is a global technology company that provides a wide range of products and services to its customers. HPE is a leader in the enterprise technology space, offering solutions for data centers, [[Cloud Computing|cloud computing]], software, storage, and networking. HPE is headquartered in Palo Alto, California and has operations in over 170 countries. HPE is a publicly traded company on the New York Stock Exchange (NYSE) and is a component of the S&P 500 index.

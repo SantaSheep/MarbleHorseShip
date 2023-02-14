@@ -1,4 +1,4 @@
-<seo title="Pert Chart" metakeywords="definition pert chart,pert chart project,pert chart provides,advantages pert chart" metadescription="A Pert Chart is a project management tool used to plan, organize, and manage complex projects."/>
+<seo title="Pert Chart" metakeywords="definition pert chart,pert chart project,pert chart provides,advantages pert chart" metadescription="A Pert Chart is a project management tool used to plan, organize, and manage complex projects." />
 ===Introduction to Pert Chart===
 
 A Pert Chart is a project management tool used to plan, organize, and manage complex projects. It is a graphical representation of the tasks and activities that need to be completed in order to achieve a specific goal. The Pert Chart is a visual representation of the project timeline, showing the sequence of tasks and activities, the duration of each task, and the dependencies between tasks. It is used to identify potential problems and to plan for contingencies.

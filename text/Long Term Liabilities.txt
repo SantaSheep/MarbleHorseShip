@@ -1,4 +1,4 @@
-<seo title="Long Term Liabilities" metakeywords="liabilities long term,long term liabilities,term liabilities long,term liabilities typically" metadescription="Long-term liabilities are financial obligations that are due more than one year in the future.They are a type of debt that a company must pay back over a period of time."/>
+<seo title="Long Term Liabilities" metakeywords="liabilities long term,long term liabilities,term liabilities long,term liabilities typically" metadescription="Long-term liabilities are financial obligations that are due more than one year in the future.They are a type of debt that a company must pay back over a period of time." />
 ===Introduction to Long-Term Liabilities===
 
 Long-term liabilities are financial obligations that are due more than one year in the future. They are a type of debt that a company must pay back over a period of time. Long-term liabilities are typically used to finance large investments such as equipment, buildings, and other long-term assets. They are also used to finance operations and other activities that require a long-term commitment of resources.

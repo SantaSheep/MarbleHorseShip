@@ -1,4 +1,4 @@
-<seo title="Economic Life" metakeywords="economic life term,years economic life,economic life expected,asset economic life" metadescription="Economic life is a term used to describe the period of time during which an asset is expected to generate economic benefits for its owner."/>
+<seo title="Economic Life" metakeywords="economic life term,years economic life,economic life expected,asset economic life" metadescription="Economic life is a term used to describe the period of time during which an asset is expected to generate economic benefits for its owner." />
 ===Introduction to Economic Life===
 
 Economic life is a term used to describe the period of time during which an asset is expected to generate economic benefits for its owner. It is an important concept in [[Financial Analysis|financial analysis]], as it helps to determine the value of an asset and the amount of money that can be expected to be generated from it over its lifetime. Economic life is also used to assess the [[Cost Of Capital|cost of capital]] investments, as it helps to determine the [[Expected Return|expected return]] on investment.

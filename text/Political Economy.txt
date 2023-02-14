@@ -1,4 +1,4 @@
-<seo title="Political Economy" metakeywords="political economy theoretical,history political economy,political economy roots,theories economic political" metadescription="Political economy is a branch of economics that studies the interaction between economic and political forces."/>
+<seo title="Political Economy" metakeywords="political economy theoretical,history political economy,political economy roots,theories economic political" metadescription="Political economy is a branch of economics that studies the interaction between economic and political forces." />
 ===Introduction to Political Economy===
 
 Political economy is a branch of economics that studies the interaction between economic and political forces. It is a broad field of study that encompasses a variety of topics, including public policy, economic development, international trade, and the distribution of resources. Political economy is an interdisciplinary field that combines elements of economics, political science, sociology, and history. It is a field of study that has been around for centuries, and its relevance has only grown in recent years.

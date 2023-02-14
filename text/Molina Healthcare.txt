@@ -1,4 +1,4 @@
-<seo title="Molina Healthcare" metakeywords="introduction molina healthcare,history molina healthcare,molina healthcare positioned,management molina healthcare" metadescription="Molina Healthcare provides health care services to over 4 million members in 11 states and Puerto Rico."/>
+<seo title="Molina Healthcare" metakeywords="introduction molina healthcare,history molina healthcare,molina healthcare positioned,management molina healthcare" metadescription="Molina Healthcare provides health care services to over 4 million members in 11 states and Puerto Rico." />
 ===Introduction to Molina Healthcare===
 
 Molina Healthcare is a managed care organization that provides health care services to individuals and families who are eligible for government-sponsored health care programs. The company was founded in 1980 by Dr.  David Molina and his brother John G. Molina, and is headquartered in Long Beach, California. Molina Healthcare provides health care services to over 4 million members in 11 states and Puerto Rico. The company offers a variety of health care services, including primary care, specialty care, hospital care, and behavioral health services.

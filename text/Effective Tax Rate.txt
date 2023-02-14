@@ -1,4 +1,4 @@
-<seo title="Effective Tax Rate" metakeywords="effective tax rate,rate effective tax,effective tax,calculating effective tax" metadescription="Effective tax rate is a measure of the total amount of taxes paid by an individual or business entity as a percentage of their total income."/>
+<seo title="Effective Tax Rate" metakeywords="effective tax rate,rate effective tax,effective tax,calculating effective tax" metadescription="Effective tax rate is a measure of the total amount of taxes paid by an individual or business entity as a percentage of their total income." />
 ===Introduction to Effective Tax Rate===
 
 Effective tax rate is a measure of the total amount of taxes paid by an individual or business entity as a percentage of their total income. It is calculated by dividing the total amount of taxes paid by the total income earned. The effective tax rate is an important tool for understanding the overall tax burden of an individual or business. It is also used to compare the tax burden of different individuals or businesses.

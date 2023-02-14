@@ -1,4 +1,4 @@
-<seo title="Accounts Receivable Aging" metakeywords="accounts receivable aging,receivable aging accounts,aging accounts receivable,receivable aging provides" metadescription="Accounts receivable aging is a process used by businesses to track and manage their accounts receivable."/>
+<seo title="Accounts Receivable Aging" metakeywords="accounts receivable aging,receivable aging accounts,aging accounts receivable,receivable aging provides" metadescription="Accounts receivable aging is a process used by businesses to track and manage their accounts receivable." />
 ===Introduction to Accounts Receivable Aging===
 
 [[Accounts Receivable|Accounts receivable]] aging is a process used by businesses to track and manage their accounts receivable. It is a method of categorizing and tracking unpaid customer invoices based on the length of time they have been outstanding. This process helps businesses to identify which customers are overdue on their payments and to prioritize their collection efforts. It also helps businesses to identify any potential issues with their accounts receivable process and to take corrective action.

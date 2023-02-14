@@ -1,4 +1,4 @@
-<seo title="R Cula R Flow Of Income" metakeywords="income circular flow,circular flow income,flow income circular,economy circular flow" metadescription="Circular flow of income is an economic model that illustrates the movement of money between different sectors of an economy."/>
+<seo title="R Cula R Flow Of Income" metakeywords="income circular flow,circular flow income,flow income circular,economy circular flow" metadescription="Circular flow of income is an economic model that illustrates the movement of money between different sectors of an economy." />
 ===Introduction to Circular Flow of Income===
 
 Circular flow of income is an economic model that illustrates the movement of money between different sectors of an economy. It is a visual representation of the exchange of goods and services between households and businesses, and the payments made in return for those goods and services. The circular flow of income is a key concept in macroeconomics, as it helps to explain how an economy functions and how [[Economic Growth|economic growth]] is achieved.

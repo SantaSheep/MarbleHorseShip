@@ -1,4 +1,4 @@
-<seo title="Law Of Demand" metakeywords="law demand factors,demand economic principle,demand law demand,affect law demand" metadescription="The Law of Demand is an economic principle that states that when the price of a good or service increases, the demand for that good or Service decreases."/>
+<seo title="Law Of Demand" metakeywords="law demand factors,demand economic principle,demand law demand,affect law demand" metadescription="The Law of Demand is an economic principle that states that when the price of a good or service increases, the demand for that good or Service decreases." />
 ===Introduction to the Law of Demand===
 
 The Law of Demand is an economic principle that states that when the price of a good or service increases, the demand for that good or service decreases. This law is based on the idea that consumers are rational and will make decisions based on the cost of a product or service. The Law of Demand is an important concept in economics and is used to explain how markets work and how prices are determined.

@@ -1,4 +1,4 @@
-<seo title="Qualified Dividend" metakeywords="qualified dividends taxed,types dividends qualified,rate qualified dividends,tax rate dividend" metadescription="A qualified dividend is a type of dividend that is subject to a lower tax rate than other types of dividends."/>
+<seo title="Qualified Dividend" metakeywords="qualified dividends taxed,types dividends qualified,rate qualified dividends,tax rate dividend" metadescription="A qualified dividend is a type of dividend that is subject to a lower tax rate than other types of dividends." />
 ===Introduction to Qualified Dividend===
 
 A qualified dividend is a type of dividend that is subject to a lower tax rate than other types of dividends. Qualified dividends are taxed at the long-term [[Capital Gain|capital gain]]s rate, which is typically lower than the ordinary [[Income Tax|income tax]] rate. Qualified dividends are paid out by companies that are incorporated in the United States or a foreign country that has a tax treaty with the United States.

@@ -1,4 +1,4 @@
-<seo title="Enterprise Value" metakeywords="calculating enterprise value,enterprise value ev,value equity ev,enterprise value" metadescription="Enterprise value (EV) is a measure of a company’s total value, including both its equity and debt."/>
+<seo title="Enterprise Value" metakeywords="calculating enterprise value,enterprise value ev,value equity ev,enterprise value" metadescription="Enterprise value (EV) is a measure of a company’s total value, including both its equity and debt." />
 ===Introduction to Enterprise Value===
 
 Enterprise value (EV) is a measure of a company’s total value, including both its equity and debt. It is a measure of the value of a company as a whole, rather than just the value of its equity. EV is often used to compare companies of different sizes and to compare companies in different industries. It is also used to assess the value of a company in a merger or acquisition.

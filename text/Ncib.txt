@@ -1,4 +1,4 @@
-<seo title="Ncib" metakeywords="shareholders drawbacks ncib,shareholders ncibs beneficial,return shareholders ncibs,terms ncib benefits" metadescription="NCIBs are a type of stock repurchase program that allows a publicly traded company to buy back its own shares from the open market."/>
+<seo title="Ncib" metakeywords="shareholders drawbacks ncib,shareholders ncibs beneficial,return shareholders ncibs,terms ncib benefits" metadescription="NCIBs are a type of stock repurchase program that allows a publicly traded company to buy back its own shares from the open market." />
 ===Introduction to NCIB===
 
 NCIB stands for Normal Course Issuer Bid, which is a type of stock repurchase program that allows a publicly traded company to buy back its own shares from the open market. This type of program is regulated by the Canadian Securities Administrators (CSA) and is designed to provide companies with the ability to manage their [[Capital Structure|capital structure]] and return capital to shareholders. NCIBs are a popular way for companies to increase their share price and provide a return to shareholders.

@@ -1,4 +1,4 @@
-<seo title="Bayes Theorem" metakeywords="applications bayes theorem,bayes proposed theorem,theorem bayes,bayes theorem useful" metadescription="Bayes Theorem is a mathematical formula used to calculate the probability of an event occurring based on prior knowledge of conditions that might be related to the event."/>
+<seo title="Bayes Theorem" metakeywords="applications bayes theorem,bayes proposed theorem,theorem bayes,bayes theorem useful" metadescription="Bayes Theorem is a mathematical formula used to calculate the probability of an event occurring based on prior knowledge of conditions that might be related to the event." />
 ===Introduction to Bayes Theorem===
 
 Bayes Theorem is a mathematical formula used to calculate the probability of an event occurring based on prior knowledge of conditions that might be related to the event. It is named after the English mathematician Thomas Bayes, who first proposed the theorem in the 18th century. The theorem is used in many fields, including finance, to make decisions based on uncertain information.

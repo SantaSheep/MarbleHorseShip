@@ -1,4 +1,4 @@
-<seo title="Roce" metakeywords="roce financial ratio,roce operating profits,roce return capital,company calculation roce" metadescription="Return on Capital Employed (ROCE) is a financial ratio that measures the profitability of a company."/>
+<seo title="Roce" metakeywords="roce financial ratio,roce operating profits,roce return capital,company calculation roce" metadescription="Return on Capital Employed (ROCE) is a financial ratio that measures the profitability of a company." />
 ===Introduction to Return on Capital Employed (ROCE)===
 
 Return on [[Capital Employed|Capital Employed]] (ROCE) is a financial ratio that measures the profitability of a company by comparing its [[Operating Profit|operating profit]]s to its capital employed. It is a measure of how efficiently a company is using its capital to generate profits. ROCE is a key indicator of a company’s financial health and is used by investors and analysts to assess the performance of a company.

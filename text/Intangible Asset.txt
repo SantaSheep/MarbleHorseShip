@@ -1,4 +1,4 @@
-<seo title="Intangible Asset" metakeywords="intangible assets,assets intangible assets,intangible assets referred,value intangible assets" metadescription="An intangible asset is an asset that does not have a physical form, but still has value."/>
+<seo title="Intangible Asset" metakeywords="intangible assets,assets intangible assets,intangible assets referred,value intangible assets" metadescription="An intangible asset is an asset that does not have a physical form, but still has value." />
 ===Introduction to Intangible Asset===
 
 An in[[Tangible Asset|tangible asset]] is an asset that does not have a physical form, but still has value. Intangible assets are often referred to as intellectual property, such as patents, copyrights, trademarks, and trade secrets. Intangible assets are important to businesses because they can provide a competitive advantage and can be used to generate revenue. Intangible assets can also be used to protect a companyâ€™s brand and reputation.

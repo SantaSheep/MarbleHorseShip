@@ -1,4 +1,4 @@
-<seo title="Stop Limit Order" metakeywords="stop limit orders,disadvantages stop limit,advantages stop limit,orders stop limit" metadescription="A stop limit order is a type of order used in the financial markets to buy or sell a security at a specified price or better."/>
+<seo title="Stop Limit Order" metakeywords="stop limit orders,disadvantages stop limit,advantages stop limit,orders stop limit" metadescription="A stop limit order is a type of order used in the financial markets to buy or sell a security at a specified price or better." />
 ===Introduction to Stop Limit Orders===
 
 A stop [[Limit Order|limit order]] is a type of order used in the [[Financial Market|financial market]]s to buy or sell a security at a specified price or better. It combines the features of a stop order, which triggers a market order when a certain price is reached, and a limit order, which only executes at a specified price or better. Stop limit orders are used to limit losses or protect profits on a security.

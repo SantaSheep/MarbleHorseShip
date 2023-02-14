@@ -1,4 +1,4 @@
-<seo title="Voucher Check" metakeywords="voucher checks type,voucher checks types,checks types voucher,types voucher checks" metadescription="A voucher check is a type of check that is used to pay for goods and services.It is a form of payment that is issued by a company or organization to an individual or entity."/>
+<seo title="Voucher Check" metakeywords="voucher checks type,voucher checks types,checks types voucher,types voucher checks" metadescription="A voucher check is a type of check that is used to pay for goods and services.It is a form of payment that is issued by a company or organization to an individual or entity." />
 ===Introduction to Voucher Check===
 
 A voucher check is a type of check that is used to pay for goods and services. It is a form of payment that is issued by a company or organization to an individual or entity. The voucher check is typically used to pay for goods and services that are not typically covered by a regular check. Voucher checks are also known as “special checks” or “special payment checks”.

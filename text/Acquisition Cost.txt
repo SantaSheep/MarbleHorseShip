@@ -1,4 +1,4 @@
-<seo title="Acquisition Cost" metakeywords="acquisition cost types,examples acquisition cost,acquisition cost example,definition acquisition cost" metadescription="Acquisition cost is the cost associated with acquiring an asset or a business.It includes the purchase price, legal fees, and other related costs."/>
+<seo title="Acquisition Cost" metakeywords="acquisition cost types,examples acquisition cost,acquisition cost example,definition acquisition cost" metadescription="Acquisition cost is the cost associated with acquiring an asset or a business.It includes the purchase price, legal fees, and other related costs." />
 ===Introduction to Acquisition Cost===
 
 Acquisition cost is the cost associated with acquiring an asset or a business. It is the total cost incurred in the process of acquiring an asset or a business, including the purchase price, legal fees, and other related costs. Acquisition cost is an important concept in [[Financial Accounting|financial accounting]] and is used to determine the value of an asset or a business.

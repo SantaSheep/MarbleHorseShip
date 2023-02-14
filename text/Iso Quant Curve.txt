@@ -1,4 +1,4 @@
-<seo title="Iso Quant Curve" metakeywords="isoquant curve useful,isoquant curve important,isoquant curve used,applications isoquant curve" metadescription="An isoquant curve is a graphical representation of the production possibilities of a firm."/>
+<seo title="Iso Quant Curve" metakeywords="isoquant curve useful,isoquant curve important,isoquant curve used,applications isoquant curve" metadescription="An isoquant curve is a graphical representation of the production possibilities of a firm." />
 ===Introduction to Isoquant Curve===
 
 An isoquant curve is a graphical representation of the production possibilities of a firm. It is used to illustrate the relationship between the inputs and outputs of a production process. The isoquant curve is a useful tool for analyzing the cost-effectiveness of different production strategies. It can also be used to compare the efficiency of different production techniques.

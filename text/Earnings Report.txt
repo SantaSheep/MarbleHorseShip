@@ -1,4 +1,4 @@
-<seo title="Earnings Report" metakeywords="earnings report typically,earnings reports types,introduction earnings report,types earnings reports" metadescription="An earnings report is a financial document that provides information about a company's financial performance."/>
+<seo title="Earnings Report" metakeywords="earnings report typically,earnings reports types,introduction earnings report,types earnings reports" metadescription="An earnings report is a financial document that provides information about a company's financial performance." />
 ===Introduction to Earnings Report===
 
 An earnings report is a financial document that provides information about a company's [[Financial Performance|financial performance]]. It is typically released quarterly by publicly traded companies and is used to inform investors and other stakeholders about the company's financial health. The report includes information about the company's revenue, expenses, profits, and losses. It also provides insight into the company's financial position and future prospects.

@@ -1,4 +1,4 @@
-<seo title="Underwriting Agreement" metakeywords="securities underwriter agreement,types underwriting agreements,agreement underwriting agreements,types underwriting agreement" metadescription="An underwriting agreement is a contract between a company and an underwriter that outlines the terms and conditions of a securities offering."/>
+<seo title="Underwriting Agreement" metakeywords="securities underwriter agreement,types underwriting agreements,agreement underwriting agreements,types underwriting agreement" metadescription="An underwriting agreement is a contract between a company and an underwriter that outlines the terms and conditions of a securities offering." />
 ===Introduction to Underwriting Agreement===
 
 An underwriting agreement is a contract between a company and an underwriter that outlines the terms and conditions of a securities offering. The agreement is used to facilitate the sale of securities to the public. It is a legally binding document that outlines the responsibilities of both parties and the terms of the offering. The agreement is typically used when a company is issuing new securities, such as stocks or bonds, to the public.

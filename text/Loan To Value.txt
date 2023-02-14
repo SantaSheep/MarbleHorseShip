@@ -1,4 +1,4 @@
-<seo title="Loan To Value" metakeywords="loan value ltv,ltv ratios disadvantages,definition loan value,loan value ratio" metadescription="Loan-to-Value (LTV) is a financial term used to describe the ratio of a loan amount to the value of an asset."/>
+<seo title="Loan To Value" metakeywords="loan value ltv,ltv ratios disadvantages,definition loan value,loan value ratio" metadescription="Loan-to-Value (LTV) is a financial term used to describe the ratio of a loan amount to the value of an asset." />
 ===Introduction to Loan-to-Value===
 
 Loan-to-Value (LTV) is a financial term used to describe the ratio of a loan amount to the value of an asset that is being purchased with the loan. It is a measure of risk used by lenders to determine the amount of loan they are willing to provide to a borrower. The higher the LTV ratio, the higher the risk for the lender, and the lower the amount of loan they are willing to provide.

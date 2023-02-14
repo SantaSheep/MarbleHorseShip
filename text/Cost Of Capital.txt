@@ -1,4 +1,4 @@
-<seo title="Cost Of Capital" metakeywords="capital cost capital,cost capital,introduction cost capital,cost capital calculated" metadescription="Cost of capital is a term used to describe the cost of financing a business or project."/>
+<seo title="Cost Of Capital" metakeywords="capital cost capital,cost capital,introduction cost capital,cost capital calculated" metadescription="Cost of capital is a term used to describe the cost of financing a business or project." />
 ===Introduction to Cost of Capital===
 
 Cost of capital is a term used to describe the cost of financing a business or project. It is the [[Rate Of Return|rate of return]] that a company must earn in order to cover its costs and generate a profit. It is the minimum rate of return that a company must earn in order to satisfy its investors and creditors. Cost of capital is an important concept in finance and is used to evaluate the profitability of investments and projects.

@@ -1,4 +1,4 @@
-<seo title="Delphi Method" metakeywords="delphi method developed,economics delphi method,introduction delphi method,disadvantages delphi method" metadescription="The Delphi Method is a consensus-based approach that relies on the collective wisdom of a group of experts to make predictions and reach decisions."/>
+<seo title="Delphi Method" metakeywords="delphi method developed,economics delphi method,introduction delphi method,disadvantages delphi method" metadescription="The Delphi Method is a consensus-based approach that relies on the collective wisdom of a group of experts to make predictions and reach decisions." />
 ===Introduction to the Delphi Method===
 
 The Delphi Method is a structured communication technique used to gather opinions and forecast future events. It is a consensus-based approach that relies on the collective wisdom of a group of experts to make predictions and reach decisions. The Delphi Method was developed in the 1950s by the RAND Corporation and has since been used in a variety of fields, including business, economics, and public policy.

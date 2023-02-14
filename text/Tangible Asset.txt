@@ -1,4 +1,4 @@
-<seo title="Tangible Asset" metakeywords="tangible assets typically,introduction tangible asset,assets accounting tangible,tangible assets accounting" metadescription="A tangible asset is a physical asset that has a measurable value and can be used to generate income."/>
+<seo title="Tangible Asset" metakeywords="tangible assets typically,introduction tangible asset,assets accounting tangible,tangible assets accounting" metadescription="A tangible asset is a physical asset that has a measurable value and can be used to generate income." />
 ===Introduction to Tangible Asset===
 
 A tangible asset is a physical asset that has a measurable value and can be used to generate income. Tangible assets are typically used in business operations and can include items such as buildings, equipment, inventory, and land. Tangible assets are also known as [[Fixed Asset|fixed asset]]s or long-term assets. They are distinct from [[Intangible Asset|intangible asset]]s, which are non-physical assets such as intellectual property, goodwill, and brand recognition.

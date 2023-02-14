@@ -1,4 +1,4 @@
-<seo title="Fair Market Value" metakeywords="value fair market,introduction fair market,example fair market,definition fair market" metadescription=""/>
+<seo title="Fair Market Value" metakeywords="value fair market,introduction fair market,example fair market,definition fair market" metadescription="" />
 ===Introduction to Fair Market Value===
 
 Fair Market Value (FMV) is a term used in the financial world to describe the price of an asset or service that is determined by the forces of supply and demand in the open market. It is the price that a willing buyer and willing seller would agree upon in an arm’s length transaction. FMV is an important concept in the financial world, as it is used to determine the value of assets for tax purposes, as well as for the sale or purchase of assets.

@@ -1,4 +1,4 @@
-<seo title="Nash Equilibrium" metakeywords="nash equilibrium concept,concept nash equilibrium,equilibrium john nash,nash equilibrium important" metadescription="Nash Equilibrium is a concept in game theory that is used to describe a situation in which no player has an incentive to change their strategy."/>
+<seo title="Nash Equilibrium" metakeywords="nash equilibrium concept,concept nash equilibrium,equilibrium john nash,nash equilibrium important" metadescription="Nash Equilibrium is a concept in game theory that is used to describe a situation in which no player has an incentive to change their strategy." />
 ===Introduction to Nash Equilibrium===
 
 Nash Equilibrium is a concept in [[Game Theory|game theory]] that is used to describe a situation in which no player has an incentive to change their strategy. It is named after John Nash, the mathematician who first proposed the concept in 1950. The Nash Equilibrium is a fundamental concept in economics, finance, and other fields of study. It is used to analyze the behavior of players in a game and to determine the optimal outcome for each player.

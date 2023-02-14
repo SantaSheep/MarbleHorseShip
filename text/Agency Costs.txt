@@ -1,4 +1,4 @@
-<seo title="Agency Costs" metakeywords="agency costs strategies,agency costs arise,introduction agency costs,minimize agency costs" metadescription="Agency costs are the costs associated with the conflict of interest between the principal and the agent in a principal-agent relationship."/>
+<seo title="Agency Costs" metakeywords="agency costs strategies,agency costs arise,introduction agency costs,minimize agency costs" metadescription="Agency costs are the costs associated with the conflict of interest between the principal and the agent in a principal-agent relationship." />
 ===Introduction to Agency Costs===
 
 Agency costs are the costs associated with the [[Conflict Of Interest|conflict of interest]] between the principal and the agent in a principal-agent relationship. This conflict of interest arises when the principal delegates decision-making authority to the agent, who may not always act in the best interests of the principal. Agency costs are the costs incurred by the principal in order to ensure that the agent acts in the best interests of the principal.

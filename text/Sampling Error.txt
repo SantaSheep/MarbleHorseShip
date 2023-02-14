@@ -1,4 +1,4 @@
-<seo title="Sampling Error" metakeywords="sampling error important,introduction sampling error,understand sampling error,understanding sampling error" metadescription="Sampling error is an important concept in statistics and is used to measure the accuracy of a sample statistic."/>
+<seo title="Sampling Error" metakeywords="sampling error important,introduction sampling error,understand sampling error,understanding sampling error" metadescription="Sampling error is an important concept in statistics and is used to measure the accuracy of a sample statistic." />
 ===Introduction to Sampling Error===
 
 Sampling error is a type of error that occurs when a sample of data is taken from a larger population. It is the difference between the sample statistic and the population parameter. Sampling error is an important concept in statistics and is used to measure the accuracy of a sample statistic. Sampling error can be caused by a variety of factors, including the size of the sample, the method of sampling, and the characteristics of the population. It is important to understand sampling error and how it can be minimized in order to ensure accurate results.

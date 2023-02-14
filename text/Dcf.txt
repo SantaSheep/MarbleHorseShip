@@ -1,4 +1,4 @@
-<seo title="Dcf" metakeywords="cash flow dcf,cash flows dcf,dcf financial valuation,dcf valuation typically" metadescription="Discounted Cash Flow (DCF) is a financial valuation method used to estimate the value of a business or asset."/>
+<seo title="Dcf" metakeywords="cash flow dcf,cash flows dcf,dcf financial valuation,dcf valuation typically" metadescription="Discounted Cash Flow (DCF) is a financial valuation method used to estimate the value of a business or asset." />
 ===Introduction to DCF===
 
 Discounted [[Cash Flow|Cash Flow]] (DCF) is a financial valuation method used to estimate the value of a business or asset. It is based on the concept of the [[Time Value Of Money|time value of money]], which states that money available today is worth more than the same amount of money in the future. DCF is used to determine the [[Present Value|present value]] of future cash flows, which can then be used to make decisions about investments, acquisitions, and other financial transactions.

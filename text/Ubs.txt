@@ -1,4 +1,4 @@
-<seo title="Ubs" metakeywords="ubs investment banking,banking industries ubs,banking ubs investment,schweizerische bankverein ubs" metadescription="UBS is a global financial services company headquartered in Zurich, Switzerland."/>
+<seo title="Ubs" metakeywords="ubs investment banking,banking industries ubs,banking ubs investment,schweizerische bankverein ubs" metadescription="UBS is a global financial services company headquartered in Zurich, Switzerland." />
 ===Introduction to UBS===
 
 UBS is a global financial services company headquartered in Zurich, Switzerland. It is one of the world’s largest banks and is a leader in the global [[Wealth Management|wealth management]] and [[Investment Banking|investment banking]] industries. UBS provides a wide range of services to its clients, including [[Asset Management|asset management]], corporate and institutional banking, wealth management, and financial services. UBS is also a major player in the global [[Capital Markets|capital markets]], providing a range of services to its clients, including equity and debt capital markets, derivatives, and structured products.

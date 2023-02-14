@@ -1,4 +1,4 @@
-<seo title="Steris" metakeywords="steris products services,steris products,healthcare services steris,services steris offers" metadescription="Steris is a global leader in infection prevention, contamination control, and surgical and critical care technologies."/>
+<seo title="Steris" metakeywords="steris products services,steris products,healthcare services steris,services steris offers" metadescription="Steris is a global leader in infection prevention, contamination control, and surgical and critical care technologies." />
 ===Introduction to Steris===
 
 Steris is a global leader in infection prevention, contamination control, and surgical and critical care technologies. Founded in 1985, Steris has grown to become a leading provider of healthcare products and services, with operations in more than 100 countries. Steris is committed to providing innovative solutions to help healthcare providers improve patient outcomes and reduce healthcare costs. Steris’ products and services are designed to help healthcare providers reduce the risk of infection, improve patient safety, and improve the quality of care.

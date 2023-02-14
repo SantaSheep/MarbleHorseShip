@@ -1,4 +1,4 @@
-<seo title="Personal Finance" metakeywords="managing personal finance,manage personal finances,personal finance process,personal finance strategies" metadescription="Personal finance is an important part of financial literacy.It involves budgeting, saving, investing, and protecting one’s assets."/>
+<seo title="Personal Finance" metakeywords="managing personal finance,manage personal finances,personal finance process,personal finance strategies" metadescription="Personal finance is an important part of financial literacy.It involves budgeting, saving, investing, and protecting one’s assets." />
 ===Introduction to Personal Finance===
 
 Personal finance is the process of managing one’s money and financial resources in order to achieve financial goals. It involves budgeting, saving, investing, and protecting one’s assets. Personal finance is an important part of [[Financial Literacy|financial literacy]], which is the ability to understand and make informed decisions about money. Personal finance is a lifelong process that requires knowledge and discipline to be successful.

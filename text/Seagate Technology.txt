@@ -1,4 +1,4 @@
-<seo title="Seagate Technology" metakeywords="computer industry seagate,seagate technology,technology seagate offers,introduction seagate technology" metadescription="Seagate is a publicly traded company on the NASDAQ stock exchange and is headquartered in Cupertino, California."/>
+<seo title="Seagate Technology" metakeywords="computer industry seagate,seagate technology,technology seagate offers,introduction seagate technology" metadescription="Seagate is a publicly traded company on the NASDAQ stock exchange and is headquartered in Cupertino, California." />
 ===Introduction to Seagate Technology===
 
 Seagate Technology is a global leader in data storage solutions, providing innovative products and services to customers around the world. Seagate is a publicly traded company on the NASDAQ stock exchange and is headquartered in Cupertino, California. Seagate has a long history of providing reliable and innovative storage solutions to customers in the consumer, enterprise, and government sectors. Seagate has a wide range of products and services, including hard disk drives, solid-state drives, and cloud storage solutions.

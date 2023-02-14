@@ -1,4 +1,4 @@
-<seo title="Accounts Payable" metakeywords="accounts payable typically,payable accounts payable,payable accounts,accounts payable accounts" metadescription="Accounts payable is a key component of a company's financial statements.It is used to track the amount of money that a company owes to its suppliers and creditors."/>
+<seo title="Accounts Payable" metakeywords="accounts payable typically,payable accounts payable,payable accounts,accounts payable accounts" metadescription="Accounts payable is a key component of a company's financial statements.It is used to track the amount of money that a company owes to its suppliers and creditors." />
 ===Introduction to Accounts Payable===
 
 Accounts payable is a term used to describe the money that a company owes to its suppliers and creditors. It is a liability account that is used to record the amount of money that a company owes to its suppliers and creditors. Accounts payable is a key component of a company's [[Financial Statements|financial statements]] and is used to track the amount of money that a company owes to its suppliers and creditors.

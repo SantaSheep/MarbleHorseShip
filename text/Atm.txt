@@ -1,4 +1,4 @@
-<seo title="Atm" metakeywords="teller machine atm,financial institution atms,atms provide customers,atm computerized device" metadescription="The first ATM was developed in 1967 by John Shepherd-Barron, a British inventor."/>
+<seo title="Atm" metakeywords="teller machine atm,financial institution atms,atms provide customers,atm computerized device" metadescription="The first ATM was developed in 1967 by John Shepherd-Barron, a British inventor." />
 ===Introduction to ATM===
 
 An Automated Teller Machine (ATM) is a computerized device that allows customers to access their bank accounts and perform financial transactions without the need for a teller or other bank personnel. ATMs are typically located in public places such as banks, shopping malls, airports, and other locations. They are also available in some private locations such as hotels, restaurants, and other businesses. ATMs are used to withdraw cash, deposit funds, transfer funds, and check account balances.

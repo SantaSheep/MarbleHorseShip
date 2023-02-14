@@ -1,4 +1,4 @@
-<seo title="Bad Debt Expense" metakeywords="bad debt expense,expense bad debt,debt expense bad,managing bad debt" metadescription="Bad debt expense is an accounting term used to describe the amount of money that a business has lost due to customers not paying their debts."/>
+<seo title="Bad Debt Expense" metakeywords="bad debt expense,expense bad debt,debt expense bad,managing bad debt" metadescription="Bad debt expense is an accounting term used to describe the amount of money that a business has lost due to customers not paying their debts." />
 ===Introduction to Bad Debt Expense===
 
 [[Bad Debt|Bad debt]] expense is an accounting term used to describe the amount of money that a business has lost due to customers not paying their debts. It is a type of expense that is recorded on the [[Income Statement|income statement]] and is used to reduce the amount of revenue that is reported. Bad debt expense is an important concept for businesses to understand, as it can have a significant impact on their [[Financial Performance|financial performance]].

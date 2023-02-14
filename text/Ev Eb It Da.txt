@@ -1,4 +1,4 @@
-<seo title="Ev Eb It Da" metakeywords="ev ebitda ratio,calculation ev ebitda,ev ebitda calculated,definition ev ebitda" metadescription="EV/EBITDA is a financial ratio that measures the value of a company relative to its earnings before interest, taxes, depreciation, and amortization."/>
+<seo title="Ev Eb It Da" metakeywords="ev ebitda ratio,calculation ev ebitda,ev ebitda calculated,definition ev ebitda" metadescription="EV/EBITDA is a financial ratio that measures the value of a company relative to its earnings before interest, taxes, depreciation, and amortization." />
 ===Introduction to EV/EBITDA===
 
 EV/EBITDA is a financial ratio used to measure the value of a company. It is a measure of a company's [[Enterprise Value|enterprise value]] (EV) relative to its earnings before interest, taxes, depreciation, and amortization (EBITDA). The ratio is used to compare companies of different sizes and in different industries, as it eliminates the effects of different [[Capital Structure|capital structure]]s and tax rates.

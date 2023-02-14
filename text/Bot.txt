@@ -1,4 +1,4 @@
-<seo title="Bot" metakeywords="financial transactions bots,financial sector bots,bots designed automate,using bots difficulty" metadescription="Bots are used in a variety of industries, including finance, to automate processes and reduce the amount of manual labor required."/>
+<seo title="Bot" metakeywords="financial transactions bots,financial sector bots,bots designed automate,using bots difficulty" metadescription="Bots are used in a variety of industries, including finance, to automate processes and reduce the amount of manual labor required." />
 ===Introduction to Bot===
 
 A bot is a computer program that is designed to automate tasks. Bots are used in a variety of industries, including finance, to automate processes and reduce the amount of manual labor required. Bots are becoming increasingly popular in the financial sector, as they can help to streamline processes, reduce costs, and improve [[Customer Service|customer service]]. In this article, we will explore the definition of a bot, the types of bots available, the benefits of using bots, and the challenges associated with bots.

@@ -1,4 +1,4 @@
-<seo title="Value Deflation" metakeywords="value deflation economic,value deflation effects,introduction value deflation,cause value deflation" metadescription="Value deflation is a phenomenon in which the value of a currency or asset decreases over time."/>
+<seo title="Value Deflation" metakeywords="value deflation economic,value deflation effects,introduction value deflation,cause value deflation" metadescription="Value deflation is a phenomenon in which the value of a currency or asset decreases over time." />
 ===Introduction to Value Deflation===
 
 Value deflation is a phenomenon in which the value of a currency or asset decreases over time. This can be caused by a variety of factors, including economic downturns, inflation, and government policies. It is important to understand the causes and effects of value deflation in order to develop strategies for dealing with it.

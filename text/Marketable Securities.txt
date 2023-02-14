@@ -1,4 +1,4 @@
-<seo title="Marketable Securities" metakeywords="investing marketable securities,marketable securities investing,marketable securities advantages,marketable securities disadvantages" metadescription="Marketable securities are financial instruments that can be easily bought and sold in the open market."/>
+<seo title="Marketable Securities" metakeywords="investing marketable securities,marketable securities investing,marketable securities advantages,marketable securities disadvantages" metadescription="Marketable securities are financial instruments that can be easily bought and sold in the open market." />
 ===Introduction to Marketable Securities===
 
 Marketable securities are [[Financial Instrument|financial instrument]]s that can be easily bought and sold in the open market. They are typically issued by corporations, governments, and other entities to raise capital. Marketable securities are also known as marketable investments, tradable securities, or [[Liquid Asset|liquid asset]]s. These securities are typically traded on exchanges, such as the New York Stock Exchange (NYSE) or the Nasdaq.

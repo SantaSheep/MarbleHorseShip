@@ -1,4 +1,4 @@
-<seo title="Pip" metakeywords="currency pair pip,pip currency pair,pip currency,means pip currency" metadescription="Pips, or percentage in points, are a unit of measurement used in the foreign exchange (forex) market to denote the smallest change in the exchange rate of a currency pair."/>
+<seo title="Pip" metakeywords="currency pair pip,pip currency pair,pip currency,means pip currency" metadescription="Pips, or percentage in points, are a unit of measurement used in the foreign exchange (forex) market to denote the smallest change in the exchange rate of a currency pair." />
 ===Introduction to Pips===
 
 Pips, or percentage in points, are a unit of measurement used in the foreign exchange (forex) market to denote the smallest change in the [[Exchange Rate|exchange rate]] of a currency pair. A pip is the smallest unit of price movement in the forex market and is typically equal to one [[Basis Point|basis point]] or 0.0001. Pips are used to measure the amount of profit or loss in a trade, and are also used to calculate the value of a currency pair.

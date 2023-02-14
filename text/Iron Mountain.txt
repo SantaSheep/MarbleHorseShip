@@ -1,4 +1,4 @@
-<seo title="Iron Mountain" metakeywords="iron mountain business,documents iron mountain,iron mountain services,iron mountain incorporated" metadescription="Iron Mountain Incorporated is a global leader in storage and information management services."/>
+<seo title="Iron Mountain" metakeywords="iron mountain business,documents iron mountain,iron mountain services,iron mountain incorporated" metadescription="Iron Mountain Incorporated is a global leader in storage and information management services." />
 ===Introduction to Iron Mountain===
 
 Iron Mountain Incorporated is a global leader in storage and information management services. Founded in 1951, Iron Mountain provides solutions for the storage, protection, and destruction of physical and digital information. The company operates in more than 50 countries and serves over 225,000 customers worldwide. Iron Mountain’s services include records management, data protection, digital archiving, and secure shredding. The company also provides secure storage for physical assets such as artwork, medical records, and other sensitive documents.

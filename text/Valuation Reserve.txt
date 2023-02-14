@@ -1,4 +1,4 @@
-<seo title="Valuation Reserve" metakeywords="valuation reserves general,valuation reserves typically,accounting valuation reserves,valuation reserves provide" metadescription="Valuation reserve is a financial term used to describe the amount of money set aside by a company to cover potential losses."/>
+<seo title="Valuation Reserve" metakeywords="valuation reserves general,valuation reserves typically,accounting valuation reserves,valuation reserves provide" metadescription="Valuation reserve is a financial term used to describe the amount of money set aside by a company to cover potential losses." />
 ===Introduction to Valuation Reserve===
 
 Valuation reserve is a financial term used to describe the amount of money set aside by a company to cover potential losses due to changes in the value of its assets. This reserve is used to protect the company from any unexpected losses that may arise from changes in the value of its assets. Valuation reserves are typically used in the context of accounting and financial reporting. They are also used to provide a cushion against potential losses due to changes in the value of assets.

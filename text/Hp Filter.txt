@@ -1,4 +1,4 @@
-<seo title="Hp Filter" metakeywords="macroeconomic analysis hpfilter,economics finance hpfilter,time series hpfilter,introduction hpfilter hodrick" metadescription="The Hodrick-Prescott filter (HPFilter) is a statistical tool used to separate a time series into a trend component and a cyclical component."/>
+<seo title="Hp Filter" metakeywords="macroeconomic analysis hpfilter,economics finance hpfilter,time series hpfilter,introduction hpfilter hodrick" metadescription="The Hodrick-Prescott filter (HPFilter) is a statistical tool used to separate a time series into a trend component and a cyclical component." />
 ===Introduction to HPFilter===
 
 The Hodrick-Prescott filter (HPFilter) is a statistical tool used to separate a [[Time Series|time series]] into a trend component and a cyclical component. The HPFilter was developed by economists Robert Hodrick and Edward Prescott in the 1980s and has since become a widely used tool in economics and finance. The HPFilter is used to identify and analyze the underlying trends in a time series, which can be used to make predictions about future economic and financial conditions.

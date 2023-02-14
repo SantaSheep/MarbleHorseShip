@@ -1,4 +1,4 @@
-<seo title="Sense X" metakeywords="introduction sensex sensex,introduction sensex,indian economy sensex,sensex indian economy" metadescription=""/>
+<seo title="Sense X" metakeywords="introduction sensex sensex,introduction sensex,indian economy sensex,sensex indian economy" metadescription="" />
 ===Introduction to Sensex===
 
 The Sensex, also known as the Bombay Stock Exchange Sensitive Index, is a [[Stock Market|stock market]] index that tracks the performance of 30 of the largest and most actively traded stocks on the Bombay Stock Exchange (BSE). It is one of the oldest and most widely followed stock market indices in India and is considered to be a barometer of the Indian economy. The Sensex is a free-float [[Market Capitalization|market capitalization]]-weighted index, meaning that the stocks included in the index are weighted according to their market capitalization. The index is calculated using a base value of 100, which was set on April 1, 1979.

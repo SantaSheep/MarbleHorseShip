@@ -1,4 +1,4 @@
-<seo title="Gross Working Capital" metakeywords="gross working capital,working capital gross,working capital calculated,capital gross working" metadescription="Gross working capital is a financial term used to describe the total amount of current assets a company has available to fund its operations."/>
+<seo title="Gross Working Capital" metakeywords="gross working capital,working capital gross,working capital calculated,capital gross working" metadescription="Gross working capital is a financial term used to describe the total amount of current assets a company has available to fund its operations." />
 ===Introduction to Gross Working Capital===
 
 Gross [[Working Capital|working capital]] is a financial term used to describe the total amount of [[Current Assets|current assets]] a company has available to fund its operations. It is an important measure of a company’s financial health and is used to assess the company’s ability to meet its short-term obligations. Gross working capital is calculated by subtracting total [[Current Liabilities|current liabilities]] from total current assets.

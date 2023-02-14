@@ -1,4 +1,4 @@
-<seo title="Co Variance" metakeywords="covariance statistical measure,covariance,covariance used,covariance covariance used" metadescription="Covariance is a statistical measure that is used to determine the degree to which two variables move together."/>
+<seo title="Co Variance" metakeywords="covariance statistical measure,covariance,covariance used,covariance covariance used" metadescription="Covariance is a statistical measure that is used to determine the degree to which two variables move together." />
 ===Introduction to Covariance===
 
 Covariance is a statistical measure that is used to determine the degree to which two variables move together. It is a measure of the degree to which two variables are linearly related. It is used to measure the correlation between two variables and is a measure of the degree to which changes in one variable are associated with changes in the other.

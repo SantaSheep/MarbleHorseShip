@@ -1,4 +1,4 @@
-<seo title="Absolute Return" metakeywords="absolute return strategies,return strategies absolute,strategies absolute return,risks absolute return" metadescription="Absolute return is an investment strategy that seeks to generate a positive return regardless of the performance of the overall market."/>
+<seo title="Absolute Return" metakeywords="absolute return strategies,return strategies absolute,strategies absolute return,risks absolute return" metadescription="Absolute return is an investment strategy that seeks to generate a positive return regardless of the performance of the overall market." />
 ===Introduction to Absolute Return===
 
 Absolute return is a type of investment strategy that seeks to generate a positive return regardless of the performance of the overall market. This type of strategy is often used by investors who are looking to protect their capital from market volatility and to generate consistent returns over time. Absolute return strategies can be used in a variety of different [[Asset Classes|asset classes]], including stocks, bonds, commodities, and currencies.

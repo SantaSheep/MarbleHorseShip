@@ -1,4 +1,4 @@
-<seo title="Combined Loan To Value" metakeywords="value combined loan,combined loan value,loan value cltv,loan value combined" metadescription="Combined loan-to-value (CLTV) is a financial term used to describe the ratio of two or more loans to the value of a property."/>
+<seo title="Combined Loan To Value" metakeywords="value combined loan,combined loan value,loan value cltv,loan value combined" metadescription="Combined loan-to-value (CLTV) is a financial term used to describe the ratio of two or more loans to the value of a property." />
 ===Introduction to Combined Loan-to-Value===
 
 Combined loan-to-value (CLTV) is a financial term used to describe the ratio of two or more loans to the value of a property. It is a measure of the amount of debt that a borrower has relative to the value of the property. CLTV is used to assess the risk of a loan and to determine the amount of equity that a borrower has in the property. It is an important factor in determining the terms of a loan, such as the [[Interest Rate|interest rate]] and the amount of the down payment.

@@ -1,4 +1,4 @@
-<seo title="Arr" metakeywords="arr financial term,arr used finance,arr type debt,arr form debt" metadescription="Arr is a type of debt instrument that is secured by a specific asset or group of assets."/>
+<seo title="Arr" metakeywords="arr financial term,arr used finance,arr type debt,arr form debt" metadescription="Arr is a type of debt instrument that is secured by a specific asset or group of assets." />
 ===Introduction to Arr===
 
 Arr is a financial term that refers to a type of [[Financial Instrument|financial instrument]] used to finance large projects. It is a form of debt financing that is used to fund large-scale projects such as infrastructure, energy, and [[Real Estate|real estate]]. Arr is a type of [[Debt Instrument|debt instrument]] that is secured by a specific asset or group of assets. It is typically used by governments, corporations, and other entities to finance large-scale projects.

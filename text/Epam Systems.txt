@@ -1,4 +1,4 @@
-<seo title="Epam Systems" metakeywords="epam systems business,epam systems provides,epam systems experienced,business model epam" metadescription="Epam Systems is a global provider of software engineering and IT services."/>
+<seo title="Epam Systems" metakeywords="epam systems business,epam systems provides,epam systems experienced,business model epam" metadescription="Epam Systems is a global provider of software engineering and IT services." />
 ===Introduction to Epam Systems===
 
 Epam Systems is a global provider of software engineering and IT services. Founded in 1993, the company has grown to become one of the largest and most successful IT services companies in the world. With offices in more than 25 countries, Epam Systems provides a wide range of services, including software engineering, IT consulting, and digital transformation. The company has a strong focus on innovation and is committed to helping its clients achieve their business goals.

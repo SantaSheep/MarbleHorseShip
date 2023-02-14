@@ -1,4 +1,4 @@
-<seo title="Income Elasticity Of Demand" metakeywords="demand income elasticity,income elasticity demand,elasticity demand income,elasticity demand luxury" metadescription="Income elasticity of demand is a measure of how the demand for a good or service changes in response to a change in the consumer’s income."/>
+<seo title="Income Elasticity Of Demand" metakeywords="demand income elasticity,income elasticity demand,elasticity demand income,elasticity demand luxury" metadescription="Income elasticity of demand is a measure of how the demand for a good or service changes in response to a change in the consumer’s income." />
 ===Introduction to Income Elasticity of Demand===
 
 Income elasticity of demand is a measure of how the demand for a good or service changes in response to a change in the consumer’s income. It is calculated by dividing the [[Percentage Change|percentage change]] in the quantity demanded of a good or service by the percentage change in the consumer’s income. This measure is important for businesses to understand in order to determine how their products and services will be affected by changes in the consumer’s income.

@@ -1,4 +1,4 @@
-<seo title="Strike Price" metakeywords="strikeprice strikeprice option,strikeprice option determined,strikeprice option,price definition strikeprice" metadescription="Strikeprice is a term used in the financial world to refer to the predetermined price at which an option contract can be exercised."/>
+<seo title="Strike Price" metakeywords="strikeprice strikeprice option,strikeprice option determined,strikeprice option,price definition strikeprice" metadescription="Strikeprice is a term used in the financial world to refer to the predetermined price at which an option contract can be exercised." />
 ===Introduction to Strikeprice===
 
 Strikeprice is a term used in the financial world to refer to the predetermined price at which an option contract can be exercised. It is an important concept in the world of options trading, as it determines the potential profit or loss of a trade. Strikeprice is also known as the exercise price or the strike price.

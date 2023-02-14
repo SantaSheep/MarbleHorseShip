@@ -1,4 +1,4 @@
-<seo title="Contributed Capital" metakeywords="accounting contributed capital,types contributed capital,capital contributed capital,form contributed capital" metadescription="Contributed capital is a type of capital that is provided to a business by its owners or shareholders."/>
+<seo title="Contributed Capital" metakeywords="accounting contributed capital,types contributed capital,capital contributed capital,form contributed capital" metadescription="Contributed capital is a type of capital that is provided to a business by its owners or shareholders." />
 ===Introduction to Contributed Capital===
 
 Contributed capital is a type of capital that is provided to a business by its owners or shareholders. It is also known as equity capital or owner’s equity. It is the money that is invested in the business by the owners or shareholders in exchange for a share of ownership in the business. It is the opposite of borrowed capital, which is money that is borrowed from a lender and must be repaid with interest. Contributed capital is an important source of capital for businesses, as it provides them with the funds they need to grow and expand.

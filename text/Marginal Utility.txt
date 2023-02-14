@@ -1,4 +1,4 @@
-<seo title="Marginal Utility" metakeywords="marginal utility concept,concept marginal utility,utility concept marginal,marginal utility economic" metadescription="Marginal utility is an economic concept that describes the additional satisfaction or benefit that a consumer receives from consuming one additional unit of a good or service."/>
+<seo title="Marginal Utility" metakeywords="marginal utility concept,concept marginal utility,utility concept marginal,marginal utility economic" metadescription="Marginal utility is an economic concept that describes the additional satisfaction or benefit that a consumer receives from consuming one additional unit of a good or service." />
 ===Introduction to Marginal Utility===
 
 Marginal utility is an economic concept that describes the additional satisfaction or benefit that a consumer receives from consuming one additional unit of a good or service. It is a measure of the change in total utility that a consumer experiences when consuming one additional unit of a good or service. The concept of marginal utility is used to explain consumer behavior and to determine the optimal level of consumption of a good or service.

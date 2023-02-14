@@ -1,4 +1,4 @@
-<seo title="Cash Accounting" metakeywords="disadvantages cash accounting,cash accounting disadvantages,cash accounting method,cash accounting advantages" metadescription="Cash accounting is a method of accounting that records transactions only when cash is exchanged."/>
+<seo title="Cash Accounting" metakeywords="disadvantages cash accounting,cash accounting disadvantages,cash accounting method,cash accounting advantages" metadescription="Cash accounting is a method of accounting that records transactions only when cash is exchanged." />
 ===Introduction to Cash Accounting===
 
 Cash accounting is a method of accounting that records transactions only when cash is exchanged. This means that income and expenses are only recorded when money is received or paid out. Cash accounting is the simplest form of accounting and is often used by small businesses and individuals. It is also known as cash basis accounting.

@@ -1,4 +1,4 @@
-<seo title="Outlay Cost" metakeywords="costs types outlaycost,costs outlaycost,example outlaycost cost,indirect costs outlaycost" metadescription="Outlaycost is an important concept in financial management.It is a comprehensive measure of the total cost of a project or activity, including both direct and indirect costs."/>
+<seo title="Outlay Cost" metakeywords="costs types outlaycost,costs outlaycost,example outlaycost cost,indirect costs outlaycost" metadescription="Outlaycost is an important concept in financial management.It is a comprehensive measure of the total cost of a project or activity, including both direct and indirect costs." />
 ===Introduction to Outlaycost===
 
 Outlaycost is a term used to describe the total cost of a project or activity. It is a comprehensive measure of the total cost of a project or activity, including both direct and in[[Direct Cost|direct cost]]s. Outlaycost is an important concept in financial management, as it helps to ensure that all costs associated with a project or activity are taken into account.

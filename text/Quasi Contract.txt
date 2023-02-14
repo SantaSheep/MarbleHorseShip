@@ -1,4 +1,4 @@
-<seo title="Quasi Contract" metakeywords="definition quasi contract,contracts definition quasi,quasi contracts provide,exist quasi contracts" metadescription="A quasi contract is a legal fiction that is used to create a contractual relationship between two parties when there is no actual contract in place."/>
+<seo title="Quasi Contract" metakeywords="definition quasi contract,contracts definition quasi,quasi contracts provide,exist quasi contracts" metadescription="A quasi contract is a legal fiction that is used to create a contractual relationship between two parties when there is no actual contract in place." />
 ===Introduction to Quasi Contract===
 
 Quasi contract is a legal concept that is used to create a contractual relationship between two parties when there is no actual contract in place. It is a legal fiction that is used to protect the interests of both parties in a situation where a contract does not exist. Quasi contracts are based on the principle of equity and fairness and are used to prevent one party from taking advantage of the other. Quasi contracts are also known as implied-in-fact contracts or constructive contracts.

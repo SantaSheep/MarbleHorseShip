@@ -1,4 +1,4 @@
-<seo title="Capitalization Rate" metakeywords="capitalization rate capitalization,investment capitalization rate,capitalization rate,definition capitalization rate" metadescription="Capitalization rate, also known as cap rate, is a financial metric used to evaluate the potential return on an investment."/>
+<seo title="Capitalization Rate" metakeywords="capitalization rate capitalization,investment capitalization rate,capitalization rate,definition capitalization rate" metadescription="Capitalization rate, also known as cap rate, is a financial metric used to evaluate the potential return on an investment." />
 ===Introduction to Capitalization Rate===
 
 Capitalization rate, also known as cap rate, is a financial metric used to evaluate the potential return on an investment. It is a measure of the [[Rate Of Return|rate of return]] that an investor can expect to receive from a particular investment. The capitalization rate is calculated by dividing the net [[Operating Income|operating income]] (NOI) of an investment by its current market value. It is used to compare different investments and to determine the potential return on an investment.

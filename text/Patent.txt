@@ -1,4 +1,4 @@
-<seo title="Patent" metakeywords="introduction patents,patent patent protection,introduction patents patents,invention patents" metadescription="A patent is a legal document that grants the inventor the right to exclude others from making, using, selling, or importing the invention."/>
+<seo title="Patent" metakeywords="introduction patents,patent patent protection,introduction patents patents,invention patents" metadescription="A patent is a legal document that grants the inventor the right to exclude others from making, using, selling, or importing the invention." />
 ===Introduction to Patents===
 
 Patents are a form of intellectual property that grants exclusive rights to an inventor or assignee for a limited period of time. A patent is a legal document that grants the inventor the right to exclude others from making, using, selling, or importing the invention. Patents are granted by the government and are typically valid for 20 years from the date of filing. Patents are a form of protection for inventors and can be used to protect inventions from being copied or used without permission.

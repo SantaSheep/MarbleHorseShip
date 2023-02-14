@@ -1,4 +1,4 @@
-<seo title="Asset Management" metakeywords="introduction asset management,asset management involves,passive asset management,asset management" metadescription=" Asset management is the process of managing the financial resources of an organization or individual."/>
+<seo title="Asset Management" metakeywords="introduction asset management,asset management involves,passive asset management,asset management" metadescription=" Asset management is the process of managing the financial resources of an organization or individual." />
 ===Introduction to Asset Management===
 
 Asset management is the process of managing the financial resources of an organization or individual. It involves the identification, acquisition, and maintenance of assets in order to maximize their value and ensure their long-term sustainability. Asset management is a critical component of any financial plan, as it helps to ensure that resources are allocated in a way that maximizes returns and minimizes risk.

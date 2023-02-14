@@ -1,4 +1,4 @@
-<seo title="Forward Pe" metakeywords="earnings ratio forwardpe,forwardpe financial ratio,forward price earnings,ratio forwardpe financial" metadescription="Forwardpe is a financial term that refers to the price-to-earnings ratio of a company's stock."/>
+<seo title="Forward Pe" metakeywords="earnings ratio forwardpe,forwardpe financial ratio,forward price earnings,ratio forwardpe financial" metadescription="Forwardpe is a financial term that refers to the price-to-earnings ratio of a company's stock." />
 ===Introduction to Forwardpe===
 
 Forwardpe is a financial term that refers to the price-to-earnings ratio of a company's stock. It is a measure of the company's current stock price relative to its earnings per share (EPS). The forward price-to-earnings ratio is calculated by dividing the current stock price by the estimated future earnings per share. This ratio is used to evaluate the potential of a company's stock and to compare it to other stocks in the same industry.

@@ -1,4 +1,4 @@
-<seo title="Random Variable" metakeywords="random variables important,introduction random variables,applications random variables,random variables" metadescription="Random variables are mathematical objects used to represent the outcomes of a random experiment."/>
+<seo title="Random Variable" metakeywords="random variables important,introduction random variables,applications random variables,random variables" metadescription="Random variables are mathematical objects used to represent the outcomes of a random experiment." />
 ===Introduction to Random Variables===
 
 Random variables are mathematical objects used to represent the outcomes of a random experiment. They are used to model the probability of certain events occurring and are used in a variety of fields, including finance, economics, and statistics. A random variable is a function that assigns a numerical value to each outcome of a random experiment. The value of the random variable is determined by the outcome of the experiment. For example, if a coin is flipped, the random variable could be the number of heads that result from the flip.

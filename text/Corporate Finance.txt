@@ -1,4 +1,4 @@
-<seo title="Corporate Finance" metakeywords="corporate finance concerned,corporate finance involves,introduction corporate finance,corporate finance" metadescription="Corporate finance is the area of finance that deals with the financial decisions of a corporation."/>
+<seo title="Corporate Finance" metakeywords="corporate finance concerned,corporate finance involves,introduction corporate finance,corporate finance" metadescription="Corporate finance is the area of finance that deals with the financial decisions of a corporation." />
 ===Introduction to Corporate Finance===
 
 Corporate finance is the area of finance that deals with the financial decisions of a corporation. It is concerned with the sources of funding and the [[Capital Structure|capital structure]] of corporations, the actions that managers take to increase the value of the firm to the shareholders, and the tools and analysis used to allocate financial resources. Corporate finance is also concerned with the decisions related to the acquisition and allocation of resources that have an effect on a firm’s value.

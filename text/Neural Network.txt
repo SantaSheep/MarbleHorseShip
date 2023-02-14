@@ -1,4 +1,4 @@
-<seo title="Neural Network" metakeywords="neural networks disadvantages,neural networks finance,neural networks advantages,disadvantages neural networks" metadescription="Neural networks are a type of artificial intelligence (AI) that is modeled after the human brain."/>
+<seo title="Neural Network" metakeywords="neural networks disadvantages,neural networks finance,neural networks advantages,disadvantages neural networks" metadescription="Neural networks are a type of artificial intelligence (AI) that is modeled after the human brain." />
 ===Introduction to Neural Networks===
 
 Neural networks are a type of artificial intelligence (AI) that is modeled after the human brain. They are composed of interconnected nodes, or neurons, that are used to process information and make decisions. Neural networks are used in a variety of applications, including finance, where they are used to identify patterns and make predictions.

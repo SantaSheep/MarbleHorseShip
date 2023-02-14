@@ -1,4 +1,4 @@
-<seo title="Dividend Irrelevance" metakeywords="dividend relevance concept,dividend relevance used,dividend relevance theoretical,introduction dividend relevance" metadescription="Dividend relevance is a concept that is used to assess the importance of dividends to a company’s financial performance."/>
+<seo title="Dividend Irrelevance" metakeywords="dividend relevance concept,dividend relevance used,dividend relevance theoretical,introduction dividend relevance" metadescription="Dividend relevance is a concept that is used to assess the importance of dividends to a company’s financial performance." />
 ===Introduction to Dividend Relevance===
 
 Dividend relevance is a concept that is used to assess the importance of dividends to a company’s [[Financial Performance|financial performance]]. It is a measure of the amount of money that a company pays out in dividends relative to its total earnings. Dividend relevance is important for investors, as it can provide insight into the company’s financial health and the potential for future returns.

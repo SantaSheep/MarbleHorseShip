@@ -1,4 +1,4 @@
-<seo title="Impaired Asset" metakeywords="asset considered impaired,impaired assets,impaired assets examples,impaired assets asset" metadescription="An impaired asset is an asset that has been damaged or has lost its value due to external factors."/>
+<seo title="Impaired Asset" metakeywords="asset considered impaired,impaired assets,impaired assets examples,impaired assets asset" metadescription="An impaired asset is an asset that has been damaged or has lost its value due to external factors." />
 ===Introduction to Impaired Asset===
 
 An impaired asset is an asset that has been damaged or has lost its value due to external factors such as market conditions, economic downturns, or other events. The impairment of an asset can be either temporary or permanent, and it can have a significant impact on a company’s [[Financial Statements|financial statements]]. In order to accurately reflect the value of an impaired asset, companies mus[[T Account|t account]] for the impairment in their financial statements.

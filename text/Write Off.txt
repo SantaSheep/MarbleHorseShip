@@ -1,4 +1,4 @@
-<seo title="Write Off" metakeywords="write offs accounting,using write offs,write offs depreciation,write offs example" metadescription="Write off is a term used in accounting to refer to the reduction of the value of an asset or liability."/>
+<seo title="Write Off" metakeywords="write offs accounting,using write offs,write offs depreciation,write offs example" metadescription="Write off is a term used in accounting to refer to the reduction of the value of an asset or liability." />
 ===Introduction to Write Off===
 
 Write off is a term used in accounting to refer to the reduction of the value of an asset or liability. It is a way of recognizing that an asset or liability has become worthless or of no value. Write offs are used to reduce the value of an asset or liability on the [[Balance Sheet|balance sheet]], which in turn reduces the amount of taxes that a company must pay. Write offs can also be used to reduce the amount of income that a company must report on its [[Income Statement|income statement]].

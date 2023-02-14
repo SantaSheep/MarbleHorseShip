@@ -1,4 +1,4 @@
-<seo title="Operating Cash Flow Margin" metakeywords="cash flow margin,margin operating cash,operating cash flow,margin operating" metadescription="Operating cash flow margin is a financial metric used to measure the efficiency of a company’s operations."/>
+<seo title="Operating Cash Flow Margin" metakeywords="cash flow margin,margin operating cash,operating cash flow,margin operating" metadescription="Operating cash flow margin is a financial metric used to measure the efficiency of a company’s operations." />
 ===Introduction to Operating Cash Flow Margin===
 
 Operating [[Cash Flow|cash flow]] margin is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing the company’s [[Operating Cash Flow|operating cash flow]] by its total revenue. Operating cash flow margin is a useful tool for investors and analysts to assess the financial health of a company. It is also used to compare the performance of different companies in the same industry.

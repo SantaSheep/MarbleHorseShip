@@ -1,4 +1,4 @@
-<seo title="Capital Gain" metakeywords="capital gains generally,capital gains tax,capital gains investing,capital gains types" metadescription="Capital gain is the increase in the value of an asset over its original purchase price."/>
+<seo title="Capital Gain" metakeywords="capital gains generally,capital gains tax,capital gains investing,capital gains types" metadescription="Capital gain is the increase in the value of an asset over its original purchase price." />
 ===Introduction to Capital Gain===
 
 Capital gain is the increase in the value of an asset over its original purchase price. It is the profit realized from the sale of an asset, such as stocks, bonds, [[Real Estate|real estate]], or other investments. Capital gains are taxed differently than ordinary income, and the tax rate depends on the type of asset and the length of time it was held. Capital gains can be short-term or long-term, and the tax rate for each type of gain is different.

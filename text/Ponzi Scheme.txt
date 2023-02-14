@@ -1,4 +1,4 @@
-<seo title="Ponzi Scheme" metakeywords="introduction ponzi scheme,ponzi schemes,ponzi scheme,ponzi scheme introduced" metadescription="A Ponzi scheme is a fraudulent investment operation that pays returns to its investors from their own money or the money paid by subsequent investors."/>
+<seo title="Ponzi Scheme" metakeywords="introduction ponzi scheme,ponzi schemes,ponzi scheme,ponzi scheme introduced" metadescription="A Ponzi scheme is a fraudulent investment operation that pays returns to its investors from their own money or the money paid by subsequent investors." />
 ===Introduction to Ponzi Scheme===
 
 A Ponzi scheme is a fraudulent investment operation that pays returns to its investors from their own money or the money paid by subsequent investors, rather than from any actual profit earned by the individual or organization running the scheme. The Ponzi scheme usually offers abnormally high returns on investments, and encourages investors to reinvest their returns in order to maximize their profits. The scheme is named after Charles Ponzi, who ran a similar scheme in the early 20th century.

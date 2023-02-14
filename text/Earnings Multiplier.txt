@@ -1,4 +1,4 @@
-<seo title="Earnings Multiplier" metakeywords="definition earnings multiplier,earnings multiplier financial,earnings multiplier used,earnings multiplier ebit" metadescription="Earnings multiplier is a ratio that compares the company’s earnings to its total assets."/>
+<seo title="Earnings Multiplier" metakeywords="definition earnings multiplier,earnings multiplier financial,earnings multiplier used,earnings multiplier ebit" metadescription="Earnings multiplier is a ratio that compares the company’s earnings to its total assets." />
 ===Introduction to Earnings Multiplier===
 
 Earnings multiplier is a financial term used to measure the profitability of a company. It is a ratio that compares the company’s earnings to its total assets. The earnings multiplier is used to determine the [[Return On Investment|return on investment]] (ROI) of a company and to compare the profitability of different companies. It is also used to assess the financial health of a company and to make investment decisions.

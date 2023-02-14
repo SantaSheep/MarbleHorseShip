@@ -1,4 +1,4 @@
-<seo title="Write Down" metakeywords="accounting treatment writedowns,permanent temporary writedowns,balance sheet writedown,income statement writedown" metadescription="A writedown is a reduction in the value of an asset or liability that is recorded on a company’s balance sheet."/>
+<seo title="Write Down" metakeywords="accounting treatment writedowns,permanent temporary writedowns,balance sheet writedown,income statement writedown" metadescription="A writedown is a reduction in the value of an asset or liability that is recorded on a company’s balance sheet." />
 ===Introduction to Writedown===
 
 A writedown is a reduction in the value of an asset or liability that is recorded on a company’s [[Balance Sheet|balance sheet]]. It is a way for a company to recognize a decrease in the value of an asset or liability due to a variety of factors, such as market conditions, technological obsolescence, or changes in the company’s business model. A writedown is also known as a write-off or impairment.

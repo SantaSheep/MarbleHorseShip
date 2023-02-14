@@ -1,4 +1,4 @@
-<seo title="C Suite" metakeywords="suite term used,suite typically comprised,suite suite term,definition suite suite" metadescription="The Suite is a term used to refer to the most senior executives in a company."/>
+<seo title="C Suite" metakeywords="suite term used,suite typically comprised,suite suite term,definition suite suite" metadescription="The Suite is a term used to refer to the most senior executives in a company." />
 ===Introduction to  Suite===
 
 The  Suite is a term used to refer to the most senior executives in a company. It is typically comprised of the Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Operating Officer (COO), and [[Chief Technology Officer|Chief Technology Officer]] (CTO). These executives are responsible for setting the strategic direction of the company and making decisions that will affect the company’s future.

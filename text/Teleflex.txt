@@ -1,4 +1,4 @@
-<seo title="Teleflex" metakeywords="teleflex medical devices,teleflex medical,services teleflex medical,healthcare services teleflex" metadescription="Teleflex offers a wide range of products and services, including medical devices, specialty pharmaceuticals, and healthcare services."/>
+<seo title="Teleflex" metakeywords="teleflex medical devices,teleflex medical,services teleflex medical,healthcare services teleflex" metadescription="Teleflex offers a wide range of products and services, including medical devices, specialty pharmaceuticals, and healthcare services." />
 ===Introduction to Teleflex===
 
 Teleflex Incorporated is a global provider of medical technology products and services. Founded in 1943, Teleflex has grown to become a leader in the medical technology industry, providing innovative products and services to healthcare providers and patients around the world. Teleflex offers a wide range of products and services, including medical devices, specialty pharmaceuticals, and healthcare services. The company is headquartered in Wayne, Pennsylvania, and has operations in more than 30 countries.

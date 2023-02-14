@@ -1,4 +1,4 @@
-<seo title="Dark Pool" metakeywords="investors dark pools,dark pools regulated,risks dark pools,dark pools operating" metadescription="Dark pools are used by institutional investors to trade large blocks of securities without affecting the market price."/>
+<seo title="Dark Pool" metakeywords="investors dark pools,dark pools regulated,risks dark pools,dark pools operating" metadescription="Dark pools are used by institutional investors to trade large blocks of securities without affecting the market price." />
 ===Introduction to Dark Pool===
 
 Dark pool is a term used to describe a private financial trading platform that allows investors to buy and sell securities without revealing their orders to the public. Dark pools are used by institutional investors, such as [[Hedge Fund|hedge fund]]s, [[Mutual Fund|mutual fund]]s, and pension funds, to trade large blocks of securities without affecting the market price. Dark pools are also used by high-frequency traders to execute large orders quickly and anonymously.

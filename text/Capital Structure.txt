@@ -1,4 +1,4 @@
-<seo title="Capital Structure" metakeywords="capital structure factors,influencing capital structure,company capital structure,capital structures" metadescription="Capital structure is the mix of debt and equity used by a company to finance its operations and growth."/>
+<seo title="Capital Structure" metakeywords="capital structure factors,influencing capital structure,company capital structure,capital structures" metadescription="Capital structure is the mix of debt and equity used by a company to finance its operations and growth." />
 ===Introduction to Capital Structure===
 
 Capital structure is the mix of debt and equity used by a company to finance its operations and growth. It is a key component of a company’s financial strategy and can have a significant impact on its performance. The capital structure of a company is determined by the amount of debt and equity it has, and the relative proportions of each. The capital structure of a company is an important factor in determining its financial health and stability.

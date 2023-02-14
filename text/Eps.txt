@@ -1,4 +1,4 @@
-<seo title="Eps" metakeywords="eps financial metric,companies calculation eps,earnings ratio eps,earnings share eps" metadescription="EPS is a financial metric used to measure the profitability of a company."/>
+<seo title="Eps" metakeywords="eps financial metric,companies calculation eps,earnings ratio eps,earnings share eps" metadescription="EPS is a financial metric used to measure the profitability of a company." />
 ===Introduction to EPS===
 
 Earnings per share (EPS) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s [[Net Income|net income]] by the number of outstanding shares of common stock. EPS is a key indicator of a company’s [[Financial Performance|financial performance]] and is used by investors to evaluate the potential return on their investment.

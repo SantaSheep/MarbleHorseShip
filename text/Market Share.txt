@@ -1,4 +1,4 @@
-<seo title="Market Share" metakeywords="marketshare measuring marketshare,marketshare marketshare measured,factors influencing marketshare,marketshare measuring" metadescription="Marketshare is a term used to describe the portion of a market that is controlled by a particular company or product."/>
+<seo title="Market Share" metakeywords="marketshare measuring marketshare,marketshare marketshare measured,factors influencing marketshare,marketshare measuring" metadescription="Marketshare is a term used to describe the portion of a market that is controlled by a particular company or product." />
 ===Introduction to Marketshare===
 
 Marketshare is a term used to describe the portion of a market that is controlled by a particular company or product. It is a measure of the company’s success in the market and is often used to compare the performance of different companies in the same industry. Marketshare is an important concept in the business world, as it can provide insight into the competitive landscape and help companies make strategic decisions.

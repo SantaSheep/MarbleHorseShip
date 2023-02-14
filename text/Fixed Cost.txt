@@ -1,4 +1,4 @@
-<seo title="Fixed Cost" metakeywords="fixedcost fixed costs,fixed costs costs,fixed costs businesses,examples fixed costs" metadescription="Fixed costs are costs that remain the same regardless of the level of production or sales.Examples of fixed costs include raw materials, labor, rent, utilities, and insurance."/>
+<seo title="Fixed Cost" metakeywords="fixedcost fixed costs,fixed costs costs,fixed costs businesses,examples fixed costs" metadescription="Fixed costs are costs that remain the same regardless of the level of production or sales.Examples of fixed costs include raw materials, labor, rent, utilities, and insurance." />
 ===Introduction to Fixedcost===
 
 Fixedcost is a term used in [[Financial Accounting|financial accounting]] to refer to costs that remain the same regardless of the level of production or sales. Fixed costs are also known as overhead costs and are typically incurred regardless of the level of production or sales. Fixed costs are important to consider when making decisions about production and pricing. They are also important to consider when making decisions about investments and financing.

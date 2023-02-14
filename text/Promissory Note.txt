@@ -1,4 +1,4 @@
-<seo title="Promissory Note" metakeywords="promissory notes typically,promissory notes,promissory notes used,promissory notes legally" metadescription="A promissory note is a written promise to pay a certain amount of money to a specified person or entity."/>
+<seo title="Promissory Note" metakeywords="promissory notes typically,promissory notes,promissory notes used,promissory notes legally" metadescription="A promissory note is a written promise to pay a certain amount of money to a specified person or entity." />
 ===Introduction to Promissory Note===
 
 A promissory note is a written promise to pay a certain amount of money to a specified person or entity at a specified date or on demand. It is a legally binding document that is used to secure a loan or other financial transaction. Promissory notes are commonly used in business transactions, such as when a company borrows money from a bank or when a business purchases goods or services on credit. Promissory notes are also used in personal transactions, such as when a family member lends money to another family member.

@@ -1,4 +1,4 @@
-<seo title="Par Value" metakeywords="parvalue financial term,parvalue important concept,parvalue concept,definition parvalue" metadescription="Parvalue is a financial term that is used to describe the nominal or face value of a security."/>
+<seo title="Par Value" metakeywords="parvalue financial term,parvalue important concept,parvalue concept,definition parvalue" metadescription="Parvalue is a financial term that is used to describe the nominal or face value of a security." />
 ===Introduction to Parvalue===
 
 Parvalue is a financial term that is used to describe the nominal or [[Face Value|face value]] of a security. It is the amount of money that is printed on the security and is the amount that the issuer of the security promises to pay the holder of the security upon maturity. Parvalue is an important concept in the world of finance and is used in a variety of contexts.

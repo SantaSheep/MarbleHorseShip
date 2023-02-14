@@ -1,4 +1,4 @@
-<seo title="Serial Correlation" metakeywords="examples serial correlation,serial correlation relationship,serial correlation caused,example serial correlation" metadescription="Serial correlation is a measure of the degree to which the values of a variable at different points in time are related."/>
+<seo title="Serial Correlation" metakeywords="examples serial correlation,serial correlation relationship,serial correlation caused,example serial correlation" metadescription="Serial correlation is a measure of the degree to which the values of a variable at different points in time are related." />
 ===Introduction to Serial Correlation===
 
 Serial correlation, also known as autocorrelation, is a statistical measure of the degree of similarity between values of a variable at different points in time. It is used to measure the degree of linear dependence between two or more variables. Serial correlation is a measure of the degree to which the values of a variable at different points in time are related. It is used to measure the degree of linear dependence between two or more variables.

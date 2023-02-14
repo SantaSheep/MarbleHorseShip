@@ -1,4 +1,4 @@
-<seo title="Accounting Policies" metakeywords="disadvantages accounting policies,accounting policies generally,accounting policies accounting,accounting policies important" metadescription=""/>
+<seo title="Accounting Policies" metakeywords="disadvantages accounting policies,accounting policies generally,accounting policies accounting,accounting policies important" metadescription="" />
 ===Introduction to Accounting Policies===
 
 Accounting policies are the set of rules and procedures that a company follows when preparing its [[Financial Statements|financial statements]]. These policies are designed to ensure that the financial statements are prepared in accordance with generally accepted [[Accounting Principles|accounting principles]] (GAAP). Accounting policies are important because they provide consistency in the way a company reports its financial information. They also provide a framework for management to make decisions about how to record and report transactions.

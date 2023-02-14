@@ -1,4 +1,4 @@
-<seo title="Gdp" metakeywords="gdp measurement,gdp used measure,gdp measure,gdp measured ways" metadescription="Gross Domestic Product (GDP) is a measure of the total value of all goods and services produced in a country."/>
+<seo title="Gdp" metakeywords="gdp measurement,gdp used measure,gdp measure,gdp measured ways" metadescription="Gross Domestic Product (GDP) is a measure of the total value of all goods and services produced in a country." />
 ===Introduction to GDP===
 
 Gross Domestic Product (GDP) is a measure of the total value of all goods and services produced in a country over a given period of time. It is the most widely used measure of economic activity and is used to compare the economic performance of different countries. GDP is also used to measure the size of a country’s economy and to assess the overall health of an economy.

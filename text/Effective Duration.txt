@@ -1,4 +1,4 @@
-<seo title="Effective Duration" metakeywords="effective duration defined,effective duration important,effective duration relatively,calculation effective duration" metadescription="Effective duration is a measure of the average life of a bond’s cash flows."/>
+<seo title="Effective Duration" metakeywords="effective duration defined,effective duration important,effective duration relatively,calculation effective duration" metadescription="Effective duration is a measure of the average life of a bond’s cash flows." />
 ===Introduction to Effective Duration===
 
 Effective duration is a measure of the sensitivity of a bond’s price to changes in [[Interest Rate|interest rate]]s. It is a measure of the average life of a bond’s [[Cash Flow|cash flow]]s, taking into account the [[Present Value|present value]] of each cash flow and the timing of the cash flows. Effective duration is an important tool for investors and financial professionals to understand the risk of a bond portfolio and to make decisions about how to manage the portfolio.

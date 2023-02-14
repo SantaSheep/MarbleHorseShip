@@ -1,4 +1,4 @@
-<seo title="Negative Correlation" metakeywords="negative correlation important,negative correlation types,negative correlation beneficial,correlation types negative" metadescription="Negative correlation is a statistical measure of the relationship between two variables."/>
+<seo title="Negative Correlation" metakeywords="negative correlation important,negative correlation types,negative correlation beneficial,correlation types negative" metadescription="Negative correlation is a statistical measure of the relationship between two variables." />
 ===Introduction to Negative Correlation===
 
 Negative correlation is a statistical measure of the relationship between two variables. It is used to determine the degree to which one variable is affected by changes in another. A negative correlation indicates that when one variable increases, the other decreases, and vice versa. Negative correlation is an important concept in finance, economics, and other fields. It is used to analyze the relationship between two variables and to make predictions about future trends.

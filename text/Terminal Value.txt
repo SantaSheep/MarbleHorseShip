@@ -1,4 +1,4 @@
-<seo title="Terminal Value" metakeywords="terminal value valuation,terminal value concept,calculating terminal value,introduction terminal value" metadescription="Terminal value is an important concept in financial analysis and valuation.It is used to estimate the value of a company or asset in the long-term."/>
+<seo title="Terminal Value" metakeywords="terminal value valuation,terminal value concept,calculating terminal value,introduction terminal value" metadescription="Terminal value is an important concept in financial analysis and valuation.It is used to estimate the value of a company or asset in the long-term." />
 ===Introduction to Terminal Value===
 
 Terminal value is a concept used in finance to estimate the value of a company or asset at a future date. It is used to calculate the [[Present Value|present value]] of a company or asset by discounting future [[Cash Flow|cash flow]]s to the present. Terminal value is an important concept in [[Financial Analysis|financial analysis]] and valuation, as it helps to determine the value of a company or asset in the long-term.

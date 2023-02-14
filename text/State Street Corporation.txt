@@ -1,4 +1,4 @@
-<seo title="State Street Corporation" metakeywords="state street corporation,corporation state street,financial services institutional,mutual fund industry" metadescription="State Street Corporation was founded in 1792 as a bank in Boston, Massachusetts."/>
+<seo title="State Street Corporation" metakeywords="state street corporation,corporation state street,financial services institutional,mutual fund industry" metadescription="State Street Corporation was founded in 1792 as a bank in Boston, Massachusetts." />
 ===Introduction to State Street Corporation===
 
 State Street Corporation is a financial services company headquartered in Boston, Massachusetts. It is one of the world’s leading providers of financial services, offering a wide range of products and services to institutional investors, including [[Asset Management|asset management]], custody, securities lending, and other services. State Street Corporation is a publicly traded company listed on the New York Stock Exchange (NYSE) and is a component of the S&P 500 index.

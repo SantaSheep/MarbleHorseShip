@@ -1,4 +1,4 @@
-<seo title="Basis Point" metakeywords="financial instrument basispoint,basis points means,basispoint basispoint used,definition basispoint" metadescription="Basispoint is a unit of measure that is used to express a very small percentage change in the value of a financial instrument."/>
+<seo title="Basis Point" metakeywords="financial instrument basispoint,basis points means,basispoint basispoint used,definition basispoint" metadescription="Basispoint is a unit of measure that is used to express a very small percentage change in the value of a financial instrument." />
 ===Introduction to Basispoint===
 
 Basispoint is a unit of measurement used in finance to express a [[Percentage Change|percentage change]] in the value of a [[Financial Instrument|financial instrument]]. It is a unit of measure that is used to express a very small percentage change in the value of a financial instrument. Basispoint is used to measure the change in the value of a financial instrument over a period of time. It is also used to measure the change in the [[Interest Rate|interest rate]] of a loan or other financial instrument.

@@ -1,4 +1,4 @@
-<seo title="Bull Call Spread" metakeywords="bull spread advantages,advantages bull spread,disadvantages bull spread,advantage bull spread" metadescription="A bull call spread is an options trading strategy that is used to take advantage of a bullish market."/>
+<seo title="Bull Call Spread" metakeywords="bull spread advantages,advantages bull spread,disadvantages bull spread,advantage bull spread" metadescription="A bull call spread is an options trading strategy that is used to take advantage of a bullish market." />
 ===Introduction===
 
 A bull call spread is a type of options trading strategy that is used to take advantage of a bullish market. It is a limited risk, limited reward strategy that involves buying and selling [[Call Option|call option]]s at different [[Strike Price|strike price]]s. The goal of the strategy is to make a profit when the underlying stock rises in price. In this article, we will discuss the definition of a bull call spread, the advantages and disadvantages of using this strategy, and the conclusion.

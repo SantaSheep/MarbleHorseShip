@@ -1,4 +1,4 @@
-<seo title="Lower Of Cost And Market Method" metakeywords="cost inventory compared,cost inventory lower,inventory lower cost,market method disadvantages" metadescription="The lower of cost or market method is an accounting technique used to determine the value of inventory on a company’s balance sheet."/>
+<seo title="Lower Of Cost And Market Method" metakeywords="cost inventory compared,cost inventory lower,inventory lower cost,market method disadvantages" metadescription="The lower of cost or market method is an accounting technique used to determine the value of inventory on a company’s balance sheet." />
 ===Introduction to Lower of Cost or Market Method===
 
 The lower of cost or market method is an accounting technique used to determine the value of inventory on a company’s [[Balance Sheet|balance sheet]]. This method is used to ensure that the inventory is reported at the lower of either its cost or its current market value. This method is used to ensure that the inventory is reported at the most conservative value, which is beneficial for both the company and its investors.

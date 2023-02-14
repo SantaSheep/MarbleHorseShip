@@ -1,4 +1,4 @@
-<seo title="Hammer" metakeywords="hammer technical analysis,hammer pattern useful,hammer candlestick pattern,hammer pattern considered" metadescription="The hammer is a candlestick pattern that is formed when the price of a security moves significantly lower after the open, but then rallies to close near or above the open."/>
+<seo title="Hammer" metakeywords="hammer technical analysis,hammer pattern useful,hammer candlestick pattern,hammer pattern considered" metadescription="The hammer is a candlestick pattern that is formed when the price of a security moves significantly lower after the open, but then rallies to close near or above the open." />
 ===Introduction to Hammer===
 
 The hammer is a [[Technical Analysis|technical analysis]] tool used to identify potential reversals in the price of a security. It is a candlestick pattern that is formed when the price of a security moves significantly lower after the open, but then rallies to close near or above the open. The hammer pattern is considered to be a bullish reversal pattern, as it suggests that the security is likely to move higher in the near future.

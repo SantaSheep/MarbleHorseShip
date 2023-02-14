@@ -1,4 +1,4 @@
-<seo title="Q Ratio" metakeywords="company qratio calculated,qratio total equity,qratio financial term,calculating qratio qratio" metadescription="Qratio is a measure of a company’s financial health and is used to assess the risk of investing in a company."/>
+<seo title="Q Ratio" metakeywords="company qratio calculated,qratio total equity,qratio financial term,calculating qratio qratio" metadescription="Qratio is a measure of a company’s financial health and is used to assess the risk of investing in a company." />
 ===Introduction to Qratio===
 
 Qratio is a financial term used to measure the relative value of a company’s equity to its debt. It is a measure of a company’s financial health and is used to assess the risk of investing in a company. Qratio is an important tool for investors and analysts to evaluate a company’s financial position and make informed decisions about investing in the company.

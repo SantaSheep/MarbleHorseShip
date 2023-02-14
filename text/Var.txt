@@ -1,4 +1,4 @@
-<seo title="Var" metakeywords="var risk management,risk var used,risk var useful,var used financial" metadescription="Value at Risk (VaR) is a risk management tool used to measure and quantify the potential losses of a portfolio over a given period of time."/>
+<seo title="Var" metakeywords="var risk management,risk var used,risk var useful,var used financial" metadescription="Value at Risk (VaR) is a risk management tool used to measure and quantify the potential losses of a portfolio over a given period of time." />
 ===Introduction to Var===
 
 Value at Risk (VaR) is a [[Risk Management|risk management]] tool used to measure and quantify the potential losses of a portfolio over a given period of time. VaR is used to measure the risk of a portfolio, and is calculated by taking into account the probability of a portfolio’s losses exceeding a certain threshold. VaR is a widely used tool in the financial industry, and is used by banks, [[Hedge Fund|hedge fund]]s, and other [[Financial Institution|financial institution]]s to measure and manage their risk.

@@ -1,4 +1,4 @@
-<seo title="Mortgage" metakeywords="mortgage process,different types mortgages,property mortgages typically,process mortgage process" metadescription="Mortgages are typically long-term loans, with repayment periods ranging from 10 to 30 years."/>
+<seo title="Mortgage" metakeywords="mortgage process,different types mortgages,property mortgages typically,process mortgage process" metadescription="Mortgages are typically long-term loans, with repayment periods ranging from 10 to 30 years." />
 ===Introduction to Mortgage===
 
 A mortgage is a loan that is secured by [[Real Estate|real estate]]. It is a loan that is used to purchase a home or other real estate property. The loan is secured by the property itself, meaning that if the borrower fails to make payments, the lender can take possession of the property. Mortgages are typically long-term loans, with repayment periods ranging from 10 to 30 years. The [[Interest Rate|interest rate]] on a mortgage is typically lower than other types of loans, making it an attractive option for many borrowers.

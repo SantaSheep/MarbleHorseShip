@@ -1,4 +1,4 @@
-<seo title="Neoclassical" metakeywords="neoclassical economics used,concepts neoclassical economics,economists argued neoclassical,neoclassical economics based" metadescription="Neoclassical economics is a school of economic thought that emerged in the late 19th century and is still widely used today."/>
+<seo title="Neoclassical" metakeywords="neoclassical economics used,concepts neoclassical economics,economists argued neoclassical,neoclassical economics based" metadescription="Neoclassical economics is a school of economic thought that emerged in the late 19th century and is still widely used today." />
 ===Introduction to Neoclassical Economics===
 
 Neoclassical economics is a school of economic thought that emerged in the late 19th century and is still widely used today. It is based on the idea that markets are efficient and that individuals are rational actors who make decisions based on their own self-interest. Neoclassical economics is the dominant economic theory in the world today and is used to inform policy decisions in many countries.

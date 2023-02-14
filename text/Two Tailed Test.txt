@@ -1,4 +1,4 @@
-<seo title="Two Tailed Test" metakeywords="types tailed tests,tailed tests types,advantages tailed tests,disadvantages tailed test" metadescription="A two-tailed test is a statistical test used to determine whether a given set of data is significantly different from a given population mean."/>
+<seo title="Two Tailed Test" metakeywords="types tailed tests,tailed tests types,advantages tailed tests,disadvantages tailed test" metadescription="A two-tailed test is a statistical test used to determine whether a given set of data is significantly different from a given population mean." />
 ===Introduction to Two Tailed Test===
 
 A two-tailed test is a statistical test used to determine whether a given set of data is significantly different from a given population mean. It is a type of hypothesis test that is used to compare two means or proportions. The two-tailed test is used to determine if the difference between two means or proportions is [[Statistically Significant|statistically significant]]. It is also used to test for differences in the variance of two populations. The two-tailed test is a powerful tool for testing hypotheses and making decisions about data.

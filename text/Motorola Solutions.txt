@@ -1,4 +1,4 @@
-<seo title="Motorola Solutions" metakeywords="introduction motorola solutions,history motorola solutions,markets motorola solutions,motorola solutions founded" metadescription="Motorola Solutions was founded in 1928 as the Galvin Manufacturing Corporation."/>
+<seo title="Motorola Solutions" metakeywords="introduction motorola solutions,history motorola solutions,markets motorola solutions,motorola solutions founded" metadescription="Motorola Solutions was founded in 1928 as the Galvin Manufacturing Corporation." />
 ===Introduction to Motorola Solutions===
 
 Motorola Solutions is a global leader in mission-critical communications and analytics. The company provides mission-critical communication solutions, including two-way radios, software-defined radios, and public safety networks, to customers in the public safety, government, and commercial markets. Motorola Solutions also provides analytics solutions, such as video surveillance, analytics, and command center software, to customers in the public safety, government, and commercial markets. The company is headquartered in Schaumburg, Illinois, and has operations in more than 100 countries.

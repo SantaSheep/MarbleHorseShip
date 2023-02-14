@@ -1,4 +1,4 @@
-<seo title="Historical Returns" metakeywords="historical returns used,investment historical returns,calculating historical returns,historical returns returns" metadescription="Historical returns are a measure of the performance of an investment over a period of time."/>
+<seo title="Historical Returns" metakeywords="historical returns used,investment historical returns,calculating historical returns,historical returns returns" metadescription="Historical returns are a measure of the performance of an investment over a period of time." />
 ===Introduction to Historical Returns===
 
 Historical returns are a measure of the performance of an investment over a period of time. They are used to compare the performance of different investments and to assess the risk associated with an investment. Historical returns can be used to evaluate the performance of a portfolio, to determine the [[Expected Return|expected return]] of an investment, and to assess the risk associated with an investment.

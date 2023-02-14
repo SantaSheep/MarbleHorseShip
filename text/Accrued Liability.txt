@@ -1,4 +1,4 @@
-<seo title="Accrued Liability" metakeywords="accrued liabilities typically,accrued liabilities type,accrued liabilities types,accrued liabilities" metadescription="Accrued liability is a term used in accounting to describe a liability that has been incurred but not yet paid."/>
+<seo title="Accrued Liability" metakeywords="accrued liabilities typically,accrued liabilities type,accrued liabilities types,accrued liabilities" metadescription="Accrued liability is a term used in accounting to describe a liability that has been incurred but not yet paid." />
 ===Introduction to Accrued Liability===
 
 Accrued liability is a term used in accounting to describe a liability that has been incurred but not yet paid. It is a type of current liability, meaning that it is expected to be paid within one year. Accrued liabilities are typically recorded in the [[Balance Sheet|balance sheet]] as a debit, and the corresponding credit is recorded in the [[Income Statement|income statement]]. Accrued liabilities are also known as [[Accrued Expense|accrued expense]]s or accrued liabilities.

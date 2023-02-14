@@ -1,4 +1,4 @@
-<seo title="Operating Earnings" metakeywords="operating earnings measure,introduction operating earnings,operating earnings operating,operating earnings provide" metadescription=""/>
+<seo title="Operating Earnings" metakeywords="operating earnings measure,introduction operating earnings,operating earnings operating,operating earnings provide" metadescription="" />
 ===Introduction to Operating Earnings===
 
 Operating earnings, also known as [[Operating Income|operating income]], is a measure of a company’s profitability that excludes non-operating items such as interest income, taxes, and [[Extraordinary Item|extraordinary item]]s. Operating earnings are a key metric used by investors and analysts to evaluate a company’s performance and financial health. Operating earnings are a more accurate measure of a company’s performance than [[Net Income|net income]], which includes non-operating items.

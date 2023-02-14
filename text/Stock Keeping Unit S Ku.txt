@@ -1,4 +1,4 @@
-<seo title="Stock Keeping Unit S Ku" metakeywords="sku stock keeping,using skus,definition sku,sku stock" metadescription="Stock Keeping Unit (SKU) is a unique identifier used to track inventory in retail and wholesale businesses."/>
+<seo title="Stock Keeping Unit S Ku" metakeywords="sku stock keeping,using skus,definition sku,sku stock" metadescription="Stock Keeping Unit (SKU) is a unique identifier used to track inventory in retail and wholesale businesses." />
 ===Introduction to Stock Keeping Unit (SKU)===
 
 A Stock Keeping Unit (SKU) is a unique identifier used to track inventory in retail and wholesale businesses. It is a code that is assigned to a specific product or item in order to differentiate it from other products or items. SKUs are used to track inventory, pricing, and other information related to a product or item. SKUs are also used to track sales and customer orders.

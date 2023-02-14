@@ -1,4 +1,4 @@
-<seo title="Shutdown Points" metakeywords="definition shutdown points,investments shutdown points,investment shutdown points,shutdown points type" metadescription="Shutdown points are a type of financial instrument used to limit the amount of risk an investor is exposed to in a given investment."/>
+<seo title="Shutdown Points" metakeywords="definition shutdown points,investments shutdown points,investment shutdown points,shutdown points type" metadescription="Shutdown points are a type of financial instrument used to limit the amount of risk an investor is exposed to in a given investment." />
 ===Introduction to Shutdown Points===
 
 Shutdown points are a type of [[Financial Instrument|financial instrument]] used to protect investors from losses due to market volatility. They are used to limit the amount of risk an investor is exposed to in a given investment. Shutdown points are typically used in the context of derivatives, such as options and futures, but can also be used in other types of investments. They are designed to provide investors with a way to limit their losses in the event of a market downturn.

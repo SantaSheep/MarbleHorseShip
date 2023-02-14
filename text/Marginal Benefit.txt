@@ -1,4 +1,4 @@
-<seo title="Marginal Benefit" metakeywords="definition marginal benefit,marginal benefit defined,marginal benefit economic,example marginal benefit" metadescription="Marginal benefit is an economic concept that refers to the additional benefit that a consumer receives from consuming one additional unit of a good or service."/>
+<seo title="Marginal Benefit" metakeywords="definition marginal benefit,marginal benefit defined,marginal benefit economic,example marginal benefit" metadescription="Marginal benefit is an economic concept that refers to the additional benefit that a consumer receives from consuming one additional unit of a good or service." />
 ===Introduction to Marginal Benefit===
 
 Marginal benefit is an economic concept that refers to the additional benefit that a consumer receives from consuming one additional unit of a good or service. It is a measure of the benefit that a consumer receives from consuming one additional unit of a good or service. It is used to determine the optimal level of consumption for a given good or service. It is also used to compare the benefits of different goods or services.

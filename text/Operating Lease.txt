@@ -1,4 +1,4 @@
-<seo title="Operating Lease" metakeywords="operating leases disadvantages,disadvantages operating leases,advantages operating leases,operating leases used" metadescription="An operating lease is a lease agreement that allows a lessee to use an asset for a specified period of time in exchange for periodic payments."/>
+<seo title="Operating Lease" metakeywords="operating leases disadvantages,disadvantages operating leases,advantages operating leases,operating leases used" metadescription="An operating lease is a lease agreement that allows a lessee to use an asset for a specified period of time in exchange for periodic payments." />
 ===Introduction to Operating Lease===
 
 An operating lease is a type of lease agreement that allows a lessee to use an asset for a specified period of time in exchange for periodic payments. Operating leases are commonly used for equipment, vehicles, and other assets that are used in the day-to-day operations of a business. Operating leases are different from [[Capital Lease|capital lease]]s, which are used to finance the purchase of an asset.

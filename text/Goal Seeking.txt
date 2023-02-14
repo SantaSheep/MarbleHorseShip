@@ -1,4 +1,4 @@
-<seo title="Goal Seeking" metakeywords="goal seeking process,goal seeking involves,goal seeking used,problem goal seeking" metadescription="Goal seeking is a financial tool used to determine the optimal solution to a problem."/>
+<seo title="Goal Seeking" metakeywords="goal seeking process,goal seeking involves,goal seeking used,problem goal seeking" metadescription="Goal seeking is a financial tool used to determine the optimal solution to a problem." />
 ===Introduction to Goal Seeking===
 
 Goal seeking is a financial tool used to determine the optimal solution to a problem. It is a process of trial and error that involves changing the values of certain variables in order to reach a desired outcome. Goal seeking is used in a variety of financial applications, such as budgeting, forecasting, and investment analysis. It is a powerful tool that can help financial professionals make better decisions and maximize their returns.

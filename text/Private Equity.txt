@@ -1,4 +1,4 @@
-<seo title="Private Equity" metakeywords="private equity investments,private equity investment,introduction private equity,types private equity" metadescription="Private equity is a form of investment capital that is not publicly traded on a stock exchange."/>
+<seo title="Private Equity" metakeywords="private equity investments,private equity investment,introduction private equity,types private equity" metadescription="Private equity is a form of investment capital that is not publicly traded on a stock exchange." />
 ===Introduction to Private Equity===
 
 Private equity is a form of investment capital that is not publicly traded on a stock exchange. It is typically provided by a private investor or a group of investors to a company or business in exchange for equity ownership in the company. Private equity investments are typically used to finance the growth and expansion of a company, or to acquire another company. Private equity investments are typically long-term investments, and the investors are typically looking for a return on their investment over a period of several years.

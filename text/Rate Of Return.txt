@@ -1,4 +1,4 @@
-<seo title="Rate Of Return" metakeywords="rate return ror,rate return irr,irr rate return,rate return calculation" metadescription="Rate of return (ROR) is a measure of the profitability of an investment."/>
+<seo title="Rate Of Return" metakeywords="rate return ror,rate return irr,irr rate return,rate return calculation" metadescription="Rate of return (ROR) is a measure of the profitability of an investment." />
 ===Introduction to Rate of Return===
 
 Rate of return (ROR) is a measure of the profitability of an investment. It is calculated by dividing the total return of an investment by the initial cost of the investment. ROR is used to compare the performance of different investments and to assess the risk associated with each investment. ROR is an important tool for investors, as it helps them to make informed decisions about their investments.

@@ -1,4 +1,4 @@
-<seo title="Fixed Capital" metakeywords="concept fixed capital,capital fixed capital,definition fixed capital,fixed capital defined" metadescription="Fixed capital is a term used in economics and finance to refer to the funds used to purchase long-term assets such as land, buildings, and equipment."/>
+<seo title="Fixed Capital" metakeywords="concept fixed capital,capital fixed capital,definition fixed capital,fixed capital defined" metadescription="Fixed capital is a term used in economics and finance to refer to the funds used to purchase long-term assets such as land, buildings, and equipment." />
 ===Introduction to Fixed Capital===
 
 Fixed capital is a term used in economics and finance to refer to the funds used to purchase long-term assets such as land, buildings, and equipment. It is also known as [[Fixed Asset|fixed asset]]s or long-term capital. Fixed capital is a key component of a company's [[Capital Structure|capital structure]] and is used to finance the purchase of long-term assets. It is important to understand the concept of fixed capital in order to make informed decisions about a company's capital structure.

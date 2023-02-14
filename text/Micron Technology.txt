@@ -1,4 +1,4 @@
-<seo title="Micron Technology" metakeywords="micron technology micron,micron technology experienced,micron technology offers,micron technology" metadescription="Micron Technology was founded in 1978 by Ward Parkinson, Joe Parkinson, and Dennis Wilson."/>
+<seo title="Micron Technology" metakeywords="micron technology micron,micron technology experienced,micron technology offers,micron technology" metadescription="Micron Technology was founded in 1978 by Ward Parkinson, Joe Parkinson, and Dennis Wilson." />
 ===Introduction to Micron Technology===
 
 Micron Technology is a global leader in the semiconductor industry, providing memory and storage solutions for a wide range of applications. Founded in 1978, the company has grown to become one of the largest semiconductor companies in the world, with operations in the United States, Europe, Asia, and South America. Micron Technology designs, manufactures, and markets a variety of memory and storage products, including DRAM, NAND, NOR, and 3D XPoint memory. The company also provides a range of services, including design, engineering, and manufacturing services.

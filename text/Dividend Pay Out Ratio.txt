@@ -1,4 +1,4 @@
-<seo title="Dividend Pay Out Ratio" metakeywords="dividend payout ratio,payout ratio dividend,ratio dividend payout,factors affecting dividend" metadescription="Dividend payout ratio is a financial metric used to measure the amount of a company’s earnings that are paid out as dividends to shareholders."/>
+<seo title="Dividend Pay Out Ratio" metakeywords="dividend payout ratio,payout ratio dividend,ratio dividend payout,factors affecting dividend" metadescription="Dividend payout ratio is a financial metric used to measure the amount of a company’s earnings that are paid out as dividends to shareholders." />
 ===Introduction to Dividend Payout Ratio===
 
 The dividend payout ratio is a financial metric used to measure the amount of a company’s earnings that are paid out as dividends to shareholders. It is calculated by dividing the total amount of dividends paid out by the company’s total [[Net Income|net income]]. The dividend payout ratio is an important indicator of a company’s financial health and can be used to compare the dividend policies of different companies.

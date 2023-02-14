@@ -1,4 +1,4 @@
-<seo title="Earnings Announcement" metakeywords="earnings announcements impact,impact earnings announcements,announcements impact earnings,earnings announcements types" metadescription="An earnings announcement is a formal statement released by a company that provides information about its financial performance."/>
+<seo title="Earnings Announcement" metakeywords="earnings announcements impact,impact earnings announcements,announcements impact earnings,earnings announcements types" metadescription="An earnings announcement is a formal statement released by a company that provides information about its financial performance." />
 ===Introduction to Earnings Announcement===
 
 Earnings announcements are a key part of the financial reporting process. They provide investors with important information about a company’s [[Financial Performance|financial performance]] and can have a significant impact on stock prices. In this article, we will discuss the definition of earnings announcements, the types of earnings announcements, and the impact of earnings announcements on stock prices.

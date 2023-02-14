@@ -1,4 +1,4 @@
-<seo title="Ocfd" metakeywords="ocfd financial ratio,ocfd operating cash,operating cash flow,debt ocfd introduced" metadescription="Operating Cash Flow to Debt (OCFD) is a financial ratio used to measure a company’s ability to pay off its debt obligations."/>
+<seo title="Ocfd" metakeywords="ocfd financial ratio,ocfd operating cash,operating cash flow,debt ocfd introduced" metadescription="Operating Cash Flow to Debt (OCFD) is a financial ratio used to measure a company’s ability to pay off its debt obligations." />
 ===Introduction to Ocfd===
 
 Operating [[Cash Flow|Cash Flow]] to Debt (OCFD) is a financial ratio used to measure a company’s ability to pay off its debt obligations. It is calculated by dividing a company’s [[Operating Cash Flow|operating cash flow]] by its total debt. This ratio is used to assess a company’s financial health and its ability to meet its debt obligations.

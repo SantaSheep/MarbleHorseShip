@@ -1,4 +1,4 @@
-<seo title="De Fe As Ance" metakeywords="finance definition defeasance,defeasance financial term,defeasance defeasance defined,defeasance defined" metadescription="Defeasance is a financial term that refers to the process of replacing a debt obligation with a different security."/>
+<seo title="De Fe As Ance" metakeywords="finance definition defeasance,defeasance financial term,defeasance defeasance defined,defeasance defined" metadescription="Defeasance is a financial term that refers to the process of replacing a debt obligation with a different security." />
 ===Introduction to Defeasance===
 
 Defeasance is a financial term that refers to the process of replacing a debt obligation with a different security. It is a way for a borrower to reduce their debt burden without having to pay off the entire loan. Defeasance is often used in the context of [[Corporate Finance|corporate finance]], but it can also be used in other areas such as [[Real Estate|real estate]] and government finance.

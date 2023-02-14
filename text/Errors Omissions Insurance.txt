@@ -1,4 +1,4 @@
-<seo title="Errors Omissions Insurance" metakeywords="errors omissions insurance,omissions insurance errors,insurance errors omissions,omissions insurance type" metadescription="Errors and Omissions Insurance is designed to protect professionals from claims of negligence or failure to perform professional services."/>
+<seo title="Errors Omissions Insurance" metakeywords="errors omissions insurance,omissions insurance errors,insurance errors omissions,omissions insurance type" metadescription="Errors and Omissions Insurance is designed to protect professionals from claims of negligence or failure to perform professional services." />
 ===Introduction to Errors and Omissions Insurance===
 
 Errors and Omissions Insurance (E&O) is a type of professional liability insurance that provides coverage for businesses and individuals who provide professional services. It is designed to protect against claims of negligence or failure to perform professional services. E&O insurance is also known as professional liability insurance, [[Malpractice Insurance|malpractice insurance]], or professional indemnity insurance.

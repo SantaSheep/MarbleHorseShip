@@ -1,4 +1,4 @@
-<seo title="Cagr" metakeywords="cagr financial metric,cagr compound annual,growth rate cagr,rate cagr" metadescription="Compound Annual Growth Rate (CAGR) is a financial metric used to measure the rate of return of an investment over a period of time."/>
+<seo title="Cagr" metakeywords="cagr financial metric,cagr compound annual,growth rate cagr,rate cagr" metadescription="Compound Annual Growth Rate (CAGR) is a financial metric used to measure the rate of return of an investment over a period of time." />
 ===Introduction to CAGR===
 
 Compound Annual Growth Rate (CAGR) is a financial metric used to measure the [[Rate Of Return|rate of return]] of an investment over a period of time. It is calculated by taking the nth root of the total return of the investment, where n is the number of years in the investment period. CAGR is a useful tool for investors to compare the performance of different investments over time. It is also used to measure the growth of a company’s revenue or profits over a period of time.

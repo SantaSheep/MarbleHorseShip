@@ -1,4 +1,4 @@
-<seo title="Force Ma Jeure" metakeywords="force majeure refer,force majeure clause,forcemajeure force majeure,force majeure legal" metadescription="Force majeure is a legal term that is used to describe an event or circumstance that is beyond the control of the parties involved in a contract."/>
+<seo title="Force Ma Jeure" metakeywords="force majeure refer,force majeure clause,forcemajeure force majeure,force majeure legal" metadescription="Force majeure is a legal term that is used to describe an event or circumstance that is beyond the control of the parties involved in a contract." />
 ===Introduction to Forcemajeure===
 
 Force majeure is a legal term that is used to describe an event or circumstance that is beyond the control of the parties involved in a contract. It is a French term that literally translates to “superior force” and is used to refer to events that are unforeseeable and unavoidable. Force majeure is a clause that is often included in contracts to protect the parties involved from any liability that may arise due to an event that is beyond their control.

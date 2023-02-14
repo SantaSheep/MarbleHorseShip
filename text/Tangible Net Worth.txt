@@ -1,4 +1,4 @@
-<seo title="Tangible Net Worth" metakeywords="net tangible assets,tangible assets net,company tangible net,tangible net worth" metadescription="Tangible net worth is a financial term that refers to the total value of a company’s assets minus its liabilities."/>
+<seo title="Tangible Net Worth" metakeywords="net tangible assets,tangible assets net,company tangible net,tangible net worth" metadescription="Tangible net worth is a financial term that refers to the total value of a company’s assets minus its liabilities." />
 ===Introduction to Tangible Net Worth===
 
 Tangible [[Net Worth|net worth]] is a financial term that refers to the total value of a company’s assets minus its liabilities. It is also known as “[[Net [[Tangible Asset|Tangible Asset]]s|net tangible assets]]” or “net tangible equity” and is a measure of a company’s financial health. Tangible net worth is an important metric for investors and creditors, as it provides an indication of the company’s ability to pay its debts and meet its obligations.

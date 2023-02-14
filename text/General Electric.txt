@@ -1,4 +1,4 @@
-<seo title="General Electric" metakeywords="electric ge founded,energy sector ge,electric ge diversified,introduction general electric" metadescription="General Electric was founded in 1892 by Thomas Edison and J.P. Morgan."/>
+<seo title="General Electric" metakeywords="electric ge founded,energy sector ge,electric ge diversified,introduction general electric" metadescription="General Electric was founded in 1892 by Thomas Edison and J.P. Morgan." />
 ===Introduction to General Electric===
 
 General Electric (GE) is a multinational conglomerate corporation headquartered in Boston, Massachusetts. It is one of the largest companies in the world, with operations in over 180 countries and revenues of over $117 billion in 2019. GE is a diversified company, with businesses in the energy, healthcare, aviation, and finance sectors. The company was founded in 1892 by Thomas Edison and J.P. Morgan, and has since grown to become a global leader in innovation and technology.

@@ -1,4 +1,4 @@
-<seo title="Gips" metakeywords="investment performance standards,investment managers gips,gips set standards,investment portfolios standards" metadescription="Gips are a set of standards developed by the CFA Institute to provide a framework for measuring and evaluating the performance of investment portfolios."/>
+<seo title="Gips" metakeywords="investment performance standards,investment managers gips,gips set standards,investment portfolios standards" metadescription="Gips are a set of standards developed by the CFA Institute to provide a framework for measuring and evaluating the performance of investment portfolios." />
 ===Introduction to Gips===
 
 Gips, or Global Investment Performance Standards, are a set of standards developed by the CFA Institute to provide a framework for measuring and evaluating the performance of investment portfolios. The standards are designed to ensure that investors receive accurate and reliable performance information from their investment managers. The standards are applicable to all types of investments, including stocks, bonds, [[Mutual Fund|mutual fund]]s, and other types of investments.

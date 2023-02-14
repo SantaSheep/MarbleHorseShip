@@ -1,4 +1,4 @@
-<seo title="Loss Ratio" metakeywords="premiums loss ratio,loss ratio financial,loss ratio calculated,calculating loss ratio" metadescription="Loss ratio is a financial term used to measure the profitability of an insurance company."/>
+<seo title="Loss Ratio" metakeywords="premiums loss ratio,loss ratio financial,loss ratio calculated,calculating loss ratio" metadescription="Loss ratio is a financial term used to measure the profitability of an insurance company." />
 ===Introduction to Loss Ratio===
 
 Loss ratio is a financial term used to measure the profitability of an insurance company. It is calculated by dividing the total amount of claims paid out by the total amount of premiums collected. Loss ratio is an important metric for insurance companies as it helps them to assess their [[Financial Performance|financial performance]] and determine the amount of risk they are taking on. It is also used to compare the performance of different insurance companies and to determine the pricing of insurance policies.

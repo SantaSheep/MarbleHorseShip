@@ -1,4 +1,4 @@
-<seo title="Zero Proof Bookkeeping" metakeywords="zero proof bookkeeping,bookkeeping zero proof,bookkeeping zero,proof bookkeeping zero" metadescription="Zero proof bookkeeping does not require any physical evidence or proof of transactions."/>
+<seo title="Zero Proof Bookkeeping" metakeywords="zero proof bookkeeping,bookkeeping zero proof,bookkeeping zero,proof bookkeeping zero" metadescription="Zero proof bookkeeping does not require any physical evidence or proof of transactions." />
 ===Introduction to Zero Proof Bookkeeping===
 
 Zero proof bookkeeping is a method of accounting that does not require any physical evidence or proof of transactions. This method of bookkeeping is based on the idea that all transactions are recorded in a single ledger and that all entries are made without any physical evidence or proof. This method of bookkeeping is often used in small businesses and is becoming increasingly popular due to its simplicity and cost-effectiveness.

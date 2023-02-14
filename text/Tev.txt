@@ -1,4 +1,4 @@
-<seo title="Tev" metakeywords="tev acronym total,tev important concept,tev investment,tev investment strategies" metadescription="Tev is an acronym for Total Economic Value.It is a concept used in economics and finance to measure the total value of a company or asset."/>
+<seo title="Tev" metakeywords="tev acronym total,tev important concept,tev investment,tev investment strategies" metadescription="Tev is an acronym for Total Economic Value.It is a concept used in economics and finance to measure the total value of a company or asset." />
 ===Introduction to Tev===
 
 Tev is an acronym for Total Economic Value, which is a concept used in economics and finance to measure the total value of a company or asset. It is a comprehensive measure of the economic value of a company or asset, taking into account both the tangible and intangible aspects of the company or asset. Tev is used to assess the overall value of a company or asset, and is often used in [[Financial Analysis|financial analysis]] and decision-making.

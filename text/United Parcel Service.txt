@@ -1,4 +1,4 @@
-<seo title="United Parcel Service" metakeywords="ups business model,ups business,service ups business,parcel service ups" metadescription="United Parcel Service (UPS) is a global package delivery and supply chain management company."/>
+<seo title="United Parcel Service" metakeywords="ups business model,ups business,service ups business,parcel service ups" metadescription="United Parcel Service (UPS) is a global package delivery and supply chain management company." />
 ===Introduction to United Parcel Service===
 
 United Parcel Service (UPS) is a global package delivery and [[Supply Chain|supply chain]] management company. Founded in 1907, UPS has grown to become one of the world’s largest package delivery companies, with operations in more than 220 countries and territories. UPS is headquartered in Atlanta, Georgia, and employs more than 500,000 people worldwide. The company’s core business is the delivery of packages and documents, but it also provides a range of other services, including freight forwarding, customs brokerage, and supply chain management.

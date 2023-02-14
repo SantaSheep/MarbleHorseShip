@@ -1,4 +1,4 @@
-<seo title="Nopl At" metakeywords="noplat operating profit,operating profit noplat,calculating noplat,noplat calculated" metadescription="Noplat, or Net Operating Profit After Tax, is a financial metric used to measure the profitability of a company."/>
+<seo title="Nopl At" metakeywords="noplat operating profit,operating profit noplat,calculating noplat,noplat calculated" metadescription="Noplat, or Net Operating Profit After Tax, is a financial metric used to measure the profitability of a company." />
 ===Introduction to Noplat===
 
 Noplat, or Net [[Operating Profit|Operating Profit]] After Tax, is a financial metric used to measure the profitability of a company. It is a measure of the company’s operating performance, and is calculated by subtracting taxes and other non-operating expenses from the company’s operating profit. Noplat is a useful tool for investors and analysts to assess the financial health of a company, as it provides a more accurate picture of the company’s profitability than other metrics such as [[Net Income|net income]].

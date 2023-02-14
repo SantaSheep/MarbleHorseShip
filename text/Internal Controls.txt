@@ -1,4 +1,4 @@
-<seo title="Internal Controls" metakeywords="effective internal controls,internal controls important,introduction internal controls,challenges internal controls" metadescription=""/>
+<seo title="Internal Controls" metakeywords="effective internal controls,internal controls important,introduction internal controls,challenges internal controls" metadescription="" />
 ===Introduction to Internal Controls===
 
 Internal controls are a set of procedures and processes that are designed to ensure the accuracy and reliability of financial information, protect assets, and promote operational efficiency. Internal controls are an important part of any organization’s financial management system and are essential for the prevention and detection of fraud and other financial irregularities. Internal controls are also important for ensuring compliance with applicable laws and regulations.

@@ -1,4 +1,4 @@
-<seo title="Btob" metakeywords="businesses b2b transactions,business b2b transactions,b2b transactions involve,b2b transactions typically" metadescription="Business-to-business (B2B) transactions are a type of commerce that involves the exchange of goods and services between businesses."/>
+<seo title="Btob" metakeywords="businesses b2b transactions,business b2b transactions,b2b transactions involve,b2b transactions typically" metadescription="Business-to-business (B2B) transactions are a type of commerce that involves the exchange of goods and services between businesses." />
 ===Introduction to B2B===
 
 Business-to-business (B2B) is a type of transaction that occurs between two or more businesses. It is a form of commerce that involves the exchange of goods and services between businesses. B2B transactions are typically conducted through a variety of channels, including online marketplaces, direct sales, and electronic data interchange (EDI). B2B transactions are often more complex than consumer-to-business (C2B) or business-to-consumer (B2C) transactions, as they involve multiple parties and often require more detailed negotiations.

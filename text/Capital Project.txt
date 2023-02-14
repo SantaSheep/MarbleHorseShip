@@ -1,4 +1,4 @@
-<seo title="Capital Project" metakeywords="capital investment projects,introduction capital projects,capital projects valuable,capital projects capital" metadescription="Capital projects are large-scale investments that are used to create long-term value for an organization."/>
+<seo title="Capital Project" metakeywords="capital investment projects,introduction capital projects,capital projects valuable,capital projects capital" metadescription="Capital projects are large-scale investments that are used to create long-term value for an organization." />
 ===Introduction to Capital Projects===
 
 Capital projects are large-scale investments that are used to create long-term value for an organization. These projects typically involve significant capital outlays and are designed to generate returns over a period of time. Capital projects can range from building a new factory to launching a new [[Product Line|product line]]. They are often used to expand an organization’s operations, increase its [[Market Share|market share]], or improve its competitive position.

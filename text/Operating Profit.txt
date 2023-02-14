@@ -1,4 +1,4 @@
-<seo title="Operating Profit" metakeywords="introduction operating profit,operating profit measure,calculating operating profit,operating profit total" metadescription="Operating profit is a measure of a company’s financial performance that is used to assess the profitability of a business."/>
+<seo title="Operating Profit" metakeywords="introduction operating profit,operating profit measure,calculating operating profit,operating profit total" metadescription="Operating profit is a measure of a company’s financial performance that is used to assess the profitability of a business." />
 ===Introduction to Operating Profit===
 
 Operating profit is a measure of a company’s [[Financial Performance|financial performance]] that is used to assess the profitability of a business. It is calculated by subtracting operating expenses from total revenue. Operating profit is an important metric for investors and analysts to consider when evaluating a company’s financial health. It is also used to compare the performance of different companies in the same industry.

@@ -1,4 +1,4 @@
-<seo title="Iban" metakeywords="number iban internationally,account number iban,using iban use,using iban" metadescription="International Bank Account Number (IBAN) is an internationally agreed system of identifying bank accounts across national borders."/>
+<seo title="Iban" metakeywords="number iban internationally,account number iban,using iban use,using iban" metadescription="International Bank Account Number (IBAN) is an internationally agreed system of identifying bank accounts across national borders." />
 ===Introduction to IBAN===
 
 International Bank Account Number (IBAN) is an internationally agreed system of identifying bank accounts across national borders to facilitate the communication and processing of cross border transactions with a reduced risk of transcription errors. It was originally developed by the European Committee for Banking Standards (ECBS) and later adopted by the International Organization for Standardization (ISO). The IBAN consists of up to 34 alphanumeric characters and is used to identify an individual bank account.

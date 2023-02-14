@@ -1,4 +1,4 @@
-<seo title="Three Sigma Limits" metakeywords="sigma limits statistical,uses sigma limits,disadvantages sigma limits,sigma limits used" metadescription="Three Sigma Limits, also known as control limits, are a statistical tool used to measure the performance of a process or system."/>
+<seo title="Three Sigma Limits" metakeywords="sigma limits statistical,uses sigma limits,disadvantages sigma limits,sigma limits used" metadescription="Three Sigma Limits, also known as control limits, are a statistical tool used to measure the performance of a process or system." />
 ===Introduction to Three Sigma Limits===
 
 Three Sigma Limits, also known as 3-sigma limits, are a statistical tool used to measure the performance of a process or system. They are used to identify and monitor process performance and to identify areas of improvement. The 3-sigma limits are calculated by taking the mean of a process or system and adding and subtracting three [[Standard Deviation|standard deviation]]s from it. This creates an upper and lower limit that can be used to measure the performance of the process or system.

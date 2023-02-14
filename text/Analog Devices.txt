@@ -1,4 +1,4 @@
-<seo title="Analog Devices" metakeywords="analog devices adi,analog integrated circuits,analog ics,analog devices analog" metadescription=""/>
+<seo title="Analog Devices" metakeywords="analog devices adi,analog integrated circuits,analog ics,analog devices analog" metadescription="" />
 ===Introduction to Analog Devices===
 
 Analog Devices, Inc. (ADI) is a leading global provider of high-performance analog, mixed-signal, and digital signal processing (DSP) integrated circuits (ICs). Founded in 1965, ADI has grown to become one of the world’s largest semiconductor companies, with a presence in more than 40 countries and a customer base that spans the industrial, automotive, consumer, communications, and medical markets. ADI’s products are used in a wide range of applications, including automotive, consumer electronics, communications, medical, and industrial. ADI’s products are designed to meet the needs of customers in a variety of industries, including automotive, consumer, communications, medical, and industrial.

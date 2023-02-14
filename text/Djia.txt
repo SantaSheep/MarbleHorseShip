@@ -1,4 +1,4 @@
-<seo title="Djia" metakeywords="stocks make djia,djia stock market,djia dow jones,index djia" metadescription="The Dow Jones Industrial Average (DJIA) is a stock market index that tracks the performance of 30 large, publicly traded companies in the United States."/>
+<seo title="Djia" metakeywords="stocks make djia,djia stock market,djia dow jones,index djia" metadescription="The Dow Jones Industrial Average (DJIA) is a stock market index that tracks the performance of 30 large, publicly traded companies in the United States." />
 ===Introduction to the Dow Jones Industrial Average (DJIA)===
 
 The Dow Jones Industrial Average (DJIA) is a [[Stock Market|stock market]] index that tracks the performance of 30 large, publicly traded companies in the United States. It is one of the oldest and most widely followed stock market indices in the world. The DJIA is a price-weighted index, meaning that the stocks with the highest prices have the greatest influence on the index. The DJIA is often used as a barometer of the overall health of the U.S. stock market and economy.

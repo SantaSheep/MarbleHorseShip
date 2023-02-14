@@ -1,4 +1,4 @@
-<seo title="Gross Profit" metakeywords="revenue grossprofit measure,business grossprofit,business grossprofit important,grossprofit important financial" metadescription="Grossprofit is a financial term used to describe the difference between a company’s total revenue and its total cost of goods sold."/>
+<seo title="Gross Profit" metakeywords="revenue grossprofit measure,business grossprofit,business grossprofit important,grossprofit important financial" metadescription="Grossprofit is a financial term used to describe the difference between a company’s total revenue and its total cost of goods sold." />
 ===Introduction to Grossprofit===
 
 Grossprofit is a financial term used to describe the difference between a company’s total revenue and its total cost of goods sold. It is a measure of a company’s profitability and is used to assess the overall performance of a business. Grossprofit is an important metric for investors and analysts to consider when evaluating a company’s financial health.

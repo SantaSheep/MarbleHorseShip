@@ -1,4 +1,4 @@
-<seo title="Sustainability" metakeywords="sustainability sustainability concept,sustainability concept,sustainability sustainability defined,sustainability defined" metadescription=""/>
+<seo title="Sustainability" metakeywords="sustainability sustainability concept,sustainability concept,sustainability sustainability defined,sustainability defined" metadescription="" />
 ===Introduction to Sustainability===
 
 Sustainability is a concept that has become increasingly important in the world of finance. It is a term that is used to describe the ability of a business or organization to maintain its operations and activities in a way that is economically, socially, and environmentally responsible. It is a concept that is closely related to the idea of corporate [[Social Responsibility|social responsibility]], which is the idea that businesses should be held accountable for their actions and their impact on society and the environment.

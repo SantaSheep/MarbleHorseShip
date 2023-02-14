@@ -1,4 +1,4 @@
-<seo title="Roae" metakeywords="return assets roa,assets roa return,roa return assets,roa financial ratio" metadescription="Return on Assets (ROA) is a financial ratio that measures the profitability of a company relative to its total assets."/>
+<seo title="Roae" metakeywords="return assets roa,assets roa return,roa return assets,roa financial ratio" metadescription="Return on Assets (ROA) is a financial ratio that measures the profitability of a company relative to its total assets." />
 ===Introduction to Return on Assets (ROA)===
 
 [[Return On Assets|Return on Assets]] (ROA) is a financial ratio that measures the profitability of a company relative to its total assets. It is calculated by dividing the company’s [[Net Income|net income]] by its total assets. ROA is a key indicator of a company’s [[Financial Performance|financial performance]] and is used to compare the profitability of different companies.

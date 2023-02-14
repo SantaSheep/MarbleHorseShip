@@ -1,4 +1,4 @@
-<seo title="Netapp" metakeywords="storage industry netapp,netapp storage systems,netapp financial performance,netapp impact industry" metadescription="NetApp is a leading provider of data storage and management solutions."/>
+<seo title="Netapp" metakeywords="storage industry netapp,netapp storage systems,netapp financial performance,netapp impact industry" metadescription="NetApp is a leading provider of data storage and management solutions." />
 ===Introduction to Netapp===
 
 NetApp is a leading provider of data storage and management solutions. Founded in 1992, the company has grown to become one of the largest and most successful data storage companies in the world. NetApp is headquartered in Sunnyvale, California and has offices in over 25 countries. The company’s products and services are used by organizations of all sizes, from small businesses to large enterprises. NetApp’s solutions are designed to help customers manage their data more efficiently and securely.

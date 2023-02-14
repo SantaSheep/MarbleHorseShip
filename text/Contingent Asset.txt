@@ -1,4 +1,4 @@
-<seo title="Contingent Asset" metakeywords="contingent assets typically,contingent assets recognized,disadvantages contingent assets,introduction contingent asset" metadescription="A contingent asset is an asset that may or may not be realized depending on the occurrence or non-occurrence of a future event."/>
+<seo title="Contingent Asset" metakeywords="contingent assets typically,contingent assets recognized,disadvantages contingent assets,introduction contingent asset" metadescription="A contingent asset is an asset that may or may not be realized depending on the occurrence or non-occurrence of a future event." />
 ===Introduction to Contingent Asset===
 
 A contingent asset is an asset that may or may not be realized depending on the occurrence or non-occurrence of a future event. It is a potential asset that may be realized in the future, but is not currently recognized as an asset on the [[Balance Sheet|balance sheet]]. Contingent assets are typically associated with legal claims, such as lawsuits, or other uncertain events, such as the receipt of a tax refund.

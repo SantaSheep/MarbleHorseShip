@@ -1,4 +1,4 @@
-<seo title="Operating Cash Flow" metakeywords="operating cash flow,cash flow operating,cash flow ocf,flow operating cash" metadescription="Operating cash flow (OCF) is a key indicator of a company’s ability to generate cash to pay its bills and fund its operations."/>
+<seo title="Operating Cash Flow" metakeywords="operating cash flow,cash flow operating,cash flow ocf,flow operating cash" metadescription="Operating cash flow (OCF) is a key indicator of a company’s ability to generate cash to pay its bills and fund its operations." />
 ===Introduction to Operating Cash Flow===
 
 Operating [[Cash Flow|cash flow]] (OCF) is a measure of a company’s [[Financial Performance|financial performance]] that shows the amount of cash generated from its core business operations. It is a key indicator of a company’s ability to generate cash to pay its bills and fund its operations. OCF is calculated by subtracting operating expenses from [[Operating Income|operating income]]. It is an important metric for investors and analysts to assess a company’s financial health and performance.

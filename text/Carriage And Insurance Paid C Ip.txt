@@ -1,4 +1,4 @@
-<seo title="Carriage And Insurance Paid C Ip" metakeywords="cip carriage insurance,paid cip carriage,cip term used,insurance paid cip" metadescription="Carriage and Insurance Paid CIP (CIP) is a term used in international trade to describe the terms of delivery of goods."/>
+<seo title="Carriage And Insurance Paid C Ip" metakeywords="cip carriage insurance,paid cip carriage,cip term used,insurance paid cip" metadescription="Carriage and Insurance Paid CIP (CIP) is a term used in international trade to describe the terms of delivery of goods." />
 ===Introduction to Carriage and Insurance Paid CIP===
 
 Carriage and Insurance Paid CIP (CIP) is a term used in international trade to describe the terms of delivery of goods. It is a type of Incoterm, which is a set of international trade terms developed by the International Chamber of Commerce (ICC). CIP is a term used to describe the responsibility of the seller to deliver goods to a buyer, including the cost of carriage and insurance. The seller is responsible for the cost of carriage and insurance up to the point of delivery, and the buyer is responsible for any additional costs.

@@ -1,4 +1,4 @@
-<seo title="Mutually Exclusive" metakeywords="definition mutually exclusive,mutually exclusive defined,mutually exclusive concept,concept mutually exclusive" metadescription="Mutually exclusive is a financial term that refers to two or more options that cannot be chosen at the same time."/>
+<seo title="Mutually Exclusive" metakeywords="definition mutually exclusive,mutually exclusive defined,mutually exclusive concept,concept mutually exclusive" metadescription="Mutually exclusive is a financial term that refers to two or more options that cannot be chosen at the same time." />
 ===Introduction to Mutually Exclusive===
 
 Mutually exclusive is a financial term that refers to two or more options that cannot be chosen at the same time. It is a concept that is used in many different areas of finance, including investments, insurance, and banking. The concept of mutually exclusive is important to understand when making financial decisions, as it can help to ensure that the best possible decision is made.

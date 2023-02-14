@@ -1,4 +1,4 @@
-<seo title="Public Storage" metakeywords="public storage business,public storage founded,storage publicly traded,storage company" metadescription="Public Storage is the largest self-storage company in the world, with over 2,500 locations in the United States and Europe."/>
+<seo title="Public Storage" metakeywords="public storage business,public storage founded,storage publicly traded,storage company" metadescription="Public Storage is the largest self-storage company in the world, with over 2,500 locations in the United States and Europe." />
 ===Introduction to Public Storage===
 
 Public Storage is a [[Real Estate|real estate]] investment trust (REIT) that specializes in self-storage facilities. It is the largest self-storage company in the world, with over 2,500 locations in the United States and Europe. The company was founded in 1972 and is headquartered in Glendale, California. Public Storage is publicly traded on the New York Stock Exchange under the ticker symbol PSA.

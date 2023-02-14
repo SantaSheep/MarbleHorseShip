@@ -1,4 +1,4 @@
-<seo title="Excess Return" metakeywords="definition excess return,investment excess return,excess return defined,introduction excess return" metadescription="Excess return is a financial term used to describe the return on an investment that exceeds the return of a benchmark index or other measure of performance."/>
+<seo title="Excess Return" metakeywords="definition excess return,investment excess return,excess return defined,introduction excess return" metadescription="Excess return is a financial term used to describe the return on an investment that exceeds the return of a benchmark index or other measure of performance." />
 ===Introduction to Excess Return===
 
 Excess return is a financial term used to describe the return on an investment that exceeds the return of a benchmark index or other measure of performance. It is a measure of the performance of an investment relative to a benchmark, and is often used to evaluate the performance of a portfolio manager or [[Mutual Fund|mutual fund]]. Excess return is also known as alpha, which is the difference between the return of an investment and the return of a benchmark.

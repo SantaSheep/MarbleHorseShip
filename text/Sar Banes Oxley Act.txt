@@ -1,4 +1,4 @@
-<seo title="Sar Banes Oxley Act" metakeywords="sarbanes oxley act,oxley act sarbanes,act sarbanes oxley,overview sarbanes oxley" metadescription="The Sarbanes-Oxley Act of 2002 (SOX) is a federal law that was enacted in response to the corporate scandals of the early 2000s."/>
+<seo title="Sar Banes Oxley Act" metakeywords="sarbanes oxley act,oxley act sarbanes,act sarbanes oxley,overview sarbanes oxley" metadescription="The Sarbanes-Oxley Act of 2002 (SOX) is a federal law that was enacted in response to the corporate scandals of the early 2000s." />
 ===Introduction to the Sarbanes-Oxley Act===
 
 The Sarbanes-Oxley Act of 2002 (SOX) is a federal law that was enacted in response to the corporate scandals of the early 2000s. The law was designed to protect investors from fraudulen[[T Account|t account]]ing practices and to restore public confidence in the [[Financial Market|financial market]]s. The Act is named after its primary sponsors, Senator Paul Sarbanes and Representative Michael Oxley. It is also commonly referred to as the Public Company Accounting Reform and Investor Protection Act.

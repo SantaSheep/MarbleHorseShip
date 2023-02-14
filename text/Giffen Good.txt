@@ -1,4 +1,4 @@
-<seo title="Giffen Good" metakeywords="giffen goods important,giffen goods relatively,giffen goods significant,definition giffen good" metadescription="Giffen goods are a type of good that is characterized by an increase in demand when the price of the good increases."/>
+<seo title="Giffen Good" metakeywords="giffen goods important,giffen goods relatively,giffen goods significant,definition giffen good" metadescription="Giffen goods are a type of good that is characterized by an increase in demand when the price of the good increases." />
 ===Introduction to Giffen Good===
 
 Giffen goods are a type of good that is characterized by an increase in demand when the price of the good increases. This phenomenon is named after the Scottish economist Sir Robert Giffen, who first observed it in the late 19th century. Giffen goods are an important concept in economics, as they provide insight into consumer behavior and the functioning of markets.

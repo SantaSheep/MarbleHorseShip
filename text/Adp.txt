@@ -1,4 +1,4 @@
-<seo title="Adp" metakeywords="adp business model,adp business,services adp provides,services adp offers" metadescription="Automatic Data Processing, Inc. (ADP) is a global provider of human capital management (HCM) solutions."/>
+<seo title="Adp" metakeywords="adp business model,adp business,services adp provides,services adp offers" metadescription="Automatic Data Processing, Inc. (ADP) is a global provider of human capital management (HCM) solutions." />
 ===Introduction to ADP===
 
 Automatic Data Processing, Inc. (ADP) is a global provider of [[Human Capital|human capital]] management (HCM) solutions. Founded in 1949, ADP is one of the world’s largest providers of payroll, benefits, and other human resource services. ADP’s services are used by more than 860,000 organizations in over 125 countries. ADP is headquartered in Roseland, New Jersey, and has offices in more than 40 countries.

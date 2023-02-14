@@ -1,4 +1,4 @@
-<seo title="Economic Order Quantity" metakeywords="cost inventory eoq,inventory costs eoq,inventory eoq model,order quantity eoq" metadescription="Economic Order Quantity (EOQ) is a model used to determine the optimal order quantity that a company should purchase in order to minimize the total cost of inventory."/>
+<seo title="Economic Order Quantity" metakeywords="cost inventory eoq,inventory costs eoq,inventory eoq model,order quantity eoq" metadescription="Economic Order Quantity (EOQ) is a model used to determine the optimal order quantity that a company should purchase in order to minimize the total cost of inventory." />
 ===Introduction to Economic Order Quantity===
 
 Economic Order Quantity (EOQ) is a model used to determine the optimal order quantity that a company should purchase in order to minimize the total cost of inventory. It is a decision-making tool used to determine the most cost-effective order size for a company’s inventory. The EOQ model takes into account the cost of ordering and the cost of holding inventory, and helps companies determine the optimal order size that will minimize their total inventory costs.

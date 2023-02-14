@@ -1,4 +1,4 @@
-<seo title="Syndicated Loan" metakeywords="syndicated loans typically,syndicated loans type,introduction syndicated loans,syndicated loans involve" metadescription="A syndicated loan is a type of loan that is provided by a group of lenders to a single borrower."/>
+<seo title="Syndicated Loan" metakeywords="syndicated loans typically,syndicated loans type,introduction syndicated loans,syndicated loans involve" metadescription="A syndicated loan is a type of loan that is provided by a group of lenders to a single borrower." />
 ===Introduction to Syndicated Loans===
 
 A syndicated loan is a type of loan that is provided by a group of lenders, known as a syndicate, to a single borrower. The syndicate is typically composed of [[Commercial Bank|commercial bank]]s, investment banks, and other [[Financial Institution|financial institution]]s. Syndicated loans are typically used to finance large-scale projects, such as the construction of a new factory or the acquisition of a company. Syndicated loans are also used to finance mergers and acquisitions, as well as to provide [[Working Capital|working capital]] for businesses.

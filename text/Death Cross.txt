@@ -1,4 +1,4 @@
-<seo title="Death Cross" metakeywords="deathcross technical analysis,stock market deathcross,market definition deathcross,definition deathcross" metadescription="Deathcross is a technical analysis term used to describe a situation in which a stock’s short-term moving average crosses below its long- term moving average."/>
+<seo title="Death Cross" metakeywords="deathcross technical analysis,stock market deathcross,market definition deathcross,definition deathcross" metadescription="Deathcross is a technical analysis term used to describe a situation in which a stock’s short-term moving average crosses below its long- term moving average." />
 ===Introduction to Deathcross===
 
 Deathcross is a [[Technical Analysis|technical analysis]] term used to describe a situation in which a stock’s short-term [[Moving Average|moving average]] crosses below its long-term moving average. This is seen as a bearish signal, indicating that the stock’s price is likely to decline in the near future. Deathcross is a popular tool used by traders and investors to identify potential entry and exit points in the [[Stock Market|stock market]].

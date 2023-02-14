@@ -1,4 +1,4 @@
-<seo title="Inventory Accounting" metakeywords="introduction inventory accounting,inventory accounting,inventory accounting process,accounting inventory accounting" metadescription="Inventory accounting is the process of tracking and recording the cost of goods and services that a business has purchased or produced."/>
+<seo title="Inventory Accounting" metakeywords="introduction inventory accounting,inventory accounting,inventory accounting process,accounting inventory accounting" metadescription="Inventory accounting is the process of tracking and recording the cost of goods and services that a business has purchased or produced." />
 ===Introduction to Inventory Accounting===
 
 Inventory accounting is the process of tracking and recording the cost of goods and services that a business has purchased or produced. It is an important part of the financial management of a business, as it helps to ensure that the company is able to accurately track and report its inventory costs. Inventory accounting is also used to determine the value of a companyâ€™s inventory, which is important for tax purposes and other financial reporting.

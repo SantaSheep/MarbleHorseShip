@@ -1,4 +1,4 @@
-<seo title="Auditor" metakeywords="auditors help ensure,auditors responsible ensuring,auditor role auditor,auditor role" metadescription="An auditor is a professional who is responsible for examining and verifying the accuracy of financial records and statements."/>
+<seo title="Auditor" metakeywords="auditors help ensure,auditors responsible ensuring,auditor role auditor,auditor role" metadescription="An auditor is a professional who is responsible for examining and verifying the accuracy of financial records and statements." />
 ===Introduction to Auditor===
 
 An auditor is a professional who is responsible for examining and verifying the accuracy of financial records and statements. Auditors are typically employed by companies, government agencies, and other organizations to ensure that their [[Financial Statements|financial statements]] are accurate and in compliance with applicable laws and regulations. Auditors are also responsible for providing assurance that the organization’s financial statements are free from material misstatement.

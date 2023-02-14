@@ -1,4 +1,4 @@
-<seo title="Lam Research" metakeywords="semiconductor industry lam,industry lam research,semiconductor components lam,electronic components lam" metadescription="Lam Research is a leading supplier of semiconductor manufacturing equipment and services."/>
+<seo title="Lam Research" metakeywords="semiconductor industry lam,industry lam research,semiconductor components lam,electronic components lam" metadescription="Lam Research is a leading supplier of semiconductor manufacturing equipment and services." />
 ===Introduction to Lam Research===
 
 Lam Research is a leading supplier of semiconductor manufacturing equipment and services. Founded in 1980, the company has grown to become a global leader in the semiconductor industry, providing innovative solutions to customers around the world. Lam Research is headquartered in Fremont, California, and has operations in more than 20 countries. The company is publicly traded on the NASDAQ stock exchange under the ticker symbol LRCX.

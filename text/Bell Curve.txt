@@ -1,4 +1,4 @@
-<seo title="Bell Curve" metakeywords="bell curve useful,bell curve developed,bell curve finance,finance bell curve" metadescription="The Bell Curve is a statistical concept that describes the distribution of data points in a population."/>
+<seo title="Bell Curve" metakeywords="bell curve useful,bell curve developed,bell curve finance,finance bell curve" metadescription="The Bell Curve is a statistical concept that describes the distribution of data points in a population." />
 ===Introduction to the Bell Curve===
 
 The Bell Curve is a statistical concept that describes the distribution of data points in a population. It is a graphical representation of a [[Normal Distribution|normal distribution]], which is a type of [[Probability Distribution|probability distribution]] that is symmetrical around the mean. The Bell Curve is also known as the Gaussian distribution or the normal distribution. It is used in many fields, including finance, to describe the probability of certain outcomes.

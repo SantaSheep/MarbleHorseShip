@@ -1,4 +1,4 @@
-<seo title="Total Debt To Total Assets" metakeywords="debt total assets,total assets tdta,assets total debt,total assets ratio" metadescription="Total Debt to Total Assets (TDTA) is a financial ratio that measures the amount of debt a company has relative to its total assets."/>
+<seo title="Total Debt To Total Assets" metakeywords="debt total assets,total assets tdta,assets total debt,total assets ratio" metadescription="Total Debt to Total Assets (TDTA) is a financial ratio that measures the amount of debt a company has relative to its total assets." />
 ===Introduction to Total Debt to Total Assets===
 
 Total Debt to Total Assets (TDTA) is a financial ratio that measures the amount of debt a company has relative to its total assets. It is used to assess the financial health of a company and is an important indicator of its ability to pay off its debt. The ratio is calculated by dividing the total debt of a company by its total assets. A higher ratio indicates that the company has more debt relative to its assets, while a lower ratio indicates that the company has less debt relative to its assets.

@@ -1,4 +1,4 @@
-<seo title="Floor Area Ratio" metakeywords="floor area ratio,ratio floor area,zoning ratio building,area ratio floor" metadescription="Floor Area Ratio is a term used in urban planning and zoning to describe the ratio of a building’s total floor area to the size of the land on which it is built."/>
+<seo title="Floor Area Ratio" metakeywords="floor area ratio,ratio floor area,zoning ratio building,area ratio floor" metadescription="Floor Area Ratio is a term used in urban planning and zoning to describe the ratio of a building’s total floor area to the size of the land on which it is built." />
 ===Introduction to Floor Area Ratio===
 
 Floor Area Ratio (FAR) is a term used in urban planning and zoning to describe the ratio of a building’s total floor area to the size of the land on which it is built. It is used to regulate the size and density of buildings in a given area, and is an important tool for urban planners and developers. FAR is typically expressed as a decimal or percentage, and is used to determine the maximum allowable size of a building in a given area.

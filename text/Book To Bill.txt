@@ -1,4 +1,4 @@
-<seo title="Book To Bill" metakeywords="book financial ratio,b2b financial ratio,sales ratio used,book calculated" metadescription="Book-to-bill (B2B) is a financial ratio used to measure the demand for a company’s products or services."/>
+<seo title="Book To Bill" metakeywords="book financial ratio,b2b financial ratio,sales ratio used,book calculated" metadescription="Book-to-bill (B2B) is a financial ratio used to measure the demand for a company’s products or services." />
 ===Introduction to Book-to-Bill===
 
 Book-to-bill (B2B) is a financial ratio used to measure the demand for a company’s products or services. It is calculated by dividing the total value of orders received by the total value of orders shipped in a given period. The ratio is used to assess the health of a company’s business and to predict future sales.

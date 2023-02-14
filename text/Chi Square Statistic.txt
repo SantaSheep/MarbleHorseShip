@@ -1,4 +1,4 @@
-<seo title="Chi Square Statistic" metakeywords="introduction chi square,chi square statistic,applications chi square,calculating chi square" metadescription="The chi-square statistic is a widely used statistical tool that is used to test the relationship between two variables."/>
+<seo title="Chi Square Statistic" metakeywords="introduction chi square,chi square statistic,applications chi square,calculating chi square" metadescription="The chi-square statistic is a widely used statistical tool that is used to test the relationship between two variables." />
 ===Introduction to Chi Square Statistic===
 
 The chi-square statistic is a widely used statistical tool that is used to test the relationship between two variables. It is a measure of the difference between observed and expected frequencies in a given sample. The chi-square statistic is used to determine if there is a [[Statistically Significant|statistically significant]] difference between two variables. It is also used to test the independence of two variables.

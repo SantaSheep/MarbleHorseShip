@@ -1,4 +1,4 @@
-<seo title="Empirical Rule" metakeywords="definition empirical rule,empirical rule used,empirical rule statistical,introduction empirical rule" metadescription="The Empirical Rule is a statistical concept that is used to describe the distribution of data."/>
+<seo title="Empirical Rule" metakeywords="definition empirical rule,empirical rule used,empirical rule statistical,introduction empirical rule" metadescription="The Empirical Rule is a statistical concept that is used to describe the distribution of data." />
 ===Introduction to the Empirical Rule===
 
 The Empirical Rule is a statistical concept that is used to describe the distribution of data. It is also known as the 68-95-99.7 Rule, as it states that 68% of data points will fall within one [[Standard Deviation|standard deviation]] of the mean, 95% of data points will fall within two standard deviations of the mean, and 99.7% of data points will fall within three standard deviations of the mean. This rule is useful for understanding the spread of data and can be used to make predictions about the likelihood of certain outcomes.

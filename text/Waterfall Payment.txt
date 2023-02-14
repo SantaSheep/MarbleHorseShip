@@ -1,4 +1,4 @@
-<seo title="Waterfall Payment" metakeywords="waterfall payment structures,introduction waterfall payment,waterfall payment,types waterfall payment" metadescription="Waterfall payment is a method of allocating payments among different parties in a transaction."/>
+<seo title="Waterfall Payment" metakeywords="waterfall payment structures,introduction waterfall payment,waterfall payment,types waterfall payment" metadescription="Waterfall payment is a method of allocating payments among different parties in a transaction." />
 ===Introduction to Waterfall Payment===
 
 Waterfall payment is a type of payment structure used in financial transactions. It is a method of allocating payments among different parties in a transaction. The payments are allocated in a “waterfall” fashion, with each party receiving a certain percentage of the total payment. This method of payment is often used in [[Venture Capital|venture capital]] investments, [[Real Estate|real estate]] transactions, and other financial transactions.

@@ -1,4 +1,4 @@
-<seo title="Turnover" metakeywords="turnover inventory turnover,inventory asset turnover,inventory turnover,asset turnover inventory" metadescription="Turnover is a term used in the financial world to refer to the rate at which a company’s assets are replaced or exchanged."/>
+<seo title="Turnover" metakeywords="turnover inventory turnover,inventory asset turnover,inventory turnover,asset turnover inventory" metadescription="Turnover is a term used in the financial world to refer to the rate at which a company’s assets are replaced or exchanged." />
 ===Introduction to Turnover===
 
 Turnover is a term used in the financial world to refer to the rate at which a company’s assets are replaced or exchanged. It is a measure of how quickly a company is able to generate revenue from its investments. Turnover is an important metric for investors and analysts to consider when evaluating a company’s performance. It can provide insight into the company’s ability to generate profits and its overall financial health.

@@ -1,4 +1,4 @@
-<seo title="General Depreciation System" metakeywords="general depreciation gds,depreciation gds,depreciation gds accounting,depreciation gds method" metadescription="General Depreciation System (GDS) is an accounting method used to calculate the depreciation of an asset over its useful life."/>
+<seo title="General Depreciation System" metakeywords="general depreciation gds,depreciation gds,depreciation gds accounting,depreciation gds method" metadescription="General Depreciation System (GDS) is an accounting method used to calculate the depreciation of an asset over its useful life." />
 ===Introduction to General Depreciation System===
 
 General Depreciation System (GDS) is an [[Accounting Method|accounting method]] used to calculate the depreciation of an asset over its [[Useful Life|useful life]]. It is a systematic approach to calculating the cost of an asset over time, taking into account the cost of the asset, its expected useful life, and its expected salvage value. GDS is used to calculate the amount of depreciation that can be claimed as a tax deduction for businesses.

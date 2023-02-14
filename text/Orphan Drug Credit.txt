@@ -1,4 +1,4 @@
-<seo title="Orphan Drug Credit" metakeywords="orphan drug credit,orphan drug fda,credit orphan drug,qualify orphan drug" metadescription="The Orphan Drug Credit (ODC) is a tax credit available to pharmaceutical companies that develop drugs to treat rare diseases."/>
+<seo title="Orphan Drug Credit" metakeywords="orphan drug credit,orphan drug fda,credit orphan drug,qualify orphan drug" metadescription="The Orphan Drug Credit (ODC) is a tax credit available to pharmaceutical companies that develop drugs to treat rare diseases." />
 ===Introduction to Orphan Drug Credit===
 
 The Orphan Drug Credit (ODC) is a tax credit available to pharmaceutical companies that develop drugs to treat rare diseases. The credit was created in 1983 as part of the Orphan Drug Act and is designed to encourage the development of drugs for rare diseases, which are often neglected by pharmaceutical companies due to their small potential market size. The credit is available to companies that develop drugs for diseases that affect fewer than 200,000 people in the United States. The credit is equal to 50% of the qualified clinical testing expenses incurred in the development of the drug.

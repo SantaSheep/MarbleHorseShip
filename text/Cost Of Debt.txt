@@ -1,4 +1,4 @@
-<seo title="Cost Of Debt" metakeywords="debt cost,introduction cost debt,cost debt cost,cost debt calculate" metadescription="Cost of debt is defined as the total cost of borrowing money, including interest and other fees associated with the loan."/>
+<seo title="Cost Of Debt" metakeywords="debt cost,introduction cost debt,cost debt cost,cost debt calculate" metadescription="Cost of debt is defined as the total cost of borrowing money, including interest and other fees associated with the loan." />
 ===Introduction to Cost of Debt===
 
 Cost of debt is a term used to describe the cost associated with borrowing money. It is an important concept for businesses and individuals alike, as it can have a significant impact on their financial decisions. Cost of debt is typically expressed as a percentage of the amount borrowed, and it is used to determine the total cost of borrowing money. It is important to understand the components of cost of debt and how to calculate it in order to make informed financial decisions.

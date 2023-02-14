@@ -1,4 +1,4 @@
-<seo title="Juniper Networks" metakeywords="introduction juniper networks,conclusion juniper networks,juniper networks juniper,juniper networks" metadescription="Juniper Networks was founded in 1996 by Pradeep Sindhu, Scott Kriens, and Dennis Ferguson."/>
+<seo title="Juniper Networks" metakeywords="introduction juniper networks,conclusion juniper networks,juniper networks juniper,juniper networks" metadescription="Juniper Networks was founded in 1996 by Pradeep Sindhu, Scott Kriens, and Dennis Ferguson." />
 ===Introduction to Juniper Networks===
 
 Juniper Networks is a leading provider of networking and security solutions for enterprises, service providers, and government organizations. Founded in 1996, Juniper Networks has grown to become one of the largest networking companies in the world, with a presence in over 100 countries. Juniper Networks offers a wide range of products and services, including routers, switches, security solutions, and software-defined networking (SDN) solutions. The company also provides professional services, such as consulting, training, and support.

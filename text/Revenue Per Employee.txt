@@ -1,4 +1,4 @@
-<seo title="Revenue Per Employee" metakeywords="revenue employee calculated,calculation revenue employee,revenue employee revenue,definition revenue employee" metadescription="Revenue per employee is a financial metric used to measure the efficiency of a company’s operations."/>
+<seo title="Revenue Per Employee" metakeywords="revenue employee calculated,calculation revenue employee,revenue employee revenue,definition revenue employee" metadescription="Revenue per employee is a financial metric used to measure the efficiency of a company’s operations." />
 ===Introduction to Revenue per Employee===
 
 Revenue per employee is a financial metric used to measure the efficiency of a company’s operations. It is calculated by dividing the total revenue of a company by the number of employees it has. This metric is used to measure the productivity of a company’s workforce and to compare the performance of different companies. It is also used to assess the financial health of a company and to identify areas of improvement.

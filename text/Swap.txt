@@ -1,4 +1,4 @@
-<seo title="Swap" metakeywords="swaps commodity swaps,currency swaps,commodity swaps involve,commodity swaps" metadescription="Swaps are used to hedge against risk, to speculate on the direction of interest rates or other financial instruments, and to manage liquidity."/>
+<seo title="Swap" metakeywords="swaps commodity swaps,currency swaps,commodity swaps involve,commodity swaps" metadescription="Swaps are used to hedge against risk, to speculate on the direction of interest rates or other financial instruments, and to manage liquidity." />
 ===Introduction to Swaps===
 
 A swap is a [[Financial Instrument|financial instrument]] that involves two parties exchanging [[Cash Flow|cash flow]]s or other financial instruments over a period of time. Swaps are used to hedge against risk, to speculate on the direction of [[Interest Rate|interest rate]]s or other financial instruments, and to manage liquidity. Swaps are typically used by large [[Financial Institution|financial institution]]s, such as banks, [[Hedge Fund|hedge fund]]s, and insurance companies, but they can also be used by individual investors.

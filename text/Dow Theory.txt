@@ -1,4 +1,4 @@
-<seo title="Dow Theory" metakeywords="dow theory based,dow theory used,dow theory dow,dow developed theory" metadescription="Dow Theory is a theory of stock market analysis developed by Charles Dow, the founder of the Wall Street Journal."/>
+<seo title="Dow Theory" metakeywords="dow theory based,dow theory used,dow theory dow,dow developed theory" metadescription="Dow Theory is a theory of stock market analysis developed by Charles Dow, the founder of the Wall Street Journal." />
 ===Introduction to Dow Theory===
 
 Dow Theory is a theory of [[Stock Market|stock market]] analysis developed by Charles Dow, the founder of the Wall Street Journal. The theory is based on the idea that stock prices move in trends, and that these trends can be identified and used to make investment decisions. The theory is based on the observation that stock prices tend to move in three distinct phases: accumulation, distribution, and confirmation. The theory also suggests that the stock market is a leading indicator of the economy, and that it can be used to predict future economic activity.

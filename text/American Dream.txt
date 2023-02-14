@@ -1,4 +1,4 @@
-<seo title="American Dream" metakeywords="impact american dream,american dream concept,concept american dream,history american dream" metadescription="The American Dream is a term used to describe the idea that anyone, regardless of their background, can achieve success and prosperity through hard work and determination."/>
+<seo title="American Dream" metakeywords="impact american dream,american dream concept,concept american dream,history american dream" metadescription="The American Dream is a term used to describe the idea that anyone, regardless of their background, can achieve success and prosperity through hard work and determination." />
 ===Introduction to the American Dream===
 
 The American Dream is a term used to describe the idea that anyone, regardless of their background, can achieve success and prosperity through hard work and determination. It is a concept that has been around since the founding of the United States and has been a major part of the American identity ever since. The American Dream is often seen as a symbol of the country’s commitment to equality and opportunity for all.

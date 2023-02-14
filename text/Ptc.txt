@@ -1,4 +1,4 @@
-<seo title="Ptc" metakeywords="ptc products services,iot markets ptc,markets ptc products,things markets ptc" metadescription="PTC has grown to become a leader in the product lifecycle management (PLM) and Internet of Things (IoT) markets."/>
+<seo title="Ptc" metakeywords="ptc products services,iot markets ptc,markets ptc products,things markets ptc" metadescription="PTC has grown to become a leader in the product lifecycle management (PLM) and Internet of Things (IoT) markets." />
 ===Introduction to PTC===
 
 PTC (formerly Parametric Technology Corporation) is a global provider of technology solutions for product development, manufacturing, and service. Founded in 1985, PTC has grown to become a leader in the product lifecycle management (PLM) and Internet of Things (IoT) markets. PTC’s products and services are used by companies in a variety of industries, including automotive, aerospace, [[Consumer Goods|consumer goods]], medical devices, and industrial machinery. PTC’s headquarters are located in Needham, Massachusetts, and the company has offices in more than 20 countries around the world.

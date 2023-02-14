@@ -1,4 +1,4 @@
-<seo title="Cross Elasticity Demand" metakeywords="demand cross elasticity,cross elasticity demand,elasticity demand cross,elasticity demand ced" metadescription="Cross elasticity of demand (CED) is a measure of the responsiveness of the quantity demanded of one good to a change in the price of another good."/>
+<seo title="Cross Elasticity Demand" metakeywords="demand cross elasticity,cross elasticity demand,elasticity demand cross,elasticity demand ced" metadescription="Cross elasticity of demand (CED) is a measure of the responsiveness of the quantity demanded of one good to a change in the price of another good." />
 ===Introduction to Cross Elasticity of Demand===
 
 Cross elasticity of demand (CED) is a measure of the responsiveness of the quantity demanded of one good to a change in the price of another good. It is used to measure the degree of substitution between two goods. CED is an important concept in economics and is used to measure the degree of competition between two goods.

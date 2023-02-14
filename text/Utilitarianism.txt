@@ -1,4 +1,4 @@
-<seo title="Utilitarianism" metakeywords="utilitarianism philosophical concept,utilitarianism philosophical,theory utilitarianism,theory utilitarianism used" metadescription="Utilitarianism is a philosophical concept that has been used to evaluate the morality of decisions and actions."/>
+<seo title="Utilitarianism" metakeywords="utilitarianism philosophical concept,utilitarianism philosophical,theory utilitarianism,theory utilitarianism used" metadescription="Utilitarianism is a philosophical concept that has been used to evaluate the morality of decisions and actions." />
 ===Introduction to Utilitarianism===
 
 Utilitarianism is a philosophical concept that has been used to evaluate the morality of decisions and actions. It is based on the idea that the best action is the one that produces the greatest amount of good for the greatest number of people. Utilitarianism is a consequentialist theory, meaning that it focuses on the consequences of an action rather than the action itself. Utilitarianism has been used in many different fields, including economics, finance, and business.

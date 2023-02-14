@@ -1,4 +1,4 @@
-<seo title="Equifax" metakeywords="equifax business model,introduction equifax,equifax business,business model equifax" metadescription="Equifax is a global information solutions company that provides data, analytics, and technology to businesses and consumers."/>
+<seo title="Equifax" metakeywords="equifax business model,introduction equifax,equifax business,business model equifax" metadescription="Equifax is a global information solutions company that provides data, analytics, and technology to businesses and consumers." />
 ===Introduction to Equifax===
 
 Equifax is a global information solutions company that provides data, analytics, and technology to businesses and consumers. Founded in 1899, Equifax is one of the oldest and most respected credit reporting agencies in the world. Equifax is headquartered in Atlanta, Georgia and has offices in more than 24 countries. The company provides a wide range of services, including credit reporting, identity theft protection, fraud prevention, and [[Risk Management|risk management]]. Equifax also provides data and analytics to help businesses make better decisions and manage risk.

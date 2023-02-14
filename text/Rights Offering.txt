@@ -1,4 +1,4 @@
-<seo title="Rights Offering" metakeywords="rights offerings drawbacks,drawbacks rights offering,rights offerings useful,offering rights offerings" metadescription=""/>
+<seo title="Rights Offering" metakeywords="rights offerings drawbacks,drawbacks rights offering,rights offerings useful,offering rights offerings" metadescription="" />
 ===Introduction to Rights Offering===
 
 Rights offering is a type of securities offering in which existing shareholders of a company are given the right to purchase additional shares of the company’s stock at a discounted price. This type of offering is typically used by companies to raise capital without having to issue new shares to the public. Rights offerings are also known as subscription rights offerings or preemptive rights offerings.

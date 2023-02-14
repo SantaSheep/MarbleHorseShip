@@ -1,4 +1,4 @@
-<seo title="Obsf" metakeywords="derivatives trading obsf,obsf derivatives contracts,introduction obsf derivatives,obsf derivatives" metadescription="Obsf is a type of futures contract that is traded over-the-counter (OTC) rather than on an exchange."/>
+<seo title="Obsf" metakeywords="derivatives trading obsf,obsf derivatives contracts,introduction obsf derivatives,obsf derivatives" metadescription="Obsf is a type of futures contract that is traded over-the-counter (OTC) rather than on an exchange." />
 ===Introduction to Obsf===
 
 Obsf, or Over-the-Counter Swap Futures, is a type of [[Financial Instrument|financial instrument]] that is used to facilitate the trading of derivatives contracts. It is a relatively new type of financial instrument that has been gaining popularity in recent years due to its ability to provide investors with greater flexibility and liquidity. In this article, we will discuss the definition of Obsf, its history, its uses, its advantages and disadvantages, and its conclusion.

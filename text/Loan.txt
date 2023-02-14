@@ -1,4 +1,4 @@
-<seo title="Loan" metakeywords="generally terms loan,different types loans,loans different types,types loans different" metadescription="Loans are a common form of financing for large purchases, investments, and short-term expenses."/>
+<seo title="Loan" metakeywords="generally terms loan,different types loans,loans different types,types loans different" metadescription="Loans are a common form of financing for large purchases, investments, and short-term expenses." />
 ===Introduction to Loans===
 
 A loan is a type of financial agreement in which one party (the lender) provides money or other assets to another party (the borrower) in exchange for repayment of the loan principal plus interest. Loans are typically used to finance large purchases, such as a home or car, or to cover short-term expenses, such as medical bills or emergency repairs. Loans can also be used to finance investments, such as a business venture or a college education.

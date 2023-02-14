@@ -1,4 +1,4 @@
-<seo title="Gst" metakeywords="india concept gst,tax laws gst,gst india,concept gst" metadescription="GST is a multi-stage, destination-based tax that is levied on every value addition.It is a single tax on the supply of goods and services, from the manufacturer to the consumer."/>
+<seo title="Gst" metakeywords="india concept gst,tax laws gst,gst india,concept gst" metadescription="GST is a multi-stage, destination-based tax that is levied on every value addition.It is a single tax on the supply of goods and services, from the manufacturer to the consumer." />
 ===Introduction to GST===
 
 Goods and Services Tax (GST) is a comprehensive, multi-stage, destination-based tax that is levied on every value addition. It is a single tax on the supply of goods and services, from the manufacturer to the consumer. GST is a tax on the consumption of goods and services, and is paid by the final consumer. It is a tax that is collected by the government from the producers, wholesalers, and retailers, and is ultimately borne by the end consumer. GST is a tax that is levied on the supply of goods and services, and is paid by the final consumer.

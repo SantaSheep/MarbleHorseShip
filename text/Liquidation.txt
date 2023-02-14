@@ -1,4 +1,4 @@
-<seo title="Liquidation" metakeywords="liquidation liquidation process,liquidation process liquidation,liquidation process used,liquidation involves steps" metadescription="Liquidation is the process of converting assets into cash or other forms of liquid assets."/>
+<seo title="Liquidation" metakeywords="liquidation liquidation process,liquidation process liquidation,liquidation process used,liquidation involves steps" metadescription="Liquidation is the process of converting assets into cash or other forms of liquid assets." />
 ===Introduction to Liquidation===
 
 Liquidation is the process of converting assets into cash or other forms of [[Liquid Asset|liquid asset]]s. It is a process that is used to close a business or to settle a debt. Liquidation can be voluntary or involuntary, and it can be done through a court-ordered process or through a private sale. Liquidation is a common practice in the business world and is often used to help businesses manage their finances and reduce their liabilities.

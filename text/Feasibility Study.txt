@@ -1,4 +1,4 @@
-<seo title="Feasibility Study" metakeywords="feasibility studies types,feasibility studies analyze,feasibility studies economic,economic feasibility studies" metadescription="A feasibility study is an analysis of the viability of a proposed project or venture.It is used to determine whether the project should be pursued or not."/>
+<seo title="Feasibility Study" metakeywords="feasibility studies types,feasibility studies analyze,feasibility studies economic,economic feasibility studies" metadescription="A feasibility study is an analysis of the viability of a proposed project or venture.It is used to determine whether the project should be pursued or not." />
 ===Introduction to Feasibility Studies===
 
 A feasibility study is an analysis of the viability of a proposed project or venture. It is used to determine whether the project should be pursued or not. The study considers the project’s potential for success, its economic and technical feasibility, and its potential risks and rewards. Feasibility studies are conducted to determine if a project is worth pursuing and to identify any potential problems that may arise.

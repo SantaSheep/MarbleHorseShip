@@ -1,4 +1,4 @@
-<seo title="Jit" metakeywords="jit concept,benefits using jit,jit benefits using,jit beneficial" metadescription="Just-in-time (JIT) is a production and inventory control system that is used to manage the flow of materials and products within a business."/>
+<seo title="Jit" metakeywords="jit concept,benefits using jit,jit benefits using,jit beneficial" metadescription="Just-in-time (JIT) is a production and inventory control system that is used to manage the flow of materials and products within a business." />
 ===Introduction to JIT===
 
 Just-in-time (JIT) is a production and inventory control system that is used to manage the flow of materials and products within a business. It is a system that is designed to reduce costs and improve efficiency by ensuring that the right amount of materials and products are available at the right time. JIT is based on the idea of having the right amount of inventory on hand at all times, and it is used to reduce the amount of inventory that is held in stock. JIT is also used to reduce the amount of time that is spent on production and inventory control.

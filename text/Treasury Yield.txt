@@ -1,4 +1,4 @@
-<seo title="Treasury Yield" metakeywords="calculating treasury yield,treasury yield calculated,treasury yield measure,treasury yields used" metadescription="Treasury yield is a measure of the return on investment for a U.S. Treasury security."/>
+<seo title="Treasury Yield" metakeywords="calculating treasury yield,treasury yield calculated,treasury yield measure,treasury yields used" metadescription="Treasury yield is a measure of the return on investment for a U.S. Treasury security." />
 ===Introduction to Treasury Yield===
 
 Treasury yield is a measure of the [[Return On Investment|return on investment]] for a U.S. Treasury security. It is calculated by taking the coupon rate of the security and dividing it by the current market price of the security. Treasury yields are used to measure the performance of the U.S. Treasury market and are an important indicator of the overall health of the economy. Treasury yields are also used to compare the relative value of different types of investments.

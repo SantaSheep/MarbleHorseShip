@@ -1,4 +1,4 @@
-<seo title="Modified Accrual Accounting" metakeywords="modified accrual accounting,accounting modified accrual,advantages modified accrual,introduction modified accrual" metadescription="Modified accrual accounting is used by governments and other public entities to record and report financial information."/>
+<seo title="Modified Accrual Accounting" metakeywords="modified accrual accounting,accounting modified accrual,advantages modified accrual,introduction modified accrual" metadescription="Modified accrual accounting is used by governments and other public entities to record and report financial information." />
 ===Introduction to Modified Accrual Accounting===
 
 Modified [[Accrual Accounting|accrual accounting]] is a method of accounting that is used by governments and other public entities to record and report financial information. It is a hybrid of the cash and accrual [[Accounting Method|accounting method]]s, and is used to provide a more accurate picture of a government’s financial position. Modified accrual accounting is required by the Governmental [[Accounting Standard|Accounting Standard]]s Board (GASB) for all state and local governments.

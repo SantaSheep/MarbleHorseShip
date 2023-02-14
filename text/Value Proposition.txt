@@ -1,4 +1,4 @@
-<seo title="Value Proposition" metakeywords="introduction value proposition,value proposition product,value propositions,value proposition creating" metadescription="A value proposition is a statement that outlines the benefits of a product or service to a customer."/>
+<seo title="Value Proposition" metakeywords="introduction value proposition,value proposition product,value propositions,value proposition creating" metadescription="A value proposition is a statement that outlines the benefits of a product or service to a customer." />
 ===Introduction to Value Proposition===
 
 A value proposition is a statement that outlines the benefits of a product or service to a customer. It is used to explain why a customer should choose a particular product or service over another. It is an important tool for businesses to differentiate themselves from their competitors and to attract and retain customers. The value proposition should be clear, concise, and compelling. It should be tailored to the customer’s needs and wants, and should be easy to understand.

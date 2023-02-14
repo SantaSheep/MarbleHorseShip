@@ -1,4 +1,4 @@
-<seo title="Unearned Revenue" metakeywords="unearned revenue defined,definition unearned revenue,unearned revenue examples,unearned revenue type" metadescription="Unearned revenue is a type of income that is received by a company before it has provided goods or services to its customers."/>
+<seo title="Unearned Revenue" metakeywords="unearned revenue defined,definition unearned revenue,unearned revenue examples,unearned revenue type" metadescription="Unearned revenue is a type of income that is received by a company before it has provided goods or services to its customers." />
 ===Introduction to Unearned Revenue===
 
 Unearned revenue is a type of income that is received by a company before it has provided goods or services to its customers. It is also known as [[Deferred Revenue|deferred revenue]] or deferred income. Unearned revenue is a liability on the [[Balance Sheet|balance sheet]] of a company until the goods or services are provided. It is a form of [[Advance Payment|advance payment]] from customers and is usually recorded as a liability until the goods or services are delivered.

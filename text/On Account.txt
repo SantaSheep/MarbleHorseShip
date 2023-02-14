@@ -1,4 +1,4 @@
-<seo title="On Account" metakeywords="account term used,definition account,account account term,definition account account" metadescription="On account is a form of credit that allows one party to purchase goods or services from another party without having to pay for them immediately."/>
+<seo title="On Account" metakeywords="account term used,definition account,account account term,definition account account" metadescription="On account is a form of credit that allows one party to purchase goods or services from another party without having to pay for them immediately." />
 ===Introduction to On Account===
 
 On account is a term used in the financial world to describe a type of payment arrangement between two parties. It is a form of credit that allows one party to purchase goods or services from another party without having to pay for them immediately. The buyer is then expected to pay for the goods or services at a later date, usually within a specified period of time. On account is a common form of payment in business transactions, and it is often used to facilitate the purchase of large items or services that require a longer payment period.

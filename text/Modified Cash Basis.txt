@@ -1,4 +1,4 @@
-<seo title="Modified Cash Basis" metakeywords="modified cash basis,disadvantages modified cash,cash basis accounting,cash basis modified" metadescription="Modified cash basis is a hybrid of the cash basis and the accrual basis.It is used by businesses to track their income and expenses more accurately."/>
+<seo title="Modified Cash Basis" metakeywords="modified cash basis,disadvantages modified cash,cash basis accounting,cash basis modified" metadescription="Modified cash basis is a hybrid of the cash basis and the accrual basis.It is used by businesses to track their income and expenses more accurately." />
 ===Introduction to Modified Cash Basis===
 
 Modified cash basis is an [[Accounting Method|accounting method]] that combines elements of both the cash basis and accrual basis of accounting. It is used by businesses that need to track their income and expenses more closely than the cash basis allows, but do not need the full complexity of the accrual basis. Modified cash basis is a hybrid of the two methods, allowing businesses to track their income and expenses more accurately than the cash basis, while still avoiding the complexity of the accrual basis.

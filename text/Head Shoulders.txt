@@ -1,4 +1,4 @@
-<seo title="Head Shoulders" metakeywords="shoulders patterns head,head shoulders pattern,head shoulders patterns,patterns head shoulders" metadescription="Head and Shoulders is a technical analysis pattern used by traders to identify potential reversals in the price of a security."/>
+<seo title="Head Shoulders" metakeywords="shoulders patterns head,head shoulders pattern,head shoulders patterns,patterns head shoulders" metadescription="Head and Shoulders is a technical analysis pattern used by traders to identify potential reversals in the price of a security." />
 ===Introduction to Head and Shoulders===
 
 Head and Shoulders is a [[Technical Analysis|technical analysis]] pattern used by traders to identify potential reversals in the price of a security. It is one of the most widely used and reliable chart patterns in the [[Financial Market|financial market]]s. The pattern is characterized by three peaks, with the middle peak being the highest and the two outside peaks being lower. The pattern is used to identify potential reversals in the price of a security, as well as potential entry and exit points for traders.

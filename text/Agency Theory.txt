@@ -1,4 +1,4 @@
-<seo title="Agency Theory" metakeywords="agency theory corporate,agency theory principal,agency theory important,agency theory based" metadescription="Agency theory is a branch of economics that studies the relationship between principals and agents."/>
+<seo title="Agency Theory" metakeywords="agency theory corporate,agency theory principal,agency theory important,agency theory based" metadescription="Agency theory is a branch of economics that studies the relationship between principals and agents." />
 ===Introduction to Agency Theory===
 
 Agency theory is a branch of economics that studies the relationship between principals and agents. It is based on the idea that agents, such as managers, are hired by principals, such as shareholders, to act on their behalf. The theory seeks to explain how the interests of the principal and the agent can be aligned in order to maximize the principalâ€™s objectives.

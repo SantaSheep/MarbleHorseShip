@@ -1,4 +1,4 @@
-<seo title="Branch Accounting" metakeywords="introduction branch accounting,accounting branch accounting,branch accounting,branch accounting typically" metadescription="Branch accounting is a type of accounting system used by companies with multiple locations."/>
+<seo title="Branch Accounting" metakeywords="introduction branch accounting,accounting branch accounting,branch accounting,branch accounting typically" metadescription="Branch accounting is a type of accounting system used by companies with multiple locations." />
 ===Introduction to Branch Accounting===
 
 Branch accounting is a type of accounting system used by companies with multiple locations. It is a specialized form of accounting that allows companies to track and report financial information for each branch separately. This type of accounting is especially useful for companies that have multiple locations, as it allows them to track and report financial information for each branch separately. This type of accounting is also beneficial for companies that have multiple branches in different countries, as it allows them to track and report financial information for each branch in the local currency.

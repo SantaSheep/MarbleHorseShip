@@ -1,4 +1,4 @@
-<seo title="Return On Equity" metakeywords="roe financial metric,return equity roe,equity roe useful,equity roe financial" metadescription="Return on Equity (ROE) is a financial metric used to measure the profitability of a company.It is calculated by dividing the company’s net income by its total equity."/>
+<seo title="Return On Equity" metakeywords="roe financial metric,return equity roe,equity roe useful,equity roe financial" metadescription="Return on Equity (ROE) is a financial metric used to measure the profitability of a company.It is calculated by dividing the company’s net income by its total equity." />
 ===Introduction to Return on Equity===
 
 Return on Equity (ROE) is a financial metric used to measure the profitability of a company. It is calculated by dividing the company’s [[Net Income|net income]] by its total equity. ROE is a key indicator of a company’s financial health and is used to compare the performance of different companies. It is also used to assess the efficiency of a company’s management in generating profits from its equity.

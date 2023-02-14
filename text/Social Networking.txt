@@ -1,4 +1,4 @@
-<seo title="Social Networking" metakeywords="social networking concept,concerns social networking,social networking benefits,networking concept social" metadescription="Social networking is a term used to describe the use of online platforms to connect people with similar interests, activities, and backgrounds."/>
+<seo title="Social Networking" metakeywords="social networking concept,concerns social networking,social networking benefits,networking concept social" metadescription="Social networking is a term used to describe the use of online platforms to connect people with similar interests, activities, and backgrounds." />
 ===Introduction to Social Networking===
 
 Social networking is a term used to describe the use of online platforms to connect people with similar interests, activities, and backgrounds. It is a form of communication that allows users to share information, ideas, and experiences with each other. Social networking has become an integral part of modern life, with millions of people around the world using it to stay connected with friends, family, and colleagues.

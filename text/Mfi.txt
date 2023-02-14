@@ -1,4 +1,4 @@
-<seo title="Mfi" metakeywords="mfi concept microfinance,introduction mfi microfinance,microfinance institutions mfi,mfi microfinance institutions" metadescription="Microfinance Institutions (MFI) are financial institutions that provide financial services to low-income individuals and small businesses."/>
+<seo title="Mfi" metakeywords="mfi concept microfinance,introduction mfi microfinance,microfinance institutions mfi,mfi microfinance institutions" metadescription="Microfinance Institutions (MFI) are financial institutions that provide financial services to low-income individuals and small businesses." />
 ===Introduction to MFI===
 
 Microfinance Institutions (MFI) are [[Financial Institution|financial institution]]s that provide financial services to low-income individuals and small businesses. These institutions are typically non-profit organizations that provide small loans, savings accounts, and other financial services to those who are unable to access traditional banking services. MFI’s are often seen as a way to reduce poverty and promote economic development in developing countries.

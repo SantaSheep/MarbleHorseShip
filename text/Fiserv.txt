@@ -1,4 +1,4 @@
-<seo title="Fiserv" metakeywords="fiserv products services,fiserv strong financial,fiserv fiserv provides,fiserv provides" metadescription="Fiserv was founded in 1984 by Leslie Muma and George Dalton.The company was initially focused on providing software and services to the banking industry."/>
+<seo title="Fiserv" metakeywords="fiserv products services,fiserv strong financial,fiserv fiserv provides,fiserv provides" metadescription="Fiserv was founded in 1984 by Leslie Muma and George Dalton.The company was initially focused on providing software and services to the banking industry." />
 ===Introduction to Fiserv===
 
 Fiserv is a global leader in financial services technology, providing innovative solutions to [[Financial Institution|financial institution]]s, businesses, and consumers. Founded in 1984, Fiserv has grown to become one of the largest providers of financial services technology in the world. Fiserv provides a wide range of products and services, including payment processing, digital banking, and [[Data Analytics|data analytics]]. Fiserv is headquartered in Brookfield, Wisconsin, and has offices in more than 30 countries around the world.

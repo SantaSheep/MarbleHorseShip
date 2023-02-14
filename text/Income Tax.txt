@@ -1,4 +1,4 @@
-<seo title="Income Tax" metakeywords="introduction income tax,income tax complex,income tax important,income tax based" metadescription="Income tax is a tax imposed by governments on the income of individuals, corporations, trusts, and other entities."/>
+<seo title="Income Tax" metakeywords="introduction income tax,income tax complex,income tax important,income tax based" metadescription="Income tax is a tax imposed by governments on the income of individuals, corporations, trusts, and other entities." />
 ===Introduction to Income Tax===
 
 Income tax is a tax imposed by governments on the income of individuals, corporations, trusts, and other entities. It is usually calculated as a percentage of the income earned by the taxpayer. Income tax is one of the most important sources of revenue for governments around the world. It is used to fund public services, infrastructure, and other government activities.

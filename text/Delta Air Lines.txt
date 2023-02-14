@@ -1,4 +1,4 @@
-<seo title="Delta Air Lines" metakeywords="airline industry delta,history delta air,air lines delta,airlines delta headquartered" metadescription="Delta Air Lines was founded in 1924 as a crop dusting operation in Macon, Georgia."/>
+<seo title="Delta Air Lines" metakeywords="airline industry delta,history delta air,air lines delta,airlines delta headquartered" metadescription="Delta Air Lines was founded in 1924 as a crop dusting operation in Macon, Georgia." />
 ===Introduction to Delta Air Lines===
 
 Delta Air Lines is one of the world’s largest airlines, operating a fleet of more than 800 aircraft and serving over 300 destinations in over 50 countries. Delta is a founding member of the SkyTeam global alliance, which provides customers with access to an extensive global network of partner airlines. Delta is headquartered in Atlanta, Georgia, and is the world’s second-largest airline in terms of passengers carried and revenue generated.

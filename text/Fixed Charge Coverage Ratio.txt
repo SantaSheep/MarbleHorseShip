@@ -1,4 +1,4 @@
-<seo title="Fixed Charge Coverage Ratio" metakeywords="fixed charge coverage,coverage ratio fccr,fixed charges ebitda,fccr financial ratio" metadescription="The Fixed Charge Coverage Ratio (FCCR) is a financial ratio used to measure a company’s ability to meet its fixed financial obligations."/>
+<seo title="Fixed Charge Coverage Ratio" metakeywords="fixed charge coverage,coverage ratio fccr,fixed charges ebitda,fccr financial ratio" metadescription="The Fixed Charge Coverage Ratio (FCCR) is a financial ratio used to measure a company’s ability to meet its fixed financial obligations." />
 ===Introduction to Fixed Charge Coverage Ratio===
 
 The Fixed Charge Coverage Ratio (FCCR) is a financial ratio used to measure a company’s ability to meet its fixed financial obligations. It is calculated by dividing a company’s earnings before interest, taxes, depreciation, and amortization (EBITDA) by its fixed charges. The fixed charges include interest payments, lease payments, and other debt payments. The higher the ratio, the better the company’s ability to meet its fixed financial obligations.

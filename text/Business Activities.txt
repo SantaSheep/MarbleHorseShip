@@ -1,4 +1,4 @@
-<seo title="Business Activities" metakeywords="activities business undertakes,business activities business,activities business undertake,business business activities" metadescription="Business activities are the activities that a business undertakes in order to generate revenue and profits."/>
+<seo title="Business Activities" metakeywords="activities business undertakes,business activities business,activities business undertake,business business activities" metadescription="Business activities are the activities that a business undertakes in order to generate revenue and profits." />
 ===Introduction to Business Activities===
 
 Business activities are the activities that a business undertakes in order to generate revenue and profits. These activities can include production, marketing, sales, [[Customer Service|customer service]], and other activities that are necessary for the successful operation of a business. Business activities are essential for any business to remain competitive and successful in the marketplace.

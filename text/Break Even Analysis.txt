@@ -1,4 +1,4 @@
-<seo title="Break Even Analysis" metakeywords="breakeven analysis provides,breakeven analysis practice,breakeven analysis advantages,breakeven analysis financial" metadescription="Breakeven analysis is a financial tool used to determine the point at which a business’s total revenue is equal to its total costs."/>
+<seo title="Break Even Analysis" metakeywords="breakeven analysis provides,breakeven analysis practice,breakeven analysis advantages,breakeven analysis financial" metadescription="Breakeven analysis is a financial tool used to determine the point at which a business’s total revenue is equal to its total costs." />
 ===Introduction to Breakeven Analysis===
 
 Breakeven analysis is a financial tool used to determine the point at which a business’s total revenue is equal to its total costs. This point is known as the breakeven point, and it is used to determine the profitability of a business. Breakeven analysis is used to determine the minimum amount of sales that must be achieved in order for a business to remain profitable. It is also used to determine the optimal pricing strategy for a product or service.

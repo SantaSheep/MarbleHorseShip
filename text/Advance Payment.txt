@@ -1,4 +1,4 @@
-<seo title="Advance Payment" metakeywords="payment advance payments,types advance payments,types advance payment,advance payments" metadescription="Advance payment is a payment made in advance of goods or services being provided."/>
+<seo title="Advance Payment" metakeywords="payment advance payments,types advance payments,types advance payment,advance payments" metadescription="Advance payment is a payment made in advance of goods or services being provided." />
 ===Introduction to Advance Payment===
 
 Advance payment is a payment made in advance of goods or services being provided. It is a form of payment that is made before the goods or services are delivered. Advance payments are often used in business transactions, such as when a customer pays for a product or service before it is delivered. Advance payments can also be used in personal transactions, such as when a person pays for a vacation before they go on it. Advance payments are a common form of payment and can be beneficial for both the buyer and the seller.

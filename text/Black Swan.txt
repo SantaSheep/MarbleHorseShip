@@ -1,4 +1,4 @@
-<seo title="Black Swan" metakeywords="black swan events,blackswan events defined,term black swan,associated black swan" metadescription="Blackswan events can be defined as events that are highly unlikely to occur, yet have a significant impact on the financial markets."/>
+<seo title="Black Swan" metakeywords="black swan events,blackswan events defined,term black swan,associated black swan" metadescription="Blackswan events can be defined as events that are highly unlikely to occur, yet have a significant impact on the financial markets." />
 ===Introduction to Blackswan===
 
 Blackswan events are rare, unpredictable, and have a significant impact on the [[Financial Market|financial market]]s. They are often referred to as “black swan” events because of their rarity and the fact that they are often difficult to predict. Blackswan events can be defined as events that are highly unlikely to occur, yet have a significant impact on the financial markets. These events can be either positive or negative, and can have a lasting impact on the markets.

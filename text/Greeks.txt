@@ -1,4 +1,4 @@
-<seo title="Greeks" metakeywords="rates greeks,rates greeks used,volatility rates greeks,options position gamma" metadescription="Greeks are a set of mathematical calculations used to measure the sensitivity of an option’s price to various factors."/>
+<seo title="Greeks" metakeywords="rates greeks,rates greeks used,volatility rates greeks,options position gamma" metadescription="Greeks are a set of mathematical calculations used to measure the sensitivity of an option’s price to various factors." />
 ===Introduction to Greeks===
 
 Greeks are a set of mathematical calculations used to measure the sensitivity of an option’s price to various factors. These factors include the underlying asset’s price, time to expiration, volatility, and [[Interest Rate|interest rate]]s. Greeks are used by traders to measure the risk of their options positions and to determine the best strategies for their portfolios.

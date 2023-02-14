@@ -1,4 +1,4 @@
-<seo title="Valuation Premium" metakeywords="valuation premiums factors,valuation premiums valuation,valuation premium valuation,valuation premium important" metadescription="Valuation premium is a term used to describe the difference between the market value of a company and its intrinsic value."/>
+<seo title="Valuation Premium" metakeywords="valuation premiums factors,valuation premiums valuation,valuation premium valuation,valuation premium important" metadescription="Valuation premium is a term used to describe the difference between the market value of a company and its intrinsic value." />
 ===Introduction to Valuation Premium===
 
 Valuation premium is a term used to describe the difference between the market value of a company and its [[Intrinsic Value|intrinsic value]]. It is a measure of the premium that investors are willing to pay for a company’s stock. Valuation premium is an important concept for investors to understand, as it can help them determine whether a company is undervalued or overvalued.

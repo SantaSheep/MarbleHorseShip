@@ -1,4 +1,4 @@
-<seo title="Point Of Sale" metakeywords="sale pos systems,point sale systems,sale systems pos,pos systems provide" metadescription="Point of Sale (POS) is a term used to describe the process of completing a sale transaction."/>
+<seo title="Point Of Sale" metakeywords="sale pos systems,point sale systems,sale systems pos,pos systems provide" metadescription="Point of Sale (POS) is a term used to describe the process of completing a sale transaction." />
 ===Introduction to Point of Sale===
 
 Point of Sale (POS) is a term used to describe the process of completing a sale transaction. It is the point at which a customer makes a payment to a merchant in exchange for goods or services. POS systems are used in a variety of industries, including retail, hospitality, and healthcare. POS systems are used to track sales, manage inventory, and process payments. They are also used to provide [[Customer Service|customer service]], such as loyalty programs and discounts.

@@ -1,4 +1,4 @@
-<seo title="Total Quality Management T Qm" metakeywords="quality management tqm,tqm concept,tqm management,concept tqm" metadescription=""/>
+<seo title="Total Quality Management T Qm" metakeywords="quality management tqm,tqm concept,tqm management,concept tqm" metadescription="" />
 ===Introduction to Total Quality Management (TQM)===
 
 Total [[Quality Management|Quality Management]] (TQM) is a management approach that focuses on the continuous improvement of products and services by involving all members of an organization in the process. It is a system of management that seeks to ensure that all activities within an organization are conducted in a manner that meets or exceeds customer expectations. TQM is based on the idea that quality is the responsibility of everyone in the organization, from the top management to the lowest level employees.

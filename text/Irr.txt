@@ -1,4 +1,4 @@
-<seo title="Irr" metakeywords="investments calculating irr,irr financial metric,rate return irr,calculating irr" metadescription="Internal Rate of Return (IRR) is a financial metric used to measure the profitability of an investment."/>
+<seo title="Irr" metakeywords="investments calculating irr,irr financial metric,rate return irr,calculating irr" metadescription="Internal Rate of Return (IRR) is a financial metric used to measure the profitability of an investment." />
 ===Introduction to Internal Rate of Return (IRR)===
 
 Internal [[Rate Of Return|Rate of Return]] (IRR) is a financial metric used to measure the profitability of an investment. It is a [[Discount Rate|discount rate]] that makes the net [[Present Value|present value]] (NPV) of all [[Cash Flow|cash flow]]s from a project or investment equal to zero. IRR is used to compare the profitability of different investments and to determine the maximum rate of return that a project can generate. It is a popular metric among investors and financial analysts as it provides a simple and straightforward way to compare investments.

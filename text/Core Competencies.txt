@@ -1,4 +1,4 @@
-<seo title="Core Competencies" metakeywords="competencies core competencies,core competencies provide,core competencies help,core competencies developing" metadescription="Core competencies are the skills and knowledge that a company or organization has that give it a competitive advantage in the marketplace."/>
+<seo title="Core Competencies" metakeywords="competencies core competencies,core competencies provide,core competencies help,core competencies developing" metadescription="Core competencies are the skills and knowledge that a company or organization has that give it a competitive advantage in the marketplace." />
 ===Introduction to Core Competencies===
 
 Core competencies are the skills and knowledge that a company or organization has that give it a competitive advantage in the marketplace. They are the unique capabilities that allow a company to differentiate itself from its competitors and provide value to its customers. Core competencies are the foundation of a company’s competitive advantage and are essential for long-term success.

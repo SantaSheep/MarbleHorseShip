@@ -1,4 +1,4 @@
-<seo title="Scm" metakeywords="scm supply chain,supply chain management,scm business process,chain management scm" metadescription="Supply Chain Management (SCM) is a business process that involves the coordination of activities across multiple organizations."/>
+<seo title="Scm" metakeywords="scm supply chain,supply chain management,scm business process,chain management scm" metadescription="Supply Chain Management (SCM) is a business process that involves the coordination of activities across multiple organizations." />
 ===Introduction to SCM===
 
 [[Supply Chain|Supply Chain]] Management (SCM) is a business process that involves the coordination of activities across multiple organizations to ensure the efficient and effective delivery of goods and services from suppliers to customers. It is a critical component of any business, as it helps to ensure that the right products are delivered to the right customers at the right time. SCM is a complex process that requires careful planning and execution in order to be successful.

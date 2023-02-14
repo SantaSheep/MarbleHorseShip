@@ -1,4 +1,4 @@
-<seo title="Elevance Health" metakeywords="elevance health platform,elevance health healthcare,elevance health business,elevance health focused" metadescription="Elevance Health was founded in 2014 by a team of experienced healthcare professionals and entrepreneurs."/>
+<seo title="Elevance Health" metakeywords="elevance health platform,elevance health healthcare,elevance health business,elevance health focused" metadescription="Elevance Health was founded in 2014 by a team of experienced healthcare professionals and entrepreneurs." />
 ===Introduction to Elevance Health===
 
 Elevance Health is a healthcare technology company that provides innovative solutions to improve patient outcomes and reduce healthcare costs. The company was founded in 2014 and is headquartered in San Francisco, California. Elevance Health is focused on developing and delivering innovative technologies that enable healthcare providers to better manage and coordinate care for their patients. The company’s products and services are designed to improve patient outcomes, reduce healthcare costs, and improve the overall quality of care.

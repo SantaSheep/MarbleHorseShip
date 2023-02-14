@@ -1,4 +1,4 @@
-<seo title="Brand" metakeywords="brand equity value,brand equity used,brand equity,brand equity brand" metadescription="A brand is a name, term, design, symbol, or other feature that distinguishes one seller’s product or service from those of others."/>
+<seo title="Brand" metakeywords="brand equity value,brand equity used,brand equity,brand equity brand" metadescription="A brand is a name, term, design, symbol, or other feature that distinguishes one seller’s product or service from those of others." />
 ===Introduction to Brand===
 
 Brand is a term used to describe the identity of a product, service, or company. It is a combination of elements such as a name, logo, slogan, and design that are used to differentiate a product or service from its competitors. Branding is an important part of any business strategy, as it helps to create a unique identity for a product or service and can be used to build customer loyalty and trust.

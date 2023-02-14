@@ -1,4 +1,4 @@
-<seo title="Lifo" metakeywords="lifo accounting method,accounting implications lifo,lifo method accounting,lifo accounting" metadescription="LIFO, or Last In First Out, is an accounting method used to value inventory.It is based on the assumption that the most recently acquired items are the first to be sold."/>
+<seo title="Lifo" metakeywords="lifo accounting method,accounting implications lifo,lifo method accounting,lifo accounting" metadescription="LIFO, or Last In First Out, is an accounting method used to value inventory.It is based on the assumption that the most recently acquired items are the first to be sold." />
 ===Introduction to Lifo===
 
 LIFO, or Last In First Out, is an [[Accounting Method|accounting method]] used to value inventory. It is based on the assumption that the most recently acquired items are the first to be sold. This method is used to determine the cost of goods sold and the value of inventory on hand. It is also used to calculate the cost of goods sold for tax purposes.

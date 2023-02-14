@@ -1,4 +1,4 @@
-<seo title="Cash Conversion Cycle" metakeywords="cash conversion cycle,conversion cycle cash,cycle cash conversion,conversion cycle calculated" metadescription="The Cash Conversion Cycle is a financial metric used to measure the amount of time it takes for a company to convert its investments in inventory and other resources into cash."/>
+<seo title="Cash Conversion Cycle" metakeywords="cash conversion cycle,conversion cycle cash,cycle cash conversion,conversion cycle calculated" metadescription="The Cash Conversion Cycle is a financial metric used to measure the amount of time it takes for a company to convert its investments in inventory and other resources into cash." />
 ===Introduction to Cash Conversion Cycle===
 
 The Cash Conversion Cycle () is a financial metric used to measure the amount of time it takes for a company to convert its investments in inventory and other resources into cash. It is a measure of the efficiency of a company's operations and is used to assess the liquidity of a company. The  is an important tool for financial analysts and investors to evaluate a company's financial health and performance.

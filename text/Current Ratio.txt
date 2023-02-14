@@ -1,4 +1,4 @@
-<seo title="Current Ratio" metakeywords="current ratio financial,ratio current assets,liabilities current ratio,obligations current ratio" metadescription="The current ratio is a financial metric used to measure a company’s liquidity and ability to pay short-term obligations."/>
+<seo title="Current Ratio" metakeywords="current ratio financial,ratio current assets,liabilities current ratio,obligations current ratio" metadescription="The current ratio is a financial metric used to measure a company’s liquidity and ability to pay short-term obligations." />
 ===Introduction to Current Ratio===
 
 The current ratio is a financial metric used to measure a company’s liquidity and ability to pay short-term obligations. It is calculated by dividing a company’s [[Current Assets|current assets]] by its [[Current Liabilities|current liabilities]]. The current ratio is an important indicator of a company’s financial health and is used by investors and creditors to assess the company’s ability to meet its short-term obligations.

@@ -1,4 +1,4 @@
-<seo title="Saar" metakeywords="assets risk saar,saar financial term,saar involves analyzing,institution quantitative saar" metadescription="Saar is a financial term that refers to the Systematic Analysis of Assets and Risk."/>
+<seo title="Saar" metakeywords="assets risk saar,saar financial term,saar involves analyzing,institution quantitative saar" metadescription="Saar is a financial term that refers to the Systematic Analysis of Assets and Risk." />
 ===Introduction to Saar===
 
 Saar is a financial term that refers to the Systematic Analysis of Assets and Risk (SAAR). It is a process used by [[Financial Institution|financial institution]]s to assess the risk associated with their investments and to identify potential opportunities for improvement. The process involves analyzing the assets and liabilities of an institution, as well as the risks associated with them. The goal of SAAR is to provide a comprehensive view of the institution’s financial health and to identify areas of potential improvement.

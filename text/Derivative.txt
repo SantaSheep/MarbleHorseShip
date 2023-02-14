@@ -1,4 +1,4 @@
-<seo title="Derivative" metakeywords="derivatives financial instruments,derivative markets derivatives,markets derivatives,derivative markets" metadescription="Derivatives are financial instruments whose value is derived from the value of an underlying asset."/>
+<seo title="Derivative" metakeywords="derivatives financial instruments,derivative markets derivatives,markets derivatives,derivative markets" metadescription="Derivatives are financial instruments whose value is derived from the value of an underlying asset." />
 ===Introduction to Derivatives===
 
 Derivatives are [[Financial Instrument|financial instrument]]s whose value is derived from the value of an underlying asset. They are used to hedge against risk, speculate on price movements, and to generate income. Derivatives can be used to manage risk in a portfolio, as well as to increase returns. Derivatives are used by a wide range of investors, from large institutional investors to individual traders.

@@ -1,4 +1,4 @@
-<seo title="Idexx Laboratories" metakeywords="introduction idexx laboratories,idexx laboratories global,idexx laboratories,laboratories idexx laboratories" metadescription="Idexx Laboratories is a global leader in veterinary diagnostics, medical devices, and other animal health products and services."/>
+<seo title="Idexx Laboratories" metakeywords="introduction idexx laboratories,idexx laboratories global,idexx laboratories,laboratories idexx laboratories" metadescription="Idexx Laboratories is a global leader in veterinary diagnostics, medical devices, and other animal health products and services." />
 ===Introduction to Idexx Laboratories===
 
 Idexx Laboratories, Inc. is a global leader in veterinary diagnostics, medical devices, and other animal health products and services. Founded in 1983, Idexx is headquartered in Westbrook, Maine and has operations in more than 20 countries. Idexx is a publicly traded company on the NASDAQ stock exchange and is a component of the S&P 500 index. Idexx is a leader in the animal health industry, providing innovative products and services to veterinarians, livestock producers, and pet owners.

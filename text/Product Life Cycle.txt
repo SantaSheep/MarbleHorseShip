@@ -1,4 +1,4 @@
-<seo title="Product Life Cycle" metakeywords="product life cycle,stages product life,product growth stage,marketing stages product" metadescription="The product life cycle is a concept used in marketing to describe the stages of a product’s life."/>
+<seo title="Product Life Cycle" metakeywords="product life cycle,stages product life,product growth stage,marketing stages product" metadescription="The product life cycle is a concept used in marketing to describe the stages of a product’s life." />
 ===Introduction to Product Life Cycle===
 
 The product life cycle is a concept used in marketing to describe the stages of a product’s life from its introduction to the market to its eventual decline and removal from the market. It is a useful tool for understanding the different stages of a product’s life and the strategies that can be used to manage the product’s life cycle. The product life cycle is divided into four distinct stages: introduction, growth, maturity, and decline.

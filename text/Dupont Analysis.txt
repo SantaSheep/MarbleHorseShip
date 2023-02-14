@@ -1,4 +1,4 @@
-<seo title="Dupont Analysis" metakeywords="dupont analysis useful,analysis dupont analysis,dupont analysis valuable,introduction dupont analysis" metadescription="Dupont Analysis is a financial analysis technique used to evaluate a company’s financial performance."/>
+<seo title="Dupont Analysis" metakeywords="dupont analysis useful,analysis dupont analysis,dupont analysis valuable,introduction dupont analysis" metadescription="Dupont Analysis is a financial analysis technique used to evaluate a company’s financial performance." />
 ===Introduction to Dupont Analysis===
 
 Dupont Analysis is a [[Financial Analysis|financial analysis]] technique used to evaluate a company’s [[Financial Performance|financial performance]]. It is a tool used to measure the [[Return On Equity|return on equity]] (ROE) of a company by breaking down the components of the ROE into three distinct parts: [[Profit Margin|profit margin]], [[Asset Turnover|asset turnover]], and financial leverage. Dupont Analysis is a useful tool for investors and analysts to gain insight into a company’s financial performance and to compare it to other companies in the same industry.

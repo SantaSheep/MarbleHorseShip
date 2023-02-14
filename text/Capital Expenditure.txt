@@ -1,4 +1,4 @@
-<seo title="Capital Expenditure" metakeywords="capital expenditure decisions,introduction capital expenditure,capital expenditure help,consider capital expenditure" metadescription="Capital expenditure, also known as CapEx, is a type of expenditure that is used to acquire or upgrade physical assets such as buildings, equipment, or land."/>
+<seo title="Capital Expenditure" metakeywords="capital expenditure decisions,introduction capital expenditure,capital expenditure help,consider capital expenditure" metadescription="Capital expenditure, also known as CapEx, is a type of expenditure that is used to acquire or upgrade physical assets such as buildings, equipment, or land." />
 ===Introduction to Capital Expenditure===
 
 Capital expenditure, also known as CapEx, is a type of expenditure that is used to acquire or upgrade physical assets such as buildings, equipment, or land. It is a long-term investment that is expected to generate future benefits. Capital expenditure is an important part of a company’s financial planning and is used to fund projects that will increase the value of the company.

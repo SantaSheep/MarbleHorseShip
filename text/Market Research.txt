@@ -1,4 +1,4 @@
-<seo title="Market Research" metakeywords="market research process,market research subject,research market research,introduction market research" metadescription="Market research is the process of gathering and analyzing data about a particular market or industry."/>
+<seo title="Market Research" metakeywords="market research process,market research subject,research market research,introduction market research" metadescription="Market research is the process of gathering and analyzing data about a particular market or industry." />
 ===Introduction to Market Research===
 
 Market research is the process of gathering and analyzing data about a particular market or industry. It is used to identify potential opportunities and threats, as well as to assess the competitive landscape. Market research can be conducted in a variety of ways, including surveys, interviews, focus groups, and secondary research. It is an important tool for businesses to understand their [[Target Market|target market]] and make informed decisions about their products and services.

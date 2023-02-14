@@ -1,4 +1,4 @@
-<seo title="Standard Deduction" metakeywords="standard deduction amounts,standard deduction provides,standard deduction tax,calculate standard deduction" metadescription="The Standard Deduction is a tax deduction that is available to taxpayers who do not itemize their deductions."/>
+<seo title="Standard Deduction" metakeywords="standard deduction amounts,standard deduction provides,standard deduction tax,calculate standard deduction" metadescription="The Standard Deduction is a tax deduction that is available to taxpayers who do not itemize their deductions." />
 ===Introduction to Standard Deduction===
 
 The Standard Deduction is a tax deduction that is available to taxpayers who do not itemize their deductions. It is a fixed amount that is determined by the Internal Revenue Service (IRS) and is based on the taxpayer’s filing status. The Standard Deduction is designed to reduce the amount of [[Taxable Income|taxable income]] for taxpayers who do not itemize their deductions. It is an important part of the U.S. tax system and is used by millions of taxpayers each year.

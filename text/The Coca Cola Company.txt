@@ -1,4 +1,4 @@
-<seo title="The Coca Cola Company" metakeywords="cola company coca,cola company produces,coca cola company,company coca cola" metadescription="The Coca Cola Company is one of the world’s largest beverage companies, with a presence in over 200 countries and territories."/>
+<seo title="The Coca Cola Company" metakeywords="cola company coca,cola company produces,coca cola company,company coca cola" metadescription="The Coca Cola Company is one of the world’s largest beverage companies, with a presence in over 200 countries and territories." />
 ===Introduction to The Coca Cola Company===
 
 The Coca Cola Company is one of the world’s largest beverage companies, with a presence in over 200 countries and territories. It is the world’s largest producer of non-alcoholic beverages, with a portfolio of over 500 brands, including Coca-Cola, Diet Coke, Fanta, Sprite, Minute Maid, and Powerade. The company also produces and distributes a variety of other beverages, including juices, teas, coffees, and energy drinks. The Coca Cola Company is headquartered in Atlanta, Georgia, and is listed on the New York Stock Exchange (NYSE: KO).

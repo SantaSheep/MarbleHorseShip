@@ -1,4 +1,4 @@
-<seo title="Texas Instruments" metakeywords="introduction texas instruments,history texas instruments,texas instruments ti,texas instruments founded" metadescription="Texas Instruments (TI) is a global semiconductor design and manufacturing company based in Dallas, Texas."/>
+<seo title="Texas Instruments" metakeywords="introduction texas instruments,history texas instruments,texas instruments ti,texas instruments founded" metadescription="Texas Instruments (TI) is a global semiconductor design and manufacturing company based in Dallas, Texas." />
 ===Introduction to Texas Instruments===
 
 Texas Instruments (TI) is a global semiconductor design and manufacturing company based in Dallas, Texas. Founded in 1930, TI is one of the world’s largest semiconductor companies and is a leader in the development of analog and embedded processing technologies. TI’s products are used in a wide range of applications, including automotive, industrial, medical, and consumer electronics. TI’s products are sold in more than 100 countries and are used in a variety of industries, including automotive, industrial, medical, and consumer electronics.

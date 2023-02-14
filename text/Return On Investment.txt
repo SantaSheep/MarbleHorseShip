@@ -1,4 +1,4 @@
-<seo title="Return On Investment" metakeywords="investment roi useful,return investment roi,roi financial metric,calculating roi" metadescription="Return on Investment (ROI) is a financial metric used to measure the profitability of an investment."/>
+<seo title="Return On Investment" metakeywords="investment roi useful,return investment roi,roi financial metric,calculating roi" metadescription="Return on Investment (ROI) is a financial metric used to measure the profitability of an investment." />
 ===Introduction to Return on Investment===
 
 Return on Investment (ROI) is a financial metric used to measure the profitability of an investment. It is calculated by dividing the net gain or loss of an investment by the total amount invested. ROI is a useful tool for investors to evaluate the performance of their investments and compare them to other investments. It is also used by businesses to measure the efficiency of their investments in terms of the returns they generate.

@@ -1,4 +1,4 @@
-<seo title="Cash On Delivery" metakeywords="disadvantages cash delivery,advantages cash delivery,cod payment method,payment methods cod" metadescription="Cash on Delivery (COD) is a payment method in which the customer pays for goods or services at the time of delivery."/>
+<seo title="Cash On Delivery" metakeywords="disadvantages cash delivery,advantages cash delivery,cod payment method,payment methods cod" metadescription="Cash on Delivery (COD) is a payment method in which the customer pays for goods or services at the time of delivery." />
 ===Introduction to Cash on Delivery===
 
 Cash on Delivery (COD) is a payment method in which the customer pays for goods or services at the time of delivery. This payment method is often used in retail, e-commerce, and other industries. COD is a convenient and secure way for customers to pay for goods and services without having to provide [[Credit Card|credit card]] information or other sensitive information. COD is also a popular payment method for customers who do not have access to traditional banking services.

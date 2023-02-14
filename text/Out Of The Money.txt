@@ -1,4 +1,4 @@
-<seo title="Out Of The Money" metakeywords="money otm term,money options means,disadvantages money options,money options advantages" metadescription="Out-of-the-money is a term used in the financial markets to describe an option contract that has no intrinsic value."/>
+<seo title="Out Of The Money" metakeywords="money otm term,money options means,disadvantages money options,money options advantages" metadescription="Out-of-the-money is a term used in the financial markets to describe an option contract that has no intrinsic value." />
 ===Definition of Out-of-the-Money===
 
 Out-of-the-money (OTM) is a term used in the [[Financial Market|financial market]]s to describe an option contract that has no [[Intrinsic Value|intrinsic value]]. An option is out-of-the-money when the [[Strike Price|strike price]] of the option is higher than the current market price of the underlying asset. In other words, the option is not [[In The Money|in the money]] and the option holder will not receive any money if the option is exercised.

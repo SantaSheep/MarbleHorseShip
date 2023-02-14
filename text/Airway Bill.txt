@@ -1,4 +1,4 @@
-<seo title="Airway Bill" metakeywords="types airway bills,airway document used,airway issued shipper,air consignment note" metadescription="An airway bill is a contract between the shipper and the airline that outlines the terms and conditions of the shipment."/>
+<seo title="Airway Bill" metakeywords="types airway bills,airway document used,airway issued shipper,air consignment note" metadescription="An airway bill is a contract between the shipper and the airline that outlines the terms and conditions of the shipment." />
 ===Introduction to Airway Bill===
 
 An airway bill is a document used in international air cargo shipments. It is a contract between the shipper and the airline that outlines the terms and conditions of the shipment. The airway bill is also known as an air consignment note, air cargo manifest, or air cargo [[Bill Of Lading|bill of lading]]. It is a legally binding document that serves as proof of ownership of the goods being shipped.

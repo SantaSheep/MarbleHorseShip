@@ -1,4 +1,4 @@
-<seo title="Ttm" metakeywords="ttm trailing months,calculating ttm,ttm calculated,definition ttm" metadescription="Ttm, or Trailing Twelve Months, is a financial term used to measure the performance of a company over a period of time."/>
+<seo title="Ttm" metakeywords="ttm trailing months,calculating ttm,ttm calculated,definition ttm" metadescription="Ttm, or Trailing Twelve Months, is a financial term used to measure the performance of a company over a period of time." />
 ===Introduction to Ttm===
 
 Ttm, or Trailing Twelve Months, is a financial term used to measure the performance of a company over a period of time. It is a useful tool for investors and analysts to assess the financial health of a company and make informed decisions. Ttm is calculated by taking the sum of the last twelve months of financial data and comparing it to the same period in the previous year. This allows investors to compare the performance of a company over a period of time and make more informed decisions.

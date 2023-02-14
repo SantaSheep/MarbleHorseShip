@@ -1,4 +1,4 @@
-<seo title="Amd" metakeywords="amd microprocessors,amd business model,amd business,industry amd business" metadescription="Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that designs and manufactures computer processors and related technologies."/>
+<seo title="Amd" metakeywords="amd microprocessors,amd business model,amd business,industry amd business" metadescription="Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that designs and manufactures computer processors and related technologies." />
 ===Introduction to AMD===
 
 Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that designs and manufactures computer processors and related technologies for the consumer, commercial, and enterprise markets. Founded in 1969, AMD is headquartered in Santa Clara, California and has operations in more than 50 countries. AMD is a publicly traded company on the New York Stock Exchange (NYSE: AMD).

@@ -1,4 +1,4 @@
-<seo title="Pentair" metakeywords="pentair business model,pentair business,pentair products services,pentair plc global" metadescription="Pentair plc is a global leader in water, fluid, thermal management, and equipment protection solutions."/>
+<seo title="Pentair" metakeywords="pentair business model,pentair business,pentair products services,pentair plc global" metadescription="Pentair plc is a global leader in water, fluid, thermal management, and equipment protection solutions." />
 ===Introduction to Pentair===
 
 Pentair plc is a global leader in water, fluid, thermal management, and equipment protection solutions. Founded in 1966, the company has grown to become a Fortune 500 company with operations in more than 130 countries and over 30,000 employees. Pentair’s products and services are used in a variety of industries, including residential, commercial, industrial, and agricultural. The company’s mission is to “improve the quality of life by delivering innovative, sustainable solutions that make the world a better place.”

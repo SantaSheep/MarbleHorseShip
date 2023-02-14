@@ -1,4 +1,4 @@
-<seo title="Accounting Ratio" metakeywords="ratios accounting ratios,accounting ratios type,accounting ratios used,accounting ratios useful" metadescription="Accounting ratios are a type of financial metric used to measure the performance of a business."/>
+<seo title="Accounting Ratio" metakeywords="ratios accounting ratios,accounting ratios type,accounting ratios used,accounting ratios useful" metadescription="Accounting ratios are a type of financial metric used to measure the performance of a business." />
 ===Introduction to Accounting Ratios===
 
 Accounting ratios are a type of financial metric used to measure the performance of a business. They are used to compare different aspects of a company’s [[Financial Performance|financial performance]], such as profitability, liquidity, and efficiency. Accounting ratios are calculated by dividing one financial figure by another, and they can be used to compare a company’s performance to that of its competitors or to industry averages. Accounting ratios are an important tool for investors, creditors, and other stakeholders to assess the financial health of a company.

@@ -1,4 +1,4 @@
-<seo title="Factors Production" metakeywords="factors production economy,production economy factors,factors production resources,production factors production" metadescription="Factors of production include land, labor, capital, and entrepreneurship.These factors are used to create the goods and services that are sold in the market."/>
+<seo title="Factors Production" metakeywords="factors production economy,production economy factors,factors production resources,production factors production" metadescription="Factors of production include land, labor, capital, and entrepreneurship.These factors are used to create the goods and services that are sold in the market." />
 ===Introduction to Factors of Production===
 
 Factors of production are the resources used to produce goods and services. They are the inputs that are used to create the output of goods and services that are sold in the market. Factors of production include land, labor, capital, and entrepreneurship. These factors are used to create the goods and services that are sold in the market.

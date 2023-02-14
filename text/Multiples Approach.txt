@@ -1,4 +1,4 @@
-<seo title="Multiples Approach" metakeywords="multiples approach financial,advantages multiples approach,multiples approach disadvantages,disadvantages multiples approach" metadescription="Multiples approach is a financial valuation method used to determine the value of a company or asset."/>
+<seo title="Multiples Approach" metakeywords="multiples approach financial,advantages multiples approach,multiples approach disadvantages,disadvantages multiples approach" metadescription="Multiples approach is a financial valuation method used to determine the value of a company or asset." />
 ===Introduction to Multiples Approach===
 
 Multiples approach is a financial valuation method used to determine the value of a company or asset. It is based on the idea that the value of a company or asset can be determined by comparing it to similar companies or assets. This approach is often used by investors and analysts to determine the [[Fair Market Value|fair market value]] of a company or asset.

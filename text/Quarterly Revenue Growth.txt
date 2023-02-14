@@ -1,4 +1,4 @@
-<seo title="Quarterly Revenue Growth" metakeywords="quarterly revenue growth,growth quarterly revenue,revenue growth quarterly,affecting quarterly revenue" metadescription="Quarterly revenue growth is a measure of the rate at which a company’s revenue increases or decreases over a period of three months."/>
+<seo title="Quarterly Revenue Growth" metakeywords="quarterly revenue growth,growth quarterly revenue,revenue growth quarterly,affecting quarterly revenue" metadescription="Quarterly revenue growth is a measure of the rate at which a company’s revenue increases or decreases over a period of three months." />
 ===Introduction to Quarterly Revenue Growth===
 
 Quarterly revenue growth is a measure of the rate at which a company’s revenue increases or decreases over a period of three months. It is a key indicator of a company’s financial health and performance, and is often used to compare the performance of different companies in the same industry. Quarterly revenue growth is typically reported on a quarterly basis, and is often used to assess the performance of a company’s management team.

@@ -1,4 +1,4 @@
-<seo title="Other Current Assets" metakeywords="advantages current assets,disadvantages current assets,business current assets,current assets important" metadescription="Other current assets are assets that are expected to be converted into cash or used up within one year."/>
+<seo title="Other Current Assets" metakeywords="advantages current assets,disadvantages current assets,business current assets,current assets important" metadescription="Other current assets are assets that are expected to be converted into cash or used up within one year." />
 ===Introduction to Other Current Assets===
 
 Other [[Current Assets|current assets]] are assets that are expected to be converted into cash or used up within one year. These assets are typically short-term in nature and are used to finance the day-to-day operations of a business. Other current assets are reported on the [[Balance Sheet|balance sheet]] and are a key component of a company’s liquidity.

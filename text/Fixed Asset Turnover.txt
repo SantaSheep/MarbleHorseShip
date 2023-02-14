@@ -1,4 +1,4 @@
-<seo title="Fixed Asset Turnover" metakeywords="fixed asset turnover,turnover fixed asset,asset turnover fixed,asset turnover ratio" metadescription="Fixed asset turnover is a financial ratio that measures the efficiency of a company’s use of its fixed assets."/>
+<seo title="Fixed Asset Turnover" metakeywords="fixed asset turnover,turnover fixed asset,asset turnover fixed,asset turnover ratio" metadescription="Fixed asset turnover is a financial ratio that measures the efficiency of a company’s use of its fixed assets." />
 ===Introduction to Fixed Asset Turnover===
 
 Fixed [[Asset Turnover|asset turnover]] is a financial ratio that measures the efficiency of a company’s use of its [[Fixed Asset|fixed asset]]s. It is used to evaluate the effectiveness of a company’s investment in long-term assets such as buildings, equipment, and machinery. The ratio is calculated by dividing the [[Net Sales|net sales]] of a company by its total fixed assets.

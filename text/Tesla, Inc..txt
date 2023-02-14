@@ -1,4 +1,4 @@
-<seo title="Tesla, Inc." metakeywords="tesla founded 2003,industry history tesla,tesla tesla founded,tesla founded" metadescription="Tesla,  is an American electric vehicle and clean energy company based in Palo Alto, California."/>
+<seo title="Tesla, Inc." metakeywords="tesla founded 2003,industry history tesla,tesla tesla founded,tesla founded" metadescription="Tesla,  is an American electric vehicle and clean energy company based in Palo Alto, California." />
 ===Introduction to Tesla===
 
 ,

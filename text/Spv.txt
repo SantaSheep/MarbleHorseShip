@@ -1,4 +1,4 @@
-<seo title="Spv" metakeywords="corporations types spvs,purpose spvs typically,purpose vehicle spv,spvs asset backed" metadescription="A Special Purpose Vehicle (SPV) is a legal entity created to fulfill a specific purpose."/>
+<seo title="Spv" metakeywords="corporations types spvs,purpose spvs typically,purpose vehicle spv,spvs asset backed" metadescription="A Special Purpose Vehicle (SPV) is a legal entity created to fulfill a specific purpose." />
 ===Introduction to Special Purpose Vehicle (SPV)===
 
 A Special Purpose Vehicle (SPV) is a legal entity created to fulfill a specific purpose. SPVs are typically used in the financial sector to facilitate transactions, such as securitization, and to manage risk. SPVs are also used in other industries, such as [[Real Estate|real estate]], to facilitate transactions and manage risk. SPVs are typically structured as limited liability companies, trusts, or corporations.

@@ -1,4 +1,4 @@
-<seo title="Financial Literacy" metakeywords="improve financial literacy,advanced financial literacy,effectively financial literacy,improving financial literacy" metadescription="Financial literacy is the ability to understand and use financial information to make informed decisions."/>
+<seo title="Financial Literacy" metakeywords="improve financial literacy,advanced financial literacy,effectively financial literacy,improving financial literacy" metadescription="Financial literacy is the ability to understand and use financial information to make informed decisions." />
 ===Introduction to Financial Literacy===
 
 Financial literacy is the ability to understand and use financial information to make informed decisions. It is an important skill for individuals to have in order to make sound financial decisions and manage their money effectively. Financial literacy is a broad term that encompasses a variety of topics, including budgeting, saving, investing, credit, debt, and retirement planning.

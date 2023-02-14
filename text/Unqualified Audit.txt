@@ -1,4 +1,4 @@
-<seo title="Unqualified Audit" metakeywords="purpose unqualified audit,unqualified audit provides,introduction unqualified audit,definition unqualified audit" metadescription="An unqualified audit is an independent examination of a company’s financial statements and records."/>
+<seo title="Unqualified Audit" metakeywords="purpose unqualified audit,unqualified audit provides,introduction unqualified audit,definition unqualified audit" metadescription="An unqualified audit is an independent examination of a company’s financial statements and records." />
 ===Introduction to Unqualified Audit===
 
 An unqualified audit is an independent examination of a company’s [[Financial Statements|financial statements]] and records. It is conducted by an external auditor who is hired by the company to assess the accuracy and reliability of the financial statements. The purpose of an unqualified audit is to provide assurance to the company’s stakeholders that the financial statements are free from material misstatements and are presented fairly in accordance with the applicable financial reporting framework.

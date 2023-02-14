@@ -1,4 +1,4 @@
-<seo title="Mva" metakeywords="mva financial metric,value added mva,mva market value,calculating mva mva" metadescription="Market Value Added (MVA) is a financial metric used to measure the value created by a company for its shareholders."/>
+<seo title="Mva" metakeywords="mva financial metric,value added mva,mva market value,calculating mva mva" metadescription="Market Value Added (MVA) is a financial metric used to measure the value created by a company for its shareholders." />
 ===Introduction to MVA===
 
 Market [[Value Added|Value Added]] (MVA) is a financial metric used to measure the value created by a company for its shareholders. It is calculated by subtracting the total market value of the company’s equity from the total amount of capital invested in the company. MVA is a useful tool for investors and analysts to assess the performance of a company and its management.

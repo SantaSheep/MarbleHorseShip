@@ -1,4 +1,4 @@
-<seo title="Correlation" metakeywords="correlation used,uses correlation,introduction correlation,correlation correlation used" metadescription="Correlation is used to determine how closely two variables are related to each other.It can be used to identify patterns in data and to make predictions about future events."/>
+<seo title="Correlation" metakeywords="correlation used,uses correlation,introduction correlation,correlation correlation used" metadescription="Correlation is used to determine how closely two variables are related to each other.It can be used to identify patterns in data and to make predictions about future events." />
 ===Introduction to Correlation===
 
 Correlation is a statistical measure of the relationship between two variables. It is used to determine how closely two variables are related to each other. Correlation is used to measure the strength of the relationship between two variables, and can be used to predict [[Future Value|future value]]s of one variable based on the values of the other. Correlation can be used to identify patterns in data, and can be used to make predictions about future events.

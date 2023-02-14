@@ -1,4 +1,4 @@
-<seo title="Taxation" metakeywords="taxation systems vary,taxation systems,governments taxation,governments taxation economy" metadescription="Taxation is the process of levying taxes on individuals or businesses by a government or other authority."/>
+<seo title="Taxation" metakeywords="taxation systems vary,taxation systems,governments taxation,governments taxation economy" metadescription="Taxation is the process of levying taxes on individuals or businesses by a government or other authority." />
 ===Introduction to Taxation===
 
 Taxation is the process of levying taxes on individuals or businesses by a government or other authority. It is a form of revenue collection that is used to fund public services, such as infrastructure, education, and healthcare. Taxation is a major source of revenue for governments around the world, and it is an important tool for governments to shape economic and social policy.

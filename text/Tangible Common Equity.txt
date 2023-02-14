@@ -1,4 +1,4 @@
-<seo title="Tangible Common Equity" metakeywords="tangible common equity,common equity tangible,equity tce measure,equity tangible common" metadescription="Tangible common equity (TCE) is a measure of a company’s financial health.It is used to assess the amount of capital available to the company."/>
+<seo title="Tangible Common Equity" metakeywords="tangible common equity,common equity tangible,equity tce measure,equity tangible common" metadescription="Tangible common equity (TCE) is a measure of a company’s financial health.It is used to assess the amount of capital available to the company." />
 ===Introduction to Tangible Common Equity===
 
 Tangible common equity (TCE) is a measure of a company’s financial health and is used to assess the amount of capital available to the company. It is a measure of the company’s equity that is not subject to any claims from creditors. TCE is an important metric for investors and creditors to assess the financial strength of a company.

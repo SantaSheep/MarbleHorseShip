@@ -1,4 +1,4 @@
-<seo title="Implied Authority" metakeywords="definition implied authority,implied authority,implied authority held,authority implied authority" metadescription="Implied authority is a legal concept that is used to determine the extent of a person's authority to act on behalf of another."/>
+<seo title="Implied Authority" metakeywords="definition implied authority,implied authority,implied authority held,authority implied authority" metadescription="Implied authority is a legal concept that is used to determine the extent of a person's authority to act on behalf of another." />
 ===Introduction to Implied Authority===
 
 Implied authority is a legal concept that is used to determine the extent of a person's authority to act on behalf of another. It is a type of authority that is not explicitly granted, but is assumed to exist based on the circumstances. This concept is important in business and legal contexts, as it can be used to determine the extent of a person's authority to act on behalf of another.

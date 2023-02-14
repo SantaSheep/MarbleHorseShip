@@ -1,4 +1,4 @@
-<seo title="High Low Method" metakeywords="low method used,low method uses,high low method,low method useful" metadescription="The High Low Method is a financial analysis technique used to determine the fixed and variable costs of a business."/>
+<seo title="High Low Method" metakeywords="low method used,low method uses,high low method,low method useful" metadescription="The High Low Method is a financial analysis technique used to determine the fixed and variable costs of a business." />
 ===Introduction to the High Low Method===
 
 The High Low Method is a [[Financial Analysis|financial analysis]] technique used to determine the fixed and [[Variable Cost|variable cost]]s of a business. It is a simple and straightforward method that can be used to quickly and accurately calculate the costs associated with a business. The High Low Method is a useful tool for businesses to understand their costs and make informed decisions about their operations.

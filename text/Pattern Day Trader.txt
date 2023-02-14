@@ -1,4 +1,4 @@
-<seo title="Pattern Day Trader" metakeywords="pattern day trading,pattern day traders,pattern day trader,day trader pattern" metadescription=" Pattern day trading is a type of trading strategy that involves making multiple trades within a single day."/>
+<seo title="Pattern Day Trader" metakeywords="pattern day trading,pattern day traders,pattern day trader,day trader pattern" metadescription=" Pattern day trading is a type of trading strategy that involves making multiple trades within a single day." />
 ===Introduction to Pattern Day Trader===
 
 Pattern day trading is a type of trading strategy that involves making multiple trades within a single day. This type of trading is often used by experienced traders who are looking to capitalize on short-term price movements in the market. Pattern day traders typically use [[Technical Analysis|technical analysis]] to identify patterns in the market and then use those patterns to make trades. Pattern day trading can be a very profitable strategy, but it also carries a high degree of risk.

@@ -1,4 +1,4 @@
-<seo title="Going Concern" metakeywords="going concern accounting,introduction going concern,going concern defined,operating going concern" metadescription="Going concern is an accounting concept that is used to assess the ability of a business to continue operating in the future."/>
+<seo title="Going Concern" metakeywords="going concern accounting,introduction going concern,going concern defined,operating going concern" metadescription="Going concern is an accounting concept that is used to assess the ability of a business to continue operating in the future." />
 ===Introduction to Going Concern===
 
 Going concern is an accounting concept that is used to assess the ability of a business to continue operating in the future. It is a fundamental principle of accounting that is used to determine the value of a company’s assets and liabilities. The concept of going concern is based on the assumption that a business will continue to operate in the foreseeable future and will not be forced to liquidate its assets or cease operations.

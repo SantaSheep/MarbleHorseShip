@@ -1,4 +1,4 @@
-<seo title="Terms Of Trade" metakeywords="terms trade economic,terms trade economy,economy terms trade,terms trade impact" metadescription="Terms of trade is an economic concept that measures the relative price of a country’s exports in comparison to its imports."/>
+<seo title="Terms Of Trade" metakeywords="terms trade economic,terms trade economy,economy terms trade,terms trade impact" metadescription="Terms of trade is an economic concept that measures the relative price of a country’s exports in comparison to its imports." />
 ===Introduction===
 
 Terms of trade is an economic concept that measures the relative price of a country’s exports in comparison to its imports. It is an important indicator of a country’s economic health and can be used to measure the competitiveness of a country’s exports in the global market. This article will provide an overview of terms of trade, its history, the factors that affect it, and its impact on the economy.

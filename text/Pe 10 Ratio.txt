@@ -1,4 +1,4 @@
-<seo title="Pe 10 Ratio" metakeywords="pe10ratio financial metric,industry pe10ratio calculated,pe10ratio price earnings,definition pe10ratio price" metadescription="The Price-to-Earnings 10-Year Ratio (Pe10ratio) is a financial metric used to measure the value of a company relative to its earnings over a 10-year period."/>
+<seo title="Pe 10 Ratio" metakeywords="pe10ratio financial metric,industry pe10ratio calculated,pe10ratio price earnings,definition pe10ratio price" metadescription="The Price-to-Earnings 10-Year Ratio (Pe10ratio) is a financial metric used to measure the value of a company relative to its earnings over a 10-year period." />
 ===Introduction to Pe10ratio===
 
 The Price-to-Earnings 10-Year Ratio (Pe10ratio) is a financial metric used to measure the value of a company relative to its earnings over a 10-year period. It is a useful tool for investors to assess the long-term performance of a company and to compare it to other companies in the same industry. The Pe10ratio is calculated by dividing the current stock price of a company by its average earnings over the past 10 years.

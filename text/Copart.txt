@@ -1,4 +1,4 @@
-<seo title="Copart" metakeywords="vehicles auctions copart,vehicle auctions copart,auctions copart provides,copart business model" metadescription="Copart specializes in the sale of salvage and clean title vehicles through its online auction platform."/>
+<seo title="Copart" metakeywords="vehicles auctions copart,vehicle auctions copart,auctions copart provides,copart business model" metadescription="Copart specializes in the sale of salvage and clean title vehicles through its online auction platform." />
 ===Introduction to Copart===
 
 Copart, Inc. is an online vehicle auction and remarketing company based in Dallas, Texas. Founded in 1982, Copart has grown to become one of the largest vehicle remarketing companies in the world, with operations in the United States, Canada, the United Kingdom, Germany, and Brazil. The company specializes in the sale of salvage and clean title vehicles through its online auction platform, which is accessible to buyers and sellers around the world. Copart also provides a variety of services to its customers, including vehicle storage, transportation, and inspection services.

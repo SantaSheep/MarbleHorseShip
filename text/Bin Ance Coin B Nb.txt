@@ -1,4 +1,4 @@
-<seo title="Bin Ance Coin B Nb" metakeywords="binance coin bnb,binance exchange bnb,coin bnb binance,bnb binance coin" metadescription="Binance Coin (BNB) is a cryptocurrency created by the Binance exchange.It is used to pay for fees and purchase goods and services from Binance’s partners."/>
+<seo title="Bin Ance Coin B Nb" metakeywords="binance coin bnb,binance exchange bnb,coin bnb binance,bnb binance coin" metadescription="Binance Coin (BNB) is a cryptocurrency created by the Binance exchange.It is used to pay for fees and purchase goods and services from Binance’s partners." />
 ===Introduction to Binance Coin BNB===
 
 Binance Coin (BNB) is a cryptocurrency created by the Binance exchange. It is used to pay for fees on the Binance exchange, as well as to purchase goods and services from Binance’s partners. BNB is also used as a form of collateral for margin trading on the Binance exchange. BNB is an ERC-20 token, meaning it is built on the Ethereum blockchain.

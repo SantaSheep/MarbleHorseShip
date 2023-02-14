@@ -1,4 +1,4 @@
-<seo title="Blackrock" metakeywords="blackrock business model,blackrock investment strategies,blackrock blackrock business,blackrock business" metadescription="Blackrock is one of the world’s largest asset management companies, with over $7 trillion in assets under management."/>
+<seo title="Blackrock" metakeywords="blackrock business model,blackrock investment strategies,blackrock blackrock business,blackrock business" metadescription="Blackrock is one of the world’s largest asset management companies, with over $7 trillion in assets under management." />
 ===Introduction to Blackrock===
 
 Blackrock is one of the world’s largest [[Asset Management|asset management]] companies, with over $7 trillion in assets under management. Founded in 1988, Blackrock has grown to become a global leader in the investment management industry. Blackrock provides a wide range of services, including asset management, [[Risk Management|risk management]], and financial advisory services. Blackrock’s clients include institutional investors, governments, and individuals.

@@ -1,4 +1,4 @@
-<seo title="Incremental Cost" metakeywords="incremental cost concept,incremental cost defined,definition incremental cost,examples incremental cost" metadescription="Incremental cost is a concept used in financial analysis to determine the cost of a particular action or decision."/>
+<seo title="Incremental Cost" metakeywords="incremental cost concept,incremental cost defined,definition incremental cost,examples incremental cost" metadescription="Incremental cost is a concept used in financial analysis to determine the cost of a particular action or decision." />
 ===Introduction to Incremental Cost===
 
 Incremental cost is a concept used in [[Financial Analysis|financial analysis]] to determine the cost of a particular action or decision. It is the difference between the cost of a project or decision and the cost of not taking the action or decision. Incremental cost is used to compare the cost of different options and to determine the most cost-effective option.

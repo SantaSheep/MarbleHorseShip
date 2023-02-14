@@ -1,4 +1,4 @@
-<seo title="Tyler Technologies" metakeywords="tyler technologies impact,tyler technologies business,history tyler technologies,tyler technologies significant" metadescription="Tyler Technologies was founded in 1966 by John Tyler, a former IBM executive."/>
+<seo title="Tyler Technologies" metakeywords="tyler technologies impact,tyler technologies business,history tyler technologies,tyler technologies significant" metadescription="Tyler Technologies was founded in 1966 by John Tyler, a former IBM executive." />
 ===Introduction to Tyler Technologies===
 
 Tyler Technologies is a leading provider of software and technology solutions for the public sector. Founded in 1966, the company has grown to become a leader in the public sector technology space, providing software and services to more than 15,000 local government and school districts across the United States. Tyler Technologies’ solutions are designed to help local governments and school districts improve their operations, increase efficiency, and reduce costs. The company’s products and services are used by more than 15,000 local governments and school districts across the United States.

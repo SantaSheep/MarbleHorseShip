@@ -1,4 +1,4 @@
-<seo title="Four Ps" metakeywords="marketing strategy ps,important elements marketing,marketing strategy important,ps marketing" metadescription="The Four Ps of marketing are a set of four interrelated concepts that are used to define the core elements of a marketing strategy."/>
+<seo title="Four Ps" metakeywords="marketing strategy ps,important elements marketing,marketing strategy important,ps marketing" metadescription="The Four Ps of marketing are a set of four interrelated concepts that are used to define the core elements of a marketing strategy." />
 ===Introduction to the Four Ps===
 
 The Four Ps of marketing are a set of four interrelated concepts that are used to define the core elements of a [[Marketing Strategy|marketing strategy]]. The Four Ps are price, product, promotion, and place. These four elements are used to create a successful [[Marketing Mix|marketing mix]] that will help a business reach its goals.

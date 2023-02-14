@@ -1,4 +1,4 @@
-<seo title="Zero Gap Condition" metakeywords="definition zero gap,condition zero gap,zero gap condition,gap condition portfolio" metadescription="Zero Gap Condition is a financial term that refers to a situation in which the value of a security or portfolio is equal to the sum of its individual components."/>
+<seo title="Zero Gap Condition" metakeywords="definition zero gap,condition zero gap,zero gap condition,gap condition portfolio" metadescription="Zero Gap Condition is a financial term that refers to a situation in which the value of a security or portfolio is equal to the sum of its individual components." />
 ===Introduction to Zero Gap Condition===
 
 Zero Gap Condition is a financial term that refers to a situation in which the value of a security or portfolio is equal to the sum of its individual components. This condition is often used to describe the performance of a portfolio or security over a given period of time. It is important to note that the Zero Gap Condition does not necessarily mean that the portfolio or security is performing well, but rather that the value of the portfolio or security is equal to the sum of its individual components.

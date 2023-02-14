@@ -1,4 +1,4 @@
-<seo title="Historical Cost" metakeywords="definition historical cost,historical cost accounting,historical cost disadvantages,disadvantages historical cost" metadescription="Historical cost is an accounting method used to record assets and liabilities at their original purchase price."/>
+<seo title="Historical Cost" metakeywords="definition historical cost,historical cost accounting,historical cost disadvantages,disadvantages historical cost" metadescription="Historical cost is an accounting method used to record assets and liabilities at their original purchase price." />
 ===Introduction to Historical Cost===
 
 Historical cost is an [[Accounting Method|accounting method]] used to record assets and liabilities at their original purchase price. This method is used to provide an accurate representation of the financial position of a company. Historical cost is the most commonly used accounting method and is used by most companies to record their financial transactions.

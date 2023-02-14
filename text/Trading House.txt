@@ -1,4 +1,4 @@
-<seo title="Trading House" metakeywords="trading houses concept,trading houses specialize,trading houses trading,introduction trading house" metadescription="A trading house is a business entity that specializes in the buying and selling of goods and services."/>
+<seo title="Trading House" metakeywords="trading houses concept,trading houses specialize,trading houses trading,introduction trading house" metadescription="A trading house is a business entity that specializes in the buying and selling of goods and services." />
 ===Introduction to Trading House===
 
 A trading house is a business entity that specializes in the buying and selling of goods and services. Trading houses are typically involved in the buying and selling of commodities, such as oil, gas, and metals, as well as [[Financial Instrument|financial instrument]]s, such as stocks, bonds, and derivatives. Trading houses are typically large, international organizations that have the resources and expertise to manage the risks associated with trading in global markets.

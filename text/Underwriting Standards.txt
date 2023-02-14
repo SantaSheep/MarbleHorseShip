@@ -1,4 +1,4 @@
-<seo title="Underwriting Standards" metakeywords="underwriting standards lenders,underwriting standards criteria,underwriting standards important,underwriting standards" metadescription="Underwriting standards are used by banks, credit unions, and other financial institutions to assess the risk associated with lending money to a borrower."/>
+<seo title="Underwriting Standards" metakeywords="underwriting standards lenders,underwriting standards criteria,underwriting standards important,underwriting standards" metadescription="Underwriting standards are used by banks, credit unions, and other financial institutions to assess the risk associated with lending money to a borrower." />
 ===Introduction to Underwriting Standards===
 
 Underwriting standards are the criteria used by [[Financial Institution|financial institution]]s to assess the creditworthiness of potential borrowers. These standards are used to determine whether a borrower is likely to be able to repay a loan or other financial obligation. Underwriting standards are used by banks, credit unions, and other financial institutions to assess the risk associated with lending money to a borrower.

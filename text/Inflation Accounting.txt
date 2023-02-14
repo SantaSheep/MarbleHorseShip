@@ -1,4 +1,4 @@
-<seo title="Inflation Accounting" metakeywords="inflation accounting used,types inflation accounting,inflation accounting method,inflation accounting standards" metadescription="Inflation accounting takes into account the effects of inflation on the financial statements of a company.Inflation accounting has been around since the early 1900s."/>
+<seo title="Inflation Accounting" metakeywords="inflation accounting used,types inflation accounting,inflation accounting method,inflation accounting standards" metadescription="Inflation accounting takes into account the effects of inflation on the financial statements of a company.Inflation accounting has been around since the early 1900s." />
 ===Introduction to Inflation Accounting===
 
 Inflati[[On Account|on account]]ing is a method of accounting that takes into account the effects of inflation on the [[Financial Statements|financial statements]] of a company. It is used to adjust the financial statements of a company to reflect the true economic value of the company’s assets and liabilities. Inflation accounting is used to provide a more accurate picture of a company’s financial position and performance.

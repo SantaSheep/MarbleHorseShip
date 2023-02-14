@@ -1,4 +1,4 @@
-<seo title="Receivership" metakeywords="introduction receivership,introduction receivership receivership,receivership receivership legal,receivership useful" metadescription="Receivership is often used when a company is insolvent or facing bankruptcy.It is also used in cases of fraud or mismanagement."/>
+<seo title="Receivership" metakeywords="introduction receivership,introduction receivership receivership,receivership receivership legal,receivership useful" metadescription="Receivership is often used when a company is insolvent or facing bankruptcy.It is also used in cases of fraud or mismanagement." />
 ===Introduction to Receivership===
 
 Receivership is a legal process in which a court appoints a receiver to take control of a company’s assets and manage them for the benefit of creditors. The receiver is responsible for collecting and liquidating the company’s assets, paying creditors, and distributing any remaining funds to shareholders. Receivership is often used when a company is insolvent or facing bankruptcy. It is also used in cases of fraud or mismanagement.

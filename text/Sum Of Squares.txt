@@ -1,4 +1,4 @@
-<seo title="Sum Of Squares" metakeywords="sum squares data,definition sum squares,sum squares statistical,use sum squares" metadescription="The Sum of Squares is a statistical measure used to quantify the amount of variation in a set of data."/>
+<seo title="Sum Of Squares" metakeywords="sum squares data,definition sum squares,sum squares statistical,use sum squares" metadescription="The Sum of Squares is a statistical measure used to quantify the amount of variation in a set of data." />
 ===Introduction to Sum of Squares===
 
 The Sum of Squares is a statistical measure used to quantify the amount of variation in a set of data. It is also known as the total sum of squares or the sum of squared deviations. The Sum of Squares is used in a variety of statistical applications, including regression analysis, analysis of variance, and [[Hypothesis Testing|hypothesis testing]]. It is an important tool for understanding the relationship between variables and for making predictions about future data.

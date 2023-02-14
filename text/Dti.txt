@@ -1,4 +1,4 @@
-<seo title="Dti" metakeywords="income dti ratio,income ratio dti,debt calculating dti,ratio dti debt" metadescription="The debt-to-income ratio (DTI) is a financial metric used to measure an individual’s ability to manage their debt."/>
+<seo title="Dti" metakeywords="income dti ratio,income ratio dti,debt calculating dti,ratio dti debt" metadescription="The debt-to-income ratio (DTI) is a financial metric used to measure an individual’s ability to manage their debt." />
 ===Introduction to Debt-to-Income Ratio (DTI)===
 
 The debt-to-income ratio (DTI) is a financial metric used to measure an individual’s ability to manage their debt. It is calculated by dividing an individual’s total monthly debt payments by their total monthly income. The DTI ratio is used by lenders to assess an individual’s creditworthiness and ability to repay a loan. It is also used by individuals to assess their own financial health and determine if they are taking on too much debt.

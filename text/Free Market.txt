@@ -1,4 +1,4 @@
-<seo title="Free Market" metakeywords="free market concept,drawbacks free market,concept free market,free market drawbacks" metadescription="The free market is an economic system in which goods and services are exchanged between buyers and sellers without government intervention."/>
+<seo title="Free Market" metakeywords="free market concept,drawbacks free market,concept free market,free market drawbacks" metadescription="The free market is an economic system in which goods and services are exchanged between buyers and sellers without government intervention." />
 ===Introduction to the Free Market===
 
 The free market is an economic system in which goods and services are exchanged between buyers and sellers without government intervention. It is based on the principle of supply and demand, where prices are determined by the forces of competition and the availability of resources. The free market is also known as a [[Market Economy|market economy]], and it is the most common type of economic system in the world today.

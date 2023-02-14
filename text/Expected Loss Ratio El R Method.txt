@@ -1,4 +1,4 @@
-<seo title="Expected Loss Ratio El R Method" metakeywords="loss ratio elr,expected loss ratio,investment elr method,ratio expected losses" metadescription="The Expected Loss Ratio (ELR) Method is a financial risk management tool used to measure the potential losses associated with a given investment."/>
+<seo title="Expected Loss Ratio El R Method" metakeywords="loss ratio elr,expected loss ratio,investment elr method,ratio expected losses" metadescription="The Expected Loss Ratio (ELR) Method is a financial risk management tool used to measure the potential losses associated with a given investment." />
 ===Introduction to Expected Loss Ratio (ELR) Method===
 
 The Expected [[Loss Ratio|Loss Ratio]] (ELR) Method is a [[Financial Risk|financial risk]] management tool used to measure the potential losses associated with a given investment. It is a measure of the expected losses that an investor may incur over a given period of time. The ELR Method is used to assess the risk associated with a particular investment and to determine the appropriate level of risk that should be taken on.

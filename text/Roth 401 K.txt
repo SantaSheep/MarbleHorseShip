@@ -1,4 +1,4 @@
-<seo title="Roth 401 K" metakeywords="benefit roth401k allows,roth401k retirement,eligibility requirements roth401k,roth401k retirement savings" metadescription="Roth401k is a retirement savings plan that allows individuals to save for retirement on a tax-advantaged basis."/>
+<seo title="Roth 401 K" metakeywords="benefit roth401k allows,roth401k retirement,eligibility requirements roth401k,roth401k retirement savings" metadescription="Roth401k is a retirement savings plan that allows individuals to save for retirement on a tax-advantaged basis." />
 ===Introduction to Roth401k===
 
 A Roth401k is a retirement savings plan that allows individuals to save for retirement on a tax-advantaged basis. It is similar to a traditional 401k plan, but with some key differences. Contributions to a Roth401k are made with after-tax dollars, meaning that the contributions are not tax-deductible. However, the money in the account grows tax-free and withdrawals in retirement are also tax-free. This makes the Roth401k an attractive option for those who want to save for retirement but don’t want to pay taxes on their withdrawals.

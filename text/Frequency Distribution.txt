@@ -1,4 +1,4 @@
-<seo title="Frequency Distribution" metakeywords="frequency distributions useful,frequency distributions used,uses frequency distributions,examples frequency distributions" metadescription="Frequency distribution is a statistical tool used to organize and analyze data."/>
+<seo title="Frequency Distribution" metakeywords="frequency distributions useful,frequency distributions used,uses frequency distributions,examples frequency distributions" metadescription="Frequency distribution is a statistical tool used to organize and analyze data." />
 ===Introduction to Frequency Distribution===
 
 Frequency distribution is a statistical tool used to organize and analyze data. It is a way of organizing data into categories and counting the number of occurrences of each category. Frequency distributions are used to summarize data and to identify patterns and trends in the data. Frequency distributions can be used to compare different sets of data, to identify outliers, and to identify relationships between variables.

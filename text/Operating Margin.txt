@@ -1,4 +1,4 @@
-<seo title="Operating Margin" metakeywords="introduction operating margin,operating margin,operating margin measure,margin operating margin" metadescription="Operating margin is a financial metric used to measure the profitability of a company."/>
+<seo title="Operating Margin" metakeywords="introduction operating margin,operating margin,operating margin measure,margin operating margin" metadescription="Operating margin is a financial metric used to measure the profitability of a company." />
 ===Introduction to Operating Margin===
 
 Operating margin is a financial metric used to measure the profitability of a company. It is calculated by taking the company’s [[Operating Income|operating income]] and dividing it by its total revenue. Operating margin is a key indicator of a company’s financial health and is used to compare the profitability of different companies in the same industry.

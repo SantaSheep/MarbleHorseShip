@@ -1,4 +1,4 @@
-<seo title="Convexity" metakeywords="convexity concept finance,convexity help investors,investments understanding convexity,investments convexity used" metadescription="Convexity is defined as the degree to which the price of a security changes in response to changes in its yield."/>
+<seo title="Convexity" metakeywords="convexity concept finance,convexity help investors,investments understanding convexity,investments convexity used" metadescription="Convexity is defined as the degree to which the price of a security changes in response to changes in its yield." />
 ===Introduction to Convexity===
 
 Convexity is a concept in finance that describes the relationship between the price of a security and its yield. It is an important concept for investors to understand, as it can help them make more informed decisions about their investments. Convexity can be used to measure the sensitivity of a security's price to changes in its yield. It is also used to measure the risk associated with a security, as well as the potential for return.

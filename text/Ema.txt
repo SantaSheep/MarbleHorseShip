@@ -1,4 +1,4 @@
-<seo title="Ema" metakeywords="moving average ema,definition ema exponential,ema technical analysis,exponential moving average" metadescription="Exponential Moving Average (EMA) is a technical analysis tool used to identify trends in financial markets."/>
+<seo title="Ema" metakeywords="moving average ema,definition ema exponential,ema technical analysis,exponential moving average" metadescription="Exponential Moving Average (EMA) is a technical analysis tool used to identify trends in financial markets." />
 ===Introduction to EMA===
 
 Exponential [[Moving Average|Moving Average]] (EMA) is a [[Technical Analysis|technical analysis]] tool used to identify trends in [[Financial Market|financial market]]s. It is a type of moving average that gives more weight to recent prices in the calculation, making it more responsive to recent price changes than a simple moving average. EMA is used by traders and investors to identify potential entry and exit points in the market, as well as to identify potential trends.

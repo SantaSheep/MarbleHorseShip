@@ -1,4 +1,4 @@
-<seo title="Gross Margin" metakeywords="grossmargin total revenue,revenue uses grossmargin,revenue grossmargin,goods calculating grossmargin" metadescription="Grossmargin is a financial term used to measure the profitability of a business."/>
+<seo title="Gross Margin" metakeywords="grossmargin total revenue,revenue uses grossmargin,revenue grossmargin,goods calculating grossmargin" metadescription="Grossmargin is a financial term used to measure the profitability of a business." />
 ===Introduction to Grossmargin===
 
 Grossmargin is a financial term used to measure the profitability of a business. It is a measure of the difference between the cost of goods sold and the revenue generated from the sale of those goods. Grossmargin is an important metric for businesses to track as it provides insight into the overall profitability of the business. It is also used to compare the performance of different businesses in the same industry.

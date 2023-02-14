@@ -1,4 +1,4 @@
-<seo title="Npv" metakeywords="npv present value,npv financial concept,present value npv,investment calculation npv" metadescription="Net Present Value (NPV) is a financial concept used to evaluate the profitability of a project or investment."/>
+<seo title="Npv" metakeywords="npv present value,npv financial concept,present value npv,investment calculation npv" metadescription="Net Present Value (NPV) is a financial concept used to evaluate the profitability of a project or investment." />
 ===Introduction to NPV===
 
 Net [[Present Value|Present Value]] (NPV) is a financial concept used to evaluate the profitability of a project or investment. It is a measure of the present value of future [[Cash Flow|cash flow]]s, taking into account the [[Time Value Of Money|time value of money]]. NPV is used to compare the profitability of different investments and to determine whether a project should be undertaken.

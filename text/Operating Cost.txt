@@ -1,4 +1,4 @@
-<seo title="Operating Cost" metakeywords="operating cost operating,cost operating cost,operating costs,operating costs help" metadescription="Operating cost is a key component of a company’s financial performance.It includes all expenses related to the day-to-day operations of a business."/>
+<seo title="Operating Cost" metakeywords="operating cost operating,cost operating cost,operating costs,operating costs help" metadescription="Operating cost is a key component of a company’s financial performance.It includes all expenses related to the day-to-day operations of a business." />
 ===Introduction to Operating Cost===
 
 Operating cost is a term used to describe the costs associated with running a business. It is a key component of a company’s [[Financial Performance|financial performance]] and is often used to measure the efficiency of a business. Operating cost includes all expenses related to the day-to-day operations of a business, such as labor, materials, and overhead. Operating cost is distinct from [[Capital Expenditure|capital expenditure]], which is used to purchase long-term assets such as buildings and equipment.

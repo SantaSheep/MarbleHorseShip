@@ -1,4 +1,4 @@
-<seo title="Nafta" metakeywords="introduction nafta,introduction nafta north,trade agreement nafta,nafta challenges associated" metadescription="The North American Free Trade Agreement (NAFTA) is a trilateral trade agreement between Canada, Mexico, and the United States.It was signed in 1992 and went into effect in 1994."/>
+<seo title="Nafta" metakeywords="introduction nafta,introduction nafta north,trade agreement nafta,nafta challenges associated" metadescription="The North American Free Trade Agreement (NAFTA) is a trilateral trade agreement between Canada, Mexico, and the United States.It was signed in 1992 and went into effect in 1994." />
 ===Introduction to NAFTA===
 
 The North American [[Free Trade|Free Trade]] Agreement (NAFTA) is a trilateral trade agreement between Canada, Mexico, and the United States. It was signed in 1992 and went into effect in 1994. NAFTA is the largest free trade agreement in the world, covering over $1 trillion in trade between the three countries. The agreement has been credited with increasing trade and investment between the three countries, as well as creating jobs and reducing poverty.

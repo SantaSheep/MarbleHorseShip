@@ -1,4 +1,4 @@
-<seo title="Interest Coverage Ratio" metakeywords="icr financial ratio,coverage ratio icr,ratio icr financial,ratio icr important" metadescription="Interest Coverage Ratio (ICR) is a financial ratio that measures a company’s ability to pay its interest expenses on its outstanding debt."/>
+<seo title="Interest Coverage Ratio" metakeywords="icr financial ratio,coverage ratio icr,ratio icr financial,ratio icr important" metadescription="Interest Coverage Ratio (ICR) is a financial ratio that measures a company’s ability to pay its interest expenses on its outstanding debt." />
 ===Introduction to Interest Coverage Ratio===
 
 Interest Coverage Ratio (ICR) is a financial ratio that measures a company’s ability to pay its [[Interest Expense|interest expense]]s on its outstanding debt. It is calculated by dividing a company’s earnings before interest and taxes (EBIT) by its interest expenses for a given period. The higher the ratio, the more capable a company is of paying its interest expenses. ICR is an important measure of a company’s financial health and is used by investors and creditors to assess the risk of lending money to a company.

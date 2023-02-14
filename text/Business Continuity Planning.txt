@@ -1,4 +1,4 @@
-<seo title="Business Continuity Planning" metakeywords="business continuity planning,continuity planning bcp,continuity planning business,continuity planning process" metadescription=""/>
+<seo title="Business Continuity Planning" metakeywords="business continuity planning,continuity planning bcp,continuity planning business,continuity planning process" metadescription="" />
 ===Introduction to Business Continuity Planning===
 
 Business continuity planning (BCP) is a process that helps organizations prepare for and respond to unexpected events that could disrupt their operations. It is a comprehensive approach to managing risks and ensuring that an organization can continue to operate in the event of a disaster or other emergency. BCP involves identifying potential risks, developing strategies to mitigate those risks, and creating plans to ensure that the organization can continue to operate in the event of an emergency.

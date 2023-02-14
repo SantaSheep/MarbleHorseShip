@@ -1,4 +1,4 @@
-<seo title="Forensic Accounting" metakeywords="forensic accounting forensic,accounting forensic accounting,accounting forensic,forensic accounting important" metadescription="Forensic accounting is a specialized field of accounting that focuses on the investigation of financial fraud and other financial crimes."/>
+<seo title="Forensic Accounting" metakeywords="forensic accounting forensic,accounting forensic accounting,accounting forensic,forensic accounting important" metadescription="Forensic accounting is a specialized field of accounting that focuses on the investigation of financial fraud and other financial crimes." />
 ===Introduction to Forensic Accounting===
 
 Forensic accounting is a specialized field of accounting that focuses on the investigation of financial fraud and other financial crimes. It is a combination of accounting, auditing, and investigative skills used to detect and prevent financial fraud. Forensic accounting is used to uncover financial irregularities and to provide evidence for criminal and civil proceedings. It is also used to provide exper[[T Test|t test]]imony in court proceedings.

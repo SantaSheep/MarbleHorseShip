@@ -1,4 +1,4 @@
-<seo title="Unicorn" metakeywords="companies types unicorns,unicorns companies,companies referred unicorns,unicorns companies focus" metadescription="Unicorns are privately held start-up companies that have achieved a valuation of over $1 billion."/>
+<seo title="Unicorn" metakeywords="companies types unicorns,unicorns companies,companies referred unicorns,unicorns companies focus" metadescription="Unicorns are privately held start-up companies that have achieved a valuation of over $1 billion." />
 ===Introduction to Unicorns===
 
 Unicorns are a term used to describe privately held start-up companies that have achieved a valuation of over $1 billion. These companies are often referred to as “unicorns” due to their rarity and the difficulty of achieving such a high valuation. Unicorns are typically venture-backed companies that have achieved rapid growth and success in a short period of time. They are often seen as symbols of innovation and disruption in the tech industry.

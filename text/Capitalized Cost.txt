@@ -1,4 +1,4 @@
-<seo title="Capitalized Cost" metakeywords="cost capitalized cost,disadvantages capitalized cost,introduction capitalized cost,asset capitalized cost" metadescription="Capitalized cost is a term used in accounting and finance to refer to the cost of an asset that is recorded on the balance sheet as an asset."/>
+<seo title="Capitalized Cost" metakeywords="cost capitalized cost,disadvantages capitalized cost,introduction capitalized cost,asset capitalized cost" metadescription="Capitalized cost is a term used in accounting and finance to refer to the cost of an asset that is recorded on the balance sheet as an asset." />
 ===Introduction to Capitalized Cost===
 
 Capitalized cost is a term used in accounting and finance to refer to the cost of an asset that is recorded on the [[Balance Sheet|balance sheet]] as an asset. This cost is then amortized over the life of the asset, meaning that the cost is spread out over the life of the asset. Capitalized cost is also known as [[Capital Expenditure|capital expenditure]] or capitalized investment. It is important to understand the concept of capitalized cost in order to properly manage a company’s finances.

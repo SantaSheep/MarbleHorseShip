@@ -1,4 +1,4 @@
-<seo title="Shareholder" metakeywords="voting rights shareholders,shareholder voting rights,voting allows shareholders,shareholders certain rights" metadescription="A shareholder is an individual or entity that owns at least one share of a company’s stock."/>
+<seo title="Shareholder" metakeywords="voting rights shareholders,shareholder voting rights,voting allows shareholders,shareholders certain rights" metadescription="A shareholder is an individual or entity that owns at least one share of a company’s stock." />
 ===Introduction to Shareholder===
 
 A shareholder is an individual or entity that owns at least one share of a company’s stock. Shareholders are also referred to as stockholders or equity holders. Shareholders are the owners of a company and have a financial interest in the success of the company. They are entitled to a portion of the company’s profits and losses, and they have the right to vote on certain matters related to the company.

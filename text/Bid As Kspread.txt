@@ -1,4 +1,4 @@
-<seo title="Bid As Kspread" metakeywords="bid ask spread,bid asked spread,ask spread difference,ask spread bid" metadescription="The bid-ask spread is the difference between the bid price and the ask price of a security or asset.It is used to gauge the cost of trading."/>
+<seo title="Bid As Kspread" metakeywords="bid ask spread,bid asked spread,ask spread difference,ask spread bid" metadescription="The bid-ask spread is the difference between the bid price and the ask price of a security or asset.It is used to gauge the cost of trading." />
 ===Introduction to Bid-Ask Spread===
 
 The bid-ask spread is the difference between the bid price and the ask price of a security or asset. It is a measure of the liquidity of the security or asset and is used to gauge the cost of trading. The bid-ask spread is the difference between the highest price that a buyer is willing to pay for a security and the lowest price that a seller is willing to accept. The bid-ask spread is also known as the bid-offer spread, the bid-asked spread, or simply the spread.

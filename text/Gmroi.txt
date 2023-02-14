@@ -1,4 +1,4 @@
-<seo title="Gmroi" metakeywords="gmroi gross margin,gmroi financial metric,return investment gmroi,investments calculating gmroi" metadescription="Gross Margin Return on Investment (GMROI) is a financial metric used to measure the profitability of a company’s investments."/>
+<seo title="Gmroi" metakeywords="gmroi gross margin,gmroi financial metric,return investment gmroi,investments calculating gmroi" metadescription="Gross Margin Return on Investment (GMROI) is a financial metric used to measure the profitability of a company’s investments." />
 ===Introduction to GMROI===
 
 [[Gross Margin|Gross Margin]] [[Return On Investment|Return on Investment]] (GMROI) is a financial metric used to measure the profitability of a company’s investments. It is a measure of the return on investment (ROI) of a company’s gross margin, which is the difference between the cost of goods sold and the revenue generated from the sale of those goods. GMROI is a useful tool for investors and business owners to assess the performance of their investments and to make decisions about future investments.

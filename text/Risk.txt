@@ -1,4 +1,4 @@
-<seo title="Risk" metakeywords="managing risk,risk risk management,managing risk risk,risk management" metadescription="Risk is the potential for loss or gain associated with any investment or financial decision.Risk can be divided into two main categories: systematic risk and unsystematic risk."/>
+<seo title="Risk" metakeywords="managing risk,risk risk management,managing risk risk,risk management" metadescription="Risk is the potential for loss or gain associated with any investment or financial decision.Risk can be divided into two main categories: systematic risk and unsystematic risk." />
 ===Introduction to Risk===
 
 Risk is an inherent part of any financial decision. It is the potential for loss or gain associated with any investment or financial decision. Risk is an important factor to consider when making any financial decision, as it can have a significant impact on the outcome of the decision. Risk can be divided into two main categories: systematic risk and unsystematic risk. Systematic risk is the risk associated with the entire market, while unsystematic risk is the risk associated with a specific company or industry.

@@ -1,4 +1,4 @@
-<seo title="Perpetual Inventory" metakeywords="perpetual inventory accounting,disadvantages perpetual inventory,inventory accounting perpetual,introduction perpetual inventory" metadescription="Perpetual inventory is a system of inventory management that allows businesses to track their inventory levels in real time."/>
+<seo title="Perpetual Inventory" metakeywords="perpetual inventory accounting,disadvantages perpetual inventory,inventory accounting perpetual,introduction perpetual inventory" metadescription="Perpetual inventory is a system of inventory management that allows businesses to track their inventory levels in real time." />
 ===Introduction to Perpetual Inventory===
 
 Perpetual inventory is a system of [[Inventory Management|inventory management]] that allows businesses to track their inventory levels in real time. This system is used to keep track of the quantity and cost of goods that are in stock at any given time. It is a continuous process that is updated as soon as a sale or purchase is made. This system is used by businesses to ensure that they have the right amount of inventory on hand to meet customer demand.

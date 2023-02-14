@@ -1,4 +1,4 @@
-<seo title="Otc" metakeywords="traders otc markets,exchanges otc markets,markets otc markets,exchange otc markets" metadescription="Over-the-counter (OTC) markets are financial markets that are not organized or regulated by a central exchange."/>
+<seo title="Otc" metakeywords="traders otc markets,exchanges otc markets,markets otc markets,exchange otc markets" metadescription="Over-the-counter (OTC) markets are financial markets that are not organized or regulated by a central exchange." />
 ===Introduction to OTC===
 
 Over-the-counter (OTC) markets are [[Financial Market|financial market]]s that are not organized or regulated by a central exchange. OTC markets are decentralized and are typically used for trading securities that are not listed on a formal exchange. OTC markets are also known as off-exchange trading, dealer markets, or broker markets. OTC markets are used to facilitate the trading of a wide variety of [[Financial Instrument|financial instrument]]s, including stocks, bonds, derivatives, commodities, and currencies.

@@ -1,4 +1,4 @@
-<seo title="Economic Cycle" metakeywords="types economic cycles,economic cycle characterized,understanding economic cycle,economic cycles understanding" metadescription="An economic cycle is a pattern of economic activity that is characterized by alternating periods of expansion and contraction."/>
+<seo title="Economic Cycle" metakeywords="types economic cycles,economic cycle characterized,understanding economic cycle,economic cycles understanding" metadescription="An economic cycle is a pattern of economic activity that is characterized by alternating periods of expansion and contraction." />
 ===Introduction to Economic Cycle===
 
 An economic cycle is a period of time in which the economy experiences alternating periods of growth and contraction. It is a pattern of economic activity that is characterized by alternating periods of expansion and contraction. The economic cycle is a fundamental concept in economics and is used to describe the fluctuations in economic activity that occur over time. The economic cycle is also known as the [[Business Cycle|business cycle]], and it is an important factor in understanding the overall health of an economy.

@@ -1,4 +1,4 @@
-<seo title="Chart Accounts" metakeywords="chart accounts general,introduction chart accounts,chart accounts provides,chart accounts important" metadescription="A chart of accounts is a list of all the accounts used by a business to record its financial transactions."/>
+<seo title="Chart Accounts" metakeywords="chart accounts general,introduction chart accounts,chart accounts provides,chart accounts important" metadescription="A chart of accounts is a list of all the accounts used by a business to record its financial transactions." />
 ===Introduction to Chart of Accounts===
 
 A chart of accounts is a list of all the accounts used by a business to record its financial transactions. It is used to organize the financial information of a business and to provide a structure for the recording of financial transactions. The chart of accounts is an important tool for financial reporting and analysis, as it provides a framework for the organization of financial information.

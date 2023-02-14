@@ -1,4 +1,4 @@
-<seo title="Withholding Allowance" metakeywords="withholding allowance withholding,definition withholding allowance,withholding allowance,withholding allowance important" metadescription="Withholding allowance is a term used to describe the amount of money that an employer withholds from an employee’s paycheck for taxes."/>
+<seo title="Withholding Allowance" metakeywords="withholding allowance withholding,definition withholding allowance,withholding allowance,withholding allowance important" metadescription="Withholding allowance is a term used to describe the amount of money that an employer withholds from an employee’s paycheck for taxes." />
 ===Introduction to Withholding Allowance===
 
 Withholding allowance is a term used to describe the amount of money that an employer withholds from an employee’s paycheck for taxes. This amount is determined by the employee’s filing status and the number of allowances they claim on their W-4 form. Withholding allowance is an important concept for both employers and employees to understand, as it affects the amount of taxes that are withheld from an employee’s paycheck.

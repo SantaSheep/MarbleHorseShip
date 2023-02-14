@@ -1,4 +1,4 @@
-<seo title="Garmin" metakeywords="garmin founded 1989,garmin began developing,garmin founded,garmin best known" metadescription="Garmin is a multinational technology company that designs, manufactures, and markets a wide range of consumer, automotive, and aviation products and services."/>
+<seo title="Garmin" metakeywords="garmin founded 1989,garmin began developing,garmin founded,garmin best known" metadescription="Garmin is a multinational technology company that designs, manufactures, and markets a wide range of consumer, automotive, and aviation products and services." />
 ===Introduction to Garmin===
 
 Garmin is a multinational technology company that designs, manufactures, and markets a wide range of consumer, automotive, and aviation products and services. Founded in 1989, the company is headquartered in Schaffhausen, Switzerland and has offices in the United States, Europe, and Asia. Garmin is best known for its GPS navigation and communication products, including GPS receivers, GPS watches, and GPS-enabled smartphones. The company also produces a variety of other products, including fitness trackers, action cameras, and marine electronics.

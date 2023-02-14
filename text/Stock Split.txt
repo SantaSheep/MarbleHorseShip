@@ -1,4 +1,4 @@
-<seo title="Stock Split" metakeywords="drawbacks stock splits,introduction stock splits,stock splits beneficial,stock splits typically" metadescription="A stock split is a corporate action in which a company divides its existing shares into multiple shares."/>
+<seo title="Stock Split" metakeywords="drawbacks stock splits,introduction stock splits,stock splits beneficial,stock splits typically" metadescription="A stock split is a corporate action in which a company divides its existing shares into multiple shares." />
 ===Introduction to Stock Splits===
 
 A stock split is a corporate action in which a company divides its existing shares into multiple shares. This is done to reduce the price of each share, making them more affordable for investors. The total [[Market Capitalization|market capitalization]] of the company remains the same, but the number of shares outstanding increases. Stock splits are typically done in order to make the stock more attractive to investors, as well as to increase liquidity in the stock.

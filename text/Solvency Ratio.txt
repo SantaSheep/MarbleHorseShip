@@ -1,4 +1,4 @@
-<seo title="Solvency Ratio" metakeywords="introduction solvency ratio,solvency ratio solvency,solvency ratio used,solvency ratio" metadescription="Solvency ratio is a financial metric used to measure a company’s ability to meet its long-term financial obligations."/>
+<seo title="Solvency Ratio" metakeywords="introduction solvency ratio,solvency ratio solvency,solvency ratio used,solvency ratio" metadescription="Solvency ratio is a financial metric used to measure a company’s ability to meet its long-term financial obligations." />
 ===Introduction to Solvency Ratio===
 
 Solvency ratio is a financial metric used to measure a company’s ability to meet its long-term financial obligations. It is a measure of a company’s financial health and is used to assess the risk of insolvency. The solvency ratio is calculated by dividing a company’s total assets by its [[Total Liabilities|total liabilities]]. A higher solvency ratio indicates that a company is in a better financial position and is more likely to be able to meet its long-term financial obligations.

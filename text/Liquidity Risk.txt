@@ -1,4 +1,4 @@
-<seo title="Liquidity Risk" metakeywords="introduction liquidity risk,liquidity risk methods,liquidity risk risk,liquidity risk" metadescription="Liquidity risk is the risk that an entity will not be able to meet its financial obligations as they come due."/>
+<seo title="Liquidity Risk" metakeywords="introduction liquidity risk,liquidity risk methods,liquidity risk risk,liquidity risk" metadescription="Liquidity risk is the risk that an entity will not be able to meet its financial obligations as they come due." />
 ===Introduction to Liquidity Risk===
 
 Liquidity risk is the risk that an entity will not be able to meet its financial obligations as they come due. It is a risk that is inherent in all [[Financial Market|financial market]]s and can be caused by a variety of factors, including market volatility, changes in [[Interest Rate|interest rate]]s, and changes in the availability of credit. Liquidity risk can have a significant impact on an entity’s ability to meet its financial obligations and can lead to significant losses if not managed properly.

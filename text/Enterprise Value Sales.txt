@@ -1,4 +1,4 @@
-<seo title="Enterprise Value Sales" metakeywords="sales enterprise value,calculation enterprise value,enterprise value total,ev enterprise value" metadescription="Enterprise Value/Sales (EV/S) is a financial ratio that measures the value of a company relative to its sales."/>
+<seo title="Enterprise Value Sales" metakeywords="sales enterprise value,calculation enterprise value,enterprise value total,ev enterprise value" metadescription="Enterprise Value/Sales (EV/S) is a financial ratio that measures the value of a company relative to its sales." />
 ===Introduction to Enterprise Value/Sales===
 
 [[Enterprise Value|Enterprise Value]]/Sales (EV/S) is a financial ratio that measures the value of a company relative to its sales. It is calculated by dividing the enterprise value of a company by its total sales. The enterprise value of a company is the sum of its [[Market Capitalization|market capitalization]], debt, and minority interest, minus its [[Cash And Cash Equivalents|cash and cash equivalents]]. EV/S is a useful metric for investors to compare the relative value of different companies in the same industry.

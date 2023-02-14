@@ -1,4 +1,4 @@
-<seo title="10 K" metakeywords="10 financial document,10 provides investors,definition 10 10,definition 10" metadescription="The 10 K is a financial document that is required to be filed annually by publicly traded companies with the U.S. Securities and Exchange Commission."/>
+<seo title="10 K" metakeywords="10 financial document,10 provides investors,definition 10 10,definition 10" metadescription="The 10 K is a financial document that is required to be filed annually by publicly traded companies with the U.S. Securities and Exchange Commission."  />
 ===Introduction to 10 K===
 
 The 10 K is a financial document that is required to be filed annually by publicly traded companies with the U.S. Securities and Exchange Commission (SEC). It is a comprehensive report that provides a detailed overview of a company’s [[Financial Performance|financial performance]] and position. The 10 K is an important document for investors, as it provides them with a comprehensive view of a company’s financial health.

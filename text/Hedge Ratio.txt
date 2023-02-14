@@ -1,4 +1,4 @@
-<seo title="Hedge Ratio" metakeywords="hedgeratio financial term,definition hedgeratio hedgeratio,market risk hedgeratio,risk hedgeratio" metadescription="Hedgeratio is a financial term used to describe the ratio of a company’s hedging activities to its total assets."/>
+<seo title="Hedge Ratio" metakeywords="hedgeratio financial term,definition hedgeratio hedgeratio,market risk hedgeratio,risk hedgeratio" metadescription="Hedgeratio is a financial term used to describe the ratio of a company’s hedging activities to its total assets." />
 ===Introduction to Hedgeratio===
 
 Hedgeratio is a financial term used to describe the ratio of a company’s hedging activities to its total assets. It is a measure of the company’s [[Risk Management|risk management]] strategy and is used to assess the company’s ability to manage its exposure to market risk. The hedgeratio is calculated by dividing the total value of the company’s hedging activities by its total assets.

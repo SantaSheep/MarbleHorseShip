@@ -1,4 +1,4 @@
-<seo title="Google Tax" metakeywords="google tax concept,google tax proposed,google tax proposal,concept google tax" metadescription="Google Tax is a form of taxation designed to ensure that large technology companies pay their fair share of taxes in the countries in which they operate."/>
+<seo title="Google Tax" metakeywords="google tax concept,google tax proposed,google tax proposal,concept google tax" metadescription="Google Tax is a form of taxation designed to ensure that large technology companies pay their fair share of taxes in the countries in which they operate." />
 ===Introduction to Google Tax===
 
 Google Tax is a term used to describe the taxation of digital services provided by large technology companies such as Google, Apple, and Amazon. It is a form of taxation that is designed to ensure that these companies pay their fair share of taxes in the countries in which they operate. The concept of Google Tax has been around since the early 2000s, but it has become increasingly relevant in recent years as governments around the world have sought to address the issue of tax avoidance by large technology companies.

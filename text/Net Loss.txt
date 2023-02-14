@@ -1,4 +1,4 @@
-<seo title="Net Loss" metakeywords="revenue netloss measure,netloss financial term,netloss company total,company netloss calculating" metadescription="Netloss is a measure of a company’s profitability and is used to assess the financial health of a business.It is calculated by subtracting total expenses from total revenue."/>
+<seo title="Net Loss" metakeywords="revenue netloss measure,netloss financial term,netloss company total,company netloss calculating" metadescription="Netloss is a measure of a company’s profitability and is used to assess the financial health of a business.It is calculated by subtracting total expenses from total revenue." />
 ===Introduction to Netloss===
 
 Netloss is a financial term that refers to the difference between a company’s total revenue and total expenses. It is a measure of a company’s profitability and is used to assess the financial health of a business. Netloss is an important indicator of a company’s [[Financial Performance|financial performance]] and can be used to compare the performance of different companies.
