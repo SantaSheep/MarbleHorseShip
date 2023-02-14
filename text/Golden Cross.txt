@@ -1,0 +1,13 @@
+<seo title="Golden Cross" metakeywords="goldencross technical analysis,concept goldencross introduced,goldencross concept goldencross,goldencross concept" metadescription="Goldencross is a technical analysis term used to describe a situation in which a short-term moving average crosses above a long- term moving average."/>
+===Introduction to Goldencross===
+Goldencross is a [[Technical Analysis|technical analysis]] term used to describe a situation in which a short-term [[Moving Average|moving average]] crosses above a long-term moving average. This is seen as a bullish signal, indicating that the price of the security is likely to rise. The term is derived from the fact that the short-term moving average is said to “cross over” the long-term moving average, creating a “golden cross” pattern.
+===History of Goldencross===
+The concept of goldencross was first introduced by Japanese analyst Goichi Hosoda in the 1960s. He developed a system of technical analysis that used moving averages to identify potential buy and sell signals. His system was later popularized by American analyst Joe Granville, who wrote about it in his book “New Strategy of Daily [[Stock Market|Stock Market]] Timing for Maximum Profit”.
+===Types of Goldencross===
+There are two main types of goldencross: the simple goldencross and the exponential goldencross. The simple goldencross is created when a short-term moving average crosses above a long-term moving average. The exponential goldencross is created when a short-term exponential moving average crosses above a long-term exponential moving average.
+===Benefits of Goldencross===
+The primary benefit of using goldencross is that it can help traders identify potential buy and sell signals. By using moving averages, traders can identify when a security is likely to experience a trend reversal. This can help traders make more informed decisions about when to enter and exit positions.
+===Risks of Goldencross===
+The primary risk of using goldencross is that it is a lagging indicator. This means that it is not always accurate in predicting future price movements. Additionally, it is possible for false signals to be generated, which can lead to losses if the trader does not properly manage their risk.
+===Conclusion===
+In conclusion, goldencross is a technical analysis term used to describe a situation in which a short-term moving average crosses above a long-term moving average. This is seen as a bullish signal, indicating that the price of the security is likely to rise. While it can be a useful tool for traders, it is important to remember that it is a lagging indicator and can generate false signals. As such, it is important to manage risk appropriately when using this strategy

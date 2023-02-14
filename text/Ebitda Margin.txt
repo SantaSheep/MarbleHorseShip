@@ -1,8 +1,0 @@
-===Introduction to EBITDA Margin === 
-
-===Understanding EBITDA Margin === 
-Calculating EBITDA Margin - To calculate EBITDA margin, divide a company's EBITDA by its total revenue. The formula is: EBITDA Margin = EBITDA / Total Revenue.
-===Calculating EBITDA Margin === 
-
-===Benefits of EBITDA Margin === 
-Conclusion - EBITDA margin is a useful metric for investors and analysts to assess a company's profitability. It is a measure of how much of a company's revenue is converted into profits. It is also a good indicator of a company's ability to generate profits from its operations. However, it is important to keep in mind the limitations of EBITDA margin, such as the cost of capital and taxes, when assessing a company's profitability.

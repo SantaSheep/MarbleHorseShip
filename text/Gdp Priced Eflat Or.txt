@@ -1,0 +1,11 @@
+<seo title="Gdp Priced Eflat Or" metakeywords="gdp price deflator,price deflator gdp,deflator gdp price,prices uses gdp" metadescription="GDP Price Deflator is used to compare the value of goods and services produced in different years.It is also used to measure the rate of inflation in an economy."/>
+===Introduction to GDP Price Deflator===
+GDP Price Deflator is a measure of the level of prices of all the goods and services produced in an economy. It is used to compare the value of goods and services produced in different years. The GDP Price Deflator is calculated by dividing the nominal GDP by the [[Real Gdp|real GDP]] and multiplying by 100.
+===Components of GDP Price Deflator===
+The GDP Price Deflator is composed of two components: the nominal GDP and the real GDP. The nominal GDP is the total value of all goods and services produced in an economy at current prices. The real GDP is the total value of all goods and services produced in an economy at constant prices.
+===Uses of GDP Price Deflator===
+The GDP Price Deflator is used to compare the value of goods and services produced in different years. It is also used to measure the rate of inflation in an economy. The GDP Price Deflator is also used to compare the economic performance of different countries.
+===Limitations of GDP Price Deflator===
+The GDP Price Deflator is not a perfect measure of inflation. It does not take into account changes in the quality of goods and services produced in an economy. It also does not take into account changes in the prices of imported goods and services.
+===Conclusion===
+The GDP Price Deflator is a measure of the level of prices of all the goods and services produced in an economy. It is used to compare the value of goods and services produced in different years and to measure the rate of inflation in an economy. However, it has some limitations as it does not take into account changes in the quality of goods and services produced in an economy and changes in the prices of imported goods and services

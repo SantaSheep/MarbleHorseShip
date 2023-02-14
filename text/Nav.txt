@@ -1,0 +1,15 @@
+<seo title="Nav" metakeywords="nav net asset,investments calculating nav,portfolio calculation nav,net asset value" metadescription="Nav is a financial term used to measure the value of a portfolio of investments."/>
+===Introduction to Nav===
+Nav, or Net Asset Value, is a financial term used to measure the value of a portfolio of investments. It is a key metric used by investors to assess the performance of their investments and to make decisions about their portfolios. Nav is calculated by taking the total value of the portfolio's assets and subtracting any liabilities. The resulting figure is the net asset value of the portfolio.
+===Definition of Nav===
+Nav is the total market value of a portfolio's assets minus its liabilities. It is a measure of the portfolio's performance and is used to assess the value of the portfolio. Nav is calculated by taking the total value of the portfolio's assets and subtracting any liabilities. The resulting figure is the net asset value of the portfolio.
+===History of Nav===
+Nav has been used as a measure of portfolio performance since the early 1900s. It was first used by the Bank of England in the 1920s to measure the performance of its investments. Since then, Nav has become a widely used metric for assessing the performance of portfolios.
+===Uses of Nav===
+Nav is used by investors to assess the performance of their portfolios. It is also used by financial advisors to help clients make decisions about their investments. Nav is also used by fund managers to assess the performance of their funds and to make decisions about their investments.
+===Calculating Nav===
+Nav is calculated by taking the total value of the portfolio's assets and subtracting any liabilities. The resulting figure is the net asset value of the portfolio. The calculation of Nav is relatively straightforward and can be done manually or with the help of a financial calculator.
+===Advantages and Disadvantages of Nav===
+Nav is a useful metric for assessing the performance of a portfolio. It is relatively easy to calculate and provides a good indication of the portfolio's performance. However, Nav does not take into account the risk associated with the investments in the portfolio. This means that it may not be an accurate measure of the portfolio's performance.
+===Conclusion===
+Nav is a useful metric for assessing the performance of a portfolio. It is relatively easy to calculate and provides a good indication of the portfolio's performance. However, Nav does not take into account the risk associated with the investments in the portfolio. This means that it may not be an accurate measure of the portfolio's performance. Nav is an important metric for investors and financial advisors to consider when making decisions about their portfolios

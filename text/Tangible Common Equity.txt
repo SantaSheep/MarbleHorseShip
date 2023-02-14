@@ -1,0 +1,15 @@
+<seo title="Tangible Common Equity" metakeywords="tangible common equity,common equity tangible,equity tce measure,equity tangible common" metadescription="Tangible common equity (TCE) is a measure of a company’s financial health.It is used to assess the amount of capital available to the company."/>
+===Introduction to Tangible Common Equity===
+Tangible common equity (TCE) is a measure of a company’s financial health and is used to assess the amount of capital available to the company. It is a measure of the company’s equity that is not subject to any claims from creditors. TCE is an important metric for investors and creditors to assess the financial strength of a company.
+===Definition of Tangible Common Equity===
+Tangible common equity is defined as the total common equity of a company minus [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s such as goodwill, patents, and trademarks. It is a measure of the company’s equity that is not subject to any claims from creditors. TCE is a measure of the company’s financial health and is used to assess the amount of capital available to the company.
+===Components of Tangible Common Equity===
+The components of tangible common equity include common stock, [[Retained Earnings|retained earnings]], and other equity. Common stock is the ownership of a company and is the most common form of equity. Retained earnings are the profits that a company has earned and kept in the business. Other equity includes any other equity that is not common stock or retained earnings.
+===Calculating Tangible Common Equity===
+Tangible common equity is calculated by subtracting intangible assets from the total common equity of a company. Intangible assets include goodwill, patents, and trademarks. The formula for calculating TCE is: TCE = Total Common Equity – Intangible Assets.
+===Advantages of Tangible Common Equity===
+The main advantage of tangible common equity is that it is a measure of the company’s financial health and is used to assess the amount of capital available to the company. TCE is also a good indicator of the company’s ability to pay its debts and is a good measure of the company’s financial strength.
+===Disadvantages of Tangible Common Equity===
+The main disadvantage of tangible common equity is that it does not take into account the company’s liabilities. TCE does not take into account the company’s debt or any other liabilities that the company may have. This can lead to an inaccurate assessment of the company’s financial health.
+===Conclusion===
+Tangible common equity is an important measure of a company’s financial health and is used to assess the amount of capital available to the company. It is a measure of the company’s equity that is not subject to any claims from creditors. TCE is calculated by subtracting intangible assets from the total common equity of a company. The main advantages of TCE are that it is a measure of the company’s financial health and is a good indicator of the company’s ability to pay its debts. The main disadvantage of TCE is that it does not take into account the company’s liabilities

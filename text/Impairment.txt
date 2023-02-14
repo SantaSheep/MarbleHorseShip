@@ -1,0 +1,11 @@
+<seo title="Impairment" metakeywords="impairment accounting term,impairment accounting standards,accounting standards impairment,impairment accounting" metadescription="Impairment is a non-cash expense, meaning that it does not involve the exchange of cash.It is a decrease in the value of an asset that is recorded on the balance sheet."/>
+===Introduction to Impairment===
+Impairment is an accounting term used to describe the decrease in the value of an asset due to a variety of factors. Impairment can be caused by a variety of factors, including changes in market conditions, technological advances, or changes in the assetâ€™s use. Impairment is a non-cash expense, meaning that it does not involve the exchange of cash. Instead, it is a decrease in the value of an asset that is recorded on the [[Balance Sheet|balance sheet]].
+===Accounting Standards for Impairment===
+The [[Accounting Standard|accounting standard]]s for impairment are set by the [[Financial Accounting|Financial Accounting]] Standards Board (FASB). The FASB has established a set of rules and guidelines for recognizing and measuring impairment losses. These rules and guidelines are designed to ensure that companies accurately report the value of their assets.
+===Impairment Testing===
+Impairmen[[T Test|t test]]ing is the process of determining whether an asset has been impaired. This process involves comparing the carrying value of the asset to its [[Fair Value|fair value]]. If the carrying value of the asset is greater than its fair value, then the asset is considered to be impaired.
+===Impairment Losses===
+When an asset is impaired, the company must record an impairment loss. This loss is recorded as a non-cash expense on the [[Income Statement|income statement]]. The amount of the impairment loss is equal to the difference between the carrying value of the asset and its fair value.
+===Conclusion===
+Impairment is an accounting term used to describe the decrease in the value of an asset due to a variety of factors. Impairment is a non-cash expense, and the accounting standards for impairment are set by the Financial Accounting Standards Board. Impairment testing is the process of determining whether an asset has been impaired, and when an asset is impaired, the company must record an impairment loss

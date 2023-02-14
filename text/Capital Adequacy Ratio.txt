@@ -1,0 +1,11 @@
+<seo title="Capital Adequacy Ratio" metakeywords="capital adequacy ratio,adequacy ratio capital,bank core capital,bank total capital" metadescription="The Capital Adequacy Ratio (CAR) is a measure of a bank’s financial strength and stability."/>
+===Introduction to Capital Adequacy Ratio===
+The Capital Adequacy Ratio (CAR) is a measure of a bank’s financial strength and stability. It is used to assess the bank’s ability to absorb losses and maintain its solvency. The CAR is calculated by dividing the bank’s total capital by its total risk-weighted assets. The higher the CAR, the more capital the bank has to cover its losses and the more financially sound it is.
+===Components of Capital Adequacy Ratio===
+The CAR is composed of two components: Tier 1 capital and Tier 2 capital. Tier 1 capital is the bank’s core capital, which includes common stock, [[Retained Earnings|retained earnings]], and other equity instruments. Tier 2 capital is supplementary capital, which includes [[Subordinated Debt|subordinated debt]], hybrid instruments, and other forms of capital.
+===Calculation of Capital Adequacy Ratio===
+The CAR is calculated by dividing the bank’s total capital by its total risk-weighted assets. The total capital is the sum of Tier 1 and Tier 2 capital. The total risk-weighted assets are the sum of the bank’s assets, weighted according to their riskiness. The higher the CAR, the more capital the bank has to cover its losses and the more financially sound it is.
+===Significance of Capital Adequacy Ratio===
+The CAR is an important measure of a bank’s financial strength and stability. It is used by regulators to assess the bank’s ability to absorb losses and maintain its solvency. Banks are required to maintain a minimum CAR in order to remain in compliance with regulatory requirements.
+===Conclusion===
+The Capital Adequacy Ratio is an important measure of a bank’s financial strength and stability. It is used to assess the bank’s ability to absorb losses and maintain its solvency. The CAR is composed of two components: Tier 1 capital and Tier 2 capital. The CAR is calculated by dividing the bank’s total capital by its total risk-weighted assets. Banks are required to maintain a minimum CAR in order to remain in compliance with regulatory requirements

@@ -1,8 +1,0 @@
-===Introduction to Residual Standard Deviation === 
-
-===Calculating Residual Standard Deviation === 
-Examples of Residual Standard Deviation - To illustrate the concept of residual standard deviation, consider a simple linear regression model with two variables, x and y. The regression model predicts the value of y based on the value of x. The residual standard deviation is a measure of how much the observed values of y differ from the values predicted by the regression model.
-===Examples of Residual Standard Deviation === 
-
-===Benefits of Residual Standard Deviation === 
-Conclusion - The residual standard deviation is a useful measure of the variability of a data set that is not explained by a linear regression model. It can be used to compare different regression models and to identify outliers in the data set. However, it does not provide any information about the accuracy of the regression model or any other factors that may be influencing the data.

@@ -1,12 +1,13 @@
-===Introduction to Capitalization Rate === 
-Capitalization rate, also known as cap rate, is a metric used to evaluate the potential return on an investment. It is calculated by dividing the net operating income (NOI) of a property by its current market value. The cap rate is used to compare the relative value of different investments and to determine the potential return on an investment.
-===Calculating Capitalization Rate === 
-The formula for calculating the capitalization rate is:
-===Factors Affecting Capitalization Rate === 
-
-===Examples of Capitalization Rate === 
-Factors Affecting Capitalization Rate
-===Advantages of Capitalization Rate === 
-Examples of Capitalization Rate
-===Conclusion === 
-Advantages of Capitalization Rate
+<seo title="Capitalization Rate" metakeywords="capitalization rate capitalization,investment capitalization rate,capitalization rate,definition capitalization rate" metadescription="Capitalization rate, also known as cap rate, is a financial metric used to evaluate the potential return on an investment."/>
+===Introduction to Capitalization Rate===
+Capitalization rate, also known as cap rate, is a financial metric used to evaluate the potential return on an investment. It is a measure of the [[Rate Of Return|rate of return]] that an investor can expect to receive from a particular investment. The capitalization rate is calculated by dividing the net [[Operating Income|operating income]] (NOI) of an investment by its current market value. It is used to compare different investments and to determine the potential return on an investment.
+===Definition of Capitalization Rate===
+The capitalization rate is a measure of the rate of return that an investor can expect to receive from a particular investment. It is calculated by dividing the net operating income (NOI) of an investment by its current market value. The capitalization rate is expressed as a percentage and is used to compare different investments and to determine the potential return on an investment.
+===Factors Affecting Capitalization Rate===
+The capitalization rate is affected by a number of factors, including the current market value of the investment, the net operating income of the investment, the risk associated with the investment, and the expected rate of return. The higher the current market value of the investment, the higher the capitalization rate. The higher the net operating income of the investment, the higher the capitalization rate. The higher the risk associated with the investment, the lower the capitalization rate. The higher the expected rate of return, the higher the capitalization rate.
+===Calculating Capitalization Rate===
+The capitalization rate is calculated by dividing the net operating income (NOI) of an investment by its current market value. For example, if an investment has a net operating income of $100,000 and a current market value of $1,000,000, the capitalization rate would be 10%.
+===Uses of Capitalization Rate===
+The capitalization rate is used to compare different investments and to determine the potential return on an investment. It is also used to determine the value of an investment and to assess the risk associated with an investment.
+===Conclusion===
+The capitalization rate is a financial metric used to evaluate the potential return on an investment. It is calculated by dividing the net operating income (NOI) of an investment by its current market value. The capitalization rate is used to compare different investments and to determine the potential return on an investment. It is also used to determine the value of an investment and to assess the risk associated with an investment

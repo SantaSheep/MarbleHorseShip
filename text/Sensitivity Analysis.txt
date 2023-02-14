@@ -1,0 +1,11 @@
+<seo title="Sensitivity Analysis" metakeywords="sensitivity analysis financial,sensitivity analysis useful,sensitivity analysis used,using sensitivity analysis" metadescription="Sensitivity analysis is a financial tool used to analyze the impact of changes in the inputs of a financial model on the outputs."/>
+===Introduction to Sensitivity Analysis===
+Sensitivity analysis is a financial tool used to analyze the impact of changes in the inputs of a financial model on the outputs. It is used to identify the most important variables in a financial model and to determine how changes in those variables will affect the results. Sensitivity analysis is used to assess the risk associated with a financial decision and to identify the most important factors that should be considered when making a decision.
+===Types of Sensitivity Analysis===
+There are two main types of sensitivity analysis: univariate and multivariate. Univariate sensitivity analysis is used to analyze the impact of a single variable on the output of a financial model. Multivariate sensitivity analysis is used to analyze the impact of multiple variables on the output of a financial model.
+===Benefits of Sensitivity Analysis===
+Sensitivity analysis is a useful tool for financial decision-making. It can help identify the most important variables in a financial model and can be used to assess the risk associated with a financial decision. It can also be used to identify the most important factors that should be considered when making a decision.
+===Limitations of Sensitivity Analysis===
+Sensitivity analysis is not a perfect tool and has some limitations. It is based on assumptions and can be affected by changes in the assumptions. It is also limited by the data available and can be affected by errors in the data.
+===Conclusion===
+Sensitivity analysis is a useful tool for financial decision-making. It can help identify the most important variables in a financial model and can be used to assess the risk associated with a financial decision. However, it is not a perfect tool and has some limitations. It is important to consider these limitations when using sensitivity analysis

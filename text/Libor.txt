@@ -1,0 +1,13 @@
+<seo title="Libor" metakeywords="libor used,libor libor used,introduction libor,libor widely used" metadescription="Libor is the most widely used benchmark rate in the world."/>
+===Introduction to Libor===
+The London Interbank Offered Rate (LIBOR) is a benchmark [[Interest Rate|interest rate]] that is used to determine the cost of borrowing for banks and other [[Financial Institution|financial institution]]s. It is the most widely used benchmark rate in the world and is used to set the interest rates for a variety of financial products, including mortgages, [[Credit Card|credit card]]s, and other loans. LIBOR is set daily by the British Bankers' Association (BBA) and is based on the average interest rate that banks charge each other for short-term loans.
+===History of Libor===
+LIBOR was first introduced in 1986 as a way to measure the cost of borrowing between banks. It was initially used to set the interest rates for interbank loans, but it has since become the benchmark rate for a variety of financial products. LIBOR is set daily by the BBA and is based on the average interest rate that banks charge each other for short-term loans.
+===How Libor is Calculated===
+LIBOR is calculated by the BBA based on the average interest rate that banks charge each other for short-term loans. The BBA surveys a panel of banks and asks them to submit the rate at which they are willing to lend to other banks. The BBA then takes the average of the submitted rates and sets the LIBOR rate for the day.
+===Uses of Libor===
+LIBOR is used to set the interest rates for a variety of financial products, including mortgages, credit cards, and other loans. It is also used to set the interest rates for derivatives, such as futures and options. LIBOR is also used as a benchmark rate for other financial products, such as bonds and swaps.
+===Recent Developments in Libor===
+In recent years, LIBOR has come under scrutiny due to allegations of manipulation by banks. In 2012, several banks were fined for manipulating LIBOR rates. Since then, the BBA has implemented a number of reforms to ensure that LIBOR is set accurately and fairly.
+===Conclusion===
+LIBOR is the most widely used benchmark rate in the world and is used to set the interest rates for a variety of financial products, including mortgages, credit cards, and other loans. It is set daily by the BBA and is based on the average interest rate that banks charge each other for short-term loans. In recent years, LIBOR has come under scrutiny due to allegations of manipulation by banks, but the BBA has implemented a number of reforms to ensure that LIBOR is set accurately and fairly

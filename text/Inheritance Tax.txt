@@ -1,12 +1,15 @@
-===Introduction to Inheritance Tax === 
-Inheritance Tax is a tax imposed by the government on the transfer of assets from one person to another. It is a form of taxation that is imposed on the estate of a deceased person, and is paid by the beneficiaries of the estate. Inheritance Tax is a form of taxation that is designed to ensure that the wealth of the deceased is distributed fairly and equitably among their heirs.
-===Who Pays Inheritance Tax? === 
-Inheritance Tax is paid by the beneficiaries of the estate of the deceased. This includes any person who inherits money, property, or other assets from the deceased. The beneficiaries of the estate are responsible for paying the Inheritance Tax, and the amount of tax due is based on the value of the estate.
-===How Much is Inheritance Tax? === 
-The amount of Inheritance Tax due is based on the value of the estate. The rate of Inheritance Tax is 40%, and is applied to the value of the estate above the Inheritance Tax threshold. The Inheritance Tax threshold is currently £325,000, and any estate valued above this amount is subject to Inheritance Tax.
-===Exemptions and Reliefs === 
-There are a number of exemptions and reliefs available to reduce the amount of Inheritance Tax due. These include the transferable nil rate band, which allows the transfer of unused Inheritance Tax threshold from a deceased spouse or civil partner to the surviving spouse or civil partner. There are also a number of other reliefs available, such as business property relief and agricultural property relief.
-===How to Pay Inheritance Tax === 
-Inheritance Tax is paid to HM Revenue and Customs (HMRC). The beneficiaries of the estate are responsible for paying the Inheritance Tax due, and must do so within six months of the date of death. Payment can be made by cheque, bank transfer, or credit card.
-===Conclusion === 
-Inheritance Tax is a form of taxation imposed by the government on the transfer of assets from one person to another. It is paid by the beneficiaries of the estate, and the amount of tax due is based on the value of the estate. There are a number of exemptions and reliefs available to reduce the amount of Inheritance Tax due, and payment must be made to HMRC within six months of the date of death.
+<seo title="Inheritance Tax" metakeywords="introduction inheritance tax,inheritance tax typically,inheritance tax,laws inheritance tax" metadescription="Inheritance tax is a form of taxation that is imposed on the transfer of wealth from one person to another."/>
+===Introduction to Inheritance Tax===
+Inheritance tax is a tax imposed on the transfer of property from one person to another upon the death of the original owner. It is also known as estate tax or death duty. Inheritance tax is a form of taxation that is imposed on the transfer of wealth from one person to another. It is a tax on the estate of the deceased, which is the total value of all the assets owned by the deceased at the time of death. The tax is imposed on the estate of the deceased, not on the beneficiaries of the estate.
+===History of Inheritance Tax===
+Inheritance tax has been around for centuries, with the earliest known example being the Roman Empire. In the United States, the first inheritance tax was imposed in 1797, and it was repealed in 1802. The modern inheritance tax was introduced in 1916, and it has been in place ever since.
+===Types of Inheritance Tax===
+Inheritance tax is typically divided into two categories: federal inheritance tax and state inheritance tax. Federal inheritance tax is imposed by the federal government and is based on the value of the estate. State inheritance tax is imposed by the state government and is based on the value of the estate and the state's tax laws.
+===How Inheritance Tax is Calculated===
+Inheritance tax is calculated based on the value of the estate. The value of the estate is determined by subtracting any debts and expenses from the total value of the assets owned by the deceased. The amount of tax due is then calculated based on the value of the estate and the applicable tax rate.
+===Exemptions and Credits===
+Inheritance tax may be subject to certain exemptions and credits. For example, some states allow for a spousal exemption, which exempts the surviving spouse from paying inheritance tax on the estate of the deceased. Other exemptions and credits may be available depending on the state.
+===Impact of Inheritance Tax on Estate Planning===
+Inheritance tax can have a significant impact on estate planning. It is important to understand the tax implications of any estate planning decisions, as the tax can have a significant impact on the amount of money that is passed on to the beneficiaries. It is also important to understand the exemptions and credits that may be available, as these can reduce the amount of tax that is due.
+===Conclusion===
+Inheritance tax is a tax imposed on the transfer of property from one person to another upon the death of the original owner. It is a form of taxation that is imposed on the estate of the deceased, not on the beneficiaries of the estate. Inheritance tax is typically divided into two categories: federal inheritance tax and state inheritance tax. The amount of tax due is calculated based on the value of the estate and the applicable tax rate. Exemptions and credits may be available depending on the state. Inheritance tax can have a significant impact on estate planning, and it is important to understand the tax implications of any est

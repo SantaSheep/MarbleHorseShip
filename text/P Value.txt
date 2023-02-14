@@ -1,14 +1,15 @@
-===Introduction to P-Value === 
-P-value is a statistical measure used to assess the strength of evidence in a hypothesis test. It is the probability of obtaining a result at least as extreme as the observed result, given that the null hypothesis is true. The lower the p-value, the stronger the evidence against the null hypothesis. In other words, the lower the p-value, the more likely it is that the observed result is due to something other than chance.
-===What is a P-Value? === 
-A p-value is a measure of the strength of evidence in a hypothesis test. It is the probability of obtaining a result at least as extreme as the observed result, given that the null hypothesis is true. The lower the p-value, the stronger the evidence against the null hypothesis.
-===How to Calculate a P-Value === 
-The p-value is calculated using the observed data and the assumed distribution of the data under the null hypothesis. The calculation involves finding the probability of obtaining a result at least as extreme as the observed result, given that the null hypothesis is true. This probability is the p-value.
-===Interpreting a P-Value === 
-The p-value is used to assess the strength of evidence in a hypothesis test. A low p-value indicates strong evidence against the null hypothesis, while a high p-value indicates weak evidence against the null hypothesis. Generally, a p-value of 0.05 or less is considered to be statistically significant, meaning that there is a less than 5% chance that the observed result is due to chance.
-===Examples of P-Value Calculations === 
-The following are examples of p-value calculations:
-===Conclusion === 
-
-====== 
-Conclusion
+<seo title="P Value" metakeywords="null hypothesis value,hypothesis value expressed,hypothesis value,hypothesis value calculated" metadescription="P Value is a statistical measure used to assess the strength of evidence in a hypothesis test."/>
+===Introduction to P Value===
+P Value is a statistical measure used to assess the strength of evidence in a hypothesis test. It is a measure of the probability that the observed data would occur if the [[Null Hypothesis|null hypothesis]] were true. The P Value is used to determine whether the observed data is [[Statistically Significant|statistically significant]] or not. It is a measure of the likelihood that the observed data would occur if the null hypothesis were true.
+===Definition of P Value===
+The P Value is the probability of obtaining a result equal to or more extreme than the observed result, given that the null hypothesis is true. It is calculated by comparing the observed data to the expected data under the null hypothesis. The P Value is expressed as a decimal between 0 and 1. A P Value of 0.05 or less is considered statistically significant, meaning that the observed data is unlikely to have occurred by chance.
+===Uses of P Value===
+The P Value is used to determine whether the observed data is statistically significant or not. It is used to assess the strength of evidence in a hypothesis test. It is also used to compare two or more groups of data to determine if there is a statistically significant difference between them.
+===Calculating P Value===
+The P Value is calculated by comparing the observed data to the expected data under the null hypothesis. The P Value is calculated by subtracting the observed data from the expected data and then dividing the result by the [[Standard Deviation|standard deviation]] of the expected data. The P Value is then expressed as a decimal between 0 and 1.
+===Interpreting P Value===
+The P Value is interpreted as the probability of obtaining a result equal to or more extreme than the observed result, given that the null hypothesis is true. A P Value of 0.05 or less is considered statistically significant, meaning that the observed data is unlikely to have occurred by chance.
+===Limitations of P Value===
+The P Value is a measure of the probability that the observed data would occur if the null hypothesis were true. It does not provide information about the magnitude of the effect or the direction of the effect. It also does not provide information about the cause of the effect.
+===Conclusion===
+P Value is a statistical measure used to assess the strength of evidence in a hypothesis test. It is a measure of the probability that the observed data would occur if the null hypothesis were true. The P Value is used to determine whether the observed data is statistically significant or not. It is calculated by comparing the observed data to the expected data under the null hypothesis and is expressed as a decimal between 0 and 1. A P Value of 0.05 or less is considered statistically significant, meaning that the observed data is unlikely to have occurred by chance. However, the P Value does not provide information about the magnitude of the effect or the direction of the effect, nor does it provide information about the cause of the effect

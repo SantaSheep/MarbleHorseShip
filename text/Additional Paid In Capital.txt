@@ -1,8 +1,13 @@
-===Introduction to Additional Paid-In Capital === 
-
-===Definition of Additional Paid-In Capital === 
-How Additional Paid-In Capital is Recorded - Additional paid-in capital is recorded on the company's balance sheet as a separate line item. It is reported as a long-term asset and is not included in the calculation of the company's net income.
-===How Additional Paid-In Capital is Recorded === 
-
-===Examples of Additional Paid-In Capital === 
-Disadvantages of Additional Paid-In Capital - The main disadvantage of additional paid-in capital is that it is not included in the calculation of the company's net income. This means that the company's profits are not affected by the amount of additional paid-in capital that it has. Additionally, additional paid-in capital is not tax deductible.
+<seo title="Additional Paid In Capital" metakeywords="additional paid capital,paid capital additional,paid capital provides,capital additional paid" metadescription="Additional paid-in capital is a financial term used to describe the amount of money that a company has received from investors in exchange for stock."/>
+===Introduction to Additional Paid-in Capital===
+Additional paid-in capital is a financial term used to describe the amount of money that a company has received from investors in exchange for stock. This money is not considered to be part of the company’s [[Retained Earnings|retained earnings]], and is instead recorded as a separate line item on the company’s [[Balance Sheet|balance sheet]]. Additional paid-in capital is also known as “[[Contributed Capital|contributed capital]]” or “capital surplus”.
+===Definition of Additional Paid-in Capital===
+Additional paid-in capital is the amount of money that a company has received from investors in exchange for stock. This money is not considered to be part of the company’s retained earnings, and is instead recorded as a separate line item on the company’s balance sheet. Additional paid-in capital is also known as “contributed capital” or “capital surplus”.
+===Examples of Additional Paid-in Capital===
+One example of additional paid-in capital is when a company issues new shares of stock to investors in exchange for cash. The cash received from the investors is recorded as additional paid-in capital on the company’s balance sheet. Another example of additional paid-in capital is when a company issues [[Stock Option|stock option]]s to employees. The difference between the exercise price of the stock options and the market price of the stock is recorded as additional paid-in capital.
+===Advantages of Additional Paid-in Capital===
+One of the main advantages of additional paid-in capital is that it provides a company with a source of capital that does not need to be repaid. This can be beneficial for companies that are looking to raise capital without taking on additional debt. Additionally, additional paid-in capital can be used to fund new projects or investments, which can help a company to grow and expand.
+===Disadvantages of Additional Paid-in Capital===
+One of the main disadvantages of additional paid-in capital is that it dilutes the ownership of existing shareholders. This is because when a company issues new shares of stock, the existing shareholders’ ownership stake is reduced. Additionally, additional paid-in capital can be expensive for companies to raise, as they may need to offer investors a premium in order to attract them to invest in the company.
+===Conclusion===
+In conclusion, additional paid-in capital is a financial term used to describe the amount of money that a company has received from investors in exchange for stock. This money is not considered to be part of the company’s retained earnings, and is instead recorded as a separate line item on the company’s balance sheet. Additional paid-in capital can be beneficial for companies that are looking to raise capital without taking on additional debt, but it can also be expensive and dilute the ownership of existing shareholders

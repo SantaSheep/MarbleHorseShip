@@ -1,16 +1,13 @@
-===Introduction to Current Assets === 
-
-===Types of Current Assets === 
-Types of Current Assets
-===Calculating Current Assets === 
-
-===Benefits of Current Assets === 
-Current assets are calculated by subtracting the total liabilities from the total assets. This calculation is known as the current ratio and is used to measure a company’s liquidity. The higher the current ratio, the more liquid the company is.
-===Risks of Current Assets === 
-
-===Conclusion === 
-Risks of Current Assets
-===Types of Current Assets: Examples of current assets, such as cash, accounts receivable, inventory, and marketable securities=== 
-
-====== 
-Current assets are an important part of any business’s financial portfolio. They are used to fund day-to-day operations and to pay bills and other expenses. However, it is important to manage current assets properly in order to avoid losses and to ensure a healthy cash flow.
+<seo title="Current Assets" metakeywords="current assets typically,current assets important,current assets difficult,assets current assets" metadescription="Current assets are assets that are expected to be converted into cash or used up within one year."/>
+===Introduction to Current Assets===
+Current assets are assets that are expected to be converted into cash or used up within one year. They are also known as short-term assets and are typically used to fund day-to-day operations. Current assets are important for businesses because they provide liquidity and help to ensure that the business can meet its short-term obligations.
+===Types of Current Assets===
+Current assets can be divided into two main categories: [[Liquid Asset|liquid asset]]s and non-liquid assets. Liquid assets are assets that can be quickly converted into cash, such as cash, [[Marketable Securities|marketable securities]], and [[Accounts Receivable|accounts receivable]]. Non-liquid assets are assets that cannot be quickly converted into cash, such as inventory and [[Prepaid Expense|prepaid expense]]s.
+===Accounting for Current Assets===
+Current assets are typically recorded on the [[Balance Sheet|balance sheet]] as part of the current assets section. The value of the current assets is determined by subtracting the liabilities from the total assets. The value of the current assets is then used to calculate the [[Current Ratio|current ratio]], which is a measure of a companyâ€™s ability to meet its short-term obligations.
+===Advantages of Current Assets===
+Current assets provide businesses with liquidity, which is important for meeting short-term obligations. They also provide businesses with the ability to take advantage of opportunities that may arise in the short-term. Additionally, current assets can be used to finance investments in long-term assets, such as property, plant, and equipment.
+===Disadvantages of Current Assets===
+The main disadvantage of current assets is that they are not as profitable as long-term investments. Additionally, current assets can be difficult to manage and can be subject to market fluctuations. Finally, current assets can be difficult to value, as their value can change quickly.
+===Conclusion===
+Current assets are important for businesses because they provide liquidity and help to ensure that the business can meet its short-term obligations. Current assets can be divided into two main categories: liquid assets and non-liquid assets. Current assets are typically recorded on the balance sheet as part of the current assets section. Current assets provide businesses with liquidity, which is important for meeting short-term obligations. However, current assets can be difficult to manage and can be subject to market fluctuations

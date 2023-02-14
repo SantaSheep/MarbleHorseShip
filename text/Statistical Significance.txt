@@ -1,8 +1,0 @@
-===Introduction to Statistical Significance === 
-
-===Types of Statistical Tests === 
-Calculating Statistical Significance - Calculating the statistical significance of a result is a complex process that involves several steps. First, the data must be collected and analyzed. Then, the appropriate statistical test must be chosen and the results must be interpreted. Finally, the results must be compared to a predetermined level of significance to determine whether the result is statistically significant.
-===Calculating Statistical Significance === 
-
-===Interpreting Statistical Significance === 
-Conclusion - Statistical significance is an important concept in finance, as it helps investors and analysts make decisions about investments and other financial decisions. It is important to understand the different types of statistical tests and how to interpret the results correctly. By understanding statistical significance, investors and analysts can make more informed decisions about their investments.

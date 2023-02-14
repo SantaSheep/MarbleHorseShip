@@ -1,12 +1,11 @@
-===Introduction to Extraordinary Items === 
-Extraordinary items are non-recurring, unusual, and infrequent transactions that are reported separately from the ordinary income and expenses of a business. These items are not part of the normal operations of a business and are not expected to occur in the future. They are reported on the income statement as a separate line item and are not included in the calculation of net income.
-===Types of Extraordinary Items === 
-Extraordinary items can be either gains or losses. Gains are items that result in a positive impact on the income statement, while losses are items that result in a negative impact. Examples of extraordinary items include natural disasters, litigation settlements, and asset write-downs.
-===Accounting Treatment of Extraordinary Items === 
-Extraordinary items are reported on the income statement as a separate line item and are not included in the calculation of net income. They are also not included in the calculation of earnings per share (EPS).
-===Examples of Extraordinary Items === 
-Examples of extraordinary items include natural disasters, litigation settlements, and asset write-downs. Natural disasters can include floods, hurricanes, and earthquakes. Litigation settlements can include legal fees, court costs, and damages awarded. Asset write-downs can include the write-down of inventory, plant and equipment, and intangible assets.
-===Advantages and Disadvantages of Extraordinary Items === 
-The primary advantage of extraordinary items is that they provide investors with a more accurate picture of a company’s financial performance. By separating these items from the ordinary income and expenses, investors can get a better understanding of the company’s true financial performance.
-===Conclusion === 
-
+<seo title="Extraordinary Item" metakeywords="extraordinary items reported,reported extraordinary item,expenses examples extraordinary,income losses items" metadescription="Extraordinary items are reported separately from the normal operating activities of a business."/>
+===Introduction to Extraordinary Items===
+Extraordinary items are non-recurring, unusual, and infrequent items that are reported separately from the normal [[Operating Activities|operating activities]] of a business. These items are reported on the [[Income Statement|income statement]] and are not part of the company’s regular operations. They are typically one-time events that are not expected to occur again in the future. Examples of extraordinary items include natural disasters, lawsuits, and other non-recurring events.
+===Types of Extraordinary Items===
+Extraordinary items can be classified into two categories: gains and losses. Gains are items that result in an increase in [[Net Income|net income]], while losses are items that result in a decrease in net income. Examples of gains include the sale of a business, the sale of a long-term asset, and the receipt of an insurance settlement. Examples of losses include the write-off of a long-term asset, the write-off of a loan, and the settlement of a lawsuit.
+===Accounting Treatment of Extraordinary Items===
+Extraordinary items are reported separately from the normal operating activities of a business. They are reported on the income statement and are not part of the company’s regular operations. The accounting treatment of extraordinary items depends on whether the item is a gain or a loss. Gains are reported as income, while losses are reported as expenses.
+===Examples of Extraordinary Items===
+Examples of extraordinary items include natural disasters, lawsuits, and other non-recurring events. Natural disasters, such as floods, hurricanes, and earthquakes, can cause significant damage to a business’s property and equipment. In these cases, the business may be able to claim an insurance settlement, which would be reported as an extraordinary item. Similarly, a business may be involved in a lawsuit that results in a settlement. The settlement would be reported as an extraordinary item.
+===Conclusion===
+In conclusion, extraordinary items are non-recurring, unusual, and infrequent items that are reported separately from the normal operating activities of a business. They are typically one-time events that are not expected to occur again in the future. Examples of extraordinary items include natural disasters, lawsuits, and other non-recurring events. The accounting treatment of extraordinary items depends on whether the item is a gain or a loss. Gains are reported as income, while losses are reported as expenses

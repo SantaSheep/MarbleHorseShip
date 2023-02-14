@@ -1,8 +1,11 @@
-===Introduction to Sampling Distribution === 
-
-===Types of Sampling Distribution === 
-Examples of Sampling Distribution - Examples of sampling distributions include the binomial distribution, the normal distribution, the Poisson distribution, and the chi-squared distribution. Each of these distributions has its own characteristics and is used to measure different types of data.
-===Examples of Sampling Distribution === 
-
-===Advantages of Sampling Distribution === 
-Conclusion - Sampling distribution is an important concept in statistics that is used to make inferences about a population based on a sample. It has both advantages and disadvantages, but it is a useful tool for making accurate predictions about a population.
+<seo title="Sampling Distribution" metakeywords="distribution statistical concept,distribution sample cases,distribution statistical,sampling distribution statistical" metadescription="Sampling distribution is a probability distribution of a statistic, such as the mean, variance, or standard deviation, calculated from a sample of data."/>
+===Introduction to Sampling Distribution===
+Sampling distribution is a statistical concept that describes the behavior of a statistic when it is calculated from a sample of data. It is a [[Probability Distribution|probability distribution]] of a statistic, such as the mean, variance, or [[Standard Deviation|standard deviation]], calculated from a sample of data. The sampling distribution is used to make inferences about the population from which the sample was drawn. It is also used to compare different samples and to test hypotheses about the population.
+===Types of Sampling Distributions===
+There are two types of sampling distributions: parametric and non-parametric. Parametric sampling distributions are based on a set of assumptions about the population from which the sample was drawn. These assumptions include the population mean, variance, and other parameters. Non-parametric sampling distributions are based on the empirical distribution of the sample, without making any assumptions about the population.
+===Properties of Sampling Distributions===
+The properties of a sampling distribution depend on the type of sampling distribution. For parametric sampling distributions, the properties depend on the assumptions made about the population. For non-parametric sampling distributions, the properties depend on the empirical distribution of the sample. In both cases, the properties of the sampling distribution include the mean, variance, skewness, kurtosis, and other measures of central tendency and dispersion.
+===Applications of Sampling Distributions===
+Sampling distributions are used in a variety of applications. They are used to make inferences about the population from which the sample was drawn, to compare different samples, and to test hypotheses about the population. They are also used in the design of experiments, to determine the sample size needed to achieve a desired level of accuracy.
+===Conclusion===
+In conclusion, sampling distribution is a statistical concept that describes the behavior of a statistic when it is calculated from a sample of data. It is used to make inferences about the population from which the sample was drawn, to compare different samples, and to test hypotheses about the population. There are two types of sampling distributions: parametric and non-parametric. The properties of a sampling distribution depend on the type of sampling distribution, and they are used in a variety of applications

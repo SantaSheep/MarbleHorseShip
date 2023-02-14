@@ -1,8 +1,0 @@
-===Introduction to Least Squares Method === 
-
-===Overview of the Method === 
-Benefits of Least Squares Method - The Least Squares Method is a powerful tool for financial analysis. It is simple to use and can be applied to a wide range of data sets. It is also useful for predicting future values of data points.
-===Benefits of Least Squares Method === 
-
-===Examples of Least Squares Method === 
-Conclusion - The Least Squares Method is a powerful tool for financial analysis. It is simple to use and can be applied to a wide range of data sets. However, it is not perfect and can be subject to errors. It is important to understand the limitations of the method before using it.

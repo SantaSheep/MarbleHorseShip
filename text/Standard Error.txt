@@ -1,0 +1,13 @@
+<seo title="Standard Error" metakeywords="examples standard error,standard error used,example standard error,introduction standard error" metadescription="Standard Error is defined as the standard deviation of the sampling distribution of a statistic."/>
+===Introduction to Standard Error===
+Standard Error is a statistical measure of the variability of a sample statistic from its population mean. It is used to measure the accuracy of a sample statistic in relation to the population mean. Standard Error is an important concept in statistics and is used to measure the accuracy of a sample statistic in relation to the population mean.
+===Definition of Standard Error===
+Standard Error is defined as the [[Standard Deviation|standard deviation]] of the [[Sampling Distribution|sampling distribution]] of a statistic. It is a measure of the variability of a sample statistic from its population mean. It is calculated by taking the square root of the variance of the sample statistic.
+===Uses of Standard Error===
+Standard Error is used to measure the accuracy of a sample statistic in relation to the population mean. It is used to determine the reliability of a sample statistic and to compare different samples. It is also used to determine the [[Confidence Interval|confidence interval]] of a sample statistic.
+===Calculating Standard Error===
+Standard Error is calculated by taking the square root of the variance of the sample statistic. The variance is calculated by taking the sum of the squared differences between each data point and the sample mean, and then dividing by the sample size minus one.
+===Examples of Standard Error===
+An example of Standard Error is when a sample of 100 people is taken from a population of 1,000 people. The sample mean is calculated to be 50. The variance of the sample is calculated to be 25. The Standard Error is then calculated to be 5, which is the square root of 25.
+===Conclusion===
+In conclusion, Standard Error is a statistical measure of the variability of a sample statistic from its population mean. It is used to measure the accuracy of a sample statistic in relation to the population mean. Standard Error is calculated by taking the square root of the variance of the sample statistic. It is an important concept in statistics and is used to determine the reliability of a sample statistic and to compare different samples

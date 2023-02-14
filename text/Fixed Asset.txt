@@ -1,0 +1,13 @@
+<seo title="Fixed Asset" metakeywords="depreciation fixed assets,accounting fixed assets,intangible fixed assets,disposal fixed assets" metadescription="Fixed assets are long-term tangible assets that are used in the production of goods and services."/>
+===Introduction to Fixed Assets===
+Fixed assets are long-term [[Tangible Asset|tangible asset]]s that are used in the production of goods and services. They are also known as [[Capital Asset|capital asset]]s or plant assets. Fixed assets are not intended for sale in the ordinary course of business, but are instead held for the purpose of producing income. Examples of fixed assets include land, buildings, machinery, equipment, vehicles, and furniture.
+===Types of Fixed Assets===
+Fixed assets can be divided into two main categories: tangible and intangible. Tangible fixed assets are physical assets that can be seen and touched, such as land, buildings, machinery, equipment, vehicles, and furniture. Intangible fixed assets are non-physical assets, such as patents, copyrights, trademarks, and goodwill.
+===Accounting for Fixed Assets===
+Fixed assets are recorded in the [[Balance Sheet|balance sheet]] at their [[Historical Cost|historical cost]], which is the amount paid to acquire the asset. The cost of the asset includes all costs necessary to get the asset ready for its intended use. These costs may include freight, installation, and testing costs.
+===Depreciation of Fixed Assets===
+Fixed assets are subject to depreciation, which is the process of allocating the cost of an asset over its [[Useful Life|useful life]]. Depreciation is used to match the cost of an asset with the revenue it generates. The most common methods of depreciation are the straight-line method, the [[Declining Balance Method|declining balance method]], and the sum-of-the-years-digits method.
+===Disposal of Fixed Assets===
+Fixed assets may be disposed of when they are no longer useful or when they are replaced by newer assets. When a fixed asset is disposed of, the proceeds from the sale are recorded in the [[Income Statement|income statement]] and the assetâ€™s cost and [[Accumulated Depreciation|accumulated depreciation]] are removed from the balance sheet.
+===Conclusion===
+Fixed assets are long-term tangible assets that are used in the production of goods and services. They are recorded in the balance sheet at their historical cost and are subject to depreciation. Fixed assets may be disposed of when they are no longer useful or when they are replaced by newer assets

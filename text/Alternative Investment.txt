@@ -1,12 +1,11 @@
-===Introduction to Alternative Investments === 
-Alternative investments are investments that are not traditional stocks, bonds, or cash. They are investments in assets such as real estate, commodities, private equity, hedge funds, and derivatives. Alternative investments are often used to diversify a portfolio and reduce risk. They can also provide higher returns than traditional investments.
-===Types of Alternative Investments === 
-Alternative investments come in many forms. Some of the most common types of alternative investments include:
-===Benefits of Alternative Investments === 
-
-===Risks of Alternative Investments === 
-Private Equity: Private equity investments are investments in privately held companies.
-===How to Invest in Alternative Investments === 
-
-===Example of an Alternative Investment: Real Estate Investment Trusts (REITs)=== 
-Benefits of Alternative Investments
+<seo title="Alternative Investment" metakeywords="alternative investments provide,alternative investments subject,alternative investments investments,alternative investments typically" metadescription="Alternative investments are investments that are not traditional investments such as stocks, bonds, and cash.They can be divided into two main categories: active and passive."/>
+===Introduction to Alternative Investment===
+Alternative investments are investments that are not traditional investments such as stocks, bonds, and cash. Alternative investments are typically more complex and often involve higher risk than traditional investments. They can include investments in [[Real Estate|real estate]], commodities, [[Hedge Fund|hedge fund]]s, [[Private Equity|private equity]], [[Venture Capital|venture capital]], and derivatives. Alternative investments are often used by investors who are looking to diversify their portfolios and reduce their exposure to traditional investments.
+===Types of Alternative Investment===
+Alternative investments can be divided into two main categories: active and passive. Active investments involve actively managing the investments, while passive investments involve buying and holding the investments for a longer period of time. Examples of active alternative investments include hedge funds, private equity, venture capital, and derivatives. Examples of passive alternative investments include real estate, commodities, and exchange-traded funds (ETFs).
+===Benefits of Alternative Investment===
+Alternative investments can provide investors with a number of benefits. They can provide investors with access to investments that are not available through traditional investments. They can also provide investors with the potential for higher returns than traditional investments. Additionally, alternative investments can provide investors with diversification, which can help reduce risk.
+===Risks of Alternative Investment===
+Although alternative investments can provide investors with potential benefits, they also come with risks. Alternative investments are often more complex than traditional investments and can involve higher levels of risk. Additionally, alternative investments can be more illiquid than traditional investments, meaning that it can be difficult to sell the investments quickly. Finally, alternative investments can be subject to higher fees than traditional investments.
+===Conclusion===
+Alternative investments can provide investors with access to investments that are not available through traditional investments, the potential for higher returns, and diversification. However, they also come with risks such as higher levels of complexity, illiquidity, and higher fees. Investors should carefully consider the risks and benefits of alternative investments before investing

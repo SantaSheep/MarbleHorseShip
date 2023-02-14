@@ -1,0 +1,15 @@
+<seo title="Credit Default Swap" metakeywords="credit default swaps,cds financial instruments,swaps cds financial,swap regulations cds" metadescription="Credit default swaps (CDS) are financial instruments used to transfer the credit risk of a particular entity from one party to another."/>
+===Introduction to Credit Default Swaps===
+Credit default swaps (CDS) are [[Financial Instrument|financial instrument]]s used to transfer the [[Credit Risk|credit risk]] of a particular entity from one party to another. They are a type of derivative contract, meaning that they derive their value from the performance of an underlying asset. CDS are used to hedge against the risk of default on a loan or other [[Debt Instrument|debt instrument]]. They are also used to speculate on the creditworthiness of a particular entity.
+===Types of Credit Default Swaps===
+There are two main types of CDS: single-name CDS and index CDS. Single-name CDS are used to transfer the credit risk of a single entity, such as a company or government. Index CDS are used to transfer the credit risk of a group of entities, such as a basket of companies or a country.
+===Credit Default Swap Pricing===
+The price of a CDS is determined by the creditworthiness of the underlying entity. The higher the creditworthiness, the lower the price of the CDS. The price of a CDS is also affected by the term of the contract, the amount of protection purchased, and the creditworthiness of the counterparty.
+===Credit Default Swap Market===
+The CDS market is a global market with participants from all over the world. The market is highly liquid and is used by banks, [[Hedge Fund|hedge fund]]s, and other [[Financial Institution|financial institution]]s to hedge against credit risk. The market is also used by investors to speculate on the creditworthiness of particular entities.
+===Credit Default Swap Risks===
+CDS are not without risk. The most significant risk is counterparty risk, which is the risk that the counterparty will not be able to fulfill its obligations under the contract. Other risks include [[Liquidity Risk|liquidity risk]], market risk, and legal risk.
+===Credit Default Swap Regulations===
+CDS are regulated by various government agencies, including the U.S. Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC). These agencies have implemented regulations to ensure the safety and soundness of the CDS market.
+===Conclusion===
+Credit default swaps are financial instruments used to transfer the credit risk of a particular entity from one party to another. They are used to hedge against the risk of default on a loan or other debt instrument and to speculate on the creditworthiness of a particular entity. CDS are regulated by various government agencies to ensure the safety and soundness of the CDS market

@@ -1,8 +1,13 @@
-===Introduction to Income Per Capita === 
-
-===Definition of Income Per Capita === 
-Factors Affecting Income Per Capita - Income per capita is affected by a variety of factors, including the size of the population, the level of economic development, the availability of resources, the level of education, and the quality of infrastructure.
-===Factors Affecting Income Per Capita === 
-
-===Examples of Income Per Capita === 
-Conclusion - Income per capita is a measure of the average income earned per person in a given area. It is calculated by dividing the total income of a geographic area by its population. This measure is used to compare the economic well-being of different areas and to measure the progress of an area over time. Understanding income per capita can help to identify areas of economic inequality and to target resources to those areas.
+<seo title="Income Per Capita" metakeywords="income capita measure,income capita calculated,income capita defined,calculation income capita" metadescription="Income per capita is a measure of the average income earned by individuals in a given population."/>
+===Introduction to Income Per Capita===
+Income [[Per Capita|per capita]] is a measure of the average income earned by individuals in a given population. It is used to compare the economic well-being of different countries, regions, and cities. It is also used to measure the economic progress of a country over time. The calculation of income per capita is relatively straightforward and can be used to compare the economic well-being of different countries, regions, and cities.
+===Definition of Income Per Capita===
+Income per capita is defined as the total income of a population divided by the total population. It is a measure of the average income earned by individuals in a given population. It is used to compare the economic well-being of different countries, regions, and cities. It is also used to measure the economic progress of a country over time.
+===Calculation of Income Per Capita===
+Income per capita is calculated by dividing the total income of a population by the total population. The total income of a population is the sum of all the incomes of the individuals in the population. The total population is the number of individuals in the population.
+===Uses of Income Per Capita===
+Income per capita is used to compare the economic well-being of different countries, regions, and cities. It is also used to measure the economic progress of a country over time. It can be used to compare the economic well-being of different countries, regions, and cities. It can also be used to compare the economic progress of a country over time.
+===Limitations of Income Per Capita===
+Income per capita is a useful measure of the economic well-being of a population, but it has some limitations. It does not take into account the distribution of income within a population. It also does not take into account the cost of living in a given area. Additionally, it does not take into account the differences in the quality of life between different countries, regions, and cities.
+===Conclusion===
+Income per capita is a useful measure of the economic well-being of a population. It is used to compare the economic well-being of different countries, regions, and cities. It is also used to measure the economic progress of a country over time. However, it has some limitations, such as not taking into account the distribution of income within a population or the cost of living in a given area. Despite these limitations, income per capita is still a useful measure of the economic well-being of a population

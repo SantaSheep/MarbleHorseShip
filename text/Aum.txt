@@ -1,0 +1,15 @@
+<seo title="Aum" metakeywords="investments aum typically,portfolios aum,portfolios aum used,investments aum" metadescription="AUM is defined as the total market value of all assets managed by a financial institution or individual."/>
+===Introduction to AUM===
+AUM, or Assets Under Management, is a term used in the financial industry to refer to the total value of assets that are managed by a [[Financial Institution|financial institution]] or individual. It is a measure of the size of a financial institution or individual's portfolio and is used to assess the performance of the portfolio. AUM is an important metric for investors, as it provides an indication of the size and scope of the portfolio and the potential for returns.
+===Definition of AUM===
+AUM is defined as the total market value of all assets that are managed by a financial institution or individual. This includes cash, stocks, bonds, [[Mutual Fund|mutual fund]]s, [[Real Estate|real estate]], and other investments. AUM is typically expressed in terms of dollars, but can also be expressed in terms of other currencies.
+===Uses of AUM===
+AUM is used by financial institutions and individuals to assess the performance of their portfolios. It is also used by investors to compare the size and scope of different portfolios. AUM is also used by financial advisors to determine the appropriate level of risk for a given portfolio.
+===Calculating AUM===
+AUM is calculated by adding up the market value of all assets that are managed by a financial institution or individual. This includes cash, stocks, bonds, mutual funds, real estate, and other investments. The market value of each asset is determined by its current market price.
+===Advantages of AUM===
+AUM is a useful metric for investors, as it provides an indication of the size and scope of the portfolio and the potential for returns. It is also a useful tool for financial advisors, as it can help them determine the appropriate level of risk for a given portfolio.
+===Disadvantages of AUM===
+AUM does not take into account the performance of the portfolio over time. It is also not a reliable indicator of future performance, as the market value of assets can change quickly.
+===Conclusion===
+AUM is an important metric for investors, as it provides an indication of the size and scope of the portfolio and the potential for returns. It is also a useful tool for financial advisors, as it can help them determine the appropriate level of risk for a given portfolio. However, AUM does not take into account the performance of the portfolio over time, and is not a reliable indicator of future performance

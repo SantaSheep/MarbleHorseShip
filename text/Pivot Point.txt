@@ -1,12 +1,13 @@
-===Introduction to Pivot Points === 
-
-===Calculating Pivot Points === 
-Using Pivot Points in Trading - Pivot points can be used to identify potential support and resistance levels in the market. Traders can use these levels to determine entry and exit points for their trades. Additionally, pivot points can be used to identify potential trend reversals. 
-===Using Pivot Points in Trading === 
-
-===Examples of Pivot Point Strategies === 
-• Breakout Trading – This strategy involves trading when the price breaks out of the range of the pivot point. 
-===Advantages and Disadvantages of Pivot Points === 
-
-===Conclusion === 
-Conclusion - Pivot points are a useful technical analysis tool that can be used to identify potential support and resistance levels, potential trend reversals, and potential entry and exit points. However, traders should be aware of the advantages and disadvantages of using pivot points before incorporating them into their trading strategies.
+<seo title="Pivot Point" metakeywords="pivot points used,pivot point technical,uses pivot points,using pivot points" metadescription="Pivot Point is a technical analysis tool used by traders to identify potential support and resistance levels in the market."/>
+===Introduction to Pivot Point===
+Pivot Point is a [[Technical Analysis|technical analysis]] tool used by traders to identify potential support and resistance levels in the market. It is based on the idea that the price of a security will tend to move in a certain direction after reaching a certain level. The pivot point is calculated by taking the average of the high, low, and closing prices of the previous trading day. This average is then used to calculate the support and resistance levels for the current trading day.
+===Calculation of Pivot Point===
+The calculation of the pivot point is relatively simple. The pivot point is calculated by taking the average of the high, low, and closing prices of the previous trading day. This average is then used to calculate the support and resistance levels for the current trading day. The support and resistance levels are calculated by adding and subtracting the average from the high and low of the previous day.
+===Types of Pivot Points===
+There are several different types of pivot points that can be used. The most common type is the standard pivot point, which is calculated using the average of the high, low, and closing prices of the previous trading day. Other types of pivot points include Fibonacci pivot points, Woodieâ€™s pivot points, and Camarilla pivot points. Each type of pivot point has its own set of rules for calculating the support and resistance levels.
+===Uses of Pivot Points===
+Pivot points are used by traders to identify potential support and resistance levels in the market. They can be used to identify potential entry and exit points for trades, as well as to identify potential areas of price reversal. Pivot points can also be used to identify potential areas of price consolidation, which can be used to identify potential breakouts.
+===Advantages and Disadvantages of Pivot Points===
+The main advantage of using pivot points is that they are relatively easy to calculate and can be used to identify potential support and resistance levels in the market. They can also be used to identify potential entry and exit points for trades. However, pivot points can be subject to false signals, and they may not always accurately predict the direction of the market.
+===Conclusion===
+Pivot Point is a technical analysis tool used by traders to identify potential support and resistance levels in the market. It is based on the idea that the price of a security will tend to move in a certain direction after reaching a certain level. The pivot point is calculated by taking the average of the high, low, and closing prices of the previous trading day. This average is then used to calculate the support and resistance levels for the current trading day. Pivot points can be used to identify potential entry and exit points for trades, as well as to identify potential areas of price reversal and consolidation. However, pivot points can be subject to false signals, and they may not always accurately predict the direction of the m

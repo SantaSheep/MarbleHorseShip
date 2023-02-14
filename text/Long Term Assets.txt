@@ -1,8 +1,11 @@
-===Introduction to Long-Term Assets === 
-
-===Types of Long-Term Assets === 
-Benefits of Long-Term Assets - Long-term assets provide a number of benefits to businesses. They can be used to generate income, increase the value of the company, and provide a source of collateral for loans. Additionally, long-term assets can be used to reduce taxes and provide a source of liquidity in times of need.
-===Benefits of Long-Term Assets === 
-
-===Accounting for Long-Term Assets === 
-Conclusion - Long-term assets are important for businesses because they provide the necessary capital to finance operations and investments. They can be used to generate income, increase the value of the company, and provide a source of collateral for loans. Additionally, long-term assets can be used to reduce taxes and provide a source of liquidity in times of need.
+<seo title="Long Term Assets" metakeywords="longterm assets typically,company longterm assets,longterm assets value,valuation longterm assets" metadescription="Longterm assets are assets that are held by a company for more than one year."/>
+===Introduction to Longterm Assets===
+Longterm assets are assets that are held by a company for more than one year. These assets are typically used to generate income or to provide services over a long period of time. Longterm assets are also known as non-[[Current Assets|current assets]] and are typically reported on the [[Balance Sheet|balance sheet]] of a company. Longterm assets are important for a company’s financial health as they provide a source of income and can be used to finance operations.
+===Types of Longterm Assets===
+Longterm assets can be divided into two main categories: tangible and [[In[[Tangible Asset|tangible Asset]]|intangible asset]]s. Tangible assets are physical assets such as land, buildings, equipment, and vehicles. Intangible assets are non-physical assets such as patents, copyrights, trademarks, and goodwill.
+===Accounting for Longterm Assets===
+Longterm assets are typically recorded on the balance sheet of a company. The cost of the asset is recorded as an asset on the balance sheet and is depreciated over the life of the asset. The depreciation of the asset is recorded as an expense on the [[Income Statement|income statement]].
+===Valuation of Longterm Assets===
+The value of longterm assets is determined by the market value of the asset. The market value is determined by the current market conditions and the expected future [[Cash Flow|cash flow]]s of the asset. The value of the asset is also affected by the expected life of the asset and the expected [[Rate Of Return|rate of return]] on the asset.
+===Conclusion===
+Longterm assets are important for a company’s financial health as they provide a source of income and can be used to finance operations. Longterm assets can be divided into two main categories: tangible and intangible assets. Longterm assets are typically recorded on the balance sheet of a company and the value of the asset is determined by the market value of the asset

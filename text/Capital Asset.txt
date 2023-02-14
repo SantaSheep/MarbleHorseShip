@@ -1,12 +1,11 @@
-===Introduction to Capital Asset Pricing Model (CAPM) === 
-The Capital Asset Pricing Model (CAPM) is a financial model used to determine the expected return of an asset based on its risk. It is a widely used tool in finance and investment, and is used to calculate the expected return of a security or portfolio of securities. The CAPM is based on the idea that investors require a higher return for taking on additional risk.
-===Overview of CAPM Theory === 
-The CAPM theory states that the expected return of an asset is equal to the risk-free rate of return plus a risk premium. The risk premium is determined by the asset's beta, which is a measure of the asset's volatility relative to the market. The higher the beta, the higher the expected return. The CAPM theory also states that all investors have the same expectations of return and risk, and that they are all rational and have access to the same information.
-===CAPM Formula and Calculation === 
-The CAPM formula is used to calculate the expected return of an asset. The formula is:
-===CAPM in Practice === 
-
-===Advantages and Disadvantages of CAPM === 
-CAPM in Practice
-===Conclusion=== 
-Advantages and Disadvantages of CAPM
+<seo title="Capital Asset" metakeywords="assets taxation capital,capital assets taxation,capital assets accounting,taxation capital assets" metadescription="Capital assets are assets that are used in the production of income or for the purpose of generating wealth."/>
+===Introduction to Capital Asset===
+A capital asset is an asset that is used in the production of income or for the purpose of generating wealth. Capital assets can include [[Tangible Asset|tangible asset]]s such as [[Real Estate|real estate]], equipment, and machinery, as well as [[Intangible Asset|intangible asset]]s such as patents, copyrights, and trademarks. Capital assets are typically held for a long period of time and are not intended to be sold or exchanged in the near future.
+===Types of Capital Assets===
+Capital assets can be divided into two main categories: tangible and intangible. Tangible capital assets are physical assets that can be seen and touched, such as real estate, equipment, and machinery. Intangible capital assets are non-physical assets that have value, such as patents, copyrights, and trademarks.
+===Accounting for Capital Assets===
+When accounting for capital assets, it is important to properly record the purchase, depreciation, and disposal of the asset. The purchase of a capital asset is recorded as an asset on the [[Balance Sheet|balance sheet]]. The depreciation of the asset is recorded as an expense on the [[Income Statement|income statement]]. The disposal of the asset is recorded as a gain or loss on the income statement.
+===Taxation of Capital Assets===
+The taxation of capital assets depends on the type of asset and the length of time it is held. Generally, [[Capital Gain|capital gain]]s taxes are imposed on the sale of capital assets that have been held for more than one year. Short-term capital gains taxes are imposed on the sale of capital assets that have been held for less than one year.
+===Conclusion===
+In conclusion, capital assets are assets that are used in the production of income or for the purpose of generating wealth. Capital assets can be divided into two main categories: tangible and intangible. When accounting for capital assets, it is important to properly record the purchase, depreciation, and disposal of the asset. The taxation of capital assets depends on the type of asset and the length of time it is held

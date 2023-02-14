@@ -1,14 +1,13 @@
-===Introduction to Command Economy === 
-
-===Advantages of Command Economy === 
-A command economy is an economic system in which the government makes all economic decisions, including what to produce, how much to produce, and how to distribute the goods and services. This type of economy is also known as a centrally planned economy. In a command economy, the government controls the production and distribution of goods and services. The government sets prices, wages, and production goals. It also determines who gets what goods and services.
-===Disadvantages of Command Economy === 
-
-===Examples of Command Economy === 
-Disadvantages of Command Economy
-===Impact of Command Economy === 
-
-===Conclusion === 
-One of the most famous examples of a command economy is the former Soviet Union. In the Soviet Union, the government controlled all aspects of the economy, from production to distribution. The government set prices, wages, and production goals. It also determined who got what goods and services.
-===Advantages of Command Economy: Command=== 
-
+<seo title="Command Economy" metakeywords="command economy concept,definition command economy,command economy government,implement command economy" metadescription="Command economies are typically found in countries with authoritarian governments, such as the former Soviet Union and China."/>
+===Introduction to Command Economy===
+A command economy is an economic system in which the government has complete control over the production and distribution of goods and services. This type of economy is also known as a centrally planned economy, as the government makes all decisions regarding the production and distribution of resources. Command economies are typically found in countries with authoritarian governments, such as the former Soviet Union and China. In a command economy, the government sets prices, allocates resources, and determines what goods and services will be produced.
+===Definition of Command Economy===
+A command economy is an economic system in which the government has complete control over the production and distribution of goods and services. This type of economy is also known as a centrally planned economy, as the government makes all decisions regarding the production and distribution of resources. In a command economy, the government sets prices, allocates resources, and determines what goods and services will be produced.
+===History of Command Economy===
+The concept of a command economy has its roots in the Soviet Union, which adopted a centrally planned economy in the 1920s. The Soviet Union was the first country to implement a command economy, and it served as a model for other countries in the region. The Soviet Union’s command economy was based on the idea of central planning, which was a system of economic planning that focused on the government’s control over the production and distribution of resources.
+===Advantages of Command Economy===
+One of the main advantages of a command economy is that it can be used to achieve certain social and economic goals. For example, a command economy can be used to reduce inequality and poverty, as the government can use its control over the production and distribution of resources to ensure that everyone has access to basic necessities. Additionally, a command economy can be used to promote [[Economic Growth|economic growth]], as the government can use its control over resources to invest in infrastructure and other projects that can stimulate the economy.
+===Disadvantages of Command Economy===
+One of the main disadvantages of a command economy is that it can lead to inefficiency and misallocation of resources. Since the government is in control of the production and distribution of resources, it can be difficult to ensure that resources are being used in the most efficient manner. Additionally, a command economy can lead to a lack of innovation, as the government is in control of the production and distribution of resources, and may not be willing to invest in new technologies or ideas.
+===Examples of Command Economy===
+One of the most well-known examples of a command economy is the former Soviet Union. The Soviet Union adopted a centrally planned economy in the 1920s, and it served as a model for other countries in the region. Additionally, China is another example of a comman

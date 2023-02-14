@@ -1,12 +1,11 @@
-===Introduction to Goodwill === 
-Goodwill is an intangible asset that is often associated with the purchase of a business. It is the difference between the purchase price of a business and the fair market value of its assets. Goodwill is an important concept in the world of finance and accounting, and it is important to understand how it works and how it is valued.
-===What is Goodwill? === 
-Goodwill is an intangible asset that is created when a business is purchased for more than the fair market value of its assets. It is the difference between the purchase price and the fair market value of the assets. Goodwill is not a physical asset, but it is still considered an asset on the balance sheet. Goodwill is often associated with the purchase of a business, but it can also be created when a company acquires another company's assets.
-===Accounting for Goodwill === 
-Goodwill is recorded on the balance sheet as an asset. It is not amortized, but it is tested for impairment on an annual basis. If the value of the goodwill has decreased, the company must write down the value of the goodwill to its fair market value.
-===Valuing Goodwill === 
-Goodwill is typically valued using a discounted cash flow analysis. This analysis takes into account the expected future cash flows of the business and discounts them to present value. The value of the goodwill is then determined by subtracting the present value of the expected future cash flows from the purchase price of the business.
-===Tax Treatment of Goodwill === 
-Goodwill is not subject to taxation in most countries. However, some countries may tax the gain on the sale of goodwill.
-===Conclusion=== 
-Goodwill is an important concept in the world of finance and accounting. It is an intangible asset that is created when a business is purchased for more than the fair market value of its assets. Goodwill is recorded on the balance sheet as an asset and is typically valued using a discounted cash flow analysis. Goodwill is not subject to taxation in most countries, but some countries may tax the gain on the sale of goodwill.
+<seo title="Goodwill" metakeywords="accounting treatment goodwill,goodwill deductible acquired,acquisition process goodwill,asset valuation goodwill" metadescription="Goodwill is the difference between the purchase price of the acquired company and the fair market value of its net assets."/>
+===Introduction to Goodwill===
+Goodwill is an [[In[[Tangible Asset|tangible Asset]]|intangible asset]] that is created when one company acquires another. It is the difference between the purchase price of the acquired company and the [[Fair Market Value|fair market value]] of its net assets. Goodwill is an important concept in accounting and finance, as it can have a significant impact on the [[Financial Statements|financial statements]] of a company.
+===Accounting Treatment of Goodwill===
+Under Generally Accepted [[Accounting Principles|Accounting Principles]] (GAAP), goodwill is recorded on the [[Balance Sheet|balance sheet]] as an asset. The amount of goodwill recorded is the difference between the purchase price of the acquired company and the fair market value of its net assets. Goodwill is not amortized, but instead is tested for impairment on an annual basis. If the [[Fair Value|fair value]] of the goodwill is less than its carrying value, an impairment charge is recorded.
+===Valuation of Goodwill===
+The valuation of goodwill is an important part of the acquisition process. Goodwill is typically valued using a discounted [[Cash Flow|cash flow]] (DCF) analysis. This analysis takes into account the expected future cash flows of the acquired company, as well as the risk associated with those cash flows. The value of the goodwill is then determined by discounting the expected future cash flows to their [[Present Value|present value]].
+===Tax Treatment of Goodwill===
+The tax treatment of goodwill depends on the type of entity that is acquiring the goodwill. For corporations, goodwill is generally not deductible for tax purposes. However, for partnerships and limited liability companies, goodwill may be deductible if it is acquired in a taxable transaction.
+===Conclusion===
+Goodwill is an important concept in accounting and finance. It is an intangible asset that is created when one company acquires another, and is recorded on the balance sheet as an asset. The valuation of goodwill is an important part of the acquisition process, and is typically done using a discounted cash flow analysis. The tax treatment of goodwill depends on the type of entity that is acquiring the goodwill

@@ -1,0 +1,11 @@
+<seo title="Peg Ratio" metakeywords="price earnings ratio,ratio price earnings,earnings ratio financial,earnings ratio" metadescription="The Price/Earnings (P/E) ratio is a financial metric used to measure the relative value of a company’s stock."/>
+===Introduction to P/E Ratio===
+The Price/Earnings (P/E) ratio is a financial metric used to measure the relative value of a company’s stock. It is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). The P/E ratio is a widely used tool by investors to compare the relative value of different stocks and to determine the potential [[Return On Investment|return on investment]].
+===Calculation of P/E Ratio===
+The P/E ratio is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). For example, if a company’s stock is currently trading at $50 per share and its EPS is $2, then the P/E ratio would be 25 (50/2). This means that for every $1 of earnings, the stock is trading at $25.
+===Uses of P/E Ratio===
+The P/E ratio is a useful tool for investors to compare the relative value of different stocks. It can be used to determine the potential return on investment and to identify stocks that may be undervalued or overvalued. The P/E ratio can also be used to compare the performance of different companies in the same industry.
+===Limitations of P/E Ratio===
+The P/E ratio is a useful tool, but it has some limitations. It does not take into account the company’s future prospects or the quality of its management. It also does not take into account the company’s debt or other factors that may affect its stock price. Additionally, the P/E ratio does not take into account the company’s [[Dividend Yield|dividend yield]], which can be an important factor for some investors.
+===Conclusion===
+The P/E ratio is a widely used financial metric that can be used to compare the relative value of different stocks. It is calculated by dividing the current market price of a company’s stock by its earnings per share (EPS). The P/E ratio is a useful tool for investors to compare the relative value of different stocks and to determine the potential return on investment. However, it has some limitations and should not be used as the sole basis for making investment decisions

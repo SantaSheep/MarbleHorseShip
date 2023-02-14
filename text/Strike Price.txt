@@ -1,0 +1,13 @@
+<seo title="Strike Price" metakeywords="strikeprice strikeprice option,strikeprice option determined,strikeprice option,price definition strikeprice" metadescription="Strikeprice is a term used in the financial world to refer to the predetermined price at which an option contract can be exercised."/>
+===Introduction to Strikeprice===
+Strikeprice is a term used in the financial world to refer to the predetermined price at which an option contract can be exercised. It is an important concept in the world of options trading, as it determines the potential profit or loss of a trade. Strikeprice is also known as the exercise price or the strike price.
+===Definition of Strikeprice===
+Strikeprice is the predetermined price at which an option contract can be exercised. It is the price at which the buyer of the option can buy or sell the underlying asset. The strikeprice is determined at the time the option contract is created and is usually set at the current market price of the underlying asset.
+===Types of Strikeprice===
+There are two types of strikeprice: American-style and European-style. American-style strikeprice allows the option to be exercised at any time before the expiration date. European-style strikeprice, on the other hand, allows the option to be exercised only on the expiration date.
+===Factors Influencing Strikeprice===
+The strikeprice of an option is determined by a number of factors, including the current market price of the underlying asset, the time remaining until the expiration date, the volatility of the underlying asset, and the risk associated with the option.
+===Examples of Strikeprice===
+For example, if the current market price of a stock is $50 and the strikeprice of an option is set at $55, then the option can be exercised at any time before the expiration date for a profit of $5 per share. If the stock price falls to $45 before the expiration date, then the option can be exercised for a loss of $10 per share.
+===Conclusion===
+In conclusion, strikeprice is an important concept in the world of options trading. It is the predetermined price at which an option contract can be exercised and is determined by a number of factors, including the current market price of the underlying asset, the time remaining until the expiration date, the volatility of the underlying asset, and the risk associated with the option. Understanding strikeprice is essential for successful options trading
